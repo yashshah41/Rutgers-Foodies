@@ -1,0 +1,17 @@
+/* Add this CSS to your stylesheet */
+.event-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .event-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  /* Adjust the styles to your preference */
+  

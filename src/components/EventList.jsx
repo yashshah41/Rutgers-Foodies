@@ -1,19 +1,29 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react'
 import PropTypes from 'prop-types'
+import jsonString from './data.json'
+import './EventList.css'
 
+const EventBox = ({ event }) => (
+  <div className="event-box">
+    <h2>{event.name}</h2>
+    <p>Date: {event.startsOn}<p>
+    </p> Description: {event.description} </p>
+    {/* Add more fields as needed */}
+  </div>
+);
 
-const data = JSON.parse('./data.json')
+const EventList = (props) => {
+  const data = JSON.parse(JSON.stringify(jsonString));
 
-const EventList = props => {
   return (
-    <div>
-      
+    <div className="event-list">
+      {data.map((event, index) => (
+        <EventBox key={index} event={event} />
+      ))}
     </div>
-  )
+  );
 }
 
-EventList.propTypes = {
-
-}
+EventList.propTypes = {}
 
 export default EventList

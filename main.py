@@ -1,7 +1,9 @@
 import requests
 import json
-url = "https://rutgers.campuslabs.com/engage/api/discovery/event/search?endsAfter=2023-08-29T15%3A28%3A19-04%3A00&orderByField=endsOn&orderByDirection=ascending&status=Approved&take=50&benefitNames%5B0%5D=FreeFood&query=&skip=0"
-
+from datetime import date
+today = date.today()
+print(today)
+url = f"https://rutgers.campuslabs.com/engage/api/discovery/event/search?endsAfter={today}T15%3A28%3A19-04%3A00&orderByField=endsOn&orderByDirection=ascending&status=Approved&take=50&benefitNames%5B0%5D=FreeFood&query=&skip=0"
 payload = {}
 headers = {
   'Accept': 'application/json, text/javascript, */*; q=0.01',
@@ -19,10 +21,9 @@ headers = {
   'sec-ch-ua-mobile': '?0',
   'sec-ch-ua-platform': '"macOS"'
 }
-
 response = (requests.request("GET", url, headers=headers, data=payload)).json()
 
 json_object = json.dumps(response['value'], indent=4)
-
-with open("data.json", "w") as outfile:
+print(json_object)
+with open("src/components/data.json", "w") as outfile:
     outfile.write(json_object)
