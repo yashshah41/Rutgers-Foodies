@@ -1,6 +1,10 @@
 import requests
 import json
+from datetime import datetime
 from datetime import date
+import pandas as pd
+
+
 today = date.today()
 print(today)
 url = f"https://rutgers.campuslabs.com/engage/api/discovery/event/search?endsAfter={today}T15%3A28%3A19-04%3A00&orderByField=endsOn&orderByDirection=ascending&status=Approved&take=50&benefitNames%5B0%5D=FreeFood&query=&skip=0"
@@ -23,7 +27,18 @@ headers = {
 }
 response = (requests.request("GET", url, headers=headers, data=payload)).json()
 
-json_object = json.dumps(response['value'], indent=4)
-print(json_object)
-with open("src/components/data.json", "w") as outfile:
-    outfile.write(json_object)
+
+rows = [event for event in response['value']]
+df = pd.DataFrame(rows)
+print(df)
+df['startsOn'] = pd.to_datetime(df['startsOn'])
+df['endsOn'] = pd.to_datetime(df['endsOn'])
+df['startsOn'] = df['startsOn'].dt.strftime('%Y-%m-%d %I:%M %p')
+df['endsOn'] = df['endsOn'].dt.strftime('%I:%M %p')
+
+
+
+
+with open("src/components/data.json", "w") as file:
+    unformatted = json.loads(df.to_json(orient="table"))
+    json.dump(unformatted['data'], file, indent=4, sort_keys=True)
