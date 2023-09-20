@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import jsonString from './data.json'
+import jsonString from '../assets/data.json'
 import './EventList.css'
 
 const EventBox = ({ event }) => (
