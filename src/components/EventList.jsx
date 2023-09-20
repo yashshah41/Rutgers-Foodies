@@ -8,7 +8,6 @@ const EventBox = ({ event }) => (
     <h2>{event.name}</h2>
     <p>Date: {event.startsOn} - {event.endsOn}<p>
     </p> Description: {event.description} </p>
-    {/* Add more fields as needed */}
   </div>
 );
 
