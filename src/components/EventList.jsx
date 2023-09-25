@@ -1,28 +1,24 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import jsonString from '../assets/data.json'
-import './EventList.css'
+import React from 'react';
+import data from '../assets/data.json';
 
 const EventBox = ({ event }) => (
-  <div className="event-box">
-    <h2>{event.name}</h2>
-    <p>Date: {event.startsOn} - {event.endsOn}<p>
-    </p> Description: {event.description} </p>
+  <div className="bg-white shadow-lg rounded-lg w-72 p-6 m-4 flex flex-col">
+    <h2 className="text-xl font-semibold mb-2 text-center">{event.name}</h2>
+    <p className="text-gray-500 mb-4 text-center">
+      Date: {event.startsOn} - {event.endsOn}
+    </p>
+    <p className="text-gray-600">{event.description}</p>
   </div>
 );
 
-const EventList = (props) => {
-  const data = JSON.parse(JSON.stringify(jsonString));
-
+const EventList = () => {
   return (
-    <div className="event-list">
+    <div className="flex flex-wrap gap-6 justify-center">
       {data.map((event, index) => (
         <EventBox key={index} event={event} />
       ))}
     </div>
   );
-}
+};
 
-EventList.propTypes = {}
-
-export default EventList
+export default EventList;

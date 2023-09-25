@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 import re
 
 
-def description(input) -> str:
 
+def description(input) -> str:
     soup = BeautifulSoup(input, features="html.parser").get_text()
     soup = soup.replace("\xa0", " ")
     soup = soup.replace("\n", " ")
@@ -37,8 +37,8 @@ headers = {
 response = (requests.request("GET", url, headers=headers, data=payload)).json()
 url = f"https://rutgers.campuslabs.com/engage/api/discovery/event/search?endsAfter={today}T15%3A28%3A19-04%3A00&orderByField=endsOn&orderByDirection=ascending&status=Approved&take={response['@odata.count']}&benefitNames%5B0%5D=FreeFood&query=&skip=0"
 response = (requests.request("GET", url, headers=headers, data=payload)).json()
-rows = [event for event in response['value']]
-df = pd.DataFrame(rows)
+events = [event for event in response['value']]
+df = pd.DataFrame(events)
 print(df)
 df['startsOn'] = pd.to_datetime(df['startsOn'])
 df['endsOn'] = pd.to_datetime(df['endsOn'])
