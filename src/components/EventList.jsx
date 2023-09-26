@@ -5,7 +5,7 @@ const EventBox = ({ event }) => (
   <div className="bg-white shadow-lg rounded-lg w-72 p-6 m-4 flex flex-col">
     <h2 className="text-xl font-semibold mb-2 text-center">{event.name}</h2>
     <p className="text-gray-500 mb-4 text-center">
-      Date: {event.startsOn} - {event.endsOn}
+      Date: {event.startsOn} till {event.endsOn}
     </p>
     <p className="text-gray-600">{event.description}</p>
   </div>
