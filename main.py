@@ -42,7 +42,7 @@ df = pd.DataFrame(events)
 print(df)
 df['startsOn'] = pd.to_datetime(df['startsOn'])
 df['endsOn'] = pd.to_datetime(df['endsOn'])
-df['startsOn'] = df['startsOn'].dt.strftime('%Y-%m-%d %I:%M %p')
+df['startsOn'] = df['startsOn'].dt.strftime('%B %d | %I:%M %p')
 df['endsOn'] = df['endsOn'].dt.strftime('%I:%M %p')
 
 df["description"] = df["description"].map(description)
