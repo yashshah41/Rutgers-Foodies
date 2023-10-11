@@ -4,7 +4,6 @@ from datetime import datetime
 from datetime import date
 import pandas as pd
 from bs4 import BeautifulSoup
-import re
 
 
 
@@ -44,7 +43,6 @@ df['startsOn'] = pd.to_datetime(df['startsOn'])
 df['endsOn'] = pd.to_datetime(df['endsOn'])
 df['startsOn'] = df['startsOn'].dt.strftime('%B %d | %I:%M %p')
 df['endsOn'] = df['endsOn'].dt.strftime('%I:%M %p')
-
 df["description"] = df["description"].map(description)
 
 with open("src/assets/data.json", "w") as file:
