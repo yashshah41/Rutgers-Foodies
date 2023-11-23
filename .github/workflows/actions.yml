@@ -1,6 +1,8 @@
 name: run main.py
 
-on: [push]
+on:
+  schedule:
+    - cron: "0 */12 * * *"
 permissions: write-all
 
 jobs:
