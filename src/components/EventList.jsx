@@ -1,38 +1,31 @@
 import React, { useState } from "react";
 import data from "../assets/data.json";
 
-// EventBox is a React component that displays information about an event.
 const EventBox = ({ event }) => {
-  // Define a state variable "expanded" and a function "setExpanded" to toggle the description.
   const [expanded, setExpanded] = useState(false);
 
-  // Function to toggle the description's visibility.
   const toggleDescription = () => {
     setExpanded(!expanded);
   };
 
+  // Adjust the height dynamically based on the 'expanded' state.
+  const heightClass = expanded ? "h-auto" : "h-48"; 
+
   return (
-    <div className="border-2 border-black">
-      <div
-        // Apply dynamic CSS classes for styling and animation based on "expanded" state.
-        className={`bg-white rounded-lg w-72 p-6 m-4 flex flex-col transform hover:scale-105 transition-transform duration-300 ease-in-out shadow-m ${
-          expanded ? "h-auto" : "h-72"
-        } overflow-hidden`}
-      >
-        <h2 className="text-2xl font-bold mb-2 text-red-600">{event.name}</h2>
-        <p className="text-gray-500">
+    <div className={`border-2 border-red-200 rounded-lg shadow hover:shadow-lg transition-shadow duration-300 ease-in-out overflow-hidden ${heightClass}`}>
+      <div className="p-6">
+        <h2 className="text-xl font-bold text-red-600 mb-2">{event.name}</h2>
+        <p className="text-gray-600 text-sm">
           {event.startsOn} - {event.endsOn}
           <br />
           Hosted by: {event.organizationName}
         </p>
-        <div className={`text-gray-800 mt-2 ${expanded ? "" : "truncate"}`}>
-          {/* Display either full description or a truncated version based on "expanded" state. */}
-          {expanded ? event.description : event.description.substring(0, 100)}
+        <div className={`text-gray-800 mt-2 ${expanded ? "block" : "hidden"}`}>
+          {event.description}
         </div>
-        {/* Display "Read More" button only if the description is longer than 100 characters and not expanded. */}
-        {!expanded && event.description.length > 100 && (
+        {!expanded && (
           <button
-            className="text-blue-500 mt-2 cursor-pointer hover:underline"
+            className="text-red-500 mt-2 cursor-pointer hover:underline focus:outline-none transition duration-200 ease-in-out"
             onClick={toggleDescription}
           >
             Read More
@@ -43,16 +36,16 @@ const EventBox = ({ event }) => {
   );
 };
 
-// renders a list of events using the EventBox component.
 const EventList = () => {
   return (
-    <div className="flex flex-wrap gap-6 justify-center">
-      {data.map((event, index) => (
-        // Render the EventBox component for each event in the data array.
-        <EventBox key={index} event={event} />
-      ))}
+    <div className="container mx-auto p-6">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+        {data.map((event, index) => (
+          <EventBox key={index} event={event} />
+        ))}
+      </div>
     </div>
   );
 };
 
-export default EventList; // Export the EventList component
+export default EventList;
