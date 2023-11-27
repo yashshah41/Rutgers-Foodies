@@ -1,10 +1,8 @@
 import requests
 import json
-from datetime import datetime
 from datetime import date
 import pandas as pd
 from bs4 import BeautifulSoup
-
 
 
 def description(input) -> str:
@@ -39,10 +37,21 @@ response = (requests.request("GET", url, headers=headers, data=payload)).json()
 events = [event for event in response['value']]
 df = pd.DataFrame(events)
 print(df)
-df['startsOn'] = pd.to_datetime(df['startsOn'])
-df['endsOn'] = pd.to_datetime(df['endsOn'])
+import pandas as pd
+
+# Assuming your original data is in UTC
+df['startsOn'] = pd.to_datetime(df['startsOn'], utc=True)
+df['endsOn'] = pd.to_datetime(df['endsOn'], utc=True)
+
+# Convert timezones to EST
+df['startsOn'] = df['startsOn'].dt.tz_convert('America/New_York')
+df['endsOn'] = df['endsOn'].dt.tz_convert('America/New_York')
+
+# Format the dates
 df['startsOn'] = df['startsOn'].dt.strftime('%B %d | %I:%M %p')
 df['endsOn'] = df['endsOn'].dt.strftime('%I:%M %p')
+
+
 df["description"] = df["description"].map(description)
 
 with open("src/assets/data.json", "w") as file:
