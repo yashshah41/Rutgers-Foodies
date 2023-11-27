@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "1 */6 * * *"
 permissions: write-all
 
 jobs:
