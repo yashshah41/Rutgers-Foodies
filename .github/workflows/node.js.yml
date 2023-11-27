@@ -5,10 +5,8 @@ name: Node.js CI
 permissions: write-all
 
 on:
-  push:
-    branches: ["main"]
-  pull_request:
-    branches: ["main"]
+  schedule:
+    - corn: "5 */6 * * *"
 
 jobs:
   build:
