@@ -4,9 +4,9 @@
 name: Node.js CI
 permissions: write-all
 
-on: 
+on:
   schedule:
-    - corn: "5 */6 * * *"
+    - corn: "1 */7 * * *"
 
 jobs:
   build:
