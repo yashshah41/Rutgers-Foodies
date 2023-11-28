@@ -43,13 +43,8 @@ eastern_tz = pytz.timezone('US/Eastern')  # Rutgers timezone
 eastern_now = todayutc.replace(tzinfo=pytz.utc).astimezone(eastern_tz)
 today = eastern_now.isoformat()
 
-# Assuming your original data is in UTC
-df['startsOn'] = pd.to_datetime(df['startsOn'], utc=True)
-df['endsOn'] = pd.to_datetime(df['endsOn'], utc=True)
-
-# Convert timezones to EST
-df['startsOn'] = df['startsOn'].dt.tz_convert('America/New_York')
-df['endsOn'] = df['endsOn'].dt.tz_convert('America/New_York')
+df['startsOn'] = pd.to_datetime(df['startsOn'])
+df['endsOn'] = pd.to_datetime(df['endsOn'])
 
 # Format the dates
 df['startsOn'] = df['startsOn'].dt.strftime('%B %d | %I:%M %p')
