@@ -36,8 +36,12 @@ url = f"https://rutgers.campuslabs.com/engage/api/discovery/event/search?endsAft
 response = (requests.request("GET", url, headers=headers, data=payload)).json()
 events = [event for event in response['value']]
 df = pd.DataFrame(events)
-print(df)
-import pandas as pd
+
+
+todayutc = datetime.utcnow()
+eastern_tz = pytz.timezone('US/Eastern')  # Rutgers timezone
+eastern_now = todayutc.replace(tzinfo=pytz.utc).astimezone(eastern_tz)
+today = eastern_now.isoformat()
 
 # Assuming your original data is in UTC
 df['startsOn'] = pd.to_datetime(df['startsOn'], utc=True)
