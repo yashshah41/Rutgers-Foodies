@@ -1,9 +1,10 @@
 import requests
 import json
-from datetime import date
+import datetime
 import pandas as pd
+from datetime import date
 from bs4 import BeautifulSoup
-
+import pytz
 
 def description(input) -> str:
     soup = BeautifulSoup(input, features="html.parser").get_text()
@@ -38,13 +39,24 @@ events = [event for event in response['value']]
 df = pd.DataFrame(events)
 
 
-todayutc = datetime.utcnow()
-eastern_tz = pytz.timezone('US/Eastern')  # Rutgers timezone
-eastern_now = todayutc.replace(tzinfo=pytz.utc).astimezone(eastern_tz)
-today = eastern_now.isoformat()
-
+# Convert 'startsOn' and 'endsOn' to datetime if not already
 df['startsOn'] = pd.to_datetime(df['startsOn'])
 df['endsOn'] = pd.to_datetime(df['endsOn'])
+
+# Assuming 'startsOn' and 'endsOn' are originally in 'America/Los_Angeles' time
+# If 'startsOn' and 'endsOn' are already timezone-aware, use tz_convert directly
+if df['startsOn'].dt.tz is not None:
+    df['startsOn'] = df['startsOn'].dt.tz_convert('America/New_York')
+else:
+    df['startsOn'] = df['startsOn'].dt.tz_localize('America/Los_Angeles').dt.tz_convert('America/New_York')
+
+if df['endsOn'].dt.tz is not None:
+    df['endsOn'] = df['endsOn'].dt.tz_convert('America/New_York')
+else:
+    df['endsOn'] = df['endsOn'].dt.tz_localize('America/Los_Angeles').dt.tz_convert('America/New_York')
+
+
+
 
 # Format the dates
 df['startsOn'] = df['startsOn'].dt.strftime('%B %d | %I:%M %p')

@@ -1,331 +1,30 @@
 [
     {
-        "@search.score": 99.9096,
+        "@search.score": 1.0,
         "benefitNames": [
-            "Free Food",
-            "Free Stuff"
+            "Free Food"
         ],
         "branchId": 112385,
         "branchIds": [],
-        "categoryIds": [
-            "5333"
-        ],
-        "categoryNames": [
-            "Career Fair/Panel"
-        ],
-        "description": "Co-hosted by Douglass Women in Science and Engineering, please join L3Harris professionals for a panel discussion on November 28th! The event will take place in the Busch Student Center, Room 116 ABC from 4:30 PM to 6:30 PM. You will have the opportunity to hear from an L3Harris Senior Director of Engineering as well as one of our recent New Grads about their career paths at L3Harris as well as the amazing work that they do every day.    About L3Harris TechnologiesL3Harris Technologies is the Trusted Disruptor for the global aerospace and defense industry. With customers\u2019 mission-critical needs always in mind, our more than 50,000 employees deliver end-to-end technology solutions connecting the space, air, land, sea and cyber domains. L3Harris.com.",
-        "endsOn": "06:30 PM",
-        "id": "9601044",
-        "imagePath": "6cde6164-61c1-42a0-9205-3af51074ef0a6a4f4de1-14f3-4bbd-b658-32ecd1fc646d.png",
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "DONUT mind if I do! Stop by RUPA's purple tent to enjoy delicious and FREE fresh donuts and cider as you prepare for final exams. Come WHILE SUPPLIES LAST!",
+        "endsOn": "03:00 PM",
+        "id": "9659111",
+        "imagePath": "1a4be08e-02ae-4ddd-bfe5-bcf1cf37d579e9968744-e464-40e6-8788-0e6920443fd9.png",
         "index": 0,
         "institutionId": 4753,
-        "latitude": "40.523110",
-        "location": "Busch Student Center",
-        "longitude": "-74.458630",
-        "name": "L3 Harris Panel Discussion",
-        "organizationId": 234279,
+        "latitude": "40.522690",
+        "location": "Hill Center Bus Stop (Busch Campus)",
+        "longitude": "-74.464050",
+        "name": "RUPA Presents: Cider and Donuts",
+        "organizationId": 127461,
         "organizationIds": [],
-        "organizationName": "Douglass Women in Science and Engineering (WiSE)   ",
+        "organizationName": "Rutgers University Programming Association",
         "organizationNames": [],
-        "organizationProfilePicture": "e24e1778-34dc-435e-ac15-7889723f4f7e4f1a1f1c-35cc-4195-a478-454a0c88e866.jpg",
+        "organizationProfilePicture": "424c475d-2e22-40f8-8a87-ffbb039eed79af749958-3db3-47b6-aca8-ffed8e0137f1.jpg",
         "recScore": null,
-        "startsOn": "November 28 | 04:30 PM",
-        "status": "Approved",
-        "theme": "GroupBusiness",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.896324,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5343"
-        ],
-        "categoryNames": [
-            "Entertainment"
-        ],
-        "description": "Get ready to dive into a world of fun and excitement with RU SOARS! Join us on Tuesday, November 28th, at BSC 122A from 7:30 PM to 8:30 PM for an unforgettable Game Night. Connect with fellow members, compete in a variety of engaging games, and enjoy some delicious food. Whether you're a seasoned gamer or just looking for a fun way to unwind, this event promises a great mix of competition, camaraderie, and tasty treats. Don't miss out on this chance to make new friends and create lasting memories. Let's play, compete, and enjoy together!  ",
-        "endsOn": "08:30 PM",
-        "id": "9634368",
-        "imagePath": "23b9bb7d-24e7-4999-a36b-c690538c7726c624cb2d-7615-45c4-aa17-fd1f1df51121.png",
-        "index": 1,
-        "institutionId": 4753,
-        "latitude": "40.523110",
-        "location": "Bush Student Center Room 122 A",
-        "longitude": "-74.458630",
-        "name": "Game Night by SOARS ",
-        "organizationId": 330470,
-        "organizationIds": [],
-        "organizationName": "Student Organization of Academic Research in STEM (Rutgers)",
-        "organizationNames": [],
-        "organizationProfilePicture": "3d3164a3-16e4-4b17-ab2f-0bd07de16a534b8c18b3-4b3e-499c-8755-f79f6ed0d38b.png",
-        "recScore": null,
-        "startsOn": "November 28 | 07:30 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.894104,
-        "benefitNames": [
-            "Credit",
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join the BC Staff and your mentors to learn more about how to prepare yourself for your life and career during and after college! You will get a chance to receive personalized help in drafting a good resume, developing an elevator pitch for interviews, learning email etiquette, and picking the right majors and minors. The event will be held on Tuesday, November 28th, from 8:00-9:00 pm in the BC Lounge. Free food and drinks will be provided. You will also have a chance to win some gift cards!",
-        "endsOn": "09:00 PM",
-        "id": "9618895",
-        "imagePath": "8c99aef6-0582-45a9-afaa-413a9ed63fbb06e6fd9c-2992-47ab-aac4-cabcc62b57f5.png",
-        "index": 2,
-        "institutionId": 4753,
-        "latitude": "40.480760",
-        "location": "Bunting Cobb Lounge",
-        "longitude": "-74.433520",
-        "name": "Success Hacks: College and Beyond",
-        "organizationId": 359910,
-        "organizationIds": [],
-        "organizationName": "Bunting-Cobb Sciences Living-Learning Community",
-        "organizationNames": [],
-        "organizationProfilePicture": null,
-        "recScore": null,
-        "startsOn": "November 28 | 08:00 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.896324,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": " Celebrate the spirit of giving on Tuesday, November 28th from 7:30 pm to 9:30pm, with a special movie night featuring Disney's 'Soul'. As we enjoy this heartwarming film, we'll also come together to assemble care packages. These packages will be lovingly distributed to homeless shelters, spreading kindness and support to those in need. Join us for an evening of entertainment and empathy, where every helping hand makes a difference! There will also be food provided from Guru Palace   Fill out this form for RSVP if you haven't already done so:- RSVP link ",
-        "endsOn": "09:30 PM",
-        "id": "9634236",
-        "imagePath": "f16ba240-b5c3-4e1f-9f61-c02206d5d7b1562b8399-5da5-412e-9030-54bdc1c689e7.png",
-        "index": 3,
-        "institutionId": 4753,
-        "latitude": "29.988420",
-        "location": "Livingston Student Center",
-        "longitude": "-97.876050",
-        "name": "RU Jain Service + Movie Night",
-        "organizationId": 222608,
-        "organizationIds": [],
-        "organizationName": "Rutgers University Jains ",
-        "organizationNames": [],
-        "organizationProfilePicture": "23a6630f-c92b-4c3c-9edc-b43a0628b5f7799ab59d-9f68-408c-a3bd-fa3ba2f0a79f.jpg",
-        "recScore": null,
-        "startsOn": "November 28 | 07:30 PM",
-        "status": "Approved",
-        "theme": "CommunityService",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.82763,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "5332"
-        ],
-        "categoryNames": [
-            "Banquet/Food or Culinary"
-        ],
-        "description": "Join us for warm drinks and casual conversations with the Rutgers University Student Assembly. Food and drinks from Dunkin' will be provided!",
-        "endsOn": "01:00 PM",
-        "id": "9536507",
-        "imagePath": "844e5fd0-2204-4b88-874b-b931fd6920dc32f683c3-b79e-4cab-b913-15938d9156a4.png",
-        "index": 4,
-        "institutionId": 4753,
-        "latitude": "40.523540",
-        "location": "Livingston Student Center Coffeehouse",
-        "longitude": "-74.437180",
-        "name": "Commuter Coffeehouse with RUSA!",
-        "organizationId": 123208,
-        "organizationIds": [
-            "120990",
-            "123208"
-        ],
-        "organizationName": "Student Involvement & Leadership (Office of)",
-        "organizationNames": [
-            "Rutgers University Student Assembly (RUSA)",
-            "Student Involvement & Leadership (Office of)"
-        ],
-        "organizationProfilePicture": "58b4a1fc-77b5-4313-9ca6-022965749f31e939b6dc-0beb-453f-8ad8-fbfd2cddcb9d.jpg",
-        "recScore": null,
-        "startsOn": "November 29 | 11:00 AM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.79214,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join us to learn more about the use of AI and machine learning in data science! Explore the role that TensorFlow serves in data clustering, analysis, and visualization.  Pizza \ud83c\udf55 will be provided!",
-        "endsOn": "08:00 PM",
-        "id": "9634667",
-        "imagePath": "78dea784-7c24-40aa-bb5a-bbc6c95f994c8a6a2d4b-3804-463f-9813-91a57e41f5ed.png",
-        "index": 5,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "120 BC BSC",
-        "longitude": null,
-        "name": "Unraveling Data Patterns Workshop: Clustering in ML with TensorFlow Visualization",
-        "organizationId": 198857,
-        "organizationIds": [],
-        "organizationName": "Data Science Club (Rutgers) ",
-        "organizationNames": [],
-        "organizationProfilePicture": "bcac6ce1-12ce-4589-8e57-bc0df0f362fa06e43d86-47c4-4215-bf3a-691ce150f24e.jpeg",
-        "recScore": null,
-        "startsOn": "November 29 | 07:00 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.7877,
-        "benefitNames": [
-            "Credit",
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5353",
-            "5358"
-        ],
-        "categoryNames": [
-            "Seasonal/Holiday",
-            "Wellness Event"
-        ],
-        "description": "    WELCOME IN THE WITNER SEASON WITH DOOR DECORATIONS! COLLABORATE WITH YOUR ROOMMATES AND LEARN ABOUT HOW DIFFERENT PEOPLE CELEBRATE THE HOLIDAY SEASON. HOT CHOCOLATE AND DONUTS WILL BE PROVIDED.     ALL ATTENDEES WILL EARN 1 CHANGEMAKING POINT          ",
-        "endsOn": "09:00 PM",
-        "id": "9616876",
-        "imagePath": "d42b4b73-7206-4783-97fe-9c4b306182530c9cf9f7-cc2d-4444-bef8-08f0e56fa050.png",
-        "index": 6,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "BEST 4 North Lounge",
-        "longitude": null,
-        "name": "Deck the Hall-ways!",
-        "organizationId": 152572,
-        "organizationIds": [],
-        "organizationName": "Honors College",
-        "organizationNames": [],
-        "organizationProfilePicture": "50903c0d-8314-494e-bd38-f89d44cd1b5953afb87c-d7cb-40c2-9012-499257c6fe6d.png",
-        "recScore": null,
-        "startsOn": "November 29 | 08:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.7877,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Come by the Cook Student Center for a holiday party to wrap up the semester! There will be food, games, and clay modeling! ",
-        "endsOn": "09:00 PM",
-        "id": "9636708",
-        "imagePath": "a24b5113-cd8a-40ef-b1c3-d4318c0648af57b8a839-f791-4136-985c-95c698379ef5.png",
-        "index": 7,
-        "institutionId": 4753,
-        "latitude": "40.478950",
-        "location": "Merle V. Adams Room Cook Student Center",
-        "longitude": "-74.431630",
-        "name": "Holiday Party ",
-        "organizationId": 121546,
-        "organizationIds": [],
-        "organizationName": "G. H. Cook Biochemistry & Microbiology Club",
-        "organizationNames": [],
-        "organizationProfilePicture": "0236a97a-7fbe-4ad3-be1b-5508a317f4db05f436a0-bec2-40d5-b64f-50f5243e06b9.png",
-        "recScore": null,
-        "startsOn": "November 29 | 08:00 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.7877,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Come join Rutger's Physics students for a night of research talks and poster presentations. There will be a mix of astrophysics, condensed matter, high energy, and more topics being covered in one immersive night celebrating student research.",
-        "endsOn": "09:30 PM",
-        "id": "9610203",
-        "imagePath": "9a1a3643-e9fe-417d-a4db-51de7827a8878fdb6437-d998-4bda-a6af-47272b8cdf98.png",
-        "index": 8,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "Serin 330",
-        "longitude": null,
-        "name": "Physics Fall Research Symposium",
-        "organizationId": 122575,
-        "organizationIds": [],
-        "organizationName": "Society of Physics Students",
-        "organizationNames": [],
-        "organizationProfilePicture": "b70886a8-3fc7-42d5-ade8-7c212ba8cad1842ad10d-d0b1-4d98-987b-c45f3b75fe81.png",
-        "recScore": null,
-        "startsOn": "November 29 | 08:00 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.692154,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Our fourth and penultimate SSPAR of the semester will be given by Condensed Matter Experiment Ph.D. candidate Michael Terilli on \"Lessons from the Physics Classroom and the Picket Line\".We meet in Serin 330W (the Physics and Astronomy building on Busch campus). This room is directly beneath the observatory dome, enter on the west side of the building by Allison Rd.We will serve dinner from Puhktun Afghan Cuisine in New Brunswick on a first-come first-serve basis.",
-        "endsOn": "06:30 PM",
-        "id": "9545788",
-        "imagePath": null,
-        "index": 9,
-        "institutionId": 4753,
-        "latitude": "40.523150",
-        "location": "Department of Physics & Astronomy, Room 330W",
-        "longitude": "-74.465020",
-        "name": "Active Learning, Lessons from the Physics Classroom and the Picket Line - Michael Terilli - Student Seminars in Physics and Astronomy",
-        "organizationId": 327352,
-        "organizationIds": [],
-        "organizationName": "Physics and Astronomy (Graduate Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "6efe8259-af77-468c-b9e6-84232e4151bf55656a5a-dc3d-4dac-9a96-372af9a7c906.jpg",
-        "recScore": null,
-        "startsOn": "November 30 | 05:30 PM",
+        "startsOn": "December 07 | 12:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
@@ -337,650 +36,13 @@
         ],
         "branchId": 112385,
         "branchIds": [],
-        "categoryIds": [
-            "5352"
-        ],
-        "categoryNames": [
-            "Religious/Religious Cultural/Spiritual Event"
-        ],
-        "description": "What is Happiness? Is it what we experience by external means? How can I be happy from the inside?Join us to find out more.BSC 118, 7pm every thursday.",
-        "endsOn": "08:00 PM",
-        "id": "9407768",
-        "imagePath": "2e6fcb90-d805-46af-9d31-4e79775866a336dcd908-c2cf-4601-a1c4-75410aa1bb85.png",
-        "index": 10,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "BSC 118",
-        "longitude": null,
-        "name": "Password for Happiness",
-        "organizationId": 365071,
-        "organizationIds": [],
-        "organizationName": "RU Origins ",
-        "organizationNames": [],
-        "organizationProfilePicture": "b109f592-a8f8-4662-8239-c87d64a64a8056c78687-37e9-4270-adb8-7dfd8151b66d.png",
-        "recScore": null,
-        "startsOn": "September 19 | 07:00 PM",
-        "status": "Approved",
-        "theme": "Spirituality",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.6877,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5358"
-        ],
-        "categoryNames": [
-            "Wellness Event"
-        ],
-        "description": "Join us for a CLAC session with community counselor Dominique Paz and CLAC director Carlos Fernandez. Find support and wellness resources and share your experiences and feedback.  Help us improve the Center and community culture!",
-        "endsOn": "08:30 PM",
-        "id": "9630512",
-        "imagePath": "05c0211b-a646-47b3-9635-6291cf8e844dd1bdba0f-bc6e-43b4-be9f-08b680d62149.png",
-        "index": 11,
-        "institutionId": 4753,
-        "latitude": "40.504170",
-        "location": "Center for Latino Arts and Culture",
-        "longitude": "-74.453510",
-        "name": " CLAC Community Wellness Check In",
-        "organizationId": 140585,
-        "organizationIds": [],
-        "organizationName": "Center for Latino Arts and Culture",
-        "organizationNames": [],
-        "organizationProfilePicture": "32a45b6d-f791-42e4-b0df-c549ecb90753215d5b17-5669-41ef-9d5f-bf44e7131e84.gif",
-        "recScore": null,
-        "startsOn": "November 30 | 06:30 PM",
-        "status": "Approved",
-        "theme": "Cultural",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.68325,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "5354"
-        ],
-        "categoryNames": [
-            "Special Interest"
-        ],
-        "description": "CS LLC will host the group competition-based event with hands-on activity based on computer science concepts. Join our event to play fun and interesting games and also accumulate your computer science knowledge. This will be the perfect time to practice what you have learned or will learn in the future. There will be pizza!  This event is only for CS LLC students.",
-        "endsOn": "08:30 PM",
-        "id": "9627775",
-        "imagePath": "5382a079-0413-433f-9540-b2b849bb161a93d37b44-413b-4c2c-a0f5-8a27ce720089.png",
-        "index": 12,
-        "institutionId": 4753,
-        "latitude": "40.520560",
-        "location": "Allen Hall 1th Floor",
-        "longitude": "-74.453570",
-        "name": "CS Game Competition",
-        "organizationId": 359909,
-        "organizationIds": [
-            "234279",
-            "359909"
-        ],
-        "organizationName": "Computer Science Living-Learning Community (Douglass WiSE, DRC)",
-        "organizationNames": [
-            "Douglass Women in Science and Engineering (WiSE)   ",
-            "Computer Science Living-Learning Community (Douglass WiSE, DRC)"
-        ],
-        "organizationProfilePicture": "66ea9d3f-ac20-4ff6-8ab5-fb7cd8373b271e8d6e35-629d-4d27-bdc6-ba1734f3cde0.png",
-        "recScore": null,
-        "startsOn": "November 30 | 07:30 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.68102,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5341",
-            "5352"
-        ],
-        "categoryNames": [
-            "Educational Lecture",
-            "Religious/Religious Cultural/Spiritual Event"
-        ],
-        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
-        "endsOn": "09:00 PM",
-        "id": "9534398",
-        "imagePath": null,
-        "index": 13,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "Rutgers Hillel",
-        "longitude": null,
-        "name": "Mishmar with Mesorah ",
-        "organizationId": 121948,
-        "organizationIds": [],
-        "organizationName": "Hillel (Rutgers)",
-        "organizationNames": [],
-        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
-        "recScore": null,
-        "startsOn": "November 30 | 08:00 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.689926,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join us for our annual Yule Ball, inspired by the Yule ball from Harry Potter and the Goblet of Fire. Will have games based on Harry Potter, music, food, and a night filled with magic. There is a $5 minimum entrance donation which will go to the Gift of Life Howie's House, a charity providing housing for families that need organ transplants. Attire for this event is semi-formal or your best Harry Potter fit.  ",
-        "endsOn": "10:00 PM",
-        "id": "9592869",
-        "imagePath": "8d523dec-8696-40ba-8a82-947ce38215d11ca82291-5a82-4da4-a3cb-293969c338e9.png",
-        "index": 14,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "Busch Student Center Multipurpose Room B",
-        "longitude": null,
-        "name": "Muggle Mayhem: Yule Ball 2023",
-        "organizationId": 122090,
-        "organizationIds": [],
-        "organizationName": "Muggle Mayhem",
-        "organizationNames": [],
-        "organizationProfilePicture": "b0f28118-ce98-42e3-b239-2819336fcab84b0ba470-7866-4e72-b6f3-4ce34aa7c24b.png",
-        "recScore": null,
-        "startsOn": "November 30 | 06:00 PM",
-        "status": "Approved",
-        "theme": "Fundraising",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.68548,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5352"
-        ],
-        "categoryNames": [
-            "Religious/Religious Cultural/Spiritual Event"
-        ],
-        "description": "Join us as we gather to hear a talk by a new speaker each week about Christianity and how it fits into our lives as college students. Stick around for food and fellowship after! ",
-        "endsOn": "10:00 PM",
-        "id": "9623661",
-        "imagePath": "8d4b9a5d-8183-481f-a3a7-d515918b5b24a1271722-b5b8-4396-9315-da1da6ed0637.png",
-        "index": 15,
-        "institutionId": 4753,
-        "latitude": "40.484720",
-        "location": "Douglas Student Center Blue Room ",
-        "longitude": "-74.436620",
-        "name": "Weekly Thursday Meeting!",
-        "organizationId": 121485,
-        "organizationIds": [],
-        "organizationName": "Orthodox Christian Campus Ministries",
-        "organizationNames": [],
-        "organizationProfilePicture": "e70d5dd1-74b6-4181-9221-62aa647331c88986caec-dbee-4012-be0a-7601692c5379.jpg",
-        "recScore": null,
-        "startsOn": "November 30 | 07:00 PM",
-        "status": "Approved",
-        "theme": "Spirituality",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.68102,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Come join us for a discussion with our alumni, Mikhail Beg. Ending the meeting off with mantra meditation and free food!",
-        "endsOn": "10:00 PM",
-        "id": "9586693",
-        "imagePath": "03ae4d24-c78c-46aa-b1fa-8b61eb8794c50c30e377-401a-4ccb-9984-b4a669782202.png",
-        "index": 16,
-        "institutionId": 4753,
-        "latitude": "40.505370",
-        "location": "Campbell Hall",
-        "longitude": "-74.450950",
-        "name": " Bhakti - The Higher Taste: Alumni Night",
-        "organizationId": 121213,
-        "organizationIds": [],
-        "organizationName": "Bhakti - The Higher Taste",
-        "organizationNames": [],
-        "organizationProfilePicture": "bc87b621-d0d3-41e4-98de-340bd4f1cba7ffbd1dae-d57c-445a-8634-e8198067fc7f.jpg",
-        "recScore": null,
-        "startsOn": "November 30 | 08:00 PM",
-        "status": "Approved",
-        "theme": "Spirituality",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.676575,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join FACILE for an Eiffel Tower Night! We will be making our own Eiffel Tower with customization options such as glitters, and decorating however you please! French snacks and drinks will be served as well! ",
-        "endsOn": "10:00 PM",
-        "id": "9602338",
-        "imagePath": "2a1f31d7-791c-413a-84b2-ad83466069d243027e34-4691-4a37-b4f6-2300c0d15ee5.png",
-        "index": 17,
-        "institutionId": 4753,
-        "latitude": "40.499870",
-        "location": "Scott Hall Room 104",
-        "longitude": "-74.447430",
-        "name": "FACILE Eiffel Tower Night",
-        "organizationId": 359329,
-        "organizationIds": [],
-        "organizationName": "French Arts Culture & Inclusive Language Experience ",
-        "organizationNames": [],
-        "organizationProfilePicture": "b14bcf7f-0fd8-405e-9ef9-7be959b0b18897baf231-e3dd-4ecf-b851-379a343f9242.png",
-        "recScore": null,
-        "startsOn": "November 30 | 09:00 PM",
-        "status": "Approved",
-        "theme": "Cultural",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.600845,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5340",
-            "5354"
-        ],
-        "categoryNames": [
-            "Educational Conference/Seminar/Workshop/Panel",
-            "Special Interest"
-        ],
-        "description": "Writing Lab @ 2pm Zainab Najeeb, IDEA Graduate Research Specialist, will host a writing workshop to help students with writing/editing end of semester papers or to prepare for academic writing during Final Exams! IDEA Office Hours @ 3pm Come by to say hi to Veronica and Abby and learn about the Innovation Lab course, and to receive advising on applying to Venture Well programs.",
-        "endsOn": "03:00 PM",
-        "id": "9610928",
-        "imagePath": "b4fe6be5-eb13-48fd-b0fd-f4d24b8e376cb02753de-f08e-4aa6-abae-fcd2990eb79f.png",
-        "index": 18,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "Hatchery Innovation Studio",
-        "longitude": null,
-        "name": "IDEA Office Hours & Writing Lab",
-        "organizationId": 350605,
-        "organizationIds": [],
-        "organizationName": "Innovation, Design, and Entrepreneurship Academy",
-        "organizationNames": [],
-        "organizationProfilePicture": "eb26a40c-9f5b-494c-92a0-ff2b6dea41c74937327d-a615-4dbb-aa87-95a0e4e2a98a.png",
-        "recScore": null,
-        "startsOn": "December 01 | 02:00 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.59193,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Friendship Fridays are open to all Rutgers students, both domestic and international, from 4:00-5:00pm.  Each week there will be a different theme where attendees can enjoy games, activities, and conversation - all while making new friends from around the world.            Spend the hour chatting with other students as you color away your stress and enjoy a variety of chocolate snacks!             ",
-        "endsOn": "05:00 PM",
-        "id": "9330061",
-        "imagePath": "4d773698-65ed-42d6-aa9c-20fc2da1928f931280fa-85a0-4ad6-a647-aadf23d08f5e.png",
-        "index": 19,
-        "institutionId": 4753,
-        "latitude": "40.523540",
-        "location": "Collaborative Learning Center, Livingston Student Center",
-        "longitude": "-74.437180",
-        "name": "Friendship Fridays: Chocolate and Coloring",
-        "organizationId": 257221,
-        "organizationIds": [],
-        "organizationName": "Rutgers Global (Department at Rutgers University)",
-        "organizationNames": [],
-        "organizationProfilePicture": "a96f5e6b-9a7f-4935-bf18-df189b160627bb86fe92-c4cb-4771-b25b-64a8479a70fb.png",
-        "recScore": null,
-        "startsOn": "December 01 | 04:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.57855,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5337",
-            "5343",
-            "5349"
-        ],
-        "categoryNames": [
-            "Cultural Performance",
-            "Entertainment",
-            "Performance"
-        ],
-        "description": "Get ready for our biggest event of the semester, Holud Raat 2023. Holud Raat is a celebration of the Bengali wedding festival Holud/Haldi ceremony. This is a pre-wedding ceremony in which the bride and groom are prepared and pampered with dancing and other pre-wedding activities. Come join us on December 1st for a night of laughter, dancing, and delicious food! Wear your best desi attire and enjoy a variety of performances and dance your heart out!",
-        "endsOn": "11:00 PM",
-        "id": "9627990",
-        "imagePath": "7b3c740c-d63d-48fc-8361-21512c668f2aacc4591f-6c83-4556-92f9-db284068068e.png",
-        "index": 20,
-        "institutionId": 4753,
-        "latitude": "40.484720",
-        "location": "Trayes Hall, Douglass Student Center",
-        "longitude": "-74.436620",
-        "name": "Holud Raat",
-        "organizationId": 121414,
-        "organizationIds": [],
-        "organizationName": "Bengali Students Association",
-        "organizationNames": [],
-        "organizationProfilePicture": "ceab8371-63f2-4e0e-a802-b31b5901401a330dbb02-b2f4-46c0-9994-35888e57c5d7.jpg",
-        "recScore": null,
-        "startsOn": "December 01 | 07:00 PM",
-        "status": "Approved",
-        "theme": "Cultural",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.569626,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join us and RUDM for Holiday Bingo! Bingo is extra special this time of the year because you can use your prizes as gifts for others or keep it for yourself! There will be 15 rounds of bingo and many chances to win. We have 200 bingo boards available on a first-come, first served basis while supplies last. Check in and food bar start at 9PM, Bingo starts at 9:30PM! As always Late Knight is free!!",
-        "endsOn": "12:00 AM",
-        "id": "9628973",
-        "imagePath": "fb5f745d-45dc-4ac3-a24f-14837d79c22be7be4ba2-c063-4da8-a526-5f3f56788520.png",
-        "index": 21,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "Cook Student Center- Multipurpose Room",
-        "longitude": null,
-        "name": "Late Knight: Holiday Bingo ",
-        "organizationId": 341079,
-        "organizationIds": [
-            "138314",
-            "341079"
-        ],
-        "organizationName": "Student Centers and Activities (Department of)",
-        "organizationNames": [
-            "Rutgers University Dance Marathon",
-            "Student Centers and Activities (Department of)"
-        ],
-        "organizationProfilePicture": "6c3b8d26-a9e6-482d-8808-a336ea942311d8adc91e-419d-449a-a3cf-0a011222fdac.jpg",
-        "recScore": null,
-        "startsOn": "December 01 | 09:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.49594,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "20311"
-        ],
-        "categoryNames": [
-            "Graduate Student Organization Event"
-        ],
-        "description": "Come socialize and work on some jigsaw puzzles on Shabbat at Hillel.",
-        "endsOn": "03:30 PM",
-        "id": "9631364",
-        "imagePath": null,
-        "index": 22,
-        "institutionId": 4753,
-        "latitude": "40.500320",
-        "location": "Rutgers Hillel, first floor, Pavlovsky Student Office",
-        "longitude": "-74.449540",
-        "name": "Grad Students Jigsaw \ud83e\udde9 Puzzle Break",
-        "organizationId": 382532,
-        "organizationIds": [],
-        "organizationName": "Graduate Students of Rutgers Hillel",
-        "organizationNames": [],
-        "organizationProfilePicture": "f51d4342-9203-43a1-8cd4-36c395bcc6fca837b31f-08a4-482e-8dd7-61d4d09910b7.jpg",
-        "recScore": null,
-        "startsOn": "December 02 | 01:30 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.40423,
-        "benefitNames": [
-            "Credit",
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5334"
-        ],
-        "categoryNames": [
-            "Community Service Event on Campus"
-        ],
-        "description": "Hello fellow members, The Student Veterans Organization (SVO) invites you to come out and help clean up our beautiful campus! We will meet up at the Vets House and work our way around the College Avenue area cleaning up the sidewalks. Gloves, trash bags, and trash grabbers will be provided upon arrival. Morning refreshments will be provided as well as community service hours for those in need of them. RSVP so we know you're coming! :)",
-        "endsOn": "12:00 PM",
-        "id": "9491953",
-        "imagePath": "727a2d8d-d613-4071-a1eb-566a4f304c42c4d7b9bc-8a1e-4337-825d-22945f50cd66.png",
-        "index": 23,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "Rutgers Office of Military Programs and Services",
-        "longitude": null,
-        "name": "SVO Community Clean-up Fall 2023",
-        "organizationId": 123119,
-        "organizationIds": [],
-        "organizationName": "Student Veterans Organization (SVO)",
-        "organizationNames": [],
-        "organizationProfilePicture": "53bcf16a-f215-4dc6-8383-79309a748ebb419e7e41-787a-4082-b53b-beb74eb4adc0.JPG",
-        "recScore": null,
-        "startsOn": "December 03 | 10:00 AM",
-        "status": "Approved",
-        "theme": "CommunityService",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.39526,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5352"
-        ],
-        "categoryNames": [
-            "Religious/Religious Cultural/Spiritual Event"
-        ],
-        "description": "Come join us for our Sunday Service at the the Gathering Hall in the Livi Student Center at 12pm on Sundays! There will be a time of praise, hearing from God's Word, and free lunch afterwards!",
-        "endsOn": "01:00 PM",
-        "id": "9528020",
-        "imagePath": "2bdc6b18-c109-439a-81b7-86a2636aebbd45b3ed14-04ea-4401-93d8-96ab066b57fd.png",
-        "index": 24,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "Livi Gathering Hall",
-        "longitude": null,
-        "name": "Sunday Worship Service",
-        "organizationId": 230806,
-        "organizationIds": [],
-        "organizationName": "Klesis ",
-        "organizationNames": [],
-        "organizationProfilePicture": "38021d07-ca3f-4347-a69e-21a4fd24ae95c434d288-1c34-4950-9038-09fcbb49f681.png",
-        "recScore": null,
-        "startsOn": "December 03 | 12:00 PM",
-        "status": "Approved",
-        "theme": "Spirituality",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.181946,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Chat with other commuters and department administrators while enjoying a free brunch. Learn about the resources available at Rutgers.",
-        "endsOn": "01:30 PM",
-        "id": "9173534",
-        "imagePath": "92f8056f-f21a-41d4-9137-40d006f7a267a957a409-c394-4b1f-b207-8dca1ef48902.png",
-        "index": 25,
-        "institutionId": 4753,
-        "latitude": "40.523540",
-        "location": "Livingston Student Center, Livingston Hall",
-        "longitude": "-74.437180",
-        "name": "SunnySide Start Up",
-        "organizationId": 123166,
-        "organizationIds": [],
-        "organizationName": "Rutgers Commuter Student Association",
-        "organizationNames": [],
-        "organizationProfilePicture": "a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
-        "recScore": null,
-        "startsOn": "December 05 | 11:30 AM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.08504,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join us for a delightful morning of warmth, conversation, and scrumptious delights at our Coffee and Breakfast event at the Graduate Student Lounge.Whether you're here to kickstart your day or savour a liesurely morning, GSA would be delighted to host you !",
-        "endsOn": "11:00 AM",
-        "id": "9634945",
-        "imagePath": "47a8756f-3027-41f4-a882-a63847760f18eb97ba60-3f59-4a11-b13b-de1305d2e1a9.pdf",
-        "index": 26,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "TBD",
-        "longitude": null,
-        "name": "GSA Coffee and Breakfast Mixer",
-        "organizationId": 312665,
-        "organizationIds": [],
-        "organizationName": "Graduate Student Association (GSA)",
-        "organizationNames": [],
-        "organizationProfilePicture": "3c4e2e1a-5a20-4bbe-a0b7-ed05eb2f14083c6b2a18-a7ac-437d-8d37-9d456bd2afea.png",
-        "recScore": null,
-        "startsOn": "December 06 | 09:00 AM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.06247,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "The December EPS GSO Meeting will focus on graduate students check-ins, faculty meeting updates, any potential volunteer activities, and we will have practice presentations by students who are presenting at AGU. ",
-        "endsOn": "03:00 PM",
-        "id": "9625765",
-        "imagePath": null,
-        "index": 27,
-        "institutionId": 4753,
-        "latitude": "40.523660",
-        "location": "Wright Rieman Building - Room 339",
-        "longitude": "-74.461720",
-        "name": "December EPS GSO Meeting",
-        "organizationId": 330044,
-        "organizationIds": [],
-        "organizationName": "Earth and Planetary Sciences (Graduate Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "f99c4aa3-d5b7-48d2-9d9c-f536ccab4e7df749d155-f827-43ee-8519-ba89891f37b3.jpg",
-        "recScore": null,
-        "startsOn": "December 06 | 02:00 PM",
-        "status": "Approved",
-        "theme": "GroupBusiness",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.04667,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "  We are excited to have you joining us soon as MBS graduate students!! We want to assist you with the MBS degree program onboarding and learning how to navigate the details to register successfully:  Having issues getting registered without an SPN (Special Permission Number) for Summer or Fall??\r  MBS staff will be on hand to provide you with an SPN on the spot!   Want to know which courses will transfer to you graduate degree??\r  Bring your unofficial transcript and program advisors will be available to highlight which courses can be transferred as credits toward your MBS degree - if you forget your transcript, no worries, we will have a computer and printer available.    If you haven\u2019t already, REGISTER below! Dinner will be served! Please register for this event here.  ",
-        "endsOn": "07:00 PM",
-        "id": "9288709",
-        "imagePath": "a46d344a-88e2-45cc-83c5-d1e9109dd3f1b56de389-cc6a-4a11-9f90-efd8e6b649e1.png",
-        "index": 28,
-        "institutionId": 4753,
-        "latitude": "40.523110",
-        "location": "Busch Student Center - Cove Lounge",
-        "longitude": "-74.458630",
-        "name": "\u201c4+1\u201d Meet Up - Spring Planning",
-        "organizationId": 371299,
-        "organizationIds": [],
-        "organizationName": "Professional Science Masters Department (PSM)",
-        "organizationNames": [],
-        "organizationProfilePicture": "26532e5f-f216-4983-baf5-771ad1731b194ecd9fa9-2853-4260-8a2b-4595b713b45a.jpg",
-        "recScore": null,
-        "startsOn": "December 06 | 05:30 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 98.94493,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
         "categoryIds": [],
         "categoryNames": [],
         "description": "Mingle with other commuter students while enjoying a variety of games.",
         "endsOn": "06:00 PM",
         "id": "9173541",
         "imagePath": "afff8132-5977-4951-9c66-138b5f254caccc9ad6fb-6866-4022-a9a2-9d9ccbd48cd9.png",
-        "index": 29,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Commuter Lounge",
@@ -998,7 +60,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.93813,
+        "@search.score": 1.0,
         "benefitNames": [
             "Free Food"
         ],
@@ -1006,11 +68,11 @@
         "branchIds": [],
         "categoryIds": [],
         "categoryNames": [],
-        "description": "Our final SSPAR of the semester will be given by Astronomy Ph.D. candidate Lana Eid on her work with gravitational lensing by galaxy clusters.We meet in Serin 330W (the Physics and Astronomy building on Busch campus). This room is directly beneath the observatory dome, enter on the west side of the building by Allison Rd.Dinner will be provided on a first-come first-serve basis, we will order food from Evelyn's Restaurant in New Brunswick.",
+        "description": "Our final SSPAR of the semester will be given by Astronomy Ph.D. candidate Lana Eid on her work with gravitational lensing by galaxy clusters.We meet in Serin 330W (the Physics and Astronomy building on Busch campus). This room is directly beneath the observatory dome, enter on the west side of the building by Allison Rd.Dinner will be provided on a first-come first-serve basis, we will order food from Evelyn's Restaurant in New Brunswick.Abstract:We aim to use the z=0.725 giant arc lensed by the z=0.375 Abell 370 galaxy cluster in Hubble Frontier Fields data to study the effects of using an extended source model on constraining a cluster lens model. Gravitational lensing by galaxy clusters magnifies and distorts distant galaxies, which can let us study them at higher resolution than otherwise possible. In order to determine the morphology of the source, the observed images need to be de-lensed. Cluster lens models are generally constrained using image positions and assuming point sources. We use giant arcs to study the effects of an extended source model on both the cluster mass model and the reconstructed source galaxy. A giant arc provides more constraints than images from an unresolved point source, but it requires a more complex model that accounts for the structure of the source. We seek to determine whether improvements to the lens model and reconstructed source merit the difficulty of handling the extra constraints. We first present a series of pixel-based source reconstructions for cluster mass models that explore the range of uncertainties in our fiducial model. We additionally compare predicted sources and model arcs from a set of 10 fiducial cluster models from the HFF teams using a simpler delensing code. We then discuss possible avenues to solve the issues we have found in all these models.",
         "endsOn": "06:30 PM",
         "id": "9545787",
-        "imagePath": null,
-        "index": 30,
+        "imagePath": "98b91442-d782-418b-873e-e6845a85493016980b60-aa01-4a12-8ed3-8a1820d6dfc5.png",
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.523150",
         "location": "Department of Physics & Astronomy, Room 330W",
@@ -1028,38 +90,117 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.93134,
+        "@search.score": 1.0,
         "benefitNames": [
-            "Free Food",
-            "Free Stuff"
+            "Free Food"
         ],
         "branchId": 112385,
         "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Come to present your projects and network at the Cloud-A-Thon!",
-        "endsOn": "09:00 PM",
-        "id": "9630792",
-        "imagePath": "6bdd4db6-5240-4c2d-b944-6f1a83e74a46c973ad0f-1d12-42c5-86c4-fb1957b17b52.png",
-        "index": 31,
+        "categoryIds": [
+            "5346"
+        ],
+        "categoryNames": [
+            "General Organization Meeting"
+        ],
+        "description": "Doc & Mocktails - Watch a human rights docu over drinks! \ud83c\udf79Join us for an evening dedicated to promoting the awareness of human rights issues through the power of film \ud83c\udfa5We'll hold a short screening of an impactful documentary & engage in a dialogue about the themes, sharing perspectives & insights \ud83d\udde3\ufe0fShirley temples & \ud83c\udf55 will be provided\u23f0: 6:30-7:30pm\ud83d\uddd3\ufe0f: Thurs Dec 7th\ud83c\udfeb: BSC 115",
+        "endsOn": "07:30 PM",
+        "id": "9661110",
+        "imagePath": "3cac2970-430b-4cb3-aa2a-4f7fbbce897ab861feb1-1762-4612-a707-b9f7cdcf42da.png",
+        "index": 3,
         "institutionId": 4753,
-        "latitude": null,
-        "location": "Busch Student Center 120A",
-        "longitude": null,
-        "name": "CLOUD-A-THON",
-        "organizationId": 365068,
+        "latitude": "40.523110",
+        "location": "BSC 115",
+        "longitude": "-74.458630",
+        "name": "Doc & Mocktails",
+        "organizationId": 198872,
         "organizationIds": [],
-        "organizationName": "Organization of Cloud Computing at Rutgers",
+        "organizationName": "Amnesty International (Rutgers) ",
         "organizationNames": [],
-        "organizationProfilePicture": "d4f2cff3-87d2-47d9-ae83-9c5c4ee525ccb9952a38-756f-4f4a-bbae-de629944196e.png",
+        "organizationProfilePicture": "c25708a7-6ed9-4487-8c96-3632dbdc94a4cf273c7d-19c5-43a7-9963-48f252399a17.jpg",
         "recScore": null,
-        "startsOn": "December 07 | 07:00 PM",
+        "startsOn": "December 07 | 06:30 PM",
         "status": "Approved",
-        "theme": "ThoughtfulLearning",
+        "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 98.92908,
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5331",
+            "5336",
+            "5343",
+            "5349",
+            "5354"
+        ],
+        "categoryNames": [
+            "Art Exhibition",
+            "Concert/Musical Performance ",
+            "Entertainment",
+            "Performance",
+            "Special Interest"
+        ],
+        "description": " SparkNight is the free monthly art party at the museum, inviting everyone to explore art, engage their creativity, and have fun! In December, join us for an evening of artmaking, live music, poetry, and performances. * Take inspiration from the long tradition of shadow theater and make your own puppet using stencils, scissors, paper, and more! (all materials provided) * Live Jazz by the Pierre Cornilliat Quartet * Multimedia performance of original poetry by Mary Shaw, Rutgers Professor Emerita of French, accompanied by the Pierre Cornilliat Quartet and images from the Zimmerli\u2019s collection of 19th-Century French Art.   Free and open to the public. Complimentary light refreshments. Food for purchase available from Chef Deluxe Me.    For all details, visit go.rutgers.edu/sn1207   Graphic by Shriya Chunduri",
+        "endsOn": "08:00 PM",
+        "id": "9639988",
+        "imagePath": "bb45ac27-ce2e-4626-8842-a893b7ecca3cbc858519-cbdb-462f-8787-8ecfb05631b8.png",
+        "index": 4,
+        "institutionId": 4753,
+        "latitude": "40.500060",
+        "location": "Zimmerli Art Museum",
+        "longitude": "-74.445910",
+        "name": "SparkNight",
+        "organizationId": 267503,
+        "organizationIds": [],
+        "organizationName": "J Voorhees Zimmerli Art Museum",
+        "organizationNames": [],
+        "organizationProfilePicture": "3ad4961a-36dc-4c3d-ba82-886de2493d469e5a9e4c-75fb-4b67-a113-1d235cdadfb2.jpeg",
+        "recScore": null,
+        "startsOn": "December 07 | 04:30 PM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5346"
+        ],
+        "categoryNames": [
+            "General Organization Meeting"
+        ],
+        "description": "Join us for our last event of the semester with a feel-good holiday movie and refreshments!  Please arrive early if you can so we start the movie promptly at 7pm!",
+        "endsOn": "08:45 PM",
+        "id": "9642191",
+        "imagePath": "4bd64548-e14b-4c5a-a2ca-335301b58b27f7ad1001-a823-4caf-b85b-dc41f1860bb7.png",
+        "index": 5,
+        "institutionId": 4753,
+        "latitude": "40.523540",
+        "location": "Livingston Student Center Room 111",
+        "longitude": "-74.437180",
+        "name": "Holiday Movie Night",
+        "organizationId": 122400,
+        "organizationIds": [],
+        "organizationName": "Women in Information Technology & Informatics",
+        "organizationNames": [],
+        "organizationProfilePicture": "af65aa9a-e8fe-413b-bc6e-2e3489fd1367524be250-f991-4f0e-aa1b-b091ac6e6158.jpg",
+        "recScore": null,
+        "startsOn": "December 07 | 07:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
         "benefitNames": [
             "Free Food"
         ],
@@ -1071,7 +212,7 @@
         "endsOn": "09:00 PM",
         "id": "9635017",
         "imagePath": "75fc6ea2-267e-4888-8805-f34cdb1d19a1ffa77ada-1c39-4e2e-bf2b-7b60f775cfe1.pdf",
-        "index": 32,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "Graduate Student Lounge",
@@ -1089,7 +230,37 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.92682,
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Please join the Rutgers Period Equity project for our last meeting of the semester and decorate some holiday cookies! There will also be FREE PIZZA offered at this meeting! If you are interested in attending, PLEASE be sure to RSVP using the Google form linked in our bio so we can get enough cookies and pizza for everyone! The meeting will be held on Thursday, December 7th in College Avenue Student Center, room 411B, from 8:00 pm to 9:00 pm. We hope to see you there, and be sure to wear your favorite holiday PJs! :)",
+        "endsOn": "09:00 PM",
+        "id": "9662637",
+        "imagePath": "e0c05b1b-54fd-4ea0-b012-14fcc540080b8022d139-96ce-4aea-ba44-6ad4e156a218.png",
+        "index": 7,
+        "institutionId": 4753,
+        "latitude": "40.502640",
+        "location": "College Avenue Student Center, room 411B",
+        "longitude": "-74.451830",
+        "name": "Holiday Cookie Decorating",
+        "organizationId": 244595,
+        "organizationIds": [],
+        "organizationName": "Period Equity Project (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "526f9a85-c6a6-4f22-adfe-42d46a86a31aa9218587-50fe-4379-848d-9de6730e356d.png",
+        "recScore": null,
+        "startsOn": "December 07 | 08:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
         "benefitNames": [
             "Free Food"
         ],
@@ -1107,7 +278,7 @@
         "endsOn": "09:00 PM",
         "id": "9534399",
         "imagePath": null,
-        "index": 33,
+        "index": 8,
         "institutionId": 4753,
         "latitude": null,
         "location": "Rutgers Hillel",
@@ -1125,7 +296,81 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.92682,
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5353"
+        ],
+        "categoryNames": [
+            "Seasonal/Holiday"
+        ],
+        "description": "\u26c4Make mini snow globes and receive a care package with hot chocolate, cookies, and more \ud83c\udf84 Watch the movie ELF \u26f2 CHOCOLATE FOUNTAIN (While Supplies Last)   *By attending our events, you agree to allow Residence Hall Association (RHA) to use, distribute, and/or publicize any photos taken during and at the event. For any specific accommodation needs related to your physical attendance, please contact rurhapresident@gmail.com.",
+        "endsOn": "09:00 PM",
+        "id": "9647659",
+        "imagePath": "9de69c39-8b5e-464a-acab-d4dd7d5f4d6602d873d0-b816-43a8-a981-3a2b3d42d9cd.png",
+        "index": 9,
+        "institutionId": 4753,
+        "latitude": "40.522280",
+        "location": "BEST West MPR",
+        "longitude": "-74.454580",
+        "name": "Winter Social - BEST Hall",
+        "organizationId": 128128,
+        "organizationIds": [
+            "128128",
+            "132643"
+        ],
+        "organizationName": "Residence Hall Association (RHA)",
+        "organizationNames": [
+            "Residence Hall Association (RHA)",
+            "Residence Life: Busch - BEST"
+        ],
+        "organizationProfilePicture": "f2b4e0fa-f05a-40ab-b063-c00d109669cefa4840ff-ece8-4087-bec5-3fe69e991815.JPG",
+        "recScore": null,
+        "startsOn": "December 07 | 08:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Come to present your projects and network at the Cloud-A-Thon!",
+        "endsOn": "09:00 PM",
+        "id": "9630792",
+        "imagePath": "6bdd4db6-5240-4c2d-b944-6f1a83e74a46c973ad0f-1d12-42c5-86c4-fb1957b17b52.png",
+        "index": 10,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Busch Student Center 120A",
+        "longitude": null,
+        "name": "CLOUD-A-THON",
+        "organizationId": 365068,
+        "organizationIds": [],
+        "organizationName": "Organization of Cloud Computing at Rutgers",
+        "organizationNames": [],
+        "organizationProfilePicture": "d4f2cff3-87d2-47d9-ae83-9c5c4ee525ccb9952a38-756f-4f4a-bbae-de629944196e.png",
+        "recScore": null,
+        "startsOn": "December 07 | 07:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
         "benefitNames": [
             "Free Food"
         ],
@@ -1133,16 +378,115 @@
         "branchIds": [],
         "categoryIds": [],
         "categoryNames": [],
-        "description": "Get ready for a night of games and laughter at Bhakti Club Game Night! Take a break from studying for finals and join us for fun, competition, and good company. Bring your friends and let the games begin! Music meditation and free food are there as well. ",
+        "description": "Join us as we celebrate the Holidays and wrap up the fall semester with our final legislative meeting!",
+        "endsOn": "09:30 PM",
+        "id": "9662335",
+        "imagePath": "e74aa73a-a0c8-44c7-98f9-5a831e0681b1ea89bb39-5560-4776-8443-2d01ad51adbc.png",
+        "index": 11,
+        "institutionId": 4753,
+        "latitude": "40.504350",
+        "location": "Student Activities Center - Raritan River Lounge",
+        "longitude": "-74.449050",
+        "name": "RUSA Assembly Meeting and Holiday Party!",
+        "organizationId": 120990,
+        "organizationIds": [],
+        "organizationName": "Rutgers University Student Assembly (RUSA)",
+        "organizationNames": [],
+        "organizationProfilePicture": "88484b86-0f52-4461-ae11-c0b0be9f1a6578440fa8-a624-45e0-96ba-89555b4b82fa.png",
+        "recScore": null,
+        "startsOn": "December 07 | 07:00 PM",
+        "status": "Approved",
+        "theme": "GroupBusiness",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5105"
+        ],
+        "categoryNames": [
+            "Community (Residence Life)"
+        ],
+        "description": "Come join us at the Silvers Community Center! Compete against your peers in the Winter Tournament, where we will be playing foosball, pool, and ping pong! The winner gets a goodie bag! Free snacks and drinks will be provided :) ",
+        "endsOn": "10:00 PM",
+        "id": "9657777",
+        "imagePath": "4e6fb9cb-eac7-48fb-8020-b2c431b3ac5e7f50fdff-d289-4cc7-a848-00c5154b6592.png",
+        "index": 12,
+        "institutionId": 4753,
+        "latitude": "40.519490",
+        "location": "Silvers Community Center ",
+        "longitude": "-74.455010",
+        "name": "Winter Tournament at the Silvers Community Center ",
+        "organizationId": 128128,
+        "organizationIds": [],
+        "organizationName": "Residence Hall Association (RHA)",
+        "organizationNames": [],
+        "organizationProfilePicture": "f2b4e0fa-f05a-40ab-b063-c00d109669cefa4840ff-ece8-4087-bec5-3fe69e991815.JPG",
+        "recScore": null,
+        "startsOn": "December 07 | 08:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "End-of-semester party ",
+        "endsOn": "10:00 PM",
+        "id": "9662584",
+        "imagePath": "b07df253-3ac0-4db7-a5ec-5c65c320ab55db7167f2-21a4-4a4b-9904-2c81503d0641.png",
+        "index": 13,
+        "institutionId": 4753,
+        "latitude": "40.523540",
+        "location": "Livi MPR",
+        "longitude": "-74.437180",
+        "name": "End of Semester Party ",
+        "organizationId": 122093,
+        "organizationIds": [],
+        "organizationName": "Muslim Student Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "96c38b41-8cd7-4ad5-90f4-c6f5cebe52c4e8febaf3-c2ea-43f2-9186-2fcd3d7a5a11.jpg",
+        "recScore": null,
+        "startsOn": "December 07 | 06:30 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5343"
+        ],
+        "categoryNames": [
+            "Entertainment"
+        ],
+        "description": "This Thursday marks the last RUBhakti meeting of the Fall 2023 semester, so we figured what better way to celebrate than with music, laughter, and the joy of singing our hearts out? As always, we will end off with some mantra meditation and dinner is on us. We hope to see you all there!",
         "endsOn": "10:00 PM",
         "id": "9586687",
-        "imagePath": "4da084c9-05c7-4ccc-a5c0-f555a661a722b8eb699b-d3e4-4c4b-8e9e-d17300c9fcfb.png",
-        "index": 34,
+        "imagePath": "d4e934ac-1543-43e1-92c0-83939fa72a28c52d9082-9049-434d-bb5e-0be7a9eadf04.png",
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.505370",
         "location": "Campbell Hall",
         "longitude": "-74.450950",
-        "name": "Bhakti - The Higher Taste: Game Night",
+        "name": "Bhakti - The Higher Taste: Karaoke Night",
         "organizationId": 121213,
         "organizationIds": [],
         "organizationName": "Bhakti - The Higher Taste",
@@ -1155,7 +499,228 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.845215,
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Join FACILE for an Eiffel Tower Night! We will be making our own Eiffel Tower with customization options such as glitters, and decorating however you please! French snacks and drinks will be served as well! ",
+        "endsOn": "10:00 PM",
+        "id": "9602338",
+        "imagePath": "2a1f31d7-791c-413a-84b2-ad83466069d243027e34-4691-4a37-b4f6-2300c0d15ee5.png",
+        "index": 15,
+        "institutionId": 4753,
+        "latitude": "40.499870",
+        "location": "Scott Hall Room 104",
+        "longitude": "-74.447430",
+        "name": "FACILE Eiffel Tower Night",
+        "organizationId": 359329,
+        "organizationIds": [],
+        "organizationName": "French Arts Culture & Inclusive Language Experience ",
+        "organizationNames": [],
+        "organizationProfilePicture": "b14bcf7f-0fd8-405e-9ef9-7be959b0b18897baf231-e3dd-4ecf-b851-379a343f9242.png",
+        "recScore": null,
+        "startsOn": "December 07 | 09:00 PM",
+        "status": "Approved",
+        "theme": "Cultural",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Avani Modi, an alumnus of RBS and RAMS, is coming back to talk to Rutgers today about her career experiences and how they brought her to be the founder of Modi Toys. She will answer any questions students may have and talk about how she marketed the toys and how she succeeded as an entrepreneur. Avani is also going to talk about where she came up with the idea of creating Modi Toys and why she decided to do so.   There will be real points!",
+        "endsOn": "10:30 PM",
+        "id": "9655018",
+        "imagePath": null,
+        "index": 16,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Business School ",
+        "longitude": null,
+        "name": "RAMS General Interest Meeting: Innovators Insights with special guest speaker Avani Modi ",
+        "organizationId": 123437,
+        "organizationIds": [],
+        "organizationName": "Association of Marketing and Strategy (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "e60dce0c-71db-405b-ba91-2068eaffc2148240f0f6-7e0f-4b48-afcb-a826a23185fc.png",
+        "recScore": null,
+        "startsOn": "December 07 | 09:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Avani Modi, an alumnus of RBS and RAMS, is coming back to talk to Rutgers today about her career experiences and how they brought her to be the founder of Modi Toys. She will answer any questions students may have and talk about how she marketed the toys and how she succeeded as an entrepreneur. Avani is also going to talk about where she came up with the idea of creating Modi Toys and why she decided to do so.   There will be real points!",
+        "endsOn": "10:30 PM",
+        "id": "9655017",
+        "imagePath": null,
+        "index": 17,
+        "institutionId": 4753,
+        "latitude": "40.526300",
+        "location": "Rutgers Business School ",
+        "longitude": "-74.440180",
+        "name": "RAMS General Interest Meeting: Innovators Insights with special guest speaker Avani Modi ",
+        "organizationId": 123437,
+        "organizationIds": [],
+        "organizationName": "Association of Marketing and Strategy (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "e60dce0c-71db-405b-ba91-2068eaffc2148240f0f6-7e0f-4b48-afcb-a826a23185fc.png",
+        "recScore": null,
+        "startsOn": "December 07 | 09:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5343",
+            "5353"
+        ],
+        "categoryNames": [
+            "Entertainment",
+            "Seasonal/Holiday"
+        ],
+        "description": "\ud83d\udcf3*\ud835\ude9b\ud835\ude92\ud835\ude97\ud835\ude90*\ud835\ude9b\ud835\ude92\ud835\ude97\ud835\ude90* \ud835\ude9f\ud835\ude9c\ud835\ude8a \ud835\ude91\ud835\ude8e\ud835\ude9b\ud835\ude8e \ud835\ude8c\ud835\ude8a\ud835\ude95\ud835\ude95\ud835\ude92\ud835\ude97\ud835\ude90 \ud835\ude9d\ud835\ude98 \ud835\ude8a\ud835\ude95\ud835\ude8e\ud835\ude9b\ud835\ude9d \ud835\udea2\ud835\ude98\ud835\ude9e \ud835\ude9d\ud835\ude91\ud835\ude8a\ud835\ude9d \ud835\ude98\ud835\ude9e\ud835\ude9b \ud835\ude95\ud835\ude8a\ud835\ude9c\ud835\ude9d \ud835\ude8e\ud835\ude9f\ud835\ude8e\ud835\ude97\ud835\ude9d \ud835\ude98\ud835\ude8f \ud835\ude9d\ud835\ude91\ud835\ude8e \ud835\ude9c\ud835\ude8e\ud835\ude96\ud835\ude8e\ud835\ude9c\ud835\ude9d\ud835\ude8e\ud835\ude9b \ud835\ude92\ud835\ude9c \ud835\ude91\ud835\ude8e\ud835\ude9b\ud835\ude8e* \u026a\u0274\u1d1b\u0280\u1d0f\u1d05\u1d1c\u1d04\u026a\u0274\u0262 : \ud835\udcd7\ud835\udcf8\ud835\udd00 \ud835\udce5\ud835\udce2\ud835\udcd0 \ud835\udce2\ud835\udcfd\ud835\udcf8\ud835\udcf5\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcfb\ud835\udcf2\ud835\udcfc\ud835\udcfd\ud835\udcf6\ud835\udcea\ud835\udcfc \u1484\u208d\u207d\u02c6\u2070\u02c6\u207e\u208e\u1483\u266a\u266c Come join us Thursday night to celebrate Christmas VSA style\ud83d\ude0eWe have a mix of festive\ud83c\udf84socializing, crafts, and physical events and activities for you\ud83e\udef5along with some \ud835\udc1c\ud835\udc2b\ud835\udc1a\ud835\udc33\ud835\udc32 \ud835\udc29\ud835\udc2b\ud835\udc22\ud835\udc33\ud835\udc1e\ud835\udc2c, snacks and hot cocoa, and a photo booth for you all to take christmas-ie pics with your friends\ud83d\ude18[\ud835\ude22\ud835\ude2f\ud835\ude25 \ud835\ude35\ud835\ude29\ud835\ude26 \ud835\ude0e\ud835\ude33\ud835\ude2a\ud835\ude2f\ud835\ude24\ud835\ude29 \ud835\ude2e\ud835\ude2a\ud835\ude28\ud835\ude29\ud835\ude35 \ud835\ude34\ud835\ude35\ud835\ude30\ud835\ude31 \ud835\ude23\ud835\ude3a \ud835\ude22\ud835\ude2f\ud835\ude25 \ud835\ude2e\ud835\ude22\ud835\ude2c\ud835\ude26 \ud835\ude22 \ud835\ude34\ud835\ude31\ud835\ude26\ud835\ude24\ud835\ude2a\ud835\ude22\ud835\ude2d \ud835\ude22\ud835\ude31\ud835\ude31\ud835\ude26\ud835\ude22\ud835\ude33\ud835\ude22\ud835\ude2f\ud835\ude24\ud835\ude26] \u2763\ufe0fTHIS IS AN RSVP EVENT\ud83d\udc8c \ud83c\udf81\ud835\udce6\ud835\udcf1\ud835\udcee\ud835\udcf7 : Thursday, 12/7\ud83c\udf81\ud835\udce6\ud835\udcf1\ud835\udcee\ud835\udcfb\ud835\udcee : DSC, Trayes Hall\ud83c\udf81\ud835\udce3\ud835\udcf2\ud835\udcf6\ud835\udcee : 9:00pm-10:45pm \u2763\ufe0fPlease have your event passes ready for entry\u2763\ufe0f",
+        "endsOn": "10:45 PM",
+        "id": "9653312",
+        "imagePath": "b093811d-d11a-430b-8576-8049668530ee382f84e9-6a6c-4e96-b838-4366addb8473.png",
+        "index": 18,
+        "institutionId": 4753,
+        "latitude": "40.484720",
+        "location": "Trayes Hall, Douglass Student Center",
+        "longitude": "-74.436620",
+        "name": "How VSA Stole Christmas",
+        "organizationId": 122881,
+        "organizationIds": [],
+        "organizationName": "Vietnamese Student Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "8c6bd76d-7dd5-4279-804b-ae2042bc6cfb3e2c2db9-db82-455c-9131-26e54f6d4ef8.png",
+        "recScore": null,
+        "startsOn": "December 07 | 09:00 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.95414,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Join us for a delightful morning of warmth, conversation, and scrumptious delights at our Coffee and Breakfast event at the Graduate Student Lounge.Whether you're here to kickstart your day or savour a liesurely morning, GSA would be delighted to host you !",
+        "endsOn": "11:00 AM",
+        "id": "9634945",
+        "imagePath": "b5006f2b-8e20-49f0-85a7-7c8c8b4caa95502e4c6f-fadb-4bcc-91a7-4785b0192f2f.pdf",
+        "index": 19,
+        "institutionId": 4753,
+        "latitude": "40.502640",
+        "location": "Graduate Student Lounge",
+        "longitude": "-74.451830",
+        "name": "GSA Coffee and Breakfast Mixer",
+        "organizationId": 312665,
+        "organizationIds": [],
+        "organizationName": "Graduate Student Association (GSA)",
+        "organizationNames": [],
+        "organizationProfilePicture": "3c4e2e1a-5a20-4bbe-a0b7-ed05eb2f14083c6b2a18-a7ac-437d-8d37-9d456bd2afea.png",
+        "recScore": null,
+        "startsOn": "December 08 | 09:00 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.940865,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "DONUT mind if I do! Stop by RUPA's purple tent to enjoy delicious and FREE fresh donuts and cider as you prepare for final exams. Come WHILE SUPPLIES LAST!",
+        "endsOn": "03:00 PM",
+        "id": "9659112",
+        "imagePath": "1a4be08e-02ae-4ddd-bfe5-bcf1cf37d579e9968744-e464-40e6-8788-0e6920443fd9.png",
+        "index": 20,
+        "institutionId": 4753,
+        "latitude": "40.523540",
+        "location": "Livingston Square",
+        "longitude": "-74.437180",
+        "name": "RUPA Presents: Cider and Donuts",
+        "organizationId": 127461,
+        "organizationIds": [],
+        "organizationName": "Rutgers University Programming Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "424c475d-2e22-40f8-8a87-ffbb039eed79af749958-3db3-47b6-aca8-ffed8e0137f1.jpg",
+        "recScore": null,
+        "startsOn": "December 08 | 12:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.93866,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "As Salamu Alaykum (Peace Be Upon You)! Please join us this Friday, December 8th, for our annual Bring A Friend to Jumu'ah event. Friday is a special day for Muslims as we gather for our weekly sermon and congregational prayer. If you've ever been curious about what this important day looks like for us, this is your chance to learn more! All are welcome regardless of religious affiliation and background. Prayer will be held at the College Ave. Student Center Multipurpose Room at 1:20 PM. Lunch and desert will be served. Be sure to stay for our Q&A session. We look forward to meeting you!    ",
+        "endsOn": "04:00 PM",
+        "id": "9657754",
+        "imagePath": "0c612e11-893c-45d7-bc22-b3250485c2c5a0d2f5c2-d4dc-4fd8-bd6d-9ca0a7c0017c.png",
+        "index": 21,
+        "institutionId": 4753,
+        "latitude": "40.502640",
+        "location": "College Avenue Student Center MPR",
+        "longitude": "-74.451830",
+        "name": "Bring A Friend to Jumu'ah",
+        "organizationId": 121985,
+        "organizationIds": [],
+        "organizationName": "Jumu\u2019ah (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "ef1a0bcc-6240-44ad-ac11-30c2faf17d3d0ad92dd4-cc52-4d8f-b214-53738eb7b808.png",
+        "recScore": null,
+        "startsOn": "December 08 | 12:30 PM",
+        "status": "Approved",
+        "theme": "Spirituality",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.93202,
         "benefitNames": [
             "Free Food"
         ],
@@ -1175,7 +740,7 @@
         "endsOn": "04:30 PM",
         "id": "9129253",
         "imagePath": "6cb19d97-8151-4047-8cc3-9c085d456fa50ed6fe67-9672-4a0f-8d58-bb3c948ce003.png",
-        "index": 35,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.504980",
         "location": "The Hatchery Innovation Studio",
@@ -1193,7 +758,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.831604,
+        "@search.score": 99.91875,
         "benefitNames": [
             "Free Food"
         ],
@@ -1205,7 +770,7 @@
         "endsOn": "06:00 PM",
         "id": "9443413",
         "imagePath": "f131c86b-4666-46cc-a6a1-3eefe74dd3f4fe829dec-bc4e-4a92-9fe3-01e7bb79e7d9.png",
-        "index": 36,
+        "index": 23,
         "institutionId": 4753,
         "latitude": null,
         "location": "BSC The Cove",
@@ -1223,7 +788,53 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.82933,
+        "@search.score": 99.91875,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5332",
+            "5343",
+            "5353"
+        ],
+        "categoryNames": [
+            "Banquet/Food or Culinary",
+            "Entertainment",
+            "Seasonal/Holiday"
+        ],
+        "description": "Happy holiday season!  The Undergraduate Food Science club and the Graduate Food Science Association are excited to announce that we are hosting a Holiday Party on December 8th, from 5 to 8 PM, in the Food Science building reading room!  Come and enjoy good food and drinks while socializing with Food Science students, faculty, and alumni, as we celebrate the season with some fun activities. We hope to see you there!",
+        "endsOn": "08:00 PM",
+        "id": "9647642",
+        "imagePath": "30cca208-1431-4678-80b7-1e98c0295678bbc24d08-0885-405f-9511-850b70689cd5.png",
+        "index": 24,
+        "institutionId": 4753,
+        "latitude": "40.479090",
+        "location": "Food Science Building",
+        "longitude": "-74.436310",
+        "name": "Food Science Department Holiday Party",
+        "organizationId": 123214,
+        "organizationIds": [
+            "123214",
+            "332560"
+        ],
+        "organizationName": "Undergraduate Food Science Club",
+        "organizationNames": [
+            "Undergraduate Food Science Club",
+            "Food Science GSA (Graduate Organization)"
+        ],
+        "organizationProfilePicture": "d032ec07-b28a-4273-9f0f-25a59e4fade99bc65cc5-4f57-45ab-9479-5c99be3b16ad.jpg",
+        "recScore": null,
+        "startsOn": "December 08 | 05:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.916534,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1238,7 +849,7 @@
         "endsOn": "08:30 PM",
         "id": "9627880",
         "imagePath": "599cb553-b3e0-40e7-8024-09949a93573e0b1e76ea-cc23-46ce-b5ef-dd0058a48aac.png",
-        "index": 37,
+        "index": 25,
         "institutionId": 4753,
         "latitude": "40.523340",
         "location": "Rutgers Makerspace",
@@ -1262,7 +873,157 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.63598,
+        "@search.score": 99.91432,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "It\u2019s that time of year\u2026\ud835\uddd9\ud835\uddff\ud835\uddf6\ud835\uddf1\ud835\uddee\ud835\ude06, \ud835\uddd7\ud835\uddf2\ud835\uddf0\ud835\uddf2\ud835\uddfa\ud835\uddef\ud835\uddf2\ud835\uddff \ud835\udff4, \ud835\udff2:\ud835\udfec\ud835\udfec-\ud835\udff4:\ud835\udfef\ud835\udfec\ud835\uddfd\ud835\uddfa \ud835\uddee\ud835\ude01 \ud835\uddd5\ud835\udde6\ud835\uddd6 \ud835\uddd6\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\udddb\ud835\uddee\ud835\uddf9\ud835\uddf9, Rutgers University Calisthenics Club is hosting its biggest, baddest, most SUPER event, called the \ud83c\udd82\ud83c\udd84\ud83c\udd7f\ud83c\udd74\ud83c\udd81 \ud83c\udd72\ud83c\udd70\ud83c\udd7b\ud83c\udd78\ud83c\udd82\ud83c\udd83\ud83c\udd77\ud83c\udd74\ud83c\udd7d\ud83c\udd78\ud83c\udd72\ud83c\udd82 \ud83c\udd74\ud83c\udd87\ud83c\udd83\ud83c\udd81\ud83c\udd70\ud83c\udd85\ud83c\udd70\ud83c\udd76\ud83c\udd70\ud83c\udd7d\ud83c\udd89\ud83c\udd70 \ud83c\udd71\ud83c\udd7e\ud83c\udd7d\ud83c\udd70\ud83c\udd7d\ud83c\udd89\ud83c\udd70!!!!We\u2019ve got pizza, calisthenics freestyle performances from some of the best cali athletes New Brunswick has to offer, calisthenics themed Jeopardy, and a live video discussion and QnA with one of the GOATs of calisthenics, the founder and CEO of @movement_made and bergmovement.com, the one and only @sondre_berg !!!Oh, and if that wasn\u2019t enough, we\u2019ll be having a raffle ticket giveaway for:- 40lbs weighted vest- Set of 5 resistance bands- Wooden parallettesAll you have to do to enter is enjoy our free event till the end!You won\u2019t want to miss the \ud83c\udd82\ud83c\udd84\ud83c\udd7f\ud83c\udd74\ud83c\udd81 \ud83c\udd72\ud83c\udd70\ud83c\udd7b\ud83c\udd78\ud83c\udd82\ud83c\udd83\ud83c\udd77\ud83c\udd74\ud83c\udd7d\ud83c\udd78\ud83c\udd72\ud83c\udd82 \ud83c\udd74\ud83c\udd87\ud83c\udd83\ud83c\udd81\ud83c\udd70\ud83c\udd85\ud83c\udd70\ud83c\udd76\ud83c\udd70\ud83c\udd7d\ud83c\udd89\ud83c\udd70 \ud83c\udd71\ud83c\udd7e\ud83c\udd7d\ud83c\udd70\ud83c\udd7d\ud83c\udd89\ud83c\udd70. We\u2019ll see you there.Love,RUCC <333",
+        "endsOn": "08:30 PM",
+        "id": "9651609",
+        "imagePath": "49e9dae3-c9ab-4ec5-b20d-7862ddd5abbb2161e881-9c53-4504-9a34-641fff5299b5.png",
+        "index": 26,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Busch Student Center - Center Hall",
+        "longitude": null,
+        "name": "Super Calisthenics Extravaganza Bonanza with Sondre Berg",
+        "organizationId": 365067,
+        "organizationIds": [],
+        "organizationName": " Calisthenics Club at Rutgers University",
+        "organizationNames": [],
+        "organizationProfilePicture": "abc0b39b-be00-4adb-94c9-b57436459e52a180fde1-67e1-4452-ac58-72baed57c0ce.jpg",
+        "recScore": null,
+        "startsOn": "December 08 | 06:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.90768,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Take a break from studying for finals and join us this Friday for our Winter Wonderland event!!\u2744\ufe0f\u2603\ufe0f There will be winter crafts,hot choco & free food! Hope to see you all there!   Here's the link to RSVP: https://docs.google.com/forms/d/e/1FAIpQLSf0GNosu3pkbfXwBcBV8xeO8Kj6-XSDnBoyLEZd_fMZykdqcg/viewform?usp=sf_link ",
+        "endsOn": "10:00 PM",
+        "id": "9655000",
+        "imagePath": "930b2db5-3bcd-4181-85db-b5cd58607d8cfa7e594b-7675-428e-9391-58200450525e.png",
+        "index": 27,
+        "institutionId": 4753,
+        "latitude": "40.502640",
+        "location": "College Avenue Student Center Room 109",
+        "longitude": "-74.451830",
+        "name": "Winter Wonderland ",
+        "organizationId": 330483,
+        "organizationIds": [
+            "244601",
+            "330483"
+        ],
+        "organizationName": "Arts and Music Undergraduate Service Education",
+        "organizationNames": [
+            "Asian Pacific American Medical Student Association ",
+            "Arts and Music Undergraduate Service Education"
+        ],
+        "organizationProfilePicture": "1b7ec609-4545-4c79-af37-65ad1f7b1343383f2624-ccb9-4006-8bfb-76d922ffb6de.png",
+        "recScore": null,
+        "startsOn": "December 08 | 07:30 PM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.91211,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5343"
+        ],
+        "categoryNames": [
+            "Entertainment"
+        ],
+        "description": "Join Rutgers Unplugged, Chess and DnD club for our semester-ly Nerd Night! There will be free pizza, drinks, snacks and tons of board games to play. Come play some old classics like Catan, Uno, Monopoly and chess or try something entirely new! All are welcome! New to the event this year is a short game of Bingo. Hope to see you there! ",
+        "endsOn": "11:45 PM",
+        "id": "9660319",
+        "imagePath": "3f03e974-2e7e-464f-9001-5dca99321505775dbbc0-00d0-4e03-917b-ef2512a3cabd.png",
+        "index": 28,
+        "institutionId": 4753,
+        "latitude": "40.523110",
+        "location": "Busch Student Center - International Lounge ",
+        "longitude": "-74.458630",
+        "name": "Nerd Night Fall 2023",
+        "organizationId": 123191,
+        "organizationIds": [
+            "123169",
+            "123191",
+            "123441"
+        ],
+        "organizationName": "Unplugged - The Board Gaming Club",
+        "organizationNames": [
+            "Roll for Initiative: the Rutgers Dungeons & Dragons Club",
+            "Unplugged - The Board Gaming Club",
+            "Chess Club (Rutgers University)"
+        ],
+        "organizationProfilePicture": "740edb03-f13f-4809-a2ff-b16490c32e11ccda2f58-0a28-48fa-967c-4428c94b4945.png",
+        "recScore": null,
+        "startsOn": "December 08 | 06:30 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.81018,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5332",
+            "5337"
+        ],
+        "categoryNames": [
+            "Banquet/Food or Culinary",
+            "Cultural Performance"
+        ],
+        "description": "Freestyle is our annual talent showcase that celebrates the rich diversity, talented voices, and extraordinary achievements of the Rutgers Asian American community.",
+        "endsOn": "11:00 PM",
+        "id": "9660510",
+        "imagePath": "be779c42-2e4a-45c2-9fc2-e87ab353b03f1b97e9bb-f299-47cb-971a-3188a5225103.png",
+        "index": 29,
+        "institutionId": 4753,
+        "latitude": "40.523540",
+        "location": "Livingston Student Center",
+        "longitude": "-74.437180",
+        "name": "TASA Presents: Freestyle - A Past Life",
+        "organizationId": 122876,
+        "organizationIds": [],
+        "organizationName": "Taiwanese American Student Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "7b123e16-e843-4ce3-b897-3b066938a07b98f76fe2-1b3e-4a94-8ba5-e0836c4bce8c.jpg",
+        "recScore": null,
+        "startsOn": "December 09 | 05:30 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.72802,
         "benefitNames": [
             "Free Food"
         ],
@@ -1278,7 +1039,7 @@
         "endsOn": "01:00 PM",
         "id": "9528021",
         "imagePath": "2bdc6b18-c109-439a-81b7-86a2636aebbd45b3ed14-04ea-4401-93d8-96ab066b57fd.png",
-        "index": 38,
+        "index": 30,
         "institutionId": 4753,
         "latitude": null,
         "location": "Livi Gathering Hall",
@@ -1296,7 +1057,37 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.50355,
+        "@search.score": 99.6212,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "DONUT mind if I do! Stop by RUPA's purple tent to enjoy delicious and FREE fresh donuts and cider as you prepare for final exams. Come WHILE SUPPLIES LAST!",
+        "endsOn": "03:00 PM",
+        "id": "9659113",
+        "imagePath": "1a4be08e-02ae-4ddd-bfe5-bcf1cf37d579e9968744-e464-40e6-8788-0e6920443fd9.png",
+        "index": 31,
+        "institutionId": 4753,
+        "latitude": "40.485680",
+        "location": "Douglass College Hall Bus Stop",
+        "longitude": "-74.437750",
+        "name": "RUPA Presents: Cider and Donuts",
+        "organizationId": 127461,
+        "organizationIds": [],
+        "organizationName": "Rutgers University Programming Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "424c475d-2e22-40f8-8a87-ffbb039eed79af749958-3db3-47b6-aca8-ffed8e0137f1.jpg",
+        "recScore": null,
+        "startsOn": "December 11 | 12:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.59891,
         "benefitNames": [
             "Free Food"
         ],
@@ -1308,15 +1099,15 @@
         "categoryNames": [
             "Political/Social Action Public Forum/Speak Out"
         ],
-        "description": "Please join us in the screening and discussion of the documentary Spaces of Exception (2018) directed by Matt Peterson and Malek Rasamny. Spaces of Exception investigates and juxtaposes the struggles, communities, and spaces of the American Indian reservation and the Palestinian refugee camp. The film was shot from 2014 to 2017 in Arizona, New Mexico, New York, and South Dakota, as well as in Lebanon and the West Bank. It is an attempt to understand the significance of the land\u2014its memory and divisions\u2014and the conditions for life, community, and sovereignty.",
+        "description": "Please join us in the screening and discussion of the documentary Spaces of Exception (2018) directed by Matt Peterson and Malek Rasamny. Spaces of Exception investigates and juxtaposes the struggles, communities, and spaces of the American Indian reservation and the Palestinian refugee camp. The film was shot from 2014 to 2017 in Arizona, New Mexico, New York, and South Dakota, as well as in Lebanon and the West Bank. It is an attempt to understand the significance of the land\u2014its memory and divisions\u2014and the conditions for life, community, and sovereignty.   ***Registration form for non-Rutgers students: https://forms.gle/6Xn1YcRjucFH7g2a6 ***",
         "endsOn": "08:00 PM",
         "id": "9627892",
-        "imagePath": null,
-        "index": 39,
+        "imagePath": "5c8ca649-9d2a-4ec4-9e53-95e14e9e6c876e4101b1-bee2-49fe-931c-b4f182207ee9.png",
+        "index": 32,
         "institutionId": 4753,
-        "latitude": null,
-        "location": "TBA",
-        "longitude": null,
+        "latitude": "40.492990",
+        "location": "Gov. James J. Florio Special Events Forum, Civic Square Building",
+        "longitude": "-74.445230",
         "name": "Spaces of Exception: Filmscreening + Conversation",
         "organizationId": 332408,
         "organizationIds": [],
@@ -1330,7 +1121,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.48982,
+        "@search.score": 99.58553,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1342,8 +1133,8 @@
         "description": "Our last and biggest event of the semester with food, crafts for you to keep, and more!   Follow us on Instagram and Facebook for updates and information about the organization: @rucraftyy | RUcrafttocure Contact us at rucrafttocure@gmail.com",
         "endsOn": "09:00 PM",
         "id": "9381183",
-        "imagePath": null,
-        "index": 40,
+        "imagePath": "8d557638-fc55-4164-948d-8d1cb0534832885fefdc-3a7b-4191-bf3e-248833784a32.png",
+        "index": 33,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "BSC Room 174",
@@ -1361,7 +1152,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.27885,
+        "@search.score": 99.514114,
         "benefitNames": [
             "Free Food"
         ],
@@ -1369,20 +1160,124 @@
         "branchIds": [],
         "categoryIds": [],
         "categoryNames": [],
-        "description": "'Tis the season to be jolly, and we've got the perfect way to spread the holiday cheer. You're invited to our spectacular Holiday Party, and we can't wait to celebrate with you! Don't miss out on this magical gathering. RSVP now and let us know if you can make it. We look forward to celebrating the holidays with you and creating lasting memories together.",
+        "description": "DONUT mind if I do! Stop by RUPA's purple tent to enjoy delicious and FREE fresh donuts and cider as you prepare for final exams. Come WHILE SUPPLIES LAST!",
+        "endsOn": "03:00 PM",
+        "id": "9659114",
+        "imagePath": "1a4be08e-02ae-4ddd-bfe5-bcf1cf37d579e9968744-e464-40e6-8788-0e6920443fd9.png",
+        "index": 34,
+        "institutionId": 4753,
+        "latitude": "40.479090",
+        "location": "Cook Biel Road Bus Stop",
+        "longitude": "-74.431380",
+        "name": "RUPA Presents: Cider and Donuts",
+        "organizationId": 127461,
+        "organizationIds": [],
+        "organizationName": "Rutgers University Programming Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "424c475d-2e22-40f8-8a87-ffbb039eed79af749958-3db3-47b6-aca8-ffed8e0137f1.jpg",
+        "recScore": null,
+        "startsOn": "December 12 | 12:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.40676,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "DONUT mind if I do! Stop by RUPA's purple tent to enjoy delicious and FREE fresh donuts and cider as you prepare for final exams. Come WHILE SUPPLIES LAST!",
+        "endsOn": "03:00 PM",
+        "id": "9659115",
+        "imagePath": "1a4be08e-02ae-4ddd-bfe5-bcf1cf37d579e9968744-e464-40e6-8788-0e6920443fd9.png",
+        "index": 35,
+        "institutionId": 4753,
+        "latitude": "40.502640",
+        "location": "College Ave & Morrell Street",
+        "longitude": "-74.451830",
+        "name": "RUPA Presents: Cider and Donuts",
+        "organizationId": 127461,
+        "organizationIds": [],
+        "organizationName": "Rutgers University Programming Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "424c475d-2e22-40f8-8a87-ffbb039eed79af749958-3db3-47b6-aca8-ffed8e0137f1.jpg",
+        "recScore": null,
+        "startsOn": "December 13 | 12:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.3754,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5346"
+        ],
+        "categoryNames": [
+            "General Organization Meeting"
+        ],
+        "description": "Join us for holiday cookie decorating! All are welcome!",
+        "endsOn": "08:30 PM",
+        "id": "9662646",
+        "imagePath": "bb53d2a6-c603-4c35-a6de-0d9748a9e7e613cc1753-f439-4810-a18f-cc8b180458f1.png",
+        "index": 36,
+        "institutionId": 4753,
+        "latitude": "40.502640",
+        "location": "College Avenue Student Center Room 108",
+        "longitude": "-74.451830",
+        "name": "Holiday Cookie Decorating",
+        "organizationId": 198862,
+        "organizationIds": [],
+        "organizationName": "Women Empowerment Through Health and Self-Love ",
+        "organizationNames": [],
+        "organizationProfilePicture": "c2f63c70-0206-4dab-b77e-0b428832372c4f574449-f9ad-48a8-abed-980999b7ee73.png",
+        "recScore": null,
+        "startsOn": "December 13 | 07:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.379875,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "GSA, MBGSO & Rutgers Seeding Labs Present - The Holiday Party ! 'Tis the season to be jolly, and we've got the perfect way to spread the holiday cheer. You're invited to our spectacular Holiday Party, and we can't wait to celebrate with you! Don't miss out on this magical gathering. RSVP now and let us know if you can make it. We look forward to celebrating the holidays with you and creating lasting memories together.",
         "endsOn": "09:00 PM",
         "id": "9590213",
-        "imagePath": "818522bd-eef5-440f-821e-bace648b6bdebbe86455-fd88-4422-997f-a9097c660efa.pdf",
-        "index": 41,
+        "imagePath": "9cee1e7a-8972-4559-b6f5-b4bb7e13d51b040bab7c-3680-4826-8439-8953cc3cf080.png",
+        "index": 37,
         "institutionId": 4753,
         "latitude": "40.523450",
         "location": "LSC Livingston Hall",
         "longitude": "-74.437200",
         "name": "GSA Holiday Party",
         "organizationId": 312665,
-        "organizationIds": [],
+        "organizationIds": [
+            "312665",
+            "330441",
+            "344053"
+        ],
         "organizationName": "Graduate Student Association (GSA)",
-        "organizationNames": [],
+        "organizationNames": [
+            "Graduate Student Association (GSA)",
+            "Molecular Biosciences (Graduate Student Organization)",
+            "Rutgers Seeding Labs (Graduate Organization)"
+        ],
         "organizationProfilePicture": "3c4e2e1a-5a20-4bbe-a0b7-ed05eb2f14083c6b2a18-a7ac-437d-8d37-9d456bd2afea.png",
         "recScore": null,
         "startsOn": "December 13 | 06:00 PM",
@@ -1391,7 +1286,542 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 89.62991,
+        "@search.score": 99.38436,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5334",
+            "5353"
+        ],
+        "categoryNames": [
+            "Community Service Event on Campus",
+            "Seasonal/Holiday"
+        ],
+        "description": "Join us for Rel\u00e1jate on Wednesday, December 13, 2023 from 5PM-10PM at the Center for Latino Arts and Culture. We will be hosting various wellness sessions for all to attend like\u2026 \ud83d\udcd3 Journaling Session \u270d\ud83c\udffc\ud83c\udfa8 Community Canvas Painting \ud83d\udd8c\ufe0f\ud83c\udf75 Make Your Own Herbal Packets & Stress Balls \ud83c\udf31 Make sure you take the time to the lock in and study throughout the night on the 3rd Floor! \ud83d\udcda but WAIT\u261d\ud83c\udffd There\u2019s more! \ud83d\udea8COMMUNITY SERVICE OPPORTUNITY\ud83d\udea8This year, we are so excited to announce that for every two (2) holiday cards made during our holiday sweets and smiles session, you\u2019ll receive one (1) hour of community service. All candy grams will be donated to children at the RWJBarnabas Health - Children\u2019s Soecialized Hospital in New Brunswick. & we\u2019ll be serving free food! \ud83c\udf7d\ufe0f We hope you can join us make this night one to remember in community \ud83e\udec2\ud83e\udd0d",
+        "endsOn": "10:00 PM",
+        "id": "9656686",
+        "imagePath": "d57dec12-1d11-4f54-8c1c-517436ab516e624bb151-3670-4ac1-8709-511811664190.png",
+        "index": 38,
+        "institutionId": 4753,
+        "latitude": "40.504170",
+        "location": "Center for Latino Arts and Culture ",
+        "longitude": "-74.453510",
+        "name": "Rel\u00e1jate - Holiday Sweets and Smiles",
+        "organizationId": 124774,
+        "organizationIds": [],
+        "organizationName": "Latino Student Council",
+        "organizationNames": [],
+        "organizationProfilePicture": "47fdd2b0-e6ac-4468-bf11-f4310972cc69351d644d-f88c-4f33-84cd-62d2393a717c.png",
+        "recScore": null,
+        "startsOn": "December 13 | 05:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.29913,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5340"
+        ],
+        "categoryNames": [
+            "Educational Conference/Seminar/Workshop/Panel"
+        ],
+        "description": "Ready for a front-row seat to the wonderful research BME has in store ? The 5th Annual BME Symposium on December 14, 2023, from 12:30-5:00 PM  is your VIP pass to dive deep into the incredible world of Biomedical Engineering at Rutgers. Showcase Your Genius: Whether you're a presenter or an avid supporter, this is the stage for our BME stars to shine. Let's flaunt what we've got! Epic Conversations: Expect mind-blowing discussions that'll spark ideas and fuel collaborations. This is where innovation happens, and you're invited to be a part of it. Connect & Conquer: It's not just about the science; it's about the people. Meet like-minded BME enthusiasts, forge connections, and who knows, maybe lay the groundwork for future breakthroughs. Register Here: https://docs.google.com/forms/d/e/1FAIpQLSd9E4R3LgqiYTucqkJkVdJFayabBqy5JSpdz8OZIgLXivfc3A/viewform",
+        "endsOn": "05:30 PM",
+        "id": "9646055",
+        "imagePath": "e3be4222-c442-4576-97f6-b7fc660f285d6aee0252-1538-4492-9b89-89fed0035264.png",
+        "index": 39,
+        "institutionId": 4753,
+        "latitude": "40.524430",
+        "location": "Biomedical Engineering Building Room 106",
+        "longitude": "-74.460600",
+        "name": "5th Annual BESS Symposium ",
+        "organizationId": 333221,
+        "organizationIds": [],
+        "organizationName": "Biomedical Engineering Student Society (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "c740dc6b-b8d8-44ae-a83f-e49906d1854750eb2d00-6a0d-4dfa-a0e2-3056bea5f4b6.jpg",
+        "recScore": null,
+        "startsOn": "December 14 | 12:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.26769,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Join us for Bingo, Hot Cocoa, and Cookie Decorating in the Frelinghuysen Ground Floor Lounge!",
+        "endsOn": "09:00 PM",
+        "id": "9662759",
+        "imagePath": "118395de-491f-43f8-93dd-e3974ca646ee23f0412b-17b5-4128-bb9b-25c77d52130f.png",
+        "index": 40,
+        "institutionId": 4753,
+        "latitude": "-33.877850",
+        "location": "Frelinghuysen Hall",
+        "longitude": "151.205440",
+        "name": "Frelinghuysen Holiday Party",
+        "organizationId": 132670,
+        "organizationIds": [],
+        "organizationName": "Residence Life: College Avenue - Frelinghuysen",
+        "organizationNames": [],
+        "organizationProfilePicture": "29a61ac4-62bc-4357-bafa-48e5294de7506c2fd22f-b60f-4567-88d9-5aa2618453e3.jpg",
+        "recScore": null,
+        "startsOn": "December 14 | 07:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.20924,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
+        "endsOn": "12:00 PM",
+        "id": "9651433",
+        "imagePath": "59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
+        "index": 41,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "MSE Coffee lounge",
+        "longitude": null,
+        "name": "MSE Fuel for Finals",
+        "organizationId": 333616,
+        "organizationIds": [],
+        "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
+        "recScore": null,
+        "startsOn": "December 15 | 08:00 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.19574,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "20311"
+        ],
+        "categoryNames": [
+            "Graduate Student Organization Event"
+        ],
+        "description": "Join us to celebrate the end of the academic year and share your research in Spanish with our colleagues in the Spanish & Portuguese Department. Pizza will be served. Please RSVP if you are willing to join in person or in zoom, and indicate any allergies. RSVP fran cantero at fc390@spanport.rutgers.edu December 15, 2023 | 11 AM-1PM AB ACADEMIC BUILDING WEST 5TH FLOOR or ON ZOOM Rutgers University, New Brunswick",
+        "endsOn": "01:00 PM",
+        "id": "9654953",
+        "imagePath": "cead5592-6f42-436a-b9a8-f1043556faba53b5425c-6503-4575-9df9-fdfafb3996da.png",
+        "index": 42,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Spanish & Portuguese Department",
+        "longitude": null,
+        "name": "Research & Pizza (Hybrid)",
+        "organizationId": 333226,
+        "organizationIds": [],
+        "organizationName": "Literary Studies in Spanish Organization (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "36e3f400-e3d9-498c-9e11-a6fd491ff9dbe0e46501-1305-47a4-a727-db77f0d0012a.jpg",
+        "recScore": null,
+        "startsOn": "December 15 | 11:00 AM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 98.88406,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
+        "endsOn": "09:00 AM",
+        "id": "9651434",
+        "imagePath": "59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
+        "index": 43,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "MSE Coffee lounge",
+        "longitude": null,
+        "name": "MSE Fuel for Finals",
+        "organizationId": 333616,
+        "organizationIds": [],
+        "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
+        "recScore": null,
+        "startsOn": "December 18 | 08:00 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 98.77512,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
+        "endsOn": "09:00 AM",
+        "id": "9651435",
+        "imagePath": "59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
+        "index": 44,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "MSE Coffee lounge",
+        "longitude": null,
+        "name": "MSE Fuel for Finals",
+        "organizationId": 333616,
+        "organizationIds": [],
+        "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
+        "recScore": null,
+        "startsOn": "December 19 | 08:00 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 98.66591,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
+        "endsOn": "09:00 AM",
+        "id": "9651436",
+        "imagePath": "59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
+        "index": 45,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "MSE Coffee lounge",
+        "longitude": null,
+        "name": "MSE Fuel for Finals",
+        "organizationId": 333616,
+        "organizationIds": [],
+        "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
+        "recScore": null,
+        "startsOn": "December 20 | 08:00 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 98.55641,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
+        "endsOn": "09:00 AM",
+        "id": "9651437",
+        "imagePath": "59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
+        "index": 46,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "MSE Coffee lounge",
+        "longitude": null,
+        "name": "MSE Fuel for Finals",
+        "organizationId": 333616,
+        "organizationIds": [],
+        "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
+        "recScore": null,
+        "startsOn": "December 21 | 08:00 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 98.44663,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
+        "endsOn": "09:00 AM",
+        "id": "9651438",
+        "imagePath": "59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
+        "index": 47,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "MSE Coffee lounge",
+        "longitude": null,
+        "name": "MSE Fuel for Finals",
+        "organizationId": 333616,
+        "organizationIds": [],
+        "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
+        "recScore": null,
+        "startsOn": "December 22 | 08:00 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 95.435425,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5105",
+            "5354"
+        ],
+        "categoryNames": [
+            "Community (Residence Life)",
+            "Special Interest"
+        ],
+        "description": "Join Douglass students and staff by the fireplace with cozy snacks and a warm cup of coffee to learn about your housing options for 2024. Interested in the Global Village, Jameson, Henderson apartments, or Bunting-Cobb STEM living-learning community? Are you a Douglass WiSE student living in a Busch living-learning community and interested in a continued opportunity for this coming fall? Get the inside scoop from students who have lived where you would like to, learn about the Douglass housing timeline and have your questions answered.  Not a Douglass student but interested in living on Douglass?? Come learn about your options and why you should choose Douglass for your home away from home.",
+        "endsOn": "08:00 PM",
+        "id": "9650287",
+        "imagePath": "4f576928-823e-42b5-8fd5-f5045522af8323cfe0e1-eea5-4156-b296-50b59bb1342a.png",
+        "index": 48,
+        "institutionId": 4753,
+        "latitude": "40.484150",
+        "location": "Kathleen W. Ludgwig Building, fireside lounge",
+        "longitude": "-74.439000",
+        "name": "Get Cozy at Douglass-Housing Coffee Chat",
+        "organizationId": 234289,
+        "organizationIds": [
+            "124761",
+            "234289"
+        ],
+        "organizationName": "Enrollment, Scholarship, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC",
+        "organizationNames": [
+            "Douglass Student Recruitment Network",
+            "Enrollment, Scholarship, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC"
+        ],
+        "organizationProfilePicture": "f6859e93-6894-4495-8bac-0f8057d148a4f2a1faee-e455-43cd-9f4f-6110049c7d71.png",
+        "recScore": null,
+        "startsOn": "January 17 | 07:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 94.75216,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5105",
+            "5354"
+        ],
+        "categoryNames": [
+            "Community (Residence Life)",
+            "Special Interest"
+        ],
+        "description": "Join Douglass students and staff by the fireplace with cozy snacks and a warm cup of coffee to learn about your housing options for 2024. Interested in the Global Village, Jameson, Henderson apartments, or Bunting-Cobb STEM living-learning community? Are you a Douglass WiSE student living in a Busch living-learning community and interested in a continued opportunity for this coming fall? Get the inside scoop from students who have lived where you would like to, learn about the Douglass housing timeline and have your questions answered.  Not a Douglass student but interested in living on Douglass?? Come learn about your options and why you should choose Douglass for your home away from home.",
+        "endsOn": "02:00 PM",
+        "id": "9650288",
+        "imagePath": "4f576928-823e-42b5-8fd5-f5045522af8323cfe0e1-eea5-4156-b296-50b59bb1342a.png",
+        "index": 49,
+        "institutionId": 4753,
+        "latitude": "40.484150",
+        "location": "Kathleen W. Ludwig Building, fireside lounge",
+        "longitude": "-74.439000",
+        "name": "Get Cozy at Douglass-Housing Coffee Chat",
+        "organizationId": 234289,
+        "organizationIds": [
+            "124761",
+            "234289"
+        ],
+        "organizationName": "Enrollment, Scholarship, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC",
+        "organizationNames": [
+            "Douglass Student Recruitment Network",
+            "Enrollment, Scholarship, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC"
+        ],
+        "organizationProfilePicture": "f6859e93-6894-4495-8bac-0f8057d148a4f2a1faee-e455-43cd-9f4f-6110049c7d71.png",
+        "recScore": null,
+        "startsOn": "January 23 | 01:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 94.37621,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Welcome back! This week is opportunity to warm up with some delicious hot cocoa while meeting new friends.",
+        "endsOn": "05:00 PM",
+        "id": "9652974",
+        "imagePath": "a19182d2-58e7-4b2f-a4a2-bc13fdf106d4b2ba2acb-0217-433a-861a-83c1ccac34a2.png",
+        "index": 50,
+        "institutionId": 4753,
+        "latitude": "40.523540",
+        "location": "Livingston Student Center Coffeehouse, Livingston Campus ",
+        "longitude": "-74.437180",
+        "name": "Friendship Fridays: Hot Cocoa and Conversation ",
+        "organizationId": 257221,
+        "organizationIds": [],
+        "organizationName": "Rutgers Global (Department at Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "a96f5e6b-9a7f-4935-bf18-df189b160627bb86fe92-c4cb-4771-b25b-64a8479a70fb.png",
+        "recScore": null,
+        "startsOn": "January 26 | 04:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 93.52197,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5332"
+        ],
+        "categoryNames": [
+            "Banquet/Food or Culinary"
+        ],
+        "description": "Join us for a live cooking demonstration to learn how to make some easy and affordable, crowd-pleasing snacks for next Sunday's big football game. Space is limited - attendees must RSVP on Get Involved.",
+        "endsOn": "05:00 PM",
+        "id": "9652997",
+        "imagePath": "5a0608be-9c2f-4676-81cd-251354aeb7dcffa446de-6981-415b-8b31-bf26ed6b9f19.png",
+        "index": 51,
+        "institutionId": 4753,
+        "latitude": "40.498790",
+        "location": "Rutgers Global",
+        "longitude": "-74.447860",
+        "name": "Friendship Fridays: Cooking for a Crowd",
+        "organizationId": 257221,
+        "organizationIds": [],
+        "organizationName": "Rutgers Global (Department at Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "a96f5e6b-9a7f-4935-bf18-df189b160627bb86fe92-c4cb-4771-b25b-64a8479a70fb.png",
+        "recScore": null,
+        "startsOn": "February 02 | 04:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 92.65041,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "This week, join us to decorate some delicious and festive Valentine's Day cookies! ",
+        "endsOn": "05:00 PM",
+        "id": "9653004",
+        "imagePath": "4477655f-32bf-41b8-94f8-59b78659d3c68c46325a-c5e5-49c3-9122-29e3440fbef1.png",
+        "index": 52,
+        "institutionId": 4753,
+        "latitude": "40.498790",
+        "location": "Rutgers Global",
+        "longitude": "-74.447860",
+        "name": "Friendship Fridays: Cookie Decorating",
+        "organizationId": 257221,
+        "organizationIds": [],
+        "organizationName": "Rutgers Global (Department at Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "a96f5e6b-9a7f-4935-bf18-df189b160627bb86fe92-c4cb-4771-b25b-64a8479a70fb.png",
+        "recScore": null,
+        "startsOn": "February 09 | 04:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 92.26083,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5332",
+            "5341"
+        ],
+        "categoryNames": [
+            "Banquet/Food or Culinary",
+            "Educational Lecture"
+        ],
+        "description": "Gyoza, wontons, momos, ravioli, pierogi, empanadas... there are so many dumpling varieties across the globe.  Join us for a short lecture about why dumplings are found around the world, and then stay to sample the many international versions of these little bundles of goodness.   *You must register on getINVOLVED if you wish to attend this event.  Space is limited.* ",
+        "endsOn": "07:30 PM",
+        "id": "9649316",
+        "imagePath": "fec3e0b1-5d55-4f68-90e5-c032c51a13954d97eded-0fd8-44bc-b058-f1100105d662.png",
+        "index": 53,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "College Avenue Student Center - Multipurpose Room",
+        "longitude": null,
+        "name": "Dumplings Around the World",
+        "organizationId": 257221,
+        "organizationIds": [],
+        "organizationName": "Rutgers Global (Department at Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "a96f5e6b-9a7f-4935-bf18-df189b160627bb86fe92-c4cb-4771-b25b-64a8479a70fb.png",
+        "recScore": null,
+        "startsOn": "February 12 | 06:00 PM",
+        "status": "Approved",
+        "theme": "Cultural",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 90.97249,
         "benefitNames": [
             "Free Food"
         ],
@@ -1403,7 +1833,7 @@
         "endsOn": "07:00 PM",
         "id": "9194302",
         "imagePath": "6b181eed-8b63-44df-832c-19643c9deb80541ada64-3dc8-40f5-8b2f-d7c2ecbf9860.png",
-        "index": 42,
+        "index": 54,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -1421,7 +1851,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.57126,
+        "@search.score": 89.94677,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1441,7 +1871,7 @@
         "endsOn": "03:00 PM",
         "id": "9114321",
         "imagePath": "9fc74de6-d629-479e-8c6d-95dcdd667f5983ae42f5-c301-49e5-a4eb-c75b581b4422.png",
-        "index": 43,
+        "index": 55,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center",
@@ -1459,7 +1889,37 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.63666,
+        "@search.score": 89.92444,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "This week, join us for an end of winter gathering. Students will be able to chat with others and enjoy foods from around the world.  ",
+        "endsOn": "05:00 PM",
+        "id": "9653018",
+        "imagePath": "4af9ca69-db34-4933-9858-1cbdeabb345af1933e70-ab26-4913-a76c-e136d82454f0.png",
+        "index": 56,
+        "institutionId": 4753,
+        "latitude": "40.523540",
+        "location": "Gathering Lounge, Livingston Student Center",
+        "longitude": "-74.437180",
+        "name": "Friendship Fridays: Winter International Social ",
+        "organizationId": 257221,
+        "organizationIds": [],
+        "organizationName": "Rutgers Global (Department at Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "a96f5e6b-9a7f-4935-bf18-df189b160627bb86fe92-c4cb-4771-b25b-64a8479a70fb.png",
+        "recScore": null,
+        "startsOn": "March 01 | 04:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 86.1417,
         "benefitNames": [
             "Free Food"
         ],
@@ -1471,7 +1931,7 @@
         "endsOn": "06:30 PM",
         "id": "9194415",
         "imagePath": "31ade161-da6d-47ec-862a-bd138bdfd286daefd904-67fd-4235-8825-cf3ddcd57439.png",
-        "index": 44,
+        "index": 57,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -1489,7 +1949,37 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.08399,
+        "@search.score": 86.004295,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Join us for some fun and games.  Feel free to bring your favorite game to share with others or play one of the many games that we will have on hand. ",
+        "endsOn": "05:00 PM",
+        "id": "9653034",
+        "imagePath": "b14a0f05-909a-472a-99b2-5178bcb71ba08ffaa125-7fbd-4bcb-abdb-1574a331fd00.png",
+        "index": 58,
+        "institutionId": 4753,
+        "latitude": "40.523110",
+        "location": "International Lounge, Busch Student Center",
+        "longitude": "-74.458630",
+        "name": "Friendship Fridays: Game Night",
+        "organizationId": 257221,
+        "organizationIds": [],
+        "organizationName": "Rutgers Global (Department at Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "a96f5e6b-9a7f-4935-bf18-df189b160627bb86fe92-c4cb-4771-b25b-64a8479a70fb.png",
+        "recScore": null,
+        "startsOn": "March 29 | 04:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 84.64339,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1507,7 +1997,7 @@
         "endsOn": "09:00 PM",
         "id": "9161676",
         "imagePath": "f6bb8221-731c-4f85-889a-26115dd8555664f7986e-e0b5-4783-80bc-b56bc9eb5c94.png",
-        "index": 45,
+        "index": 59,
         "institutionId": 4753,
         "latitude": "40.486560",
         "location": "Voorhees Chapel ",
@@ -1522,6 +2012,36 @@
         "startsOn": "April 07 | 07:00 PM",
         "status": "Approved",
         "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 81.68378,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Celebrate the end of the semester and warmer weather with our annual ice cream social.",
+        "endsOn": "05:00 PM",
+        "id": "9653060",
+        "imagePath": "2e5718f4-0e63-485d-8bab-1bf8982e688ce682e854-e80a-4e2b-98b7-fc6cd3cd9c2f.png",
+        "index": 60,
+        "institutionId": 4753,
+        "latitude": "40.498790",
+        "location": "Rutgers Global",
+        "longitude": "-74.447860",
+        "name": "Friendship Fridays: Ice Cream Social",
+        "organizationId": 257221,
+        "organizationIds": [],
+        "organizationName": "Rutgers Global (Department at Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "a96f5e6b-9a7f-4935-bf18-df189b160627bb86fe92-c4cb-4771-b25b-64a8479a70fb.png",
+        "recScore": null,
+        "startsOn": "April 26 | 04:00 PM",
+        "status": "Approved",
+        "theme": "Social",
         "visibility": "Public"
     }
 ]
