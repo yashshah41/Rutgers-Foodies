@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.70373,
+        "@search.score": 99.73225,
         "benefitNames": [
             "Free Food"
         ],
@@ -30,7 +30,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.59684,
+        "@search.score": 99.625435,
         "benefitNames": [
             "Free Food"
         ],
@@ -60,7 +60,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.48969,
+        "@search.score": 99.51836,
         "benefitNames": [
             "Free Food"
         ],
@@ -90,7 +90,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.38228,
+        "@search.score": 99.41101,
         "benefitNames": [
             "Free Food"
         ],
@@ -120,7 +120,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.2746,
+        "@search.score": 99.3034,
         "benefitNames": [
             "Free Food"
         ],
@@ -150,7 +150,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.32283,
+        "@search.score": 96.35368,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -195,7 +195,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.741516,
+        "@search.score": 95.77278,
         "benefitNames": [
             "Free Food"
         ],
@@ -235,7 +235,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.65363,
+        "@search.score": 95.68497,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -280,7 +280,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.28552,
+        "@search.score": 95.31712,
         "benefitNames": [
             "Free Food"
         ],
@@ -310,7 +310,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.44933,
+        "@search.score": 94.48156,
         "benefitNames": [
             "Free Food"
         ],
@@ -344,7 +344,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.59656,
+        "@search.score": 93.629425,
         "benefitNames": [
             "Free Food"
         ],
@@ -374,7 +374,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.2155,
+        "@search.score": 93.24866,
         "benefitNames": [
             "Free Food"
         ],
@@ -410,7 +410,42 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.95586,
+        "@search.score": 93.160706,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5353"
+        ],
+        "categoryNames": [
+            "Seasonal/Holiday"
+        ],
+        "description": "Love making valentines? Need a last-minute gift? Stop by our craft corner and create something special for someone special. Supplies and Candy will be provided!",
+        "endsOn": "01:00 PM",
+        "id": "9676165",
+        "imagePath": null,
+        "index": 12,
+        "institutionId": 4753,
+        "latitude": "40.484720",
+        "location": "Douglass Student Center 2nd Floor Lounge",
+        "longitude": "-74.436620",
+        "name": "Commuter Craft Corner: will u be mine?",
+        "organizationId": 123208,
+        "organizationIds": [],
+        "organizationName": "Student Involvement & Leadership (Office of)",
+        "organizationNames": [],
+        "organizationProfilePicture": "58b4a1fc-77b5-4313-9ca6-022965749f31e939b6dc-0beb-453f-8ad8-fbfd2cddcb9d.jpg",
+        "recScore": null,
+        "startsOn": "February 13 | 11:00 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 91.990005,
         "benefitNames": [
             "Free Food"
         ],
@@ -422,7 +457,7 @@
         "endsOn": "07:00 PM",
         "id": "9194302",
         "imagePath": "6b181eed-8b63-44df-832c-19643c9deb80541ada64-3dc8-40f5-8b2f-d7c2ecbf9860.png",
-        "index": 12,
+        "index": 13,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -440,7 +475,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.849205,
+        "@search.score": 91.88344,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -459,7 +494,7 @@
         "endsOn": "05:00 PM",
         "id": "9670946",
         "imagePath": "26a51f84-eb30-42d3-9719-5a3045a591ec4a1486a4-c80c-4fab-bd76-84bf95d0c058.png",
-        "index": 13,
+        "index": 14,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery Innovation Studio, Lower Level Alexander Library",
@@ -477,7 +512,79 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.953606,
+        "@search.score": 91.85408,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352",
+            "20311"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event",
+            "Graduate Student Organization Event"
+        ],
+        "description": "Come enjoy a graduate student Shabbat dinner at Rutgers Hillel.",
+        "endsOn": "08:30 PM",
+        "id": "9676249",
+        "imagePath": null,
+        "index": 15,
+        "institutionId": 4753,
+        "latitude": "40.500320",
+        "location": "Rutgers Hillel",
+        "longitude": "-74.449540",
+        "name": "Grad Student Shabbat Dinner",
+        "organizationId": 382532,
+        "organizationIds": [],
+        "organizationName": "Graduate Students of Rutgers Hillel",
+        "organizationNames": [],
+        "organizationProfilePicture": "f51d4342-9203-43a1-8cd4-36c395bcc6fca837b31f-08a4-482e-8dd7-61d4d09910b7.jpg",
+        "recScore": null,
+        "startsOn": "February 23 | 07:30 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 91.23841,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5333",
+            "5340"
+        ],
+        "categoryNames": [
+            "Career Fair/Panel",
+            "Educational Conference/Seminar/Workshop/Panel"
+        ],
+        "description": "Stop by for tips and tricks for finding and securing your dream job or internship, and explore Rutgers internship opportunities that exist here on campus! Free food and beverages will be provided.",
+        "endsOn": "04:00 PM",
+        "id": "9676024",
+        "imagePath": null,
+        "index": 16,
+        "institutionId": 4753,
+        "latitude": "40.523540",
+        "location": "Livingston Student Center Coffeehouse",
+        "longitude": "-74.437180",
+        "name": "How to Get Hired!",
+        "organizationId": 123208,
+        "organizationIds": [],
+        "organizationName": "Student Involvement & Leadership (Office of)",
+        "organizationNames": [],
+        "organizationProfilePicture": "58b4a1fc-77b5-4313-9ca6-022965749f31e939b6dc-0beb-453f-8ad8-fbfd2cddcb9d.jpg",
+        "recScore": null,
+        "startsOn": "February 28 | 02:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 90.98856,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -497,7 +604,7 @@
         "endsOn": "03:00 PM",
         "id": "9114321",
         "imagePath": "9fc74de6-d629-479e-8c6d-95dcdd667f5983ae42f5-c301-49e5-a4eb-c75b581b4422.png",
-        "index": 14,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center",
@@ -515,7 +622,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.93179,
+        "@search.score": 90.96677,
         "benefitNames": [
             "Free Food"
         ],
@@ -527,7 +634,7 @@
         "endsOn": "05:00 PM",
         "id": "9653018",
         "imagePath": "4af9ca69-db34-4933-9858-1cbdeabb345af1933e70-ab26-4913-a76c-e136d82454f0.png",
-        "index": 15,
+        "index": 18,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Gathering Lounge, Livingston Student Center",
@@ -545,7 +652,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.24053,
+        "@search.score": 87.27863,
         "benefitNames": [
             "Free Food"
         ],
@@ -557,7 +664,7 @@
         "endsOn": "06:30 PM",
         "id": "9194415",
         "imagePath": "31ade161-da6d-47ec-862a-bd138bdfd286daefd904-67fd-4235-8825-cf3ddcd57439.png",
-        "index": 16,
+        "index": 19,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -575,7 +682,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.10659,
+        "@search.score": 87.14481,
         "benefitNames": [
             "Free Food"
         ],
@@ -587,7 +694,7 @@
         "endsOn": "05:00 PM",
         "id": "9653034",
         "imagePath": "b14a0f05-909a-472a-99b2-5178bcb71ba08ffaa125-7fbd-4bcb-abdb-1574a331fd00.png",
-        "index": 17,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "International Lounge, Busch Student Center",
@@ -605,7 +712,43 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.78067,
+        "@search.score": 86.1048,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352",
+            "20311"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event",
+            "Graduate Student Organization Event"
+        ],
+        "description": "Come enjoy a graduate student Shabbat dinner at Rutgers Hillel.",
+        "endsOn": "09:30 PM",
+        "id": "9676254",
+        "imagePath": null,
+        "index": 21,
+        "institutionId": 4753,
+        "latitude": "40.500320",
+        "location": "Rutgers Hillel",
+        "longitude": "-74.449540",
+        "name": "Grad Student Shabbat Dinner",
+        "organizationId": 382532,
+        "organizationIds": [],
+        "organizationName": "Graduate Students of Rutgers Hillel",
+        "organizationNames": [],
+        "organizationProfilePicture": "f51d4342-9203-43a1-8cd4-36c395bcc6fca837b31f-08a4-482e-8dd7-61d4d09910b7.jpg",
+        "recScore": null,
+        "startsOn": "April 05 | 08:30 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 85.82009,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -623,7 +766,7 @@
         "endsOn": "09:00 PM",
         "id": "9161676",
         "imagePath": "f6bb8221-731c-4f85-889a-26115dd8555664f7986e-e0b5-4783-80bc-b56bc9eb5c94.png",
-        "index": 18,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.486560",
         "location": "Voorhees Chapel ",
@@ -641,7 +784,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.90096,
+        "@search.score": 83.88511,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "20311"
+        ],
+        "categoryNames": [
+            "Graduate Student Organization Event"
+        ],
+        "description": "Come do some jigsaw puzzles on Shabbat afternoon.",
+        "endsOn": "05:00 PM",
+        "id": "9676337",
+        "imagePath": null,
+        "index": 23,
+        "institutionId": 4753,
+        "latitude": "40.500320",
+        "location": "Rutgers Hillel",
+        "longitude": "-74.449540",
+        "name": "Grad Students Jigsaw \ud83e\udde9 Puzzle Break",
+        "organizationId": 382532,
+        "organizationIds": [],
+        "organizationName": "Graduate Students of Rutgers Hillel",
+        "organizationNames": [],
+        "organizationProfilePicture": "f51d4342-9203-43a1-8cd4-36c395bcc6fca837b31f-08a4-482e-8dd7-61d4d09910b7.jpg",
+        "recScore": null,
+        "startsOn": "April 20 | 03:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 82.94311,
         "benefitNames": [
             "Free Food"
         ],
@@ -653,7 +830,7 @@
         "endsOn": "05:00 PM",
         "id": "9653060",
         "imagePath": "2e5718f4-0e63-485d-8bab-1bf8982e688ce682e854-e80a-4e2b-98b7-fc6cd3cd9c2f.png",
-        "index": 19,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
