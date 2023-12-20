@@ -1,70 +1,6 @@
 [
     {
-        "@search.score": 99.97627,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5358"
-        ],
-        "categoryNames": [
-            "Wellness Event"
-        ],
-        "description": "We will be hosting an end-of-year party next Tuesday, December 19 from 6:30-7:30 PM at the Hatchery in Alexander Library (which is on the basement level, once you walk through the Scarlet Latte cafe).   There will be snacks and hot chocolate. We will relax, do arts and crafts, get to know each other, and get a chance to talk more about the club and our plans going into next semester.",
-        "endsOn": "07:30 PM",
-        "id": "9676736",
-        "imagePath": null,
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "Hatchery in Alexander Library (which is on the basement level, once you walk through the Scarlet Latte cafe).",
-        "longitude": null,
-        "name": "End-of-year party ",
-        "organizationId": 376513,
-        "organizationIds": [],
-        "organizationName": "Restorative Leaders (Provisional Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "b26e5ff8-4ecc-453b-a5c7-6c9a96fd3acea89430bb-798c-4fd4-aa5d-2d6c92dde1cc.jpeg",
-        "recScore": null,
-        "startsOn": "December 19 | 06:30 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.916565,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
-        "endsOn": "09:00 AM",
-        "id": "9651436",
-        "imagePath": "59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
-        "index": 1,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "MSE Coffee lounge",
-        "longitude": null,
-        "name": "MSE Fuel for Finals",
-        "organizationId": 333616,
-        "organizationIds": [],
-        "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
-        "recScore": null,
-        "startsOn": "December 20 | 08:00 AM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.81021,
+        "@search.score": 99.83835,
         "benefitNames": [
             "Free Food"
         ],
@@ -76,7 +12,7 @@
         "endsOn": "09:00 AM",
         "id": "9651437",
         "imagePath": "59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
-        "index": 2,
+        "index": 0,
         "institutionId": 4753,
         "latitude": null,
         "location": "MSE Coffee lounge",
@@ -94,7 +30,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.70359,
+        "@search.score": 99.7318,
         "benefitNames": [
             "Free Food"
         ],
@@ -106,7 +42,7 @@
         "endsOn": "09:00 AM",
         "id": "9651438",
         "imagePath": "59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
-        "index": 3,
+        "index": 1,
         "institutionId": 4753,
         "latitude": null,
         "location": "MSE Coffee lounge",
@@ -124,7 +60,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.78215,
+        "@search.score": 96.81234,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -145,7 +81,7 @@
         "endsOn": "08:00 PM",
         "id": "9650287",
         "imagePath": "4f576928-823e-42b5-8fd5-f5045522af8323cfe0e1-eea5-4156-b296-50b59bb1342a.png",
-        "index": 4,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen W. Ludgwig Building, fireside lounge",
@@ -169,7 +105,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.207054,
+        "@search.score": 96.23765,
         "benefitNames": [
             "Free Food"
         ],
@@ -183,7 +119,7 @@
         "endsOn": "08:00 PM",
         "id": "9664887",
         "imagePath": "ae1cf7af-43b5-4d28-9af0-3ccbf997d402facc893a-2d99-4b46-98a7-68ee48563df1.png",
-        "index": 5,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.521020",
         "location": "Allen Hall : 4th Floor Lounge",
@@ -209,7 +145,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.12012,
+        "@search.score": 96.15078,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -230,7 +166,7 @@
         "endsOn": "02:00 PM",
         "id": "9650288",
         "imagePath": "4f576928-823e-42b5-8fd5-f5045522af8323cfe0e1-eea5-4156-b296-50b59bb1342a.png",
-        "index": 6,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen W. Ludwig Building, fireside lounge",
@@ -254,7 +190,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.756,
+        "@search.score": 95.78692,
         "benefitNames": [
             "Free Food"
         ],
@@ -266,7 +202,7 @@
         "endsOn": "05:00 PM",
         "id": "9652974",
         "imagePath": "a19182d2-58e7-4b2f-a4a2-bc13fdf106d4b2ba2acb-0217-433a-861a-83c1ccac34a2.png",
-        "index": 7,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center Coffeehouse, Livingston Campus ",
@@ -284,7 +220,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.73649,
+        "@search.score": 95.767426,
         "benefitNames": [
             "Free Food"
         ],
@@ -302,7 +238,7 @@
         "endsOn": "11:00 PM",
         "id": "9676562",
         "imagePath": "8d38dda0-a940-43c0-b2fd-da738d0cdbf2b180d3ea-f86f-4976-84bb-0c1258116b1e.png",
-        "index": 8,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.502430",
         "location": "Honors College - Druskin/South Lounge",
@@ -330,7 +266,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.92899,
+        "@search.score": 94.96052,
         "benefitNames": [
             "Free Food"
         ],
@@ -346,7 +282,7 @@
         "endsOn": "05:00 PM",
         "id": "9652997",
         "imagePath": "5a0608be-9c2f-4676-81cd-251354aeb7dcffa446de-6981-415b-8b31-bf26ed6b9f19.png",
-        "index": 9,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
@@ -364,7 +300,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.08578,
+        "@search.score": 94.11792,
         "benefitNames": [
             "Free Food"
         ],
@@ -376,7 +312,7 @@
         "endsOn": "05:00 PM",
         "id": "9653004",
         "imagePath": "4477655f-32bf-41b8-94f8-59b78659d3c68c46325a-c5e5-49c3-9122-29e3440fbef1.png",
-        "index": 10,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
@@ -394,7 +330,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.709045,
+        "@search.score": 93.74147,
         "benefitNames": [
             "Free Food"
         ],
@@ -412,7 +348,7 @@
         "endsOn": "07:30 PM",
         "id": "9649316",
         "imagePath": "fec3e0b1-5d55-4f68-90e5-c032c51a13954d97eded-0fd8-44bc-b058-f1100105d662.png",
-        "index": 11,
+        "index": 9,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Avenue Student Center - Multipurpose Room",
@@ -430,7 +366,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.62203,
+        "@search.score": 93.65452,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -447,7 +383,7 @@
         "endsOn": "01:00 PM",
         "id": "9676165",
         "imagePath": null,
-        "index": 12,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center 2nd Floor Lounge",
@@ -465,7 +401,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.464,
+        "@search.score": 92.497375,
         "benefitNames": [
             "Free Food"
         ],
@@ -477,7 +413,7 @@
         "endsOn": "07:00 PM",
         "id": "9194302",
         "imagePath": "6b181eed-8b63-44df-832c-19643c9deb80541ada64-3dc8-40f5-8b2f-d7c2ecbf9860.png",
-        "index": 13,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -495,7 +431,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.3586,
+        "@search.score": 92.39205,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -514,7 +450,7 @@
         "endsOn": "05:00 PM",
         "id": "9670946",
         "imagePath": "26a51f84-eb30-42d3-9719-5a3045a591ec4a1486a4-c80c-4fab-bd76-84bf95d0c058.png",
-        "index": 14,
+        "index": 12,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery Innovation Studio, Lower Level Alexander Library",
@@ -532,7 +468,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.32957,
+        "@search.score": 92.363045,
         "benefitNames": [
             "Free Food"
         ],
@@ -550,7 +486,7 @@
         "endsOn": "08:30 PM",
         "id": "9676249",
         "imagePath": null,
-        "index": 15,
+        "index": 13,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -568,7 +504,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.72071,
+        "@search.score": 91.75467,
         "benefitNames": [
             "Free Food"
         ],
@@ -586,7 +522,7 @@
         "endsOn": "04:00 PM",
         "id": "9676024",
         "imagePath": null,
-        "index": 16,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center Coffeehouse",
@@ -604,7 +540,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.473656,
+        "@search.score": 91.50781,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -624,7 +560,7 @@
         "endsOn": "03:00 PM",
         "id": "9114321",
         "imagePath": "9fc74de6-d629-479e-8c6d-95dcdd667f5983ae42f5-c301-49e5-a4eb-c75b581b4422.png",
-        "index": 17,
+        "index": 15,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center",
@@ -642,7 +578,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.4521,
+        "@search.score": 91.486275,
         "benefitNames": [
             "Free Food"
         ],
@@ -654,7 +590,7 @@
         "endsOn": "05:00 PM",
         "id": "9653018",
         "imagePath": "4af9ca69-db34-4933-9858-1cbdeabb345af1933e70-ab26-4913-a76c-e136d82454f0.png",
-        "index": 18,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Gathering Lounge, Livingston Student Center",
@@ -672,7 +608,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.807175,
+        "@search.score": 87.84437,
         "benefitNames": [
             "Free Food"
         ],
@@ -684,7 +620,7 @@
         "endsOn": "06:30 PM",
         "id": "9194415",
         "imagePath": "31ade161-da6d-47ec-862a-bd138bdfd286daefd904-67fd-4235-8825-cf3ddcd57439.png",
-        "index": 19,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -702,7 +638,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.674995,
+        "@search.score": 87.7123,
         "benefitNames": [
             "Free Food"
         ],
@@ -714,7 +650,7 @@
         "endsOn": "05:00 PM",
         "id": "9653034",
         "imagePath": "b14a0f05-909a-472a-99b2-5178bcb71ba08ffaa125-7fbd-4bcb-abdb-1574a331fd00.png",
-        "index": 20,
+        "index": 18,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "International Lounge, Busch Student Center",
@@ -732,7 +668,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 86.64788,
+        "@search.score": 86.68609,
         "benefitNames": [
             "Free Food"
         ],
@@ -750,7 +686,7 @@
         "endsOn": "09:30 PM",
         "id": "9676254",
         "imagePath": null,
-        "index": 21,
+        "index": 19,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -768,7 +704,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 86.36675,
+        "@search.score": 86.40522,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -786,7 +722,7 @@
         "endsOn": "09:00 PM",
         "id": "9161676",
         "imagePath": "f6bb8221-731c-4f85-889a-26115dd8555664f7986e-e0b5-4783-80bc-b56bc9eb5c94.png",
-        "index": 22,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.486560",
         "location": "Voorhees Chapel ",
@@ -804,7 +740,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.45678,
+        "@search.score": 84.49698,
         "benefitNames": [
             "Free Food"
         ],
@@ -820,7 +756,7 @@
         "endsOn": "05:00 PM",
         "id": "9676337",
         "imagePath": null,
-        "index": 23,
+        "index": 21,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -838,7 +774,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.52735,
+        "@search.score": 83.568436,
         "benefitNames": [
             "Free Food"
         ],
@@ -850,7 +786,7 @@
         "endsOn": "05:00 PM",
         "id": "9653060",
         "imagePath": "2e5718f4-0e63-485d-8bab-1bf8982e688ce682e854-e80a-4e2b-98b7-fc6cd3cd9c2f.png",
-        "index": 24,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
