@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 98.24252,
+        "@search.score": 98.272,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -45,7 +45,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.68675,
+        "@search.score": 97.71661,
         "benefitNames": [
             "Free Food"
         ],
@@ -85,7 +85,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.60276,
+        "@search.score": 97.63269,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -130,7 +130,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.73567,
+        "@search.score": 97.7655,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -165,7 +165,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.25103,
+        "@search.score": 97.281204,
         "benefitNames": [
             "Free Food"
         ],
@@ -195,7 +195,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.23219,
+        "@search.score": 97.262375,
         "benefitNames": [
             "Free Food"
         ],
@@ -241,7 +241,43 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.45256,
+        "@search.score": 96.57906,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352",
+            "5358"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event",
+            "Wellness Event"
+        ],
+        "description": "Get ready for a night of games and laughter at Bhakti Club Game Night! Join us for fun, competition, and good company. Bring your friends and let the games begin! Mantra meditation and free food are there as well. ",
+        "endsOn": "10:00 PM",
+        "id": "9687771",
+        "imagePath": "84fa58c9-d218-4b70-8536-46f5210aa4cf2eefe9e5-2254-45f5-a6dc-a189c503a1fe.png",
+        "index": 6,
+        "institutionId": 4753,
+        "latitude": "40.505370",
+        "location": "Campbell Hall",
+        "longitude": "-74.450950",
+        "name": "Game Night",
+        "organizationId": 121213,
+        "organizationIds": [],
+        "organizationName": "Bhakti - The Higher Taste",
+        "organizationNames": [],
+        "organizationProfilePicture": "bc87b621-d0d3-41e4-98de-340bd4f1cba7ffbd1dae-d57c-445a-8634-e8198067fc7f.jpg",
+        "recScore": null,
+        "startsOn": "February 01 | 08:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 96.48329,
         "benefitNames": [
             "Free Food"
         ],
@@ -257,7 +293,7 @@
         "endsOn": "05:00 PM",
         "id": "9652997",
         "imagePath": "5a0608be-9c2f-4676-81cd-251354aeb7dcffa446de-6981-415b-8b31-bf26ed6b9f19.png",
-        "index": 6,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
@@ -275,7 +311,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.97499,
+        "@search.score": 96.006065,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -288,7 +324,7 @@
         "endsOn": "08:00 PM",
         "id": "9685660",
         "imagePath": "e487ac17-211e-4750-96e9-a0064628401f66172126-b541-48b9-ae21-815fcdd4a587.png",
-        "index": 7,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.478350",
         "location": "PAL Residence Life Office",
@@ -306,7 +342,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.63898,
+        "@search.score": 95.670296,
         "benefitNames": [
             "Free Food"
         ],
@@ -318,7 +354,7 @@
         "endsOn": "05:00 PM",
         "id": "9653004",
         "imagePath": "4477655f-32bf-41b8-94f8-59b78659d3c68c46325a-c5e5-49c3-9122-29e3440fbef1.png",
-        "index": 8,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
@@ -336,7 +372,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.275665,
+        "@search.score": 95.30726,
         "benefitNames": [
             "Free Food"
         ],
@@ -354,7 +390,7 @@
         "endsOn": "07:30 PM",
         "id": "9649316",
         "imagePath": "fec3e0b1-5d55-4f68-90e5-c032c51a13954d97eded-0fd8-44bc-b058-f1100105d662.png",
-        "index": 9,
+        "index": 10,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Avenue Student Center - Multipurpose Room",
@@ -372,7 +408,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.19177,
+        "@search.score": 95.22342,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -389,7 +425,7 @@
         "endsOn": "01:00 PM",
         "id": "9676165",
         "imagePath": null,
-        "index": 10,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center 2nd Floor Lounge",
@@ -407,7 +443,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.07579,
+        "@search.score": 94.10828,
         "benefitNames": [
             "Free Food"
         ],
@@ -419,7 +455,7 @@
         "endsOn": "07:00 PM",
         "id": "9194302",
         "imagePath": "6b181eed-8b63-44df-832c-19643c9deb80541ada64-3dc8-40f5-8b2f-d7c2ecbf9860.png",
-        "index": 11,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -437,7 +473,43 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.97427,
+        "@search.score": 94.098145,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352",
+            "5358"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event",
+            "Wellness Event"
+        ],
+        "description": "Come join us for a night of discussion with Alumni, Anuj Sharma. We will be diving into our souls. Finishing the session off with mantra meditation and free food!",
+        "endsOn": "10:00 PM",
+        "id": "9687833",
+        "imagePath": null,
+        "index": 13,
+        "institutionId": 4753,
+        "latitude": "40.505370",
+        "location": "Campbell Hall",
+        "longitude": "-74.450950",
+        "name": "Alumni Night",
+        "organizationId": 121213,
+        "organizationIds": [],
+        "organizationName": "Bhakti - The Higher Taste",
+        "organizationNames": [],
+        "organizationProfilePicture": "bc87b621-d0d3-41e4-98de-340bd4f1cba7ffbd1dae-d57c-445a-8634-e8198067fc7f.jpg",
+        "recScore": null,
+        "startsOn": "February 22 | 08:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 94.006836,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -456,7 +528,7 @@
         "endsOn": "05:00 PM",
         "id": "9670946",
         "imagePath": "26a51f84-eb30-42d3-9719-5a3045a591ec4a1486a4-c80c-4fab-bd76-84bf95d0c058.png",
-        "index": 12,
+        "index": 14,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery Innovation Studio, Lower Level Alexander Library",
@@ -474,7 +546,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.94632,
+        "@search.score": 93.9789,
         "benefitNames": [
             "Free Food"
         ],
@@ -492,7 +564,7 @@
         "endsOn": "08:30 PM",
         "id": "9676249",
         "imagePath": null,
-        "index": 13,
+        "index": 15,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -510,7 +582,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.360085,
+        "@search.score": 93.39311,
         "benefitNames": [
             "Free Food"
         ],
@@ -528,7 +600,7 @@
         "endsOn": "04:00 PM",
         "id": "9676024",
         "imagePath": null,
-        "index": 14,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center Coffeehouse",
@@ -546,7 +618,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.1223,
+        "@search.score": 93.15551,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -566,7 +638,7 @@
         "endsOn": "03:00 PM",
         "id": "9114321",
         "imagePath": "9fc74de6-d629-479e-8c6d-95dcdd667f5983ae42f5-c301-49e5-a4eb-c75b581b4422.png",
-        "index": 15,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center",
@@ -584,7 +656,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.10156,
+        "@search.score": 93.13479,
         "benefitNames": [
             "Free Food"
         ],
@@ -596,7 +668,7 @@
         "endsOn": "05:00 PM",
         "id": "9653018",
         "imagePath": "4af9ca69-db34-4933-9858-1cbdeabb345af1933e70-ab26-4913-a76c-e136d82454f0.png",
-        "index": 16,
+        "index": 18,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Gathering Lounge, Livingston Student Center",
@@ -614,7 +686,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 89.59956,
+        "@search.score": 89.635605,
         "benefitNames": [
             "Free Food"
         ],
@@ -626,7 +698,7 @@
         "endsOn": "06:30 PM",
         "id": "9194415",
         "imagePath": "31ade161-da6d-47ec-862a-bd138bdfd286daefd904-67fd-4235-8825-cf3ddcd57439.png",
-        "index": 17,
+        "index": 19,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -644,7 +716,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 89.472786,
+        "@search.score": 89.508934,
         "benefitNames": [
             "Free Food"
         ],
@@ -656,7 +728,7 @@
         "endsOn": "05:00 PM",
         "id": "9653034",
         "imagePath": "b14a0f05-909a-472a-99b2-5178bcb71ba08ffaa125-7fbd-4bcb-abdb-1574a331fd00.png",
-        "index": 18,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "International Lounge, Busch Student Center",
@@ -674,7 +746,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.48822,
+        "@search.score": 88.52521,
         "benefitNames": [
             "Free Food"
         ],
@@ -692,7 +764,7 @@
         "endsOn": "09:30 PM",
         "id": "9676254",
         "imagePath": null,
-        "index": 19,
+        "index": 21,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -710,7 +782,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.21891,
+        "@search.score": 88.25613,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -728,7 +800,7 @@
         "endsOn": "09:00 PM",
         "id": "9161676",
         "imagePath": "f6bb8221-731c-4f85-889a-26115dd8555664f7986e-e0b5-4783-80bc-b56bc9eb5c94.png",
-        "index": 20,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.486560",
         "location": "Voorhees Chapel ",
@@ -746,7 +818,47 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 86.3912,
+        "@search.score": 86.68968,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5337",
+            "5348",
+            "5352",
+            "5358"
+        ],
+        "categoryNames": [
+            "Cultural Performance",
+            "Outdoor Event",
+            "Religious/Religious Cultural/Spiritual Event",
+            "Wellness Event"
+        ],
+        "description": "Yoga followed by mantra meditation and free food at the end.",
+        "endsOn": "10:00 PM",
+        "id": "9687769",
+        "imagePath": "5a1432a9-286c-4191-89a2-7d6836524e4232f11504-7be5-4b55-b6a4-a88255567cdc.png",
+        "index": 23,
+        "institutionId": 4753,
+        "latitude": "40.505130",
+        "location": "Deiner Park (by Campbell Hall)",
+        "longitude": "-74.449540",
+        "name": "Yoga Night",
+        "organizationId": 121213,
+        "organizationIds": [],
+        "organizationName": "Bhakti - The Higher Taste",
+        "organizationNames": [],
+        "organizationProfilePicture": "bc87b621-d0d3-41e4-98de-340bd4f1cba7ffbd1dae-d57c-445a-8634-e8198067fc7f.jpg",
+        "recScore": null,
+        "startsOn": "April 18 | 08:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 86.43003,
         "benefitNames": [
             "Free Food"
         ],
@@ -762,7 +874,7 @@
         "endsOn": "05:00 PM",
         "id": "9676337",
         "imagePath": null,
-        "index": 21,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -780,7 +892,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.50309,
+        "@search.score": 85.54273,
         "benefitNames": [
             "Free Food"
         ],
@@ -792,7 +904,7 @@
         "endsOn": "05:00 PM",
         "id": "9653060",
         "imagePath": "2e5718f4-0e63-485d-8bab-1bf8982e688ce682e854-e80a-4e2b-98b7-fc6cd3cd9c2f.png",
-        "index": 22,
+        "index": 25,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
