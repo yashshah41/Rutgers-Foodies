@@ -1,61 +1,6 @@
 [
     {
-        "@search.score": 99.974174,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join the Cook Douglass Campus Residence Life Staff for a Welcome Celebration under the stars! There will be 2 fire pits, s'mores, succulent decorating, hot coco bar, snacks, popcorn, glitter jars and more! We will be located in the main lounges of Nicholas and Woodbury Bunting-Cobb halls and their back patios. Dress warm! Hope to see you there! ",
-        "endsOn": "09:00 PM",
-        "id": "9749123",
-        "imagePath": "dc21db78-c8f4-4923-ac37-cb9ffcf5c7cfd12b4f86-3369-4916-a98a-f44277ce7c0d.pdf",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "WBC and Nicholas Halls",
-        "longitude": null,
-        "name": "Frost Fest",
-        "organizationId": 132662,
-        "organizationIds": [
-            "132662",
-            "132665",
-            "132666",
-            "132667",
-            "132669",
-            "132672",
-            "132674",
-            "132679",
-            "132680",
-            "132681"
-        ],
-        "organizationName": "Residence Life: Cook/Douglass - Jameson",
-        "organizationNames": [
-            "Residence Life: Cook/Douglass - Jameson",
-            "Residence Life: Cook/Douglass - Nicholas",
-            "Residence Life: Cook/Douglass - Perry & Voorhees",
-            "Residence Life: Cook/Douglass - New Gibbons",
-            "Residence Life: Cook/Douglass - Henderson",
-            "Residence Life: Cook/Douglass - Woodbury Bunting-Cobb",
-            "Residence Life: Cook/Douglass - Lippincott Hall",
-            "Residence Life: Cook/Douglass - Helyar",
-            "Residence Life: Cook/Douglass - Katzenbach Hall",
-            "Residence Life: Cook/Douglass - Newell/Starkey Apartments"
-        ],
-        "organizationProfilePicture": "e57d9f42-aac6-4991-a018-d1d80205872335fbb0ef-69a2-4766-8b63-40b7439dbe36.png",
-        "recScore": null,
-        "startsOn": "January 16 | 07:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.867966,
+        "@search.score": 99.896484,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -76,7 +21,7 @@
         "endsOn": "08:00 PM",
         "id": "9650287",
         "imagePath": "4f576928-823e-42b5-8fd5-f5045522af8323cfe0e1-eea5-4156-b296-50b59bb1342a.png",
-        "index": 1,
+        "index": 0,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen W. Ludgwig Building, fireside lounge",
@@ -100,7 +45,51 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.75705,
+        "@search.score": 99.790085,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5105",
+            "5341",
+            "5346",
+            "5352",
+            "5354",
+            "18433"
+        ],
+        "categoryNames": [
+            "Community (Residence Life)",
+            "Educational Lecture",
+            "General Organization Meeting",
+            "Religious/Religious Cultural/Spiritual Event",
+            "Special Interest",
+            "Welcome Week"
+        ],
+        "description": "Join us as we gather to hear a talk by a new speaker each week about Christianity and how it fits into our lives as college students. Stick around for food and fellowship after! ",
+        "endsOn": "10:00 PM",
+        "id": "9759510",
+        "imagePath": "03c6bef7-45e7-41b0-bb84-9290f3e8dffc1785404b-be77-49b3-9895-b1c4bd0bb33e.png",
+        "index": 1,
+        "institutionId": 4753,
+        "latitude": "40.484720",
+        "location": "Douglas Student Center Blue Room ",
+        "longitude": "-74.436620",
+        "name": "Weekly Thursday Meeting!",
+        "organizationId": 121485,
+        "organizationIds": [],
+        "organizationName": "Orthodox Christian Campus Ministries",
+        "organizationNames": [],
+        "organizationProfilePicture": "e70d5dd1-74b6-4181-9221-62aa647331c88986caec-dbee-4012-be0a-7601692c5379.jpg",
+        "recScore": null,
+        "startsOn": "January 18 | 07:00 PM",
+        "status": "Approved",
+        "theme": "Spirituality",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.785645,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -131,7 +120,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.64584,
+        "@search.score": 99.674515,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -170,7 +159,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.440475,
+        "@search.score": 99.469284,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -213,7 +202,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.33294,
+        "@search.score": 99.36182,
         "benefitNames": [
             "Free Food"
         ],
@@ -253,7 +242,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.252106,
+        "@search.score": 99.281044,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -298,7 +287,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.157616,
+        "@search.score": 99.186615,
         "benefitNames": [
             "Free Food"
         ],
@@ -328,7 +317,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.01774,
+        "@search.score": 99.04683,
         "benefitNames": [
             "Free Food"
         ],
@@ -358,7 +347,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.01322,
+        "@search.score": 99.04231,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -393,7 +382,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.00418,
+        "@search.score": 99.03328,
         "benefitNames": [
             "Free Food"
         ],
@@ -401,13 +390,11 @@
         "branchIds": [],
         "categoryIds": [
             "5341",
-            "5352",
-            "7111"
+            "5352"
         ],
         "categoryNames": [
             "Educational Lecture",
-            "Religious/Religious Cultural/Spiritual Event",
-            "Social Event"
+            "Religious/Religious Cultural/Spiritual Event"
         ],
         "description": "\"What does spirituality mean to us?\" is a profound and introspective question that invites individuals to explore and share their personal perspectives on the concept of spirituality in an effort to gain a deeper understanding of it. During the meeting, we will discuss some potential descriptions to capture the depth and diversity of views.",
         "endsOn": "10:00 PM",
@@ -420,9 +407,7 @@
         "longitude": "-74.450950",
         "name": "What Does Spirituality Mean To Us?",
         "organizationId": 121213,
-        "organizationIds": [
-            "121213"
-        ],
+        "organizationIds": [],
         "organizationName": "Bhakti - The Higher Taste",
         "organizationNames": [],
         "organizationProfilePicture": "bc87b621-d0d3-41e4-98de-340bd4f1cba7ffbd1dae-d57c-445a-8634-e8198067fc7f.jpg",
@@ -433,7 +418,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.38002,
+        "@search.score": 99.40887,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -468,7 +453,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.913666,
+        "@search.score": 98.94283,
         "benefitNames": [
             "Free Food"
         ],
@@ -498,7 +483,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.895546,
+        "@search.score": 98.92472,
         "benefitNames": [
             "Free Food"
         ],
@@ -544,7 +529,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.46281,
+        "@search.score": 98.6065,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "20311"
+        ],
+        "categoryNames": [
+            "Graduate Student Organization Event"
+        ],
+        "description": "The Rutgers University SACNAS (Society for the Advancement of Chicanos/Hispanics and Native Americans in Science) invites graduate and undergraduate students to participate in our Research Speed Networking event on January 29th at 6:00pm. We are looking for undergraduate students who are interested in learning more about research being conducted at Rutgers. We are also looking for graduate students (3rd year + only) who are interested in being panelists for this event. The goal of this event is to provide an outlet for our undergraduate community to network with graduate students at Rutgers University in an informal setting.    The event will in the following format: Graduate students serving in our speed-dating panel will be asked to give a short elevator pitch (3 minutes) on their research and experiences in graduate school to their undergraduate pairs for the first hour. Undergraduate students will also have the chance to talk to the research panelists about their experiences in grad school and any other questions they might have. The second half of the event will be dedicated to more in-depth conversations between undergraduates and graduate students with free food.   Any questions? Contact Cathy: cr786@scarletmail.rutgers.edu   Undergraduate RSVP: https://forms.gle/e6AHgtTFWoLi4Qqf8   Grad Student RSVP: https://forms.gle/i9aderDN1rmKVY3t6",
+        "endsOn": "08:00 PM",
+        "id": "9757459",
+        "imagePath": "4820e02b-aa4c-4269-b6c2-f0d709b0cd44c299b236-faf1-4316-9c83-f3bb60a730b8.png",
+        "index": 14,
+        "institutionId": 4753,
+        "latitude": "40.523560",
+        "location": "Ernest Mario School of Pharmacy Room 247",
+        "longitude": "-74.467340",
+        "name": "SACNAS Research Speed Networking",
+        "organizationId": 383258,
+        "organizationIds": [],
+        "organizationName": "Society for Advancement of Chicanos/Hispanics & Native Americans in Science (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "28b3b7d5-e758-4311-8f5c-d594ea9babb07fff237d-d8ca-4757-bd99-0351977e1d6d.png",
+        "recScore": null,
+        "startsOn": "January 29 | 06:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 98.49228,
         "benefitNames": [
             "Free Food"
         ],
@@ -556,7 +575,7 @@
         "endsOn": "10:00 PM",
         "id": "9677150",
         "imagePath": null,
-        "index": 14,
+        "index": 15,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "CASC MPR",
@@ -574,7 +593,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.45594,
+        "@search.score": 98.48541,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -593,7 +612,7 @@
         "endsOn": "10:30 PM",
         "id": "9748962",
         "imagePath": "263cf76a-9a9f-413a-a57d-c4ed08dd4cebb62a29de-cdeb-4b63-9e82-f6a73536b812.png",
-        "index": 15,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.504690",
         "location": "Hardenbergh Hall",
@@ -611,7 +630,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.27699,
+        "@search.score": 98.306595,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -624,7 +643,7 @@
         "endsOn": "01:30 PM",
         "id": "9723171",
         "imagePath": null,
-        "index": 16,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Trayes Hall, Douglass Student Center ",
@@ -642,7 +661,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.2425,
+        "@search.score": 98.27212,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -661,7 +680,7 @@
         "endsOn": "09:00 PM",
         "id": "9748917",
         "imagePath": "230742f0-2d30-4dc0-b94e-1f6cd8e55b9a8ff552ec-cff3-41ce-9627-ecfb69f358dd.png",
-        "index": 17,
+        "index": 18,
         "institutionId": 4753,
         "latitude": "40.478350",
         "location": "Scarlet Lounge (PAL Building)",
@@ -679,7 +698,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.23789,
+        "@search.score": 98.26752,
         "benefitNames": [
             "Free Food"
         ],
@@ -697,7 +716,7 @@
         "endsOn": "10:00 PM",
         "id": "9687771",
         "imagePath": "84fa58c9-d218-4b70-8536-46f5210aa4cf2eefe9e5-2254-45f5-a6dc-a189c503a1fe.png",
-        "index": 18,
+        "index": 19,
         "institutionId": 4753,
         "latitude": "40.505370",
         "location": "Campbell Hall",
@@ -715,7 +734,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.14575,
+        "@search.score": 98.175446,
         "benefitNames": [
             "Free Food"
         ],
@@ -731,7 +750,7 @@
         "endsOn": "05:00 PM",
         "id": "9652997",
         "imagePath": "5a0608be-9c2f-4676-81cd-251354aeb7dcffa446de-6981-415b-8b31-bf26ed6b9f19.png",
-        "index": 19,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
@@ -749,7 +768,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.68673,
+        "@search.score": 97.716736,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -762,7 +781,7 @@
         "endsOn": "08:00 PM",
         "id": "9685660",
         "imagePath": "35c02ff6-abf6-4242-a256-06bc51bce7fb9be22518-da2b-498f-a9e9-b3bc302b909c.png",
-        "index": 20,
+        "index": 21,
         "institutionId": 4753,
         "latitude": "40.478350",
         "location": "PAL Residence Life Office",
@@ -780,7 +799,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.57471,
+        "@search.score": 97.60479,
         "benefitNames": [
             "Free Food"
         ],
@@ -796,7 +815,7 @@
         "endsOn": "09:00 PM",
         "id": "9748122",
         "imagePath": "fa71e0e1-2e03-458d-9458-5b0f479d645d78a85769-c03e-449f-82d4-98511a35bbce.png",
-        "index": 21,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.504170",
         "location": "Center for Latino Arts and Culture ",
@@ -814,7 +833,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.4577,
+        "@search.score": 97.48787,
         "benefitNames": [
             "Free Food"
         ],
@@ -822,28 +841,24 @@
         "branchIds": [],
         "categoryIds": [
             "5336",
-            "5352",
-            "7111"
+            "5352"
         ],
         "categoryNames": [
             "Concert/Musical Performance ",
-            "Religious/Religious Cultural/Spiritual Event",
-            "Social Event"
+            "Religious/Religious Cultural/Spiritual Event"
         ],
         "description": "Kirtan is a devotional practice involving chanting or singing of Mahamantra, accompanied by music and instruments. It is a spiritual and meditative form of music rooted in Indian traditions, particularly in Hinduism.",
         "endsOn": "10:00 PM",
         "id": "9753810",
         "imagePath": null,
-        "index": 22,
+        "index": 23,
         "institutionId": 4753,
         "latitude": "40.505370",
         "location": "Campbell Hall",
         "longitude": "-74.450950",
         "name": "Kirtan Night",
         "organizationId": 121213,
-        "organizationIds": [
-            "121213"
-        ],
+        "organizationIds": [],
         "organizationName": "Bhakti - The Higher Taste",
         "organizationNames": [],
         "organizationProfilePicture": "bc87b621-d0d3-41e4-98de-340bd4f1cba7ffbd1dae-d57c-445a-8634-e8198067fc7f.jpg",
@@ -854,7 +869,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.36388,
+        "@search.score": 97.394104,
         "benefitNames": [
             "Free Food"
         ],
@@ -866,7 +881,7 @@
         "endsOn": "05:00 PM",
         "id": "9653004",
         "imagePath": "4477655f-32bf-41b8-94f8-59b78659d3c68c46325a-c5e5-49c3-9122-29e3440fbef1.png",
-        "index": 23,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
@@ -884,7 +899,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.26514,
+        "@search.score": 97.29543,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -901,7 +916,7 @@
         "endsOn": "05:00 PM",
         "id": "9695078",
         "imagePath": "8e00d4a1-c07a-48d7-97a3-d9591a663ffb0f3120c3-9ee1-403b-9fd6-de5d04c4792b.png",
-        "index": 24,
+        "index": 25,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center - Trayes Hall",
@@ -919,7 +934,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.014915,
+        "@search.score": 97.045395,
         "benefitNames": [
             "Free Food"
         ],
@@ -937,7 +952,7 @@
         "endsOn": "07:30 PM",
         "id": "9649316",
         "imagePath": "fec3e0b1-5d55-4f68-90e5-c032c51a13954d97eded-0fd8-44bc-b058-f1100105d662.png",
-        "index": 25,
+        "index": 26,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Avenue Student Center - Multipurpose Room",
@@ -955,7 +970,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.93434,
+        "@search.score": 96.96488,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -972,7 +987,7 @@
         "endsOn": "01:00 PM",
         "id": "9676165",
         "imagePath": null,
-        "index": 26,
+        "index": 27,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center 2nd Floor Lounge",
@@ -990,7 +1005,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.91062,
+        "@search.score": 96.94117,
         "benefitNames": [
             "Free Food"
         ],
@@ -1002,7 +1017,7 @@
         "endsOn": "06:00 PM",
         "id": "9723191",
         "imagePath": null,
-        "index": 27,
+        "index": 28,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Commuter Lounge, Douglass Student Center",
@@ -1020,7 +1035,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.89638,
+        "@search.score": 96.92694,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1039,7 +1054,7 @@
         "endsOn": "09:00 PM",
         "id": "9748806",
         "imagePath": "18b3eef9-e905-4cd6-888a-bc283b7849081b7b9493-12ff-4250-9107-f3dd4cf07cd6.png",
-        "index": 28,
+        "index": 29,
         "institutionId": 4753,
         "latitude": "40.478350",
         "location": "Scarlet Lounge (PAL Building)",
@@ -1057,7 +1072,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.1009,
+        "@search.score": 96.132034,
         "benefitNames": [
             "Free Food"
         ],
@@ -1069,7 +1084,7 @@
         "endsOn": "07:00 PM",
         "id": "9723182",
         "imagePath": null,
-        "index": 29,
+        "index": 30,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Multipurpose Room, Busch Student Center",
@@ -1087,7 +1102,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.86325,
+        "@search.score": 95.894554,
         "benefitNames": [
             "Free Food"
         ],
@@ -1099,7 +1114,7 @@
         "endsOn": "07:00 PM",
         "id": "9194302",
         "imagePath": "6b181eed-8b63-44df-832c-19643c9deb80541ada64-3dc8-40f5-8b2f-d7c2ecbf9860.png",
-        "index": 30,
+        "index": 31,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -1117,7 +1132,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.85352,
+        "@search.score": 95.884834,
         "benefitNames": [
             "Free Food"
         ],
@@ -1125,28 +1140,24 @@
         "branchIds": [],
         "categoryIds": [
             "5352",
-            "5358",
-            "7111"
+            "5358"
         ],
         "categoryNames": [
             "Religious/Religious Cultural/Spiritual Event",
-            "Wellness Event",
-            "Social Event"
+            "Wellness Event"
         ],
         "description": "Come join us for a night of discussion with Alumni, Anuj Sharma. We will be diving into our souls. Finishing the session off with mantra meditation and free food!",
         "endsOn": "10:00 PM",
         "id": "9687833",
         "imagePath": null,
-        "index": 31,
+        "index": 32,
         "institutionId": 4753,
         "latitude": "40.505370",
         "location": "Campbell Hall",
         "longitude": "-74.450950",
         "name": "Alumni Night",
         "organizationId": 121213,
-        "organizationIds": [
-            "121213"
-        ],
+        "organizationIds": [],
         "organizationName": "Bhakti - The Higher Taste",
         "organizationNames": [],
         "organizationProfilePicture": "bc87b621-d0d3-41e4-98de-340bd4f1cba7ffbd1dae-d57c-445a-8634-e8198067fc7f.jpg",
@@ -1157,7 +1168,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.76587,
+        "@search.score": 95.79725,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1176,7 +1187,7 @@
         "endsOn": "05:00 PM",
         "id": "9670946",
         "imagePath": "26a51f84-eb30-42d3-9719-5a3045a591ec4a1486a4-c80c-4fab-bd76-84bf95d0c058.png",
-        "index": 32,
+        "index": 33,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery Innovation Studio, Lower Level Alexander Library",
@@ -1194,7 +1205,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.743935,
+        "@search.score": 95.77532,
         "benefitNames": [
             "Free Food"
         ],
@@ -1212,7 +1223,7 @@
         "endsOn": "07:30 PM",
         "id": "9676249",
         "imagePath": null,
-        "index": 33,
+        "index": 34,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -1230,7 +1241,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.27071,
+        "@search.score": 95.30245,
         "benefitNames": [
             "Free Food"
         ],
@@ -1250,7 +1261,7 @@
         "endsOn": "08:00 PM",
         "id": "9748963",
         "imagePath": "9662fa5b-13b0-484f-b2f5-213c40a306f51998a231-e617-41c0-b96d-3e365b0f4d02.png",
-        "index": 34,
+        "index": 35,
         "institutionId": 4753,
         "latitude": "40.525420",
         "location": "Livingston Reading Room B",
@@ -1268,7 +1279,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.17692,
+        "@search.score": 95.20873,
         "benefitNames": [
             "Free Food"
         ],
@@ -1286,7 +1297,7 @@
         "endsOn": "04:00 PM",
         "id": "9676024",
         "imagePath": null,
-        "index": 35,
+        "index": 36,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center Coffeehouse",
@@ -1304,7 +1315,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.15468,
+        "@search.score": 95.1865,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1323,7 +1334,7 @@
         "endsOn": "09:00 PM",
         "id": "9744150",
         "imagePath": null,
-        "index": 36,
+        "index": 37,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen Ludwig",
@@ -1341,52 +1352,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.03585,
-        "benefitNames": [
-            "Credit",
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "5340",
-            "5354"
-        ],
-        "categoryNames": [
-            "Educational Conference/Seminar/Workshop/Panel",
-            "Special Interest"
-        ],
-        "description": "Black Women's Voices: \"Unveiling the Politics & Empowerment of Black Beauty Practices\" is a celebration of the rich heritage and creativity of Black women in the realms of beauty and self-expression. Join us for an engaging and empowering experience that explores the intersection of culture, identity, and beauty politics. Our distinguished panelists, will delve into the unique challenges and triumphs faced by Black women in the beauty industry. Students will also be providing  demonstrations on haircare, nail artistry, and makeup trends, focusing on our aim to showcase the diversity and resilience within the Black community at Douglass and Rutgers. This event is not just about aesthetics; it's a platform for dialogue on the broader implications of beauty standards, challenging stereotypes, and fostering a sense of empowerment for Black women in higher education. Be part of this important conversation, as we celebrate and amplify the voices that contribute to the ever-evolving narrative of Black beauty.   To Sign up as a nail, hair, or makeup demonstrator for this event, please sign up here:https://forms.gle/9u9R9ibfp9Gk9aLo8 ",
-        "endsOn": "09:00 PM",
-        "id": "9744097",
-        "imagePath": null,
-        "index": 37,
-        "institutionId": 4753,
-        "latitude": "40.523970",
-        "location": "Paul Robeson Cultural Center",
-        "longitude": "-74.459080",
-        "name": "Black Women's Voices: \"Unveiling the Politics & Empowerment of Black Beauty Practices",
-        "organizationId": 234272,
-        "organizationIds": [
-            "181140",
-            "234272"
-        ],
-        "organizationName": "Douglass Diversity and Inclusion Program at Douglass Residential College - DRC",
-        "organizationNames": [
-            "Paul Robeson Cultural Center",
-            "Douglass Diversity and Inclusion Program at Douglass Residential College - DRC"
-        ],
-        "organizationProfilePicture": "5f886254-9e57-455e-92fe-6c2109bf4025022b0fe0-e529-4d49-8096-b5d74737124e.png",
-        "recScore": null,
-        "startsOn": "February 29 | 06:30 PM",
-        "status": "Approved",
-        "theme": "Cultural",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 94.949,
+        "@search.score": 94.98098,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1424,7 +1390,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.92912,
+        "@search.score": 94.96111,
         "benefitNames": [
             "Free Food"
         ],
@@ -1454,7 +1420,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.23012,
+        "@search.score": 94.262634,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1485,7 +1451,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.18969,
+        "@search.score": 94.22224,
         "benefitNames": [
             "Free Food"
         ],
@@ -1523,7 +1489,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.71604,
+        "@search.score": 92.749725,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1564,7 +1530,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.642715,
+        "@search.score": 92.67646,
         "benefitNames": [
             "Free Food"
         ],
@@ -1598,7 +1564,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.60601,
+        "@search.score": 92.63978,
         "benefitNames": [
             "Free Food"
         ],
@@ -1628,7 +1594,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.5787,
+        "@search.score": 91.61328,
         "benefitNames": [
             "Free Food"
         ],
@@ -1658,7 +1624,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.457634,
+        "@search.score": 91.49231,
         "benefitNames": [
             "Free Food"
         ],
@@ -1688,7 +1654,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.83074,
+        "@search.score": 90.86594,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1719,7 +1685,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.52072,
+        "@search.score": 90.55617,
         "benefitNames": [
             "Free Food"
         ],
@@ -1755,7 +1721,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.261116,
+        "@search.score": 90.296776,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1791,7 +1757,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.77876,
+        "@search.score": 88.815674,
         "benefitNames": [
             "Free Food"
         ],
@@ -1825,7 +1791,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.767296,
+        "@search.score": 88.804214,
         "benefitNames": [
             "Free Food"
         ],
@@ -1865,7 +1831,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.51993,
+        "@search.score": 88.55707,
         "benefitNames": [
             "Free Food"
         ],
@@ -1899,7 +1865,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.68691,
+        "@search.score": 87.72477,
         "benefitNames": [
             "Free Food"
         ],
@@ -1929,7 +1895,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.67515,
+        "@search.score": 87.71301,
         "benefitNames": [
             "Free Food"
         ],
@@ -1959,7 +1925,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.67515,
+        "@search.score": 87.71301,
         "benefitNames": [
             "Free Food"
         ],
