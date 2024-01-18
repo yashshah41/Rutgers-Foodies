@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.94798,
+        "@search.score": 99.974205,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -31,7 +31,71 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94798,
+        "@search.score": 99.972,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Welcome back to Linguistics Club! Have some snacks and catch up with your friends over some Linguistics against Humanity and all conversation topics under the sun. Try not to flout too many Gricean maxims though!",
+        "endsOn": "08:30 PM",
+        "id": "9772136",
+        "imagePath": "fe80e10b-7f72-4573-9c17-806be40131b3611e79a1-56fb-4f40-8a17-00664c84261a.png",
+        "index": 1,
+        "institutionId": 4753,
+        "latitude": "40.500980",
+        "location": "Rutgers Linguistics Building",
+        "longitude": "-74.448310",
+        "name": "Welcome Icebreaker",
+        "organizationId": 123215,
+        "organizationIds": [],
+        "organizationName": "Undergraduate Linguistics Club (Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "6e9d2f64-e5be-4ec8-8bc3-308048e1ac821d0287f0-a920-4414-83d0-d5441d2b434e.jpg",
+        "recScore": null,
+        "startsOn": "January 18 | 07:30 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.96979,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+        "endsOn": "09:00 PM",
+        "id": "9774427",
+        "imagePath": null,
+        "index": 2,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel",
+        "longitude": null,
+        "name": "Mishmar with Mesorah",
+        "organizationId": 121948,
+        "organizationIds": [],
+        "organizationName": "Hillel (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+        "recScore": null,
+        "startsOn": "January 18 | 08:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.974205,
         "benefitNames": [
             "Free Food"
         ],
@@ -57,7 +121,7 @@
         "endsOn": "10:00 PM",
         "id": "9759510",
         "imagePath": "03c6bef7-45e7-41b0-bb84-9290f3e8dffc1785404b-be77-49b3-9895-b1c4bd0bb33e.png",
-        "index": 1,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglas Student Center Blue Room ",
@@ -75,7 +139,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94356,
+        "@search.score": 99.96979,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -88,7 +152,7 @@
         "endsOn": "10:00 PM",
         "id": "9705638",
         "imagePath": "2e4f913c-55b6-4597-9a9a-a92ec12064934015ee40-9b37-49d6-849f-280ad296d00f.png",
-        "index": 2,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center Room C",
@@ -106,7 +170,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.941345,
+        "@search.score": 99.967575,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -125,7 +189,7 @@
         "endsOn": "10:00 PM",
         "id": "9770237",
         "imagePath": "acca1212-edf2-49db-b370-eabaf02e8a19a401cea3-ed9b-40ae-b395-6f39a3c48109.png",
-        "index": 3,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.504170",
         "location": "Center for Latino Arts and Culture",
@@ -143,7 +207,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.83284,
+        "@search.score": 99.85913,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -158,7 +222,7 @@
         "endsOn": "12:00 AM",
         "id": "9727378",
         "imagePath": "737ab959-b99f-42c3-b53b-7168ca2419ab88da0137-2ecc-442e-9582-7407df8a9fdc.png",
-        "index": 4,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "42.269930",
         "location": "Livingston Student Center",
@@ -182,7 +246,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.628365,
+        "@search.score": 99.654785,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -201,7 +265,7 @@
         "endsOn": "09:00 PM",
         "id": "9735668",
         "imagePath": "b5f45c81-e2fb-4406-bb72-14eee41d57954c88bd79-7012-4bae-93fb-baf59238f7eb.png",
-        "index": 5,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "52.577630",
         "location": "Bunting Cobb Lounge",
@@ -225,7 +289,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.5213,
+        "@search.score": 99.54778,
         "benefitNames": [
             "Free Food"
         ],
@@ -239,7 +303,7 @@
         "endsOn": "08:00 PM",
         "id": "9664887",
         "imagePath": "ae1cf7af-43b5-4d28-9af0-3ccbf997d402facc893a-2d99-4b46-98a7-68ee48563df1.png",
-        "index": 6,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.521020",
         "location": "Allen Hall : 4th Floor Lounge",
@@ -265,7 +329,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.51236,
+        "@search.score": 99.53886,
         "benefitNames": [
             "Free Food"
         ],
@@ -281,7 +345,7 @@
         "endsOn": "10:00 PM",
         "id": "9768321",
         "imagePath": "a7102dd6-9063-47f2-9c8a-a9e3a4e17836e83f115a-9d88-4bcc-8868-b251ad815d17.png",
-        "index": 7,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Meeting Room A - Douglass Student Center",
@@ -299,7 +363,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.44082,
+        "@search.score": 99.467354,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -320,7 +384,7 @@
         "endsOn": "02:00 PM",
         "id": "9650288",
         "imagePath": "4f576928-823e-42b5-8fd5-f5045522af8323cfe0e1-eea5-4156-b296-50b59bb1342a.png",
-        "index": 8,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen W. Ludwig Building, fireside lounge",
@@ -344,7 +408,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.4162,
+        "@search.score": 99.44275,
         "benefitNames": [
             "Free Food"
         ],
@@ -360,7 +424,7 @@
         "endsOn": "07:30 PM",
         "id": "9770548",
         "imagePath": "7a0976b3-d92b-424f-8790-68385b70fdfb2f92adfd-1390-4e7e-9add-95987774e799.png",
-        "index": 9,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Busch Student Center, Room 117",
@@ -378,7 +442,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.34674,
+        "@search.score": 99.436035,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5346"
+        ],
+        "categoryNames": [
+            "General Organization Meeting"
+        ],
+        "description": "Welcome back to the spring semester! We are going to be holding our general body meetings on Tuesdays at 8:00 pm in the CASC Atrium Conference Room: These meetings consist of advocacy, fundraising, and community building work that directly targets healthcare standards in low income countries and areas around the world. Partners in Health Engage sets yearly goals which we work toward during each semester through our meetings and events held within the Rutgers University community. Our team is dedicated to improving global healthcare equity, especially for those who are in less fortunate circumstances. We believe that health is a human right and every individual deserves the chance at proper healthcare. We are so excited to see everyone and hope that you can make it to our meetings!",
+        "endsOn": "09:00 PM",
+        "id": "9772208",
+        "imagePath": "54063050-cf32-4b18-9ce4-91b0a37796bfdf61e405-69ba-47cd-8d5e-be835037522b.png",
+        "index": 12,
+        "institutionId": 4753,
+        "latitude": "40.502640",
+        "location": "CASC Atrium Conference Room",
+        "longitude": "-74.451830",
+        "name": "General Interest Meeting ",
+        "organizationId": 323040,
+        "organizationIds": [],
+        "organizationName": "Partners In Health Engage of Rutgers University",
+        "organizationNames": [],
+        "organizationProfilePicture": "b3ac81e6-6182-4463-af5c-5b52ded4c7ebaa87b816-dd79-4512-9496-fd023a3e9a5b.png",
+        "recScore": null,
+        "startsOn": "January 23 | 08:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.37334,
         "benefitNames": [
             "Free Food"
         ],
@@ -390,7 +488,7 @@
         "endsOn": "12:00 PM",
         "id": "9731227",
         "imagePath": "c1d4b829-e35d-46c4-a2ec-9e6d211eade131900289-883a-497b-b13c-81c361f0e804.pdf",
-        "index": 10,
+        "index": 13,
         "institutionId": 4753,
         "latitude": "40.524470",
         "location": "Chemistry and Chemical Biology 2217",
@@ -408,7 +506,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.20748,
+        "@search.score": 99.23416,
         "benefitNames": [
             "Free Food"
         ],
@@ -420,7 +518,7 @@
         "endsOn": "07:00 PM",
         "id": "9723152",
         "imagePath": null,
-        "index": 11,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Gathering Lounge, Livingston Student Center",
@@ -438,7 +536,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.20298,
+        "@search.score": 99.22967,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -455,7 +553,7 @@
         "endsOn": "09:00 PM",
         "id": "9729267",
         "imagePath": null,
-        "index": 12,
+        "index": 15,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Trayes Hall - Douglass Student Center ",
@@ -473,7 +571,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.19398,
+        "@search.score": 99.22067,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+        "endsOn": "09:00 PM",
+        "id": "9774428",
+        "imagePath": null,
+        "index": 16,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel",
+        "longitude": null,
+        "name": "Mishmar with Mesorah",
+        "organizationId": 121948,
+        "organizationIds": [],
+        "organizationName": "Hillel (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+        "recScore": null,
+        "startsOn": "January 25 | 08:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.22067,
         "benefitNames": [
             "Free Food"
         ],
@@ -491,7 +623,7 @@
         "endsOn": "10:00 PM",
         "id": "9753149",
         "imagePath": null,
-        "index": 13,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.505370",
         "location": "Campbell Hall",
@@ -509,7 +641,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.19848,
+        "@search.score": 99.22517,
         "benefitNames": [
             "Free Food"
         ],
@@ -521,7 +653,7 @@
         "endsOn": "10:30 PM",
         "id": "9760008",
         "imagePath": null,
-        "index": 14,
+        "index": 18,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center Learning Center",
@@ -539,7 +671,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.56818,
+        "@search.score": 99.59463,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -556,7 +688,7 @@
         "endsOn": "05:00 PM",
         "id": "9685659",
         "imagePath": "c629e541-29f8-4202-bba0-53a8d3f8b32aeb571ee1-9b2b-4253-887e-e62b6b8180ed.png",
-        "index": 15,
+        "index": 19,
         "institutionId": 4753,
         "latitude": "40.478350",
         "location": "PAL Office",
@@ -574,7 +706,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.10387,
+        "@search.score": 99.130615,
         "benefitNames": [
             "Free Food"
         ],
@@ -586,7 +718,7 @@
         "endsOn": "05:00 PM",
         "id": "9652974",
         "imagePath": "a19182d2-58e7-4b2f-a4a2-bc13fdf106d4b2ba2acb-0217-433a-861a-83c1ccac34a2.png",
-        "index": 16,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center Coffeehouse, Livingston Campus ",
@@ -604,7 +736,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.08582,
+        "@search.score": 99.11258,
         "benefitNames": [
             "Free Food"
         ],
@@ -622,7 +754,7 @@
         "endsOn": "11:00 PM",
         "id": "9676562",
         "imagePath": "251f5360-f897-41d5-b897-ae5abbe81b9aeb63b004-4378-4cda-b76a-496eef3aa96e.png",
-        "index": 17,
+        "index": 21,
         "institutionId": 4753,
         "latitude": "40.502430",
         "location": "Honors College - Druskin/South Lounge",
@@ -650,7 +782,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.7688,
+        "@search.score": 98.79575,
         "benefitNames": [
             "Free Food"
         ],
@@ -666,7 +798,7 @@
         "endsOn": "08:00 PM",
         "id": "9757459",
         "imagePath": "fa44de1d-22a2-46f3-8e0e-7c2c44039b50d6bfaab7-66b0-46c6-983c-63be6526f04b.png",
-        "index": 18,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.523560",
         "location": "Ernest Mario School of Pharmacy Room 247",
@@ -684,7 +816,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.65273,
+        "@search.score": 98.679756,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -697,7 +829,7 @@
         "endsOn": "08:30 PM",
         "id": "9765361",
         "imagePath": "3558d4b0-c227-4423-96e1-8b842b4d226499edf1f2-2fd6-4d0b-b18c-ff0742c6447d.png",
-        "index": 19,
+        "index": 23,
         "institutionId": 4753,
         "latitude": "40.504170",
         "location": "Center for Latino Arts and Culture ",
@@ -715,7 +847,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.65501,
+        "@search.score": 98.68204,
         "benefitNames": [
             "Free Food"
         ],
@@ -727,7 +859,7 @@
         "endsOn": "10:00 PM",
         "id": "9677150",
         "imagePath": null,
-        "index": 20,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "CASC MPR",
@@ -745,7 +877,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.64817,
+        "@search.score": 98.6752,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -764,7 +896,7 @@
         "endsOn": "10:30 PM",
         "id": "9748962",
         "imagePath": "263cf76a-9a9f-413a-a57d-c4ed08dd4cebb62a29de-cdeb-4b63-9e82-f6a73536b812.png",
-        "index": 21,
+        "index": 25,
         "institutionId": 4753,
         "latitude": "40.504690",
         "location": "Hardenbergh Hall",
@@ -782,7 +914,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.470024,
+        "@search.score": 98.49717,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -795,7 +927,7 @@
         "endsOn": "01:30 PM",
         "id": "9723171",
         "imagePath": null,
-        "index": 22,
+        "index": 26,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Trayes Hall, Douglass Student Center ",
@@ -813,7 +945,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.435684,
+        "@search.score": 98.462845,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -832,7 +964,7 @@
         "endsOn": "09:00 PM",
         "id": "9748917",
         "imagePath": "230742f0-2d30-4dc0-b94e-1f6cd8e55b9a8ff552ec-cff3-41ce-9627-ecfb69f358dd.png",
-        "index": 23,
+        "index": 27,
         "institutionId": 4753,
         "latitude": "40.478350",
         "location": "Scarlet Lounge (PAL Building)",
@@ -850,7 +982,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.4311,
+        "@search.score": 98.45827,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+        "endsOn": "09:00 PM",
+        "id": "9774429",
+        "imagePath": null,
+        "index": 28,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel",
+        "longitude": null,
+        "name": "Mishear with Mesorah",
+        "organizationId": 121948,
+        "organizationIds": [],
+        "organizationName": "Hillel (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+        "recScore": null,
+        "startsOn": "February 01 | 08:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 98.45827,
         "benefitNames": [
             "Free Food"
         ],
@@ -868,7 +1034,7 @@
         "endsOn": "10:00 PM",
         "id": "9687771",
         "imagePath": "84fa58c9-d218-4b70-8536-46f5210aa4cf2eefe9e5-2254-45f5-a6dc-a189c503a1fe.png",
-        "index": 24,
+        "index": 29,
         "institutionId": 4753,
         "latitude": "40.505370",
         "location": "Campbell Hall",
@@ -886,7 +1052,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.33937,
+        "@search.score": 98.3666,
         "benefitNames": [
             "Free Food"
         ],
@@ -902,7 +1068,7 @@
         "endsOn": "05:00 PM",
         "id": "9652997",
         "imagePath": "5a0608be-9c2f-4676-81cd-251354aeb7dcffa446de-6981-415b-8b31-bf26ed6b9f19.png",
-        "index": 25,
+        "index": 30,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
@@ -920,7 +1086,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.882416,
+        "@search.score": 97.909935,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -933,7 +1099,7 @@
         "endsOn": "08:00 PM",
         "id": "9685660",
         "imagePath": "35c02ff6-abf6-4242-a256-06bc51bce7fb9be22518-da2b-498f-a9e9-b3bc302b909c.png",
-        "index": 26,
+        "index": 31,
         "institutionId": 4753,
         "latitude": "40.478350",
         "location": "PAL Residence Life Office",
@@ -951,7 +1117,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.770905,
+        "@search.score": 97.79849,
         "benefitNames": [
             "Free Food"
         ],
@@ -967,7 +1133,7 @@
         "endsOn": "09:00 PM",
         "id": "9748122",
         "imagePath": "fa71e0e1-2e03-458d-9458-5b0f479d645d78a85769-c03e-449f-82d4-98511a35bbce.png",
-        "index": 27,
+        "index": 32,
         "institutionId": 4753,
         "latitude": "40.504170",
         "location": "Center for Latino Arts and Culture ",
@@ -985,7 +1151,43 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.65444,
+        "@search.score": 97.6821,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+        "endsOn": "09:00 PM",
+        "id": "9774430",
+        "imagePath": null,
+        "index": 33,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel",
+        "longitude": null,
+        "name": "Mishmar with Mesorah",
+        "organizationId": 121948,
+        "organizationIds": [
+            "121948"
+        ],
+        "organizationName": "Hillel (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+        "recScore": null,
+        "startsOn": "February 08 | 08:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 97.6821,
         "benefitNames": [
             "Free Food"
         ],
@@ -1003,7 +1205,7 @@
         "endsOn": "10:00 PM",
         "id": "9753810",
         "imagePath": null,
-        "index": 28,
+        "index": 34,
         "institutionId": 4753,
         "latitude": "40.505370",
         "location": "Campbell Hall",
@@ -1021,7 +1223,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.56104,
+        "@search.score": 97.58876,
         "benefitNames": [
             "Free Food"
         ],
@@ -1033,7 +1235,7 @@
         "endsOn": "05:00 PM",
         "id": "9653004",
         "imagePath": "4477655f-32bf-41b8-94f8-59b78659d3c68c46325a-c5e5-49c3-9122-29e3440fbef1.png",
-        "index": 29,
+        "index": 35,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
@@ -1051,7 +1253,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.462746,
+        "@search.score": 97.49053,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1068,7 +1270,7 @@
         "endsOn": "05:00 PM",
         "id": "9695078",
         "imagePath": "8e00d4a1-c07a-48d7-97a3-d9591a663ffb0f3120c3-9ee1-403b-9fd6-de5d04c4792b.png",
-        "index": 30,
+        "index": 36,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center - Trayes Hall",
@@ -1086,7 +1288,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.213684,
+        "@search.score": 97.24162,
         "benefitNames": [
             "Free Food"
         ],
@@ -1104,7 +1306,7 @@
         "endsOn": "07:30 PM",
         "id": "9649316",
         "imagePath": "fec3e0b1-5d55-4f68-90e5-c032c51a13954d97eded-0fd8-44bc-b058-f1100105d662.png",
-        "index": 31,
+        "index": 37,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Avenue Student Center - Multipurpose Room",
@@ -1122,7 +1324,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.133484,
+        "@search.score": 97.16148,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1139,7 +1341,7 @@
         "endsOn": "01:00 PM",
         "id": "9676165",
         "imagePath": null,
-        "index": 32,
+        "index": 38,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center 2nd Floor Lounge",
@@ -1157,7 +1359,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.10987,
+        "@search.score": 97.13788,
         "benefitNames": [
             "Free Food"
         ],
@@ -1169,7 +1371,7 @@
         "endsOn": "06:00 PM",
         "id": "9723191",
         "imagePath": null,
-        "index": 33,
+        "index": 39,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Commuter Lounge, Douglass Student Center",
@@ -1187,7 +1389,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.095695,
+        "@search.score": 97.12372,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1206,7 +1408,7 @@
         "endsOn": "09:00 PM",
         "id": "9748806",
         "imagePath": "18b3eef9-e905-4cd6-888a-bc283b7849081b7b9493-12ff-4250-9107-f3dd4cf07cd6.png",
-        "index": 34,
+        "index": 40,
         "institutionId": 4753,
         "latitude": "40.478350",
         "location": "Scarlet Lounge (PAL Building)",
@@ -1224,7 +1426,43 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.30393,
+        "@search.score": 96.89166,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+        "endsOn": "09:00 PM",
+        "id": "9774431",
+        "imagePath": null,
+        "index": 41,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel",
+        "longitude": null,
+        "name": "Mishmar with Mesorah",
+        "organizationId": 121948,
+        "organizationIds": [
+            "121948"
+        ],
+        "organizationName": "Hillel (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+        "recScore": null,
+        "startsOn": "February 15 | 08:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 96.33247,
         "benefitNames": [
             "Free Food"
         ],
@@ -1236,7 +1474,7 @@
         "endsOn": "07:00 PM",
         "id": "9723182",
         "imagePath": null,
-        "index": 35,
+        "index": 42,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Multipurpose Room, Busch Student Center",
@@ -1254,7 +1492,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.0674,
+        "@search.score": 96.0961,
         "benefitNames": [
             "Free Food"
         ],
@@ -1266,7 +1504,7 @@
         "endsOn": "07:00 PM",
         "id": "9194302",
         "imagePath": "6b181eed-8b63-44df-832c-19643c9deb80541ada64-3dc8-40f5-8b2f-d7c2ecbf9860.png",
-        "index": 36,
+        "index": 43,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -1284,7 +1522,43 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.05772,
+        "@search.score": 96.086426,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+        "endsOn": "09:00 PM",
+        "id": "9774432",
+        "imagePath": null,
+        "index": 44,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel",
+        "longitude": null,
+        "name": "Mishmar with Mesorah",
+        "organizationId": 121948,
+        "organizationIds": [
+            "121948"
+        ],
+        "organizationName": "Hillel (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+        "recScore": null,
+        "startsOn": "February 22 | 08:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 96.086426,
         "benefitNames": [
             "Free Food"
         ],
@@ -1302,7 +1576,7 @@
         "endsOn": "10:00 PM",
         "id": "9687833",
         "imagePath": null,
-        "index": 37,
+        "index": 45,
         "institutionId": 4753,
         "latitude": "40.505370",
         "location": "Campbell Hall",
@@ -1320,7 +1594,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.97048,
+        "@search.score": 95.99925,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1339,7 +1613,7 @@
         "endsOn": "05:00 PM",
         "id": "9670946",
         "imagePath": "26a51f84-eb30-42d3-9719-5a3045a591ec4a1486a4-c80c-4fab-bd76-84bf95d0c058.png",
-        "index": 38,
+        "index": 46,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery Innovation Studio, Lower Level Alexander Library",
@@ -1357,7 +1631,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.94865,
+        "@search.score": 95.977425,
         "benefitNames": [
             "Free Food"
         ],
@@ -1375,7 +1649,7 @@
         "endsOn": "07:30 PM",
         "id": "9676249",
         "imagePath": null,
-        "index": 39,
+        "index": 47,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -1393,7 +1667,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.477684,
+        "@search.score": 95.50678,
         "benefitNames": [
             "Free Food"
         ],
@@ -1413,7 +1687,7 @@
         "endsOn": "08:00 PM",
         "id": "9748963",
         "imagePath": "9662fa5b-13b0-484f-b2f5-213c40a306f51998a231-e617-41c0-b96d-3e365b0f4d02.png",
-        "index": 40,
+        "index": 48,
         "institutionId": 4753,
         "latitude": "40.525420",
         "location": "Livingston Reading Room B",
@@ -1431,7 +1705,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.384346,
+        "@search.score": 95.413506,
         "benefitNames": [
             "Free Food"
         ],
@@ -1449,7 +1723,7 @@
         "endsOn": "04:00 PM",
         "id": "9676024",
         "imagePath": null,
-        "index": 41,
+        "index": 49,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center Coffeehouse",
@@ -1467,7 +1741,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.36221,
+        "@search.score": 95.39139,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1486,7 +1760,7 @@
         "endsOn": "09:00 PM",
         "id": "9744150",
         "imagePath": null,
-        "index": 42,
+        "index": 50,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen Ludwig",
@@ -1504,7 +1778,43 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.157524,
+        "@search.score": 95.265816,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+        "endsOn": "09:00 PM",
+        "id": "9774433",
+        "imagePath": null,
+        "index": 51,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel",
+        "longitude": null,
+        "name": "Mishmar with Mesorah",
+        "organizationId": 121948,
+        "organizationIds": [
+            "121948"
+        ],
+        "organizationName": "Hillel (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+        "recScore": null,
+        "startsOn": "February 29 | 08:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 95.186844,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1524,7 +1834,7 @@
         "endsOn": "03:00 PM",
         "id": "9114321",
         "imagePath": "9fc74de6-d629-479e-8c6d-95dcdd667f5983ae42f5-c301-49e5-a4eb-c75b581b4422.png",
-        "index": 43,
+        "index": 52,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center",
@@ -1542,7 +1852,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.13775,
+        "@search.score": 95.167076,
         "benefitNames": [
             "Free Food"
         ],
@@ -1554,7 +1864,7 @@
         "endsOn": "05:00 PM",
         "id": "9653018",
         "imagePath": "4af9ca69-db34-4933-9858-1cbdeabb345af1933e70-ab26-4913-a76c-e136d82454f0.png",
-        "index": 44,
+        "index": 53,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Gathering Lounge, Livingston Student Center",
@@ -1572,7 +1882,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.442154,
+        "@search.score": 94.47196,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1585,7 +1895,7 @@
         "endsOn": "01:30 PM",
         "id": "9723225",
         "imagePath": null,
-        "index": 45,
+        "index": 54,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Multipurpose Room, Busch Student Center ",
@@ -1603,7 +1913,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.401924,
+        "@search.score": 94.431755,
         "benefitNames": [
             "Free Food"
         ],
@@ -1623,7 +1933,7 @@
         "endsOn": "10:00 PM",
         "id": "9687835",
         "imagePath": null,
-        "index": 46,
+        "index": 55,
         "institutionId": 4753,
         "latitude": "40.505370",
         "location": "Campbell Hall",
@@ -1641,7 +1951,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.93565,
+        "@search.score": 92.96652,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1664,7 +1974,7 @@
         "endsOn": "09:00 PM",
         "id": "9721225",
         "imagePath": "b894d8d6-14cd-4e1e-a969-3bf5395483f3fe7f06c3-62fa-4dfc-bbe0-b9eff790afd6.png",
-        "index": 47,
+        "index": 56,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Hall, Livingston Student Center ",
@@ -1682,7 +1992,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.86271,
+        "@search.score": 92.89363,
         "benefitNames": [
             "Free Food"
         ],
@@ -1698,7 +2008,7 @@
         "endsOn": "05:00 PM",
         "id": "9738963",
         "imagePath": "e2c611f5-d2e0-4bee-b2aa-37934be21ef3861a8536-49ff-46d1-9a11-89edba8f5d95.png",
-        "index": 48,
+        "index": 57,
         "institutionId": 4753,
         "latitude": "40.485510",
         "location": "Carpender Hall",
@@ -1716,7 +2026,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.82619,
+        "@search.score": 92.85713,
         "benefitNames": [
             "Free Food"
         ],
@@ -1728,7 +2038,7 @@
         "endsOn": "06:00 PM",
         "id": "9723317",
         "imagePath": null,
-        "index": 49,
+        "index": 58,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Commuter Lounge, Busch Student Center ",
@@ -1746,7 +2056,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.804184,
+        "@search.score": 92.710846,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+        "endsOn": "09:00 PM",
+        "id": "9774434",
+        "imagePath": null,
+        "index": 59,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel",
+        "longitude": null,
+        "name": "Mishear with Mesorah",
+        "organizationId": 121948,
+        "organizationIds": [],
+        "organizationName": "Hillel (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+        "recScore": null,
+        "startsOn": "March 21 | 08:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 91.83588,
         "benefitNames": [
             "Free Food"
         ],
@@ -1758,7 +2102,7 @@
         "endsOn": "06:30 PM",
         "id": "9194415",
         "imagePath": "31ade161-da6d-47ec-862a-bd138bdfd286daefd904-67fd-4235-8825-cf3ddcd57439.png",
-        "index": 50,
+        "index": 60,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -1776,7 +2120,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.683754,
+        "@search.score": 91.82252,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+        "endsOn": "09:00 PM",
+        "id": "9774435",
+        "imagePath": null,
+        "index": 61,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel",
+        "longitude": null,
+        "name": "Mishear with Mesorah",
+        "organizationId": 121948,
+        "organizationIds": [],
+        "organizationName": "Hillel (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+        "recScore": null,
+        "startsOn": "March 28 | 08:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 91.71553,
         "benefitNames": [
             "Free Food"
         ],
@@ -1788,7 +2166,7 @@
         "endsOn": "05:00 PM",
         "id": "9653034",
         "imagePath": "b14a0f05-909a-472a-99b2-5178bcb71ba08ffaa125-7fbd-4bcb-abdb-1574a331fd00.png",
-        "index": 51,
+        "index": 62,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "International Lounge, Busch Student Center",
@@ -1806,7 +2184,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.06018,
+        "@search.score": 91.09242,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1819,7 +2197,7 @@
         "endsOn": "01:30 PM",
         "id": "9723338",
         "imagePath": null,
-        "index": 52,
+        "index": 63,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Multipurpose Room, Busch Student Center",
@@ -1837,7 +2215,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.751816,
+        "@search.score": 90.91545,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+        "endsOn": "09:00 PM",
+        "id": "9774436",
+        "imagePath": null,
+        "index": 64,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel",
+        "longitude": null,
+        "name": "Mishear with Mesorah",
+        "organizationId": 121948,
+        "organizationIds": [],
+        "organizationName": "Hillel (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+        "recScore": null,
+        "startsOn": "April 04 | 08:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 90.78429,
         "benefitNames": [
             "Free Food"
         ],
@@ -1855,7 +2267,7 @@
         "endsOn": "09:00 PM",
         "id": "9676254",
         "imagePath": null,
-        "index": 53,
+        "index": 65,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -1873,7 +2285,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.4936,
+        "@search.score": 90.526276,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1891,7 +2303,7 @@
         "endsOn": "09:00 PM",
         "id": "9161676",
         "imagePath": "f6bb8221-731c-4f85-889a-26115dd8555664f7986e-e0b5-4783-80bc-b56bc9eb5c94.png",
-        "index": 54,
+        "index": 66,
         "institutionId": 4753,
         "latitude": "40.486560",
         "location": "Voorhees Chapel ",
@@ -1909,7 +2321,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 89.01939,
+        "@search.score": 89.98883,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+        "endsOn": "09:00 PM",
+        "id": "9774437",
+        "imagePath": null,
+        "index": 67,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel",
+        "longitude": null,
+        "name": "Mishear with Mesorah",
+        "organizationId": 121948,
+        "organizationIds": [],
+        "organizationName": "Hillel (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+        "recScore": null,
+        "startsOn": "April 11 | 08:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 89.05319,
         "benefitNames": [
             "Free Food"
         ],
@@ -1925,7 +2371,7 @@
         "endsOn": "09:00 PM",
         "id": "9738947",
         "imagePath": "3f834962-bf24-41c0-887a-396e1b34a383b42d6751-5eab-4d9a-9432-02ea5164e65e.png",
-        "index": 55,
+        "index": 68,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen Ludwig Global Village Living Learning Center",
@@ -1943,7 +2389,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 89.00797,
+        "@search.score": 89.041794,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+        "endsOn": "09:00 PM",
+        "id": "9774438",
+        "imagePath": null,
+        "index": 69,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel",
+        "longitude": null,
+        "name": "Mishear with Mesorah",
+        "organizationId": 121948,
+        "organizationIds": [],
+        "organizationName": "Hillel (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+        "recScore": null,
+        "startsOn": "April 18 | 08:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 89.041794,
         "benefitNames": [
             "Free Food"
         ],
@@ -1965,7 +2445,7 @@
         "endsOn": "10:00 PM",
         "id": "9687769",
         "imagePath": "5a1432a9-286c-4191-89a2-7d6836524e4232f11504-7be5-4b55-b6a4-a88255567cdc.png",
-        "index": 56,
+        "index": 70,
         "institutionId": 4753,
         "latitude": "40.505130",
         "location": "Deiner Park (by Campbell Hall)",
@@ -1983,7 +2463,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.76199,
+        "@search.score": 88.79601,
         "benefitNames": [
             "Free Food"
         ],
@@ -1999,7 +2479,7 @@
         "endsOn": "05:00 PM",
         "id": "9676337",
         "imagePath": null,
-        "index": 57,
+        "index": 71,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -2017,7 +2497,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.9337,
+        "@search.score": 87.968376,
         "benefitNames": [
             "Free Food"
         ],
@@ -2029,7 +2509,7 @@
         "endsOn": "04:00 PM",
         "id": "9731361",
         "imagePath": null,
-        "index": 58,
+        "index": 72,
         "institutionId": 4753,
         "latitude": "40.485730",
         "location": "Mabel Smith Douglass Library",
@@ -2047,7 +2527,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.922005,
+        "@search.score": 87.95669,
         "benefitNames": [
             "Free Food"
         ],
@@ -2059,7 +2539,7 @@
         "endsOn": "05:00 PM",
         "id": "9653060",
         "imagePath": "2e5718f4-0e63-485d-8bab-1bf8982e688ce682e854-e80a-4e2b-98b7-fc6cd3cd9c2f.png",
-        "index": 59,
+        "index": 73,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
@@ -2077,7 +2557,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.922005,
+        "@search.score": 87.95669,
         "benefitNames": [
             "Free Food"
         ],
@@ -2089,7 +2569,7 @@
         "endsOn": "06:00 PM",
         "id": "9723398",
         "imagePath": null,
-        "index": 60,
+        "index": 74,
         "institutionId": 4753,
         "latitude": "40.501770",
         "location": "Morrell Street, College Ave Campus ",
