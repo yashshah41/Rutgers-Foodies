@@ -1,6 +1,40 @@
 [
     {
-        "@search.score": 99.9656,
+        "@search.score": 99.9918,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5340"
+        ],
+        "categoryNames": [
+            "Educational Conference/Seminar/Workshop/Panel"
+        ],
+        "description": "Weekly graduate student seminars where individuals are given the opportunity to present their academic work in an informal setting. Snacks and drinks are provided, with socialization beginning at 3:30pm. ",
+        "endsOn": "05:00 PM",
+        "id": "10071252",
+        "imagePath": "44e2d9ec-70ee-4484-b70e-2c648b8cdbcbe47fdcb3-bef4-4c58-9bd7-c317c614e8c5.png",
+        "index": 0,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "ENR 123",
+        "longitude": null,
+        "name": "EcoGSA meeting",
+        "organizationId": 331846,
+        "organizationIds": [],
+        "organizationName": "Ecology and Evolution Graduate Student Association (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "78932a00-1339-4bad-98cb-94c63d2b4b10c6a8e19b-f376-47ff-a42f-ab6652d899c7.jpg",
+        "recScore": null,
+        "startsOn": "March 29 | 04:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.9918,
         "benefitNames": [
             "Free Food"
         ],
@@ -14,7 +48,7 @@
         "endsOn": "05:00 PM",
         "id": "9653034",
         "imagePath": "b14a0f05-909a-472a-99b2-5178bcb71ba08ffaa125-7fbd-4bcb-abdb-1574a331fd00.png",
-        "index": 0,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.523490",
         "location": "Asian American Cultural Center ",
@@ -38,7 +72,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.9656,
+        "@search.score": 99.9918,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -59,7 +93,7 @@
         "endsOn": "05:30 PM",
         "id": "10055856",
         "imagePath": "dcb81a48-cdea-42d3-9149-3bbe95b2a531f1620cae-0e0c-423e-8817-ce880fbbacfb.png",
-        "index": 1,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "College Ave Student Center Room 108",
@@ -77,7 +111,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.95897,
+        "@search.score": 99.98517,
         "benefitNames": [
             "Free Food"
         ],
@@ -89,7 +123,7 @@
         "endsOn": "06:30 PM",
         "id": "9948842",
         "imagePath": null,
-        "index": 2,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.485910",
         "location": "Walters Hall 240",
@@ -107,7 +141,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.95676,
+        "@search.score": 99.97854,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5105"
+        ],
+        "categoryNames": [
+            "Community (Residence Life)"
+        ],
+        "description": "Come by and enjoy some s'mores on the beach!! Well, Bishop Beach. Destress before the weekend by enjoying the nicer weather and a bonfire! ",
+        "endsOn": "08:30 PM",
+        "id": "10071448",
+        "imagePath": "4333751f-fb2c-4e60-97d7-1c8040f5b1104c4d4a51-db4a-4622-890f-7a84f3d3f953.png",
+        "index": 4,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Green space between Mettler and Tinsley Halls ",
+        "longitude": null,
+        "name": "Bonfire at the Beach ",
+        "organizationId": 132660,
+        "organizationIds": [],
+        "organizationName": "Residence Life: College Avenue - Mettler Hall",
+        "organizationNames": [],
+        "organizationProfilePicture": "74648ac2-4482-43ae-9e50-579a9e17f57db09ad6e9-6ef6-4a84-93cc-9cea9d59ee18.jpg",
+        "recScore": null,
+        "startsOn": "March 29 | 07:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.982956,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -125,7 +193,7 @@
         "endsOn": "10:00 PM",
         "id": "10009022",
         "imagePath": "71cdcca9-5963-4376-99fd-850175b09b339192a45f-b342-40fd-96c7-fa665e1f79a2.png",
-        "index": 3,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "College Avenue Student Center MPR/Lounge",
@@ -143,7 +211,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.947914,
+        "@search.score": 99.97412,
         "benefitNames": [
             "Free Food"
         ],
@@ -159,7 +227,7 @@
         "endsOn": "10:00 PM",
         "id": "10053334",
         "imagePath": "adebcb0d-6e50-458b-96a8-3c5e255a37166ef6affb-7a7b-42de-8060-29d27e4bfd82.png",
-        "index": 4,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Busch Student Center ",
@@ -177,7 +245,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94349,
+        "@search.score": 99.9697,
         "benefitNames": [
             "Free Food"
         ],
@@ -189,7 +257,7 @@
         "endsOn": "10:30 PM",
         "id": "10063106",
         "imagePath": null,
-        "index": 5,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Busch Multipurpose Room",
@@ -207,7 +275,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94349,
+        "@search.score": 99.9697,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -220,7 +288,7 @@
         "endsOn": "11:45 PM",
         "id": "10061864",
         "imagePath": "314bc7fd-a520-473b-a599-708c2203bcaecde6ba3b-7ebf-4fdc-ad5f-db22f92afe73.png",
-        "index": 6,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.591580",
         "location": "8 On The Break",
@@ -238,7 +306,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.87709,
+        "@search.score": 99.90334,
         "benefitNames": [
             "Free Food"
         ],
@@ -250,7 +318,7 @@
         "endsOn": "02:00 PM",
         "id": "10055812",
         "imagePath": "11c94a29-d387-4118-aacf-6c5075af9c188b5a8b08-c39c-4c80-b8f3-aee4b50a3e1a.png",
-        "index": 7,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center- Coffeehouse ",
@@ -268,7 +336,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.76176,
+        "@search.score": 99.78808,
         "benefitNames": [
             "Free Food"
         ],
@@ -280,7 +348,7 @@
         "endsOn": "03:00 PM",
         "id": "10067225",
         "imagePath": "60c6256d-375a-42f5-ae20-6e2ba58fbc73b7f01bf3-1b54-45b0-94e9-d3164514f5ef.png",
-        "index": 8,
+        "index": 10,
         "institutionId": 4753,
         "latitude": null,
         "location": "TBA",
@@ -298,7 +366,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.748436,
+        "@search.score": 99.77476,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -319,7 +387,7 @@
         "endsOn": "07:00 PM",
         "id": "10030610",
         "imagePath": "210cb2ee-00d1-4776-adfe-d6a2aefe588a50dcfceb-d46b-4a28-a0ef-8551722c8ccb.png",
-        "index": 9,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Busch Student Center Multipurpose Room ",
@@ -337,7 +405,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.53016,
+        "@search.score": 99.66138,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Explore Anekantavada, the principle of multiple perspectives, through an engaging event. Start with a brief introduction, followed by an interactive presentation with skits and role-playing activities. Participate in a fireside chat with Anil Mundra, Jainism Postdoctoral Fellow at Rutgers, discussing Anekantavada's significance across fields and modern-day applications. Join an open forum for lively discussions, and continue networking over dinner",
+        "endsOn": "07:45 PM",
+        "id": "10071461",
+        "imagePath": "32722906-7d83-46fe-b3ed-fe3146b13a22517ea0e9-8f3b-44b5-b393-f7060244b0d4.png",
+        "index": 12,
+        "institutionId": 4753,
+        "latitude": "38.634890",
+        "location": "122 ABC",
+        "longitude": "-90.233110",
+        "name": "Anekanatavada Event with Professor Mundra",
+        "organizationId": 222608,
+        "organizationIds": [],
+        "organizationName": "Rutgers University Jains ",
+        "organizationNames": [],
+        "organizationProfilePicture": "23a6630f-c92b-4c3c-9edc-b43a0628b5f7799ab59d-9f68-408c-a3bd-fa3ba2f0a79f.jpg",
+        "recScore": null,
+        "startsOn": "April 01 | 06:30 PM",
+        "status": "Approved",
+        "theme": "Cultural",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.556625,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -355,7 +457,7 @@
         "endsOn": "07:30 PM",
         "id": "10027509",
         "imagePath": "52fd425d-e9b5-4acb-b98c-4ec84f7305d9a5a67eca-df75-4b76-b477-d00bfb10d8b3.png",
-        "index": 10,
+        "index": 13,
         "institutionId": 4753,
         "latitude": null,
         "location": "Kathleen W. Ludwig Building",
@@ -373,7 +475,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.52346,
+        "@search.score": 99.54993,
         "benefitNames": [
             "Free Food"
         ],
@@ -391,7 +493,7 @@
         "endsOn": "08:30 PM",
         "id": "10063103",
         "imagePath": "c2655d24-22d1-4f8a-aac4-751adaea8dd30eb7c14d-9d8b-40dd-b95a-a564407cb325.png",
-        "index": 11,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Busch Student Center (122C)",
@@ -409,7 +511,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.52346,
+        "@search.score": 99.54993,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -423,7 +525,7 @@
         "endsOn": "08:30 PM",
         "id": "10036346",
         "imagePath": "a152c6b3-2e11-4b00-88cd-a63a9993ac3212cf9432-226e-4648-a5fb-4f7052959b2a.png",
-        "index": 12,
+        "index": 15,
         "institutionId": 4753,
         "latitude": null,
         "location": "BEST 4 North Lounge",
@@ -441,7 +543,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.46312,
+        "@search.score": 99.489624,
         "benefitNames": [
             "Free Food"
         ],
@@ -453,7 +555,7 @@
         "endsOn": "11:00 AM",
         "id": "9842340",
         "imagePath": "a1440679-f88c-4de2-8cf3-67b7be839631f9708ad8-0778-4858-82ef-fc161e40d1aa.pdf",
-        "index": 13,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "Graduate Student Lounge",
@@ -471,7 +573,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.451935,
+        "@search.score": 99.47845,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -484,7 +586,7 @@
         "endsOn": "01:30 PM",
         "id": "9723338",
         "imagePath": "2becc880-6308-4888-94ba-004f3b5f935ae70b1234-bdf7-4135-8202-d0e7ab015ed6.png",
-        "index": 14,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Multipurpose Room, Busch Student Center",
@@ -502,7 +604,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.4497,
+        "@search.score": 99.47621,
         "benefitNames": [
             "Free Food"
         ],
@@ -520,7 +622,7 @@
         "endsOn": "01:45 PM",
         "id": "10063089",
         "imagePath": "a2fe2fb1-6489-4bbc-ae73-4b5f3a6dd5550d4dd0d9-1431-476c-91b8-0c21209b9c5f.png",
-        "index": 15,
+        "index": 18,
         "institutionId": 4753,
         "latitude": "40.486500",
         "location": "Art History 201",
@@ -544,7 +646,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.41613,
+        "@search.score": 99.442665,
         "benefitNames": [
             "Free Food"
         ],
@@ -556,7 +658,7 @@
         "endsOn": "08:30 PM",
         "id": "10067602",
         "imagePath": "cf696cd6-38d9-48e8-841b-f27e865d6a0456548971-61cd-455b-a772-d920fc27951b.png",
-        "index": 16,
+        "index": 19,
         "institutionId": 4753,
         "latitude": null,
         "location": "Art History Grad Lounge",
@@ -574,7 +676,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.413895,
+        "@search.score": 99.44042,
         "benefitNames": [
             "Free Food"
         ],
@@ -592,7 +694,7 @@
         "endsOn": "09:00 PM",
         "id": "10053367",
         "imagePath": "b3f7b507-2304-4604-8479-5babe7e287467e96ef3f-bf54-4148-b19d-217180a82d3b.png",
-        "index": 17,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.477880",
         "location": "Environmental and Natural Resources Building",
@@ -610,7 +712,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.413895,
+        "@search.score": 99.44042,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -629,7 +731,7 @@
         "endsOn": "09:00 PM",
         "id": "10031766",
         "imagePath": "045d4338-41f0-4f75-b399-ed1270dbe6cf4ac4808c-c64a-409d-9708-270ee1bea4cc.png",
-        "index": 18,
+        "index": 21,
         "institutionId": 4753,
         "latitude": "40.478950",
         "location": "Merle V. Adams Room Cook Student Center",
@@ -647,7 +749,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.31526,
+        "@search.score": 99.34186,
         "benefitNames": [
             "Free Food"
         ],
@@ -659,7 +761,7 @@
         "endsOn": "08:00 PM",
         "id": "10058799",
         "imagePath": "b4df7cdc-db58-4349-bff1-634739ec429ed294c45c-8225-4b24-9341-f44e1467775c.png",
-        "index": 19,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.523830",
         "location": "EOSHI Room C",
@@ -677,7 +779,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.30629,
+        "@search.score": 99.332886,
         "benefitNames": [
             "Free Food"
         ],
@@ -693,7 +795,7 @@
         "endsOn": "09:00 PM",
         "id": "9774436",
         "imagePath": null,
-        "index": 20,
+        "index": 23,
         "institutionId": 4753,
         "latitude": null,
         "location": "Rutgers Hillel",
@@ -711,7 +813,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.20966,
+        "@search.score": 99.23632,
         "benefitNames": [
             "Free Food"
         ],
@@ -723,7 +825,7 @@
         "endsOn": "06:30 PM",
         "id": "9948843",
         "imagePath": null,
-        "index": 21,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.485910",
         "location": "Walters Hall 240",
@@ -741,7 +843,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.211914,
+        "@search.score": 99.23857,
         "benefitNames": [
             "Free Food"
         ],
@@ -753,7 +855,7 @@
         "endsOn": "07:00 PM",
         "id": "10067128",
         "imagePath": "c70c1944-b2f4-402b-b0c3-fbea54e99de04c63d8db-67a7-43ce-a056-aa7f807837f5.png",
-        "index": 22,
+        "index": 25,
         "institutionId": 4753,
         "latitude": "40.522210",
         "location": "School of Engineering Building, C-Wing",
@@ -771,7 +873,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.19841,
+        "@search.score": 99.225075,
         "benefitNames": [
             "Free Food"
         ],
@@ -789,7 +891,7 @@
         "endsOn": "09:00 PM",
         "id": "9676254",
         "imagePath": null,
-        "index": 23,
+        "index": 26,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -807,7 +909,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.20741,
+        "@search.score": 99.23407,
         "benefitNames": [
             "Free Food"
         ],
@@ -825,7 +927,7 @@
         "endsOn": "10:00 PM",
         "id": "9966500",
         "imagePath": "8fc7e335-67bd-4b15-b7d3-6ed87b59a0e697e04128-5d0e-4324-9568-c4cf3b32c57f.png",
-        "index": 24,
+        "index": 27,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Busch Student Center, Multipurpose Room A",
@@ -843,7 +945,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.13085,
+        "@search.score": 99.15756,
         "benefitNames": [
             "Free Food"
         ],
@@ -855,7 +957,7 @@
         "endsOn": "01:00 PM",
         "id": "9926881",
         "imagePath": "4f8b558f-9bdd-406e-b625-353c0ecea7175877f4ac-437b-4ecc-a2c1-b2adfd6349f7.png",
-        "index": 25,
+        "index": 28,
         "institutionId": 4753,
         "latitude": "40.525420",
         "location": "RU Cinemas",
@@ -873,7 +975,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.027054,
+        "@search.score": 99.053825,
         "benefitNames": [
             "Free Food"
         ],
@@ -889,7 +991,7 @@
         "endsOn": "12:00 PM",
         "id": "9918153",
         "imagePath": "6ac727a6-7045-44fe-acc1-6fc88e92c3408eec4a3e-877e-44a5-a713-1c9613763837.png",
-        "index": 26,
+        "index": 29,
         "institutionId": 4753,
         "latitude": null,
         "location": "Office of Veteran and Military Programs and Services ",
@@ -907,7 +1009,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.98637,
+        "@search.score": 99.01317,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -925,7 +1027,7 @@
         "endsOn": "09:00 PM",
         "id": "9161676",
         "imagePath": "f6bb8221-731c-4f85-889a-26115dd8555664f7986e-e0b5-4783-80bc-b56bc9eb5c94.png",
-        "index": 27,
+        "index": 30,
         "institutionId": 4753,
         "latitude": "40.486560",
         "location": "Voorhees Chapel ",
@@ -943,7 +1045,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.59793,
+        "@search.score": 98.62497,
         "benefitNames": [
             "Free Food"
         ],
@@ -961,7 +1063,7 @@
         "endsOn": "04:30 PM",
         "id": "9997780",
         "imagePath": "edf588a2-8f59-420c-a017-3adff0d977df36c685b0-c914-4d40-acc5-2b03d73af80d.png",
-        "index": 28,
+        "index": 31,
         "institutionId": 4753,
         "latitude": "40.478950",
         "location": "Cook Student Center",
@@ -989,7 +1091,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.54542,
+        "@search.score": 98.57249,
         "benefitNames": [
             "Free Food"
         ],
@@ -1005,7 +1107,7 @@
         "endsOn": "09:00 PM",
         "id": "9774437",
         "imagePath": null,
-        "index": 29,
+        "index": 32,
         "institutionId": 4753,
         "latitude": null,
         "location": "Rutgers Hillel",
@@ -1023,7 +1125,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.44706,
+        "@search.score": 98.4742,
         "benefitNames": [
             "Free Food"
         ],
@@ -1035,7 +1137,7 @@
         "endsOn": "06:30 PM",
         "id": "9948844",
         "imagePath": null,
-        "index": 30,
+        "index": 33,
         "institutionId": 4753,
         "latitude": "40.485910",
         "location": "Walters Hall 240",
@@ -1053,7 +1155,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.44477,
+        "@search.score": 98.47191,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1070,7 +1172,7 @@
         "endsOn": "10:00 PM",
         "id": "10050115",
         "imagePath": "79792521-468f-4e97-9c27-11764caa3efd4899d63a-9c35-4dbc-97ec-ac46601cf4ac.png",
-        "index": 31,
+        "index": 34,
         "institutionId": 4753,
         "latitude": "40.478950",
         "location": "CSC Room 202",
@@ -1088,7 +1190,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.26578,
+        "@search.score": 98.29303,
         "benefitNames": [
             "Free Food"
         ],
@@ -1104,7 +1206,7 @@
         "endsOn": "05:30 PM",
         "id": "10045778",
         "imagePath": "3e5d1d6b-d281-40c1-b4f0-7c267cbb26276bc805b5-c59f-4866-b3fe-fd25d10b2270.png",
-        "index": 32,
+        "index": 35,
         "institutionId": 4753,
         "latitude": "39.953230",
         "location": "The M\u00fctter Museum",
@@ -1122,7 +1224,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.224365,
+        "@search.score": 98.25165,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1135,7 +1237,7 @@
         "endsOn": "07:00 PM",
         "id": "10064631",
         "imagePath": "eac4d222-36f3-46a3-bf14-dfa5ffb0d61dc2ff0334-1be9-4e56-bd16-9f65bce73f1e.pdf",
-        "index": 33,
+        "index": 36,
         "institutionId": 4753,
         "latitude": "40.480760",
         "location": "Bunting Cobb Lounge",
@@ -1153,7 +1255,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.15065,
+        "@search.score": 98.17797,
         "benefitNames": [
             "Free Food"
         ],
@@ -1171,7 +1273,7 @@
         "endsOn": "04:00 PM",
         "id": "9947543",
         "imagePath": "7a1c2070-450e-4a31-aee6-4c13a93bd1ac98cf9141-2556-4c79-b69c-ab67255f6975.pdf",
-        "index": 34,
+        "index": 37,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Trayes Hall, Douglass Student Center",
@@ -1189,7 +1291,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.00283,
+        "@search.score": 98.03024,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1208,7 +1310,7 @@
         "endsOn": "08:00 PM",
         "id": "9769091",
         "imagePath": "fb368125-99ea-41ec-a757-25f6ae6f2fdc6b78a580-664a-4618-82f1-45b40c325dcd.png",
-        "index": 35,
+        "index": 38,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen W. Ludwig Global Village Living Learning Center",
@@ -1226,7 +1328,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.770836,
+        "@search.score": 97.7984,
         "benefitNames": [
             "Free Food"
         ],
@@ -1242,7 +1344,7 @@
         "endsOn": "09:00 PM",
         "id": "9774438",
         "imagePath": null,
-        "index": 36,
+        "index": 39,
         "institutionId": 4753,
         "latitude": null,
         "location": "Rutgers Hillel",
@@ -1260,7 +1362,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.770836,
+        "@search.score": 97.7984,
         "benefitNames": [
             "Free Food"
         ],
@@ -1282,7 +1384,7 @@
         "endsOn": "10:00 PM",
         "id": "9687769",
         "imagePath": "5a1432a9-286c-4191-89a2-7d6836524e4232f11504-7be5-4b55-b6a4-a88255567cdc.png",
-        "index": 37,
+        "index": 40,
         "institutionId": 4753,
         "latitude": "40.505130",
         "location": "Deiner Park (by Campbell Hall)",
@@ -1300,7 +1402,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.57031,
+        "@search.score": 97.598015,
         "benefitNames": [
             "Free Food"
         ],
@@ -1316,7 +1418,7 @@
         "endsOn": "05:00 PM",
         "id": "9676337",
         "imagePath": null,
-        "index": 38,
+        "index": 41,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -1334,7 +1436,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.55161,
+        "@search.score": 97.57932,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1348,7 +1450,7 @@
         "endsOn": "09:00 PM",
         "id": "9999871",
         "imagePath": null,
-        "index": 39,
+        "index": 42,
         "institutionId": 4753,
         "latitude": null,
         "location": "TBD",
@@ -1366,7 +1468,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.481415,
+        "@search.score": 97.50917,
         "benefitNames": [
             "Free Food"
         ],
@@ -1382,7 +1484,7 @@
         "endsOn": "12:00 PM",
         "id": "9918154",
         "imagePath": "6ac727a6-7045-44fe-acc1-6fc88e92c3408eec4a3e-877e-44a5-a713-1c9613763837.png",
-        "index": 40,
+        "index": 43,
         "institutionId": 4753,
         "latitude": null,
         "location": "Office of Veteran and Military Programs and Services ",
@@ -1400,7 +1502,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.10507,
+        "@search.score": 97.133064,
         "benefitNames": [
             "Free Food"
         ],
@@ -1412,7 +1514,7 @@
         "endsOn": "07:00 PM",
         "id": "10052756",
         "imagePath": "abbbd01e-e847-436b-bdf0-d3f0597276bb3c922e22-9903-4b1e-97b8-5a3719908c4f.png",
-        "index": 41,
+        "index": 44,
         "institutionId": 4753,
         "latitude": "40.499490",
         "location": "Sojourner Truth Apartments (Sky Lounge: 14th Floor)",
@@ -1430,7 +1532,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.10507,
+        "@search.score": 97.133064,
         "benefitNames": [
             "Free Food"
         ],
@@ -1444,7 +1546,7 @@
         "endsOn": "08:00 PM",
         "id": "10056587",
         "imagePath": "7ebe6226-23f5-4fd5-9285-c6c3426a7f9600f31c1e-e7f4-4971-b31f-7b1cab2a07b8.png",
-        "index": 42,
+        "index": 45,
         "institutionId": 4753,
         "latitude": "40.521380",
         "location": "Busch Campus, Echo Point outside of the Busch Suites",
@@ -1468,7 +1570,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.98205,
+        "@search.score": 97.010124,
         "benefitNames": [
             "Free Food"
         ],
@@ -1486,7 +1588,7 @@
         "endsOn": "10:00 PM",
         "id": "9687833",
         "imagePath": null,
-        "index": 43,
+        "index": 46,
         "institutionId": 4753,
         "latitude": "40.505370",
         "location": "Campbell Hall",
@@ -1504,7 +1606,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.89667,
+        "@search.score": 96.9248,
         "benefitNames": [
             "Free Food"
         ],
@@ -1516,7 +1618,7 @@
         "endsOn": "04:00 PM",
         "id": "9731361",
         "imagePath": null,
-        "index": 44,
+        "index": 47,
         "institutionId": 4753,
         "latitude": "40.485730",
         "location": "Mabel Smith Douglass Library",
@@ -1534,7 +1636,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.88717,
+        "@search.score": 96.915306,
         "benefitNames": [
             "Free Food"
         ],
@@ -1546,7 +1648,7 @@
         "endsOn": "05:00 PM",
         "id": "9653060",
         "imagePath": "2e5718f4-0e63-485d-8bab-1bf8982e688ce682e854-e80a-4e2b-98b7-fc6cd3cd9c2f.png",
-        "index": 45,
+        "index": 48,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
@@ -1564,7 +1666,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.88717,
+        "@search.score": 96.915306,
         "benefitNames": [
             "Free Food"
         ],
@@ -1576,7 +1678,7 @@
         "endsOn": "06:00 PM",
         "id": "9723398",
         "imagePath": "5d157766-8a6b-46a1-973d-e220afa8d9416c45d0a2-e3cd-4442-9a3e-e7bf65b4a837.png",
-        "index": 46,
+        "index": 49,
         "institutionId": 4753,
         "latitude": "40.501770",
         "location": "Morrell Street, College Ave Campus ",
@@ -1594,7 +1696,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.878136,
+        "@search.score": 95.906944,
         "benefitNames": [
             "Free Food"
         ],
@@ -1610,7 +1712,7 @@
         "endsOn": "12:00 PM",
         "id": "9918155",
         "imagePath": "6ac727a6-7045-44fe-acc1-6fc88e92c3408eec4a3e-877e-44a5-a713-1c9613763837.png",
-        "index": 47,
+        "index": 50,
         "institutionId": 4753,
         "latitude": null,
         "location": "Office of Veteran and Military Programs and Services ",
@@ -1628,7 +1730,54 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 74.29764,
+        "@search.score": 95.550804,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5337",
+            "5354"
+        ],
+        "categoryNames": [
+            "Cultural Performance",
+            "Special Interest"
+        ],
+        "description": "The annual Rites of Passage Ceremony is a pre-commencement celebration to honor Black and Latinx/e-identified students who through resolute persistence have successfully completed an undergraduate or graduate degree at Rutgers University\u2014New Brunswick. The event recognizes their accomplishments, hard work, and dedication, while simultaneously acknowledging the accomplishments of our student\u2019s families and networks of support. Distinguished speakers, student awards, performances, and the incorporation of African culture and traditions\u2014specifically the culminating Kente Stole presentation\u2014all add to the vibrancy of this celebratory day. Participation in the Rites of Passage Ceremony is open to all Black and Latinx-identified Rutgers University\u2013New Brunswick Undergraduate and Graduate students who have earned their degrees between January 2024 and August 2024. To participate, students must register by April 21st, 2024 through the getINVOLVED portal. Only students who have registered by this date are guaranteed to receive a kente stole. The late registration deadline is May 10th (Day of ceremony). All graduates are required to wear their academic regalia, which can be purchased from the Barnes and Noble Rutgers University Bookstore on Somerset Street. There is no cost to participate in Rites of Passage for graduates or guests. All graduates who register will receive the following:-1 Free Kente Cloth Stole-Unlimited number of guests-Free access to the reception for graduates and guests immediately following the ceremony If you have specific questions about your registration or the ceremony, please email rop@echo.rutgers.edu. Please note that all graduates need to be checked-in between 1:30-2:30pm. The graduation will start promptly at 3:00pm.  Visit http://go.rutgers.edu/rop2024 for more information!",
+        "endsOn": "06:30 PM",
+        "id": "10071662",
+        "imagePath": "986bc19b-175c-430b-976e-a239a9d7cac61c5177b6-e69b-4023-87ee-7eac181bf58e.png",
+        "index": 51,
+        "institutionId": 4753,
+        "latitude": "40.525200",
+        "location": "Jersey Mikes Arena",
+        "longitude": "-74.441380",
+        "name": "32nd Rites of Passage Ceremony Registration",
+        "organizationId": 354086,
+        "organizationIds": [
+            "140585",
+            "181140",
+            "354086"
+        ],
+        "organizationName": "Rites of Passage Ceremony",
+        "organizationNames": [
+            "Center for Latino Arts and Culture",
+            "Paul Robeson Cultural Center",
+            "Rites of Passage Ceremony"
+        ],
+        "organizationProfilePicture": "52b261a1-72fb-46a8-a969-0551fdc0bc4297ea7dee-5660-41fc-b6d8-fe2d570d8fdd.png",
+        "recScore": null,
+        "startsOn": "May 08 | 11:00 AM",
+        "status": "Approved",
+        "theme": "Cultural",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 74.345215,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1641,7 +1790,7 @@
         "endsOn": "11:45 PM",
         "id": "10070544",
         "imagePath": "a934dc4b-d727-4624-a920-7bc590b3e7a1df2f76fc-07b1-4736-ac7b-d998e20224d3.png",
-        "index": 48,
+        "index": 52,
         "institutionId": 4753,
         "latitude": "40.591580",
         "location": "8 On The Break",
