@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.95678,
+        "@search.score": 99.983055,
         "benefitNames": [
             "Free Food"
         ],
@@ -34,7 +34,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.95678,
+        "@search.score": 99.983055,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -65,7 +65,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.95678,
+        "@search.score": 99.983055,
         "benefitNames": [
             "Free Food"
         ],
@@ -101,7 +101,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94794,
+        "@search.score": 99.97422,
         "benefitNames": [
             "Free Food"
         ],
@@ -131,7 +131,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94794,
+        "@search.score": 99.97422,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -162,7 +162,37 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.85496,
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "One-day exhibit showcasing student artists of Rutgers, open all day! Join us for a reception at 7:30 PM.",
+        "endsOn": "09:00 PM",
+        "id": "10118229",
+        "imagePath": "95832e09-d2d5-4882-b5bb-c18dd04993030cdf1c5a-fac4-4831-95c7-595fc0adb18c.png",
+        "index": 5,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Art History Undergrad/Grad Lounge",
+        "longitude": null,
+        "name": "Student Artist Gallery",
+        "organizationId": 121445,
+        "organizationIds": [],
+        "organizationName": "Art History Student Association (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "614c74a4-8990-4cb1-9878-77fcd316e36d0dbc20f0-54d0-4d0b-ad8f-3cccb5000372.png",
+        "recScore": null,
+        "startsOn": "April 17 | 09:00 AM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.881294,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -174,37 +204,6 @@
         "description": "Come decorate a plant pot with us while enjoying boba! RSVP with your drink order here: https://forms.gle/9iTtzTDbtxto7ZB2A",
         "endsOn": "06:00 PM",
         "id": "10117606",
-        "imagePath": "86f0a587-751a-46ed-b512-9e58fdb8ad2cc8fbe40f-448c-4dc3-9fd1-0eb7e6e85eee.png",
-        "index": 5,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "CLAC 1st floor lounge",
-        "longitude": null,
-        "name": "Earth Day Paint & Sip",
-        "organizationId": 140534,
-        "organizationIds": [],
-        "organizationName": "Rutgers New Brunswick SACNAS (Advancing Chicanos/Hispanics & Native Americans in Science)",
-        "organizationNames": [],
-        "organizationProfilePicture": "bbb85b65-6733-4e12-8bc5-7a400df46c9879163ea3-f5bc-4b00-8c9c-7859827a678e.png",
-        "recScore": null,
-        "startsOn": "April 18 | 05:00 PM",
-        "status": "Approved",
-        "theme": "Cultural",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.85496,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Come decorate a plant pot with us while enjoying boba! RSVP with your drink order here: https://forms.gle/9iTtzTDbtxto7ZB2A",
-        "endsOn": "06:00 PM",
-        "id": "10117605",
         "imagePath": "86f0a587-751a-46ed-b512-9e58fdb8ad2cc8fbe40f-448c-4dc3-9fd1-0eb7e6e85eee.png",
         "index": 6,
         "institutionId": 4753,
@@ -224,7 +223,38 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.84388,
+        "@search.score": 99.881294,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Come decorate a plant pot with us while enjoying boba! RSVP with your drink order here: https://forms.gle/9iTtzTDbtxto7ZB2A",
+        "endsOn": "06:00 PM",
+        "id": "10117605",
+        "imagePath": "86f0a587-751a-46ed-b512-9e58fdb8ad2cc8fbe40f-448c-4dc3-9fd1-0eb7e6e85eee.png",
+        "index": 7,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "CLAC 1st floor lounge",
+        "longitude": null,
+        "name": "Earth Day Paint & Sip",
+        "organizationId": 140534,
+        "organizationIds": [],
+        "organizationName": "Rutgers New Brunswick SACNAS (Advancing Chicanos/Hispanics & Native Americans in Science)",
+        "organizationNames": [],
+        "organizationProfilePicture": "bbb85b65-6733-4e12-8bc5-7a400df46c9879163ea3-f5bc-4b00-8c9c-7859827a678e.png",
+        "recScore": null,
+        "startsOn": "April 18 | 05:00 PM",
+        "status": "Approved",
+        "theme": "Cultural",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.870224,
         "benefitNames": [
             "Free Food"
         ],
@@ -238,7 +268,7 @@
         "endsOn": "08:30 PM",
         "id": "10085803",
         "imagePath": "b7f6a79a-938b-45a9-a7cb-19cebebad09cbd5a9b4c-358f-47bd-98a6-6e89520b3f9a.png",
-        "index": 7,
+        "index": 8,
         "institutionId": 4753,
         "latitude": null,
         "location": "Busch Student Center",
@@ -264,7 +294,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.84831,
+        "@search.score": 99.87466,
         "benefitNames": [
             "Free Food"
         ],
@@ -276,7 +306,7 @@
         "endsOn": "09:00 PM",
         "id": "10114621",
         "imagePath": "424b71df-b12a-49fc-aa02-1fd27149067a3c3491f6-66eb-4742-9362-41a72563952b.png",
-        "index": 8,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.479940",
         "location": "Perry Library - Bartlett Hall ",
@@ -294,7 +324,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.84609,
+        "@search.score": 99.87244,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -313,7 +343,7 @@
         "endsOn": "09:00 PM",
         "id": "10109055",
         "imagePath": "5c537be2-ee06-458f-9f5e-19c04eb0857956ae53d7-bf0a-4023-8045-f5bfd59dd140.png",
-        "index": 9,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center Room 202ABC",
@@ -337,7 +367,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.84166,
+        "@search.score": 99.868004,
         "benefitNames": [
             "Free Food"
         ],
@@ -353,7 +383,7 @@
         "endsOn": "09:00 PM",
         "id": "9774438",
         "imagePath": null,
-        "index": 10,
+        "index": 11,
         "institutionId": 4753,
         "latitude": null,
         "location": "Rutgers Hillel",
@@ -371,7 +401,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.84166,
+        "@search.score": 99.868004,
         "benefitNames": [
             "Free Food"
         ],
@@ -393,7 +423,7 @@
         "endsOn": "10:00 PM",
         "id": "9687769",
         "imagePath": "5a1432a9-286c-4191-89a2-7d6836524e4232f11504-7be5-4b55-b6a4-a88255567cdc.png",
-        "index": 11,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.505130",
         "location": "Deiner Park (by Campbell Hall)",
@@ -411,7 +441,45 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.73956,
+        "@search.score": 99.868004,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5337",
+            "5352",
+            "5358"
+        ],
+        "categoryNames": [
+            "Cultural Performance",
+            "Religious/Religious Cultural/Spiritual Event",
+            "Wellness Event"
+        ],
+        "description": "Join us for a transcendent journey into inner peace and harmony at our Yoga Night and Kirtan Meditation event, happening this Thursday, April 18th, 2024. Step into a serene space where the soothing melodies of live music blend seamlessly with the gentle flow of yoga. Our skilled instructor will guide you through rejuvenating yoga postures, allowing your body to stretch, strengthen, and unwind. Feel the tension melt away as you synchronize breath with movement, cultivating a profound sense of presence and mindfulness. As the yoga session concludes, immerse yourself in the enchanting vibrations of Kirtan meditation. Let your heart resonate with the sacred chants and melodies, transcending earthly concerns and connecting with the deeper essence of your being. Whether you're a seasoned practitioner or new to meditation, this soul-stirring experience promises to uplift and inspire. But the journey doesn't end there. After the meditation, indulge in a delightful array of nourishing and wholesome refreshments, lovingly prepared to replenish your body and spirit. Savor the flavors of healthful delights as you mingle with fellow participants, sharing insights and forging connections in a warm and inviting atmosphere. Whether you seek relaxation, spiritual awakening, or simply a moment of respite from the hustle and bustle of daily life, our Yoga Night and Kirtan Meditation event offers a sanctuary for your soul. Join us on Thursday, April 18th, for an unforgettable evening of wellness, community, and blissful indulgence.",
+        "endsOn": "10:00 PM",
+        "id": "10118357",
+        "imagePath": "6cb36d10-c1b0-4a41-a71a-593cc14f7d5178d50e04-bdb7-4783-a205-76377fd6f5ce.png",
+        "index": 13,
+        "institutionId": 4753,
+        "latitude": "40.505370",
+        "location": "Campbell Hall A04",
+        "longitude": "-74.450950",
+        "name": "Yoga Night",
+        "organizationId": 121213,
+        "organizationIds": [],
+        "organizationName": "Bhakti - The Higher Taste",
+        "organizationNames": [],
+        "organizationProfilePicture": "bc87b621-d0d3-41e4-98de-340bd4f1cba7ffbd1dae-d57c-445a-8634-e8198067fc7f.jpg",
+        "recScore": null,
+        "startsOn": "April 18 | 08:00 PM",
+        "status": "Approved",
+        "theme": "Spirituality",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.765976,
         "benefitNames": [
             "Free Food"
         ],
@@ -423,7 +491,7 @@
         "endsOn": "09:00 PM",
         "id": "10117566",
         "imagePath": null,
-        "index": 12,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "BSC 122 ABC",
@@ -441,7 +509,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.73512,
+        "@search.score": 99.761536,
         "benefitNames": [
             "Free Food"
         ],
@@ -457,7 +525,7 @@
         "endsOn": "10:00 PM",
         "id": "10114084",
         "imagePath": "77f209af-4d39-445e-8ffe-68ee0f7d8f47c1e8c534-3504-4ccd-b554-ed61e391fca9.png",
-        "index": 13,
+        "index": 15,
         "institutionId": 4753,
         "latitude": "40.522710",
         "location": "SERC 203 ",
@@ -475,7 +543,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.78398,
+        "@search.score": 99.81036,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -488,7 +556,7 @@
         "endsOn": "12:00 AM",
         "id": "10113352",
         "imagePath": "6381fc26-eb90-4d93-9cd4-631021b1bd9909561735-3347-4331-978d-962ca04bef43.png",
-        "index": 14,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "College Avenue Student Center - Multipurpose Room",
@@ -506,7 +574,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.65059,
+        "@search.score": 99.677055,
         "benefitNames": [
             "Free Food"
         ],
@@ -522,7 +590,7 @@
         "endsOn": "05:00 PM",
         "id": "9676337",
         "imagePath": null,
-        "index": 15,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -540,7 +608,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.632774,
+        "@search.score": 99.65925,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -554,7 +622,7 @@
         "endsOn": "09:00 PM",
         "id": "9999871",
         "imagePath": null,
-        "index": 16,
+        "index": 18,
         "institutionId": 4753,
         "latitude": null,
         "location": "TBD",
@@ -572,7 +640,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.632774,
+        "@search.score": 99.65925,
         "benefitNames": [
             "Free Food"
         ],
@@ -590,7 +658,7 @@
         "endsOn": "10:30 PM",
         "id": "10110518",
         "imagePath": "d0bb0bbf-173e-473e-85af-2e36b4d99b29bb03ddea-5466-42dd-b3ce-5bf976d45bbd.png",
-        "index": 17,
+        "index": 19,
         "institutionId": 4753,
         "latitude": "40.478950",
         "location": "Cook Student Center MPR",
@@ -608,7 +676,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.66395,
+        "@search.score": 99.69041,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -631,7 +699,7 @@
         "endsOn": "11:30 PM",
         "id": "10110384",
         "imagePath": "ee1279c1-f95d-4bec-90ee-1cdf7b00565f65814e51-f122-4e60-858a-d42247d936c8.png",
-        "index": 18,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Busch Student Center",
@@ -639,27 +707,27 @@
         "name": "Scarlet Classic IX ",
         "organizationId": 141254,
         "organizationIds": [
-            "179226",
             "122008",
             "123171",
             "123441",
             "141254",
-            "341461",
-            "347407",
+            "179226",
+            "330515",
             "376504",
-            "330515"
+            "341461",
+            "347407"
         ],
         "organizationName": "Esports (Rutgers)",
         "organizationNames": [
-            "Overwatch (Rutgers) ",
             "League of Legends ",
             "Scarlet Smash",
             "Chess Club (Rutgers University)",
             "Esports (Rutgers)",
-            "VALORANT (Rutgers)",
-            "Rainbow Six Siege Club (Rutgers)",
+            "Overwatch (Rutgers) ",
+            "Women's Gaming League (Rutgers)",
             "Rutgers Destiny (Provisional Organization)",
-            "Women's Gaming League (Rutgers)"
+            "VALORANT (Rutgers)",
+            "Rainbow Six Siege Club (Rutgers)"
         ],
         "organizationProfilePicture": "56e6ba12-a622-4878-b0ad-485c6636cf83dd585347-a8c7-4fba-afba-d1250b633a66.png",
         "recScore": null,
@@ -669,7 +737,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.565895,
+        "@search.score": 99.59241,
         "benefitNames": [
             "Free Food"
         ],
@@ -685,7 +753,7 @@
         "endsOn": "12:00 PM",
         "id": "9918154",
         "imagePath": "6ac727a6-7045-44fe-acc1-6fc88e92c3408eec4a3e-877e-44a5-a713-1c9613763837.png",
-        "index": 19,
+        "index": 21,
         "institutionId": 4753,
         "latitude": null,
         "location": "Office of Veteran and Military Programs and Services ",
@@ -703,7 +771,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.534645,
+        "@search.score": 99.56118,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -724,7 +792,7 @@
         "endsOn": "07:00 PM",
         "id": "10110351",
         "imagePath": "71b3a2cf-6143-43cf-bf05-1c8175fd892dec824b57-3598-40e0-9a6f-e4cfcff715cb.png",
-        "index": 20,
+        "index": 22,
         "institutionId": 4753,
         "latitude": null,
         "location": "Busch Student Center MPR",
@@ -748,7 +816,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.339966,
+        "@search.score": 99.36662,
         "benefitNames": [
             "Free Food"
         ],
@@ -764,7 +832,7 @@
         "endsOn": "04:00 PM",
         "id": "10094997",
         "imagePath": "05b79338-231b-4af0-9ed5-2e441b98ee4710ba387c-fb62-466d-9b58-e659f5a79d17.png",
-        "index": 21,
+        "index": 23,
         "institutionId": 4753,
         "latitude": "40.501700",
         "location": "AB 4140",
@@ -782,7 +850,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.21643,
+        "@search.score": 99.243164,
         "benefitNames": [
             "Free Food"
         ],
@@ -794,7 +862,7 @@
         "endsOn": "07:00 PM",
         "id": "10073043",
         "imagePath": "9fcc591f-d21a-46d5-9883-fd8cbc4d7783fe06de52-586a-4a6e-bfcf-f16b29c77441.png",
-        "index": 22,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.523860",
         "location": "Lawn Behind Allison Road Classroom Building",
@@ -812,7 +880,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.207436,
+        "@search.score": 99.23417,
         "benefitNames": [
             "Free Food"
         ],
@@ -824,7 +892,7 @@
         "endsOn": "07:00 PM",
         "id": "10052756",
         "imagePath": "abbbd01e-e847-436b-bdf0-d3f0597276bb3c922e22-9903-4b1e-97b8-5a3719908c4f.png",
-        "index": 23,
+        "index": 25,
         "institutionId": 4753,
         "latitude": "40.499490",
         "location": "Sojourner Truth Apartments (Sky Lounge: 14th Floor)",
@@ -842,7 +910,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.207436,
+        "@search.score": 99.23417,
         "benefitNames": [
             "Free Food"
         ],
@@ -856,7 +924,7 @@
         "endsOn": "08:00 PM",
         "id": "10056587",
         "imagePath": "7ebe6226-23f5-4fd5-9285-c6c3426a7f9600f31c1e-e7f4-4971-b31f-7b1cab2a07b8.png",
-        "index": 24,
+        "index": 26,
         "institutionId": 4753,
         "latitude": "40.521380",
         "location": "Busch Campus, Echo Point outside of the Busch Suites",
@@ -880,7 +948,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.09029,
+        "@search.score": 99.117096,
         "benefitNames": [
             "Free Food"
         ],
@@ -898,7 +966,7 @@
         "endsOn": "10:00 PM",
         "id": "9687833",
         "imagePath": null,
-        "index": 25,
+        "index": 27,
         "institutionId": 4753,
         "latitude": "40.505370",
         "location": "Campbell Hall",
@@ -916,7 +984,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.999954,
+        "@search.score": 99.026825,
         "benefitNames": [
             "Free Food"
         ],
@@ -928,7 +996,7 @@
         "endsOn": "05:00 PM",
         "id": "9653060",
         "imagePath": "2e5718f4-0e63-485d-8bab-1bf8982e688ce682e854-e80a-4e2b-98b7-fc6cd3cd9c2f.png",
-        "index": 26,
+        "index": 28,
         "institutionId": 4753,
         "latitude": "40.498790",
         "location": "Rutgers Global",
@@ -946,7 +1014,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.997696,
+        "@search.score": 99.02457,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -961,7 +1029,7 @@
         "endsOn": "05:30 PM",
         "id": "10115795",
         "imagePath": "442ebaab-6c1a-451f-a76a-bb43e8462a669614215a-11c5-40ce-83ae-bb288049e0ef.png",
-        "index": 27,
+        "index": 29,
         "institutionId": 4753,
         "latitude": "40.502430",
         "location": "Druskin Lounge, Rutgers Honors College",
@@ -969,18 +1037,18 @@
         "name": "GAYpril: Get Involved Event",
         "organizationId": 152572,
         "organizationIds": [
-            "152572",
             "292979",
             "122546",
             "141249",
+            "152572",
             "211863"
         ],
         "organizationName": "Honors College",
         "organizationNames": [
-            "Honors College",
             "Queer and Christian ",
             "Transmissions",
             "Ultra Violet",
+            "Honors College",
             "Canterbury House (Chaplaincy)"
         ],
         "organizationProfilePicture": "50903c0d-8314-494e-bd38-f89d44cd1b5953afb87c-d7cb-40c2-9012-499257c6fe6d.png",
@@ -991,7 +1059,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.999954,
+        "@search.score": 99.026825,
         "benefitNames": [
             "Free Food"
         ],
@@ -1003,7 +1071,7 @@
         "endsOn": "06:00 PM",
         "id": "9723398",
         "imagePath": "5d157766-8a6b-46a1-973d-e220afa8d9416c45d0a2-e3cd-4442-9a3e-e7bf65b4a837.png",
-        "index": 28,
+        "index": 30,
         "institutionId": 4753,
         "latitude": "40.501770",
         "location": "Morrell Street, College Ave Campus ",
@@ -1021,7 +1089,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.99091,
+        "@search.score": 99.017784,
         "benefitNames": [
             "Free Food"
         ],
@@ -1033,7 +1101,7 @@
         "endsOn": "09:00 PM",
         "id": "10117524",
         "imagePath": "ea0abd9e-4ad4-4487-9db2-709c933a8c6fda3d61ec-063a-48b8-b655-fa8c17d11a5d.png",
-        "index": 29,
+        "index": 31,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center -- in the \" Rutgers Room\"",
@@ -1051,7 +1119,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.98639,
+        "@search.score": 99.01327,
         "benefitNames": [
             "Free Food"
         ],
@@ -1067,7 +1135,7 @@
         "endsOn": "10:00 PM",
         "id": "10101061",
         "imagePath": null,
-        "index": 30,
+        "index": 32,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Trayes Hall, Douglass Student Center",
@@ -1085,7 +1153,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.918495,
+        "@search.score": 98.94541,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1108,7 +1176,7 @@
         "endsOn": "04:00 PM",
         "id": "10111713",
         "imagePath": "d03155be-4048-4cc0-80da-9f8b5759945dae366f26-910a-48bf-907e-b35a93ea6c71.png",
-        "index": 31,
+        "index": 33,
         "institutionId": 4753,
         "latitude": "40.482330",
         "location": "Cook/Douglass Campus",
@@ -1126,7 +1194,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.90717,
+        "@search.score": 98.9341,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1147,7 +1215,7 @@
         "endsOn": "05:00 PM",
         "id": "10079526",
         "imagePath": "86b12953-b1cb-408e-bdbf-ed936ad293330628266b-794f-4d74-b264-7b9d6b9ecde0.png",
-        "index": 32,
+        "index": 34,
         "institutionId": 4753,
         "latitude": "40.523640",
         "location": "Rutgers University Psychology Department - Room 105",
@@ -1155,15 +1223,15 @@
         "name": "AXON 5.0 Neuroscience Research Conference ",
         "organizationId": 224566,
         "organizationIds": [
+            "224566",
             "123440",
-            "124773",
-            "224566"
+            "124773"
         ],
         "organizationName": "Nu Rho Psi ",
         "organizationNames": [
+            "Nu Rho Psi ",
             "Cell Biology and Neuroscience Society",
-            "Building Research, Advocacy, and Innovation in Neuroscience ",
-            "Nu Rho Psi "
+            "Building Research, Advocacy, and Innovation in Neuroscience "
         ],
         "organizationProfilePicture": "3ae70b57-fff3-4db5-abff-3f3e212848704422a8c5-11f5-42ce-a31f-731533818177.jpg",
         "recScore": null,
@@ -1173,7 +1241,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.66408,
+        "@search.score": 98.691154,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1198,7 +1266,7 @@
         "endsOn": "08:00 PM",
         "id": "10109384",
         "imagePath": "58d04149-076b-40aa-be0e-1a5419182beb7818b1f3-0583-4e5b-a06e-cb59372158af.png",
-        "index": 33,
+        "index": 35,
         "institutionId": 4753,
         "latitude": "40.503050",
         "location": "Bishop Beach",
@@ -1222,7 +1290,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.58198,
+        "@search.score": 98.60911,
         "benefitNames": [
             "Free Food"
         ],
@@ -1240,7 +1308,7 @@
         "endsOn": "05:00 PM",
         "id": "10094854",
         "imagePath": "51fd8afa-fe82-4ce9-81cf-b1f81e09172e9d88316d-0705-4238-8509-22fe3c502201.png",
-        "index": 34,
+        "index": 36,
         "institutionId": 4753,
         "latitude": "40.500060",
         "location": "Zimmerli Art Museum",
@@ -1258,7 +1326,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.03985,
+        "@search.score": 98.06733,
         "benefitNames": [
             "Free Food"
         ],
@@ -1274,7 +1342,7 @@
         "endsOn": "12:00 PM",
         "id": "9918155",
         "imagePath": "6ac727a6-7045-44fe-acc1-6fc88e92c3408eec4a3e-877e-44a5-a713-1c9613763837.png",
-        "index": 35,
+        "index": 37,
         "institutionId": 4753,
         "latitude": null,
         "location": "Office of Veteran and Military Programs and Services ",
@@ -1292,7 +1360,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.70101,
+        "@search.score": 97.72871,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1313,7 +1381,7 @@
         "endsOn": "06:30 PM",
         "id": "10071662",
         "imagePath": "986bc19b-175c-430b-976e-a239a9d7cac61c5177b6-e69b-4023-87ee-7eac181bf58e.png",
-        "index": 36,
+        "index": 38,
         "institutionId": 4753,
         "latitude": "40.525200",
         "location": "Jersey Mikes Arena",
@@ -1321,14 +1389,14 @@
         "name": "32nd Rites of Passage Ceremony Registration",
         "organizationId": 354086,
         "organizationIds": [
-            "181140",
             "140585",
+            "181140",
             "354086"
         ],
         "organizationName": "Rites of Passage Ceremony",
         "organizationNames": [
-            "Paul Robeson Cultural Center",
             "Center for Latino Arts and Culture",
+            "Paul Robeson Cultural Center",
             "Rites of Passage Ceremony"
         ],
         "organizationProfilePicture": "60d1baf7-0b6e-4078-b0d8-6eae3641ba39568132ea-a261-4722-b32d-e13508e957d9.png",
@@ -1339,7 +1407,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.563324,
+        "@search.score": 97.59111,
         "benefitNames": [
             "Free Food"
         ],
@@ -1353,7 +1421,7 @@
         "endsOn": "06:30 PM",
         "id": "10084388",
         "imagePath": "b6904177-18e5-4a33-a36f-3394257c45bf2ebec76b-9625-4d8a-a66e-c78091deaa3f.png",
-        "index": 37,
+        "index": 39,
         "institutionId": 4753,
         "latitude": "40.524170",
         "location": "RWJMS Research Tower Patio",
@@ -1361,13 +1429,13 @@
         "name": "Rutgers Seeding Labs x MBGSO x QB GSO Korean BBQ Party",
         "organizationId": 344053,
         "organizationIds": [
-            "344053",
-            "330441"
+            "330441",
+            "344053"
         ],
         "organizationName": "Rutgers Seeding Labs (Graduate Organization)",
         "organizationNames": [
-            "Rutgers Seeding Labs (Graduate Organization)",
-            "Molecular Biosciences (Graduate Student Organization)"
+            "Molecular Biosciences (Graduate Student Organization)",
+            "Rutgers Seeding Labs (Graduate Organization)"
         ],
         "organizationProfilePicture": "9b27e9e3-471c-43b7-98ce-2422161715ab8ce518f6-3034-4922-9b12-43d56030d2a3.png",
         "recScore": null,
@@ -1377,7 +1445,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.44325,
+        "@search.score": 96.47176,
         "benefitNames": [
             "Free Food"
         ],
@@ -1395,7 +1463,7 @@
         "endsOn": "02:00 PM",
         "id": "9941216",
         "imagePath": "566b6326-777d-4671-87f5-64b97873443160385040-4b1b-443d-a1e7-22b028e9b332.png",
-        "index": 38,
+        "index": 40,
         "institutionId": 4753,
         "latitude": "40.500060",
         "location": "Zimmerli Art Museum",
@@ -1413,7 +1481,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.88349,
+        "@search.score": 81.92349,
         "benefitNames": [
             "Free Food"
         ],
@@ -1425,11 +1493,11 @@
         "categoryNames": [
             "Welcome Week"
         ],
-        "description": "Come to discover what the Creation of Games Society is all about! During the meeting, the executive board will give a presentation on the club and conduct a Q&A session afterward. Members can also hang out and play video games together after the presentation. Free pizza will be provided to attendees!",
+        "description": "Come to discover what the Creation of Games Society is all about! During the meeting, the executive board will give a presentation on the club and conduct a Q&A session afterward. Members can also hang out and play video games together after the presentation. The meeting will be held at CoRE 301 from 7-9 pm. Join our Discord page at https://cogs.club/discord for more information! Free pizza will be provided to attendees!",
         "endsOn": "09:00 PM",
         "id": "10072754",
         "imagePath": "ed054d54-b302-41be-977e-7c8fe1c84a780d4b6c61-73d2-4cba-a365-81141b4d6230.png",
-        "index": 39,
+        "index": 41,
         "institutionId": 4753,
         "latitude": "40.521390",
         "location": "CoRE 301",
@@ -1447,7 +1515,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 77.81224,
+        "@search.score": 77.85621,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1460,7 +1528,7 @@
         "endsOn": "11:45 PM",
         "id": "10070544",
         "imagePath": "a934dc4b-d727-4624-a920-7bc590b3e7a1df2f76fc-07b1-4736-ac7b-d998e20224d3.png",
-        "index": 40,
+        "index": 42,
         "institutionId": 4753,
         "latitude": "40.591580",
         "location": "8 On The Break",
@@ -1475,6 +1543,36 @@
         "startsOn": "September 27 | 08:00 PM",
         "status": "Approved",
         "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 69.26775,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Scarlet Game Jam is a biannual game jam hosted by the Creation of Games Society at Rutgers University. Similar to any other game jam, participants will be given one week(ish) to design and code a game to show off at the end of the jam. At the beginning of each Scarlet Game Jam, we will also be unveiling the (optional) theme to inspire or challenge our participants, which changes with every Scarlet Game Jam, so each year is a new experience! Programmers, musicians, and artists are welcome, but no experience is necessary! Check out our website for more information: (TBD). This time around, the game jam is 2 weeks long to give everyone extra time to work on their games! Feel free to take the whole 2 weeks, one week, or even a single day to work on your game. Join the COGS Discord here! Any announcements about the jam will be blasted here: https://cogs.club/discord Make sure to sign up on our website to ensure free food for the in-person closing ceremony on April 14th. Schedule: TBD",
+        "endsOn": "09:00 PM",
+        "id": "10118589",
+        "imagePath": "114a9daf-fc46-446a-8cef-1fd55a47505c4ec67e63-a24e-4a36-84a2-55c3dc104e0a.png",
+        "index": 43,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "TBD",
+        "longitude": null,
+        "name": "Scarlet Game Jam Fall 2024",
+        "organizationId": 121487,
+        "organizationIds": [],
+        "organizationName": "Creation of Games Society",
+        "organizationNames": [],
+        "organizationProfilePicture": "1e85817b-f93e-43d9-8dd6-72ebff62458ad4881960-ad3d-4659-8e49-e7621e6b4d3d.png",
+        "recScore": null,
+        "startsOn": "November 10 | 04:00 PM",
+        "status": "Approved",
+        "theme": "Arts",
         "visibility": "Public"
     }
 ]
