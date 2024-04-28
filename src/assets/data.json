@@ -1,199 +1,6 @@
 [
     {
-        "@search.score": 1.0,
-        "benefitNames": [
-            "Credit",
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join us to watch the football team play in the annual Scarlet vs. White game on Rutgers Day! Free admission for all!",
-        "endsOn": "04:00 PM",
-        "id": "9999871",
-        "imagePath": null,
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": "40.513750",
-        "location": "SHI Stadium",
-        "longitude": "-74.465380",
-        "name": "Spring Game",
-        "organizationId": 132611,
-        "organizationIds": [],
-        "organizationName": "Riot Squad (Rutgers)",
-        "organizationNames": [],
-        "organizationProfilePicture": "9192a581-5eae-451c-b102-3cce250495e0ee94d395-a191-4939-aa55-f9ac980a6854.jpg",
-        "recScore": null,
-        "startsOn": "April 27 | 02:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5334",
-            "5343",
-            "5348",
-            "20311"
-        ],
-        "categoryNames": [
-            "Community Service Event on Campus",
-            "Entertainment",
-            "Outdoor Event",
-            "Graduate Student Organization Event"
-        ],
-        "description": "Rutgers Day is Saturday, April 27 from 10am-4pm. SPAR will once again be holding our interactive activity/game called \"The government funded WHAT?!?!\". If you are interested in tabling the event for part of Rutgers Day, please sign up for a time here. All graduate students are welcome to volunteer. No prior attendance at a SPAR event/meeting required! We will provide all volunteers with lunch on Saturday. A limited number of Rutgers Day t-shirts are available to volunteers! Email rutgersnspg@gmail.com if you have questions. Funding for SPAR's participation in Rutgers Day is provided by Rutgers GSA.      ",
-        "endsOn": "04:00 PM",
-        "id": "10111713",
-        "imagePath": "d03155be-4048-4cc0-80da-9f8b5759945dae366f26-910a-48bf-907e-b35a93ea6c71.png",
-        "index": 1,
-        "institutionId": 4753,
-        "latitude": "40.482330",
-        "location": "Cook/Douglass Campus",
-        "longitude": "-74.438240",
-        "name": "SPAR at Rutgers Day- The government funded WHAT?!?",
-        "organizationId": 331416,
-        "organizationIds": [],
-        "organizationName": "Science Policy and Advocacy at Rutgers (Graduate Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "10f67ff6-6523-4f5d-aba4-9bf9ed5b5eccc518c7d9-05ce-49ed-a923-42c34195a82c.png",
-        "recScore": null,
-        "startsOn": "April 27 | 10:00 AM",
-        "status": "Approved",
-        "theme": "CommunityService",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "5340",
-            "5341"
-        ],
-        "categoryNames": [
-            "Educational Conference/Seminar/Workshop/Panel",
-            "Educational Lecture"
-        ],
-        "description": "Hi everyone,  RU Nu Rho Psi's annual research conference, AXON, is coming up soon! All students who are conducting neuroscience-related research are invited to present their research projects to an audience for the chance to win cash prizes. This year, AXON will be held on April 27th from 1230pm - 5pm in room 105 of the Psychology Building on Busch Campus. Students at Rutgers have the option to present their research via presentation of a physical printed poster during a poster session, or via a 15 minute slideshow presentation (10 minute talk + 5 minutes for questions). Students would not only be able to present their research at a conference recognized by the National Honor Society of Neuroscience, they would also have the chance to get their presentations judged for the possibility of winning a cash prize (a $150 prize, a $125 prize, and a $100 prize will be awarded). Attending and presenting at AXON is completely free, and food will be provided and catered (food will be catered from Jersey Mikes and Szechwan Ichiban). Students interested in presenting at AXON 5.0 will need to submit their abstracts using the following form by April 19th at 11:59pm: https://forms.gle/6Ro3aqEK1kGeE5cq5   Since the theme of AXON this year is \"Exercise and the Brain\", Dr. Peter Douris, the keynote speaker, will be talking about whether exercise is the true ultimate modality for optimal cognitive performance (your neuroscience research does not have to be exercise related). Here is the website dedicated to the conference: https://axon2024.myportfolio.com/. Make sure to check it out. If you have any questions, feel free to contact nrp.rutgers@gmail.com.",
-        "endsOn": "05:00 PM",
-        "id": "10079526",
-        "imagePath": "86b12953-b1cb-408e-bdbf-ed936ad293330628266b-794f-4d74-b264-7b9d6b9ecde0.png",
-        "index": 2,
-        "institutionId": 4753,
-        "latitude": "40.523640",
-        "location": "Rutgers University Psychology Department - Room 105",
-        "longitude": "-74.466300",
-        "name": "AXON 5.0 Neuroscience Research Conference ",
-        "organizationId": 224566,
-        "organizationIds": [
-            "123440",
-            "124773",
-            "224566"
-        ],
-        "organizationName": "Nu Rho Psi ",
-        "organizationNames": [
-            "Cell Biology and Neuroscience Society",
-            "Building Research, Advocacy, and Innovation in Neuroscience ",
-            "Nu Rho Psi "
-        ],
-        "organizationProfilePicture": "3ae70b57-fff3-4db5-abff-3f3e212848704422a8c5-11f5-42ce-a31f-731533818177.jpg",
-        "recScore": null,
-        "startsOn": "April 27 | 12:30 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.982956,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "We are delighted to extend an invitation to the screening of Chaityabhumi, a documentary film directed by Somnath Waghmare, followed by a discussion with the filmmaker. The film was shot in Chaityabhumi, Mumbai, one of India's most significant places for the Dalit and anti-caste movement, as it is where Dr. Ambedkar's last rites were performed after his passing on December 6, 1956. Dr Bhimrao Ramji Ambedkar was an Indian jurist, economist, politician, activist, philosopher, sociologist, revolutionary and the architect of the Indian constitution. He dedicated his life to fighting against caste oppression, dismantling oppressive structures, and fighting for women's liberation, amongst many others. This documentary will shed light on the history and cultural politics of how India's oppressed masses commemorate December 6 at Chaityabhumi and its relevance in contemporary society. It also explores the caste and politics of space in Mumbai city.RSVP: If you are a student at Rutgers and would like to attend this event, please RSVP using this GetInvolved page. If you are not at Rutgers and would like to attend this event, please use this link to RSVP - https://docs.google.com/forms/d/e/1FAIpQLSeOJWIuETYMeUKqJn1fifvlwFOpk6u9J8yx1hZipBtm5IKToA/viewform Transport and Parking:If you are driving, please park in the Yellow and Green parking lots to avoid the vehicle from being towed. Please refer to this map for Visitor parking lots: https://campusvisitorguides.com/rutgers/wp-content/uploads/sites/7/2019/09/Livingston.jpg. If you are taking the train, take the NJ Transit to New Brunswick station. You can take a Lyft or Uber from the station to the location. Alternatively, you can walk to The Yard and take the Rutgers Weekend 1 bus to Livingston Student Centre. It is a 5-minute walk from there. Please note: Weekend buses run every 30-45 minutes. Please plan accordingly.",
-        "endsOn": "08:00 PM",
-        "id": "10125600",
-        "imagePath": "72fc0985-ee85-451a-b875-93b46f48a93552c4db94-a882-46be-a9b9-a1540aa61a2a.png",
-        "index": 3,
-        "institutionId": 4753,
-        "latitude": "40.518580",
-        "location": "B-120, Lucy Stone Hall",
-        "longitude": "-74.440630",
-        "name": "Chaityabhumi Film Screening",
-        "organizationId": 388630,
-        "organizationIds": [
-            "332408",
-            "388630"
-        ],
-        "organizationName": "Women's, Gender, and Sexuality Studies (Graduate Student Organization)",
-        "organizationNames": [
-            "Graduate Geographers Project (Graduate Organization)",
-            "Women's, Gender, and Sexuality Studies (Graduate Student Organization)"
-        ],
-        "organizationProfilePicture": "b2bf8929-2ea2-49c2-bf32-46ca0c1cd4eaf89baa6c-3772-47fa-9e61-296e86b118f9.png",
-        "recScore": null,
-        "startsOn": "April 27 | 06:00 PM",
-        "status": "Approved",
-        "theme": "Arts",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.982956,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5355"
-        ],
-        "categoryNames": [
-            "Sports/Recreation/Intramural"
-        ],
-        "description": "Come join RUCC for our FINAL EVENT OF THE SEMESTER!Date and Time: April 27, 6:00PMLocation: Livingston Student Center room 202We will have RAFFLE PRIZES including:- 40lbs Weighted Vest- Set of 5 Resistance Bands- Mini ParallettesWe will have MOE\u2019S SOUTHWEST GRILL CATERINGWe will have CALISTHENICS-THEMED JEOPARDYWe will have a CALISTHENICS PRO Q&A with @gabosaturno , founder and CEO of @saturnomovement ! With over 1,000,000 subscribers on Youtube and a brand new, cutting edge calisthenics mobile app, SaturnoMovement is one of the leading calisthenics brands. Gabo will be joining us to give a presentation on his journey through calisthenics and the best ways to progress, followed by a Q&A!Last but certainly not least, there will be FRIENDS and FUN!Don\u2019t miss out, attend Rutgers University Calisthenics Club\u2019s SUPER CALISTHENICS EXTRAVAGANZA BONANZA!Love,RUCC <3",
-        "endsOn": "09:00 PM",
-        "id": "10130929",
-        "imagePath": "77170fc3-207c-47f3-8a10-eef6258268754d1b4420-e99d-4ec8-bae4-1d5fa3b74c68.png",
-        "index": 4,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "Livingston Student Center 202",
-        "longitude": null,
-        "name": "Super Calisthenics Extravaganza Bonanza with Gabo Saturno!",
-        "organizationId": 365067,
-        "organizationIds": [],
-        "organizationName": "Calisthenics Club at Rutgers University",
-        "organizationNames": [],
-        "organizationProfilePicture": "abc0b39b-be00-4adb-94c9-b57436459e52a180fde1-67e1-4452-ac58-72baed57c0ce.jpg",
-        "recScore": null,
-        "startsOn": "April 27 | 06:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.77032,
+        "@search.score": 99.79911,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -220,7 +27,7 @@
         "endsOn": "08:00 PM",
         "id": "10133715",
         "imagePath": "8838a27f-9c15-48b9-9300-3f5c0162c66a09ebf1bc-ac2a-4d12-b937-c9243b49be56.png",
-        "index": 5,
+        "index": 0,
         "institutionId": 4753,
         "latitude": "40.484900",
         "location": "Jameson C Basement",
@@ -244,7 +51,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.77032,
+        "@search.score": 99.79911,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -269,7 +76,7 @@
         "endsOn": "08:00 PM",
         "id": "10109384",
         "imagePath": "58d04149-076b-40aa-be0e-1a5419182beb7818b1f3-0583-4e5b-a06e-cb59372158af.png",
-        "index": 6,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.503050",
         "location": "Bishop Beach",
@@ -293,7 +100,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.77698,
+        "@search.score": 99.80577,
         "benefitNames": [
             "Free Food"
         ],
@@ -305,7 +112,7 @@
         "endsOn": "09:00 PM",
         "id": "9745052",
         "imagePath": null,
-        "index": 7,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.484750",
         "location": "Kathleen W. Ludwig Global Village Living Learning Center",
@@ -323,7 +130,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.68586,
+        "@search.score": 99.71471,
         "benefitNames": [
             "Free Food"
         ],
@@ -337,7 +144,7 @@
         "endsOn": "03:00 PM",
         "id": "10121245",
         "imagePath": "49d08957-0d86-4b2b-bfd4-3cfc5df33ff2975eb125-5266-4551-8381-fddc63daa8ad.png",
-        "index": 8,
+        "index": 3,
         "institutionId": 4753,
         "latitude": null,
         "location": "B.E.S.T MPR (Main Room) ",
@@ -363,7 +170,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.69031,
+        "@search.score": 99.719154,
         "benefitNames": [
             "Free Food"
         ],
@@ -381,7 +188,7 @@
         "endsOn": "05:00 PM",
         "id": "10094854",
         "imagePath": "51fd8afa-fe82-4ce9-81cf-b1f81e09172e9d88316d-0705-4238-8509-22fe3c502201.png",
-        "index": 9,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.500060",
         "location": "Zimmerli Art Museum",
@@ -399,7 +206,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.67251,
+        "@search.score": 99.70136,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -414,7 +221,7 @@
         "endsOn": "06:00 PM",
         "id": "10122743",
         "imagePath": "c41d397d-50a0-4258-a75b-f9fe992218240bd9a6ff-3a8c-421e-9615-53ccd6e7cfd6.pdf",
-        "index": 10,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.480760",
         "location": "Bunting Cobb Lounge",
@@ -438,7 +245,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.56109,
+        "@search.score": 99.59002,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -457,7 +264,7 @@
         "endsOn": "08:00 PM",
         "id": "10120240",
         "imagePath": "bfb794eb-242d-42b7-84cd-6ab06665733b38a2ab8b-ff5b-45db-87d9-94155a90a9cb.png",
-        "index": 11,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "College Avenue Student Center",
@@ -475,7 +282,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.456085,
+        "@search.score": 99.485085,
         "benefitNames": [
             "Free Food"
         ],
@@ -501,7 +308,7 @@
         "endsOn": "08:00 PM",
         "id": "10122496",
         "imagePath": "7e9f0c4f-395e-45bb-9c9d-bb8dc3c1a636cd5644a6-da5c-4b4e-a4c5-2e054fd5cf8d.png",
-        "index": 12,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.500060",
         "location": "Zimmerli Art Museum",
@@ -519,7 +326,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.16206,
+        "@search.score": 99.19127,
         "benefitNames": [
             "Free Food"
         ],
@@ -535,7 +342,7 @@
         "endsOn": "12:00 PM",
         "id": "9918155",
         "imagePath": "6ac727a6-7045-44fe-acc1-6fc88e92c3408eec4a3e-877e-44a5-a713-1c9613763837.png",
-        "index": 13,
+        "index": 8,
         "institutionId": 4753,
         "latitude": null,
         "location": "Office of Veteran and Military Programs and Services ",
@@ -553,7 +360,37 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.83199,
+        "@search.score": 99.04247,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Join us as we celebrate the completion of another academic year! Dinner will be served at this event. Graduate students from all departments are welcome.  ",
+        "endsOn": "10:00 PM",
+        "id": "10136021",
+        "imagePath": null,
+        "index": 9,
+        "institutionId": 4753,
+        "latitude": "40.482330",
+        "location": "First Floor Conference room, Ruth Dill Johnson Crockett Building",
+        "longitude": "-74.429080",
+        "name": "WGSS GSO End-of-year Gathering",
+        "organizationId": 388630,
+        "organizationIds": [],
+        "organizationName": "Women's, Gender, and Sexuality Studies (Graduate Student Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "b2bf8929-2ea2-49c2-bf32-46ca0c1cd4eaf89baa6c-3772-47fa-9e61-296e86b118f9.png",
+        "recScore": null,
+        "startsOn": "May 06 | 07:00 PM",
+        "status": "Approved",
+        "theme": "Cultural",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 98.86142,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -574,7 +411,7 @@
         "endsOn": "06:30 PM",
         "id": "10071662",
         "imagePath": "986bc19b-175c-430b-976e-a239a9d7cac61c5177b6-e69b-4023-87ee-7eac181bf58e.png",
-        "index": 14,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.525200",
         "location": "Jersey Mikes Arena",
@@ -600,7 +437,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.69788,
+        "@search.score": 98.7274,
         "benefitNames": [
             "Free Food"
         ],
@@ -614,7 +451,7 @@
         "endsOn": "06:30 PM",
         "id": "10084388",
         "imagePath": "b6904177-18e5-4a33-a36f-3394257c45bf2ebec76b-9625-4d8a-a66e-c78091deaa3f.png",
-        "index": 15,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.524170",
         "location": "RWJMS Research Tower Patio",
@@ -638,7 +475,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.60735,
+        "@search.score": 97.63763,
         "benefitNames": [
             "Free Food"
         ],
@@ -656,7 +493,7 @@
         "endsOn": "02:00 PM",
         "id": "9941216",
         "imagePath": "566b6326-777d-4671-87f5-64b97873443160385040-4b1b-443d-a1e7-22b028e9b332.png",
-        "index": 16,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.500060",
         "location": "Zimmerli Art Museum",
@@ -674,7 +511,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.507996,
+        "@search.score": 83.55002,
         "benefitNames": [
             "Free Food"
         ],
@@ -690,7 +527,7 @@
         "endsOn": "09:00 PM",
         "id": "10072754",
         "imagePath": "ed054d54-b302-41be-977e-7c8fe1c84a780d4b6c61-73d2-4cba-a365-81141b4d6230.png",
-        "index": 17,
+        "index": 13,
         "institutionId": 4753,
         "latitude": "40.521390",
         "location": "CoRE 301",
@@ -708,7 +545,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.05181,
+        "@search.score": 83.09428,
         "benefitNames": [
             "Free Food"
         ],
@@ -724,7 +561,7 @@
         "endsOn": "07:00 PM",
         "id": "10132513",
         "imagePath": "c63b1eff-165f-4518-95b5-b867aa893dc32645c67b-ad82-4811-bf9f-a114434438ce.png",
-        "index": 18,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.521060",
         "location": "Livingston Recreation Center MPR A",
@@ -742,7 +579,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.55098,
+        "@search.score": 82.59394,
         "benefitNames": [
             "Free Food"
         ],
@@ -754,7 +591,7 @@
         "endsOn": "10:00 PM",
         "id": "10133417",
         "imagePath": "913be973-7a14-4cee-887c-0df7ab51b751c6382115-b6ca-41b8-adf7-da82f14a0d3d.png",
-        "index": 19,
+        "index": 15,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Ave, TBD",
@@ -772,7 +609,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.23497,
+        "@search.score": 82.27825,
         "benefitNames": [
             "Free Food"
         ],
@@ -792,7 +629,7 @@
         "endsOn": "10:00 PM",
         "id": "10120265",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 20,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC Coffeehouse",
@@ -810,7 +647,37 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 79.93073,
+        "@search.score": 80.30938,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Come out to RUSCA's first GIM of the fall semester! Join us to discuss what supply chain is, how to get involved, and play a kahoot.",
+        "endsOn": "10:00 PM",
+        "id": "10136044",
+        "imagePath": "9d58429c-1df3-4677-8aa8-ee3e6860640a85239723-04d2-46da-b483-a9292b80cff6.png",
+        "index": 17,
+        "institutionId": 4753,
+        "latitude": "40.523320",
+        "location": "Rutgers Business School",
+        "longitude": "-74.440690",
+        "name": "RUSCA GIM 1",
+        "organizationId": 123209,
+        "organizationIds": [],
+        "organizationName": "Supply Chain Association (Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "337b5fa4-9619-46bd-a8ce-4453d33adf55d8730c4f-7974-48b3-ba92-8b5353dd138c.png",
+        "recScore": null,
+        "startsOn": "September 23 | 09:00 PM",
+        "status": "Approved",
+        "theme": "GroupBusiness",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 79.976395,
         "benefitNames": [
             "Free Food"
         ],
@@ -830,7 +697,7 @@
         "endsOn": "10:00 PM",
         "id": "10120266",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 21,
+        "index": 18,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC 202AB",
@@ -848,7 +715,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 79.59479,
+        "@search.score": 79.64081,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -861,7 +728,7 @@
         "endsOn": "11:45 PM",
         "id": "10070544",
         "imagePath": "a934dc4b-d727-4624-a920-7bc590b3e7a1df2f76fc-07b1-4736-ac7b-d998e20224d3.png",
-        "index": 22,
+        "index": 19,
         "institutionId": 4753,
         "latitude": "40.591580",
         "location": "8 On The Break",
@@ -879,7 +746,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 77.49597,
+        "@search.score": 77.5443,
         "benefitNames": [
             "Free Food"
         ],
@@ -899,7 +766,7 @@
         "endsOn": "10:00 PM",
         "id": "10120267",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 23,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC Coffeehouse",
@@ -917,7 +784,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 74.915016,
+        "@search.score": 74.966324,
         "benefitNames": [
             "Free Food"
         ],
@@ -937,7 +804,7 @@
         "endsOn": "10:00 PM",
         "id": "10120268",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 24,
+        "index": 21,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC 202AB",
@@ -955,7 +822,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 74.5453,
+        "@search.score": 74.59706,
         "benefitNames": [
             "Free Food"
         ],
@@ -981,7 +848,7 @@
         "endsOn": "11:30 PM",
         "id": "10120285",
         "imagePath": "e8b12132-2fb2-41f8-a3eb-2d0a5828a64a77c5a0ab-d8c1-43d4-acc7-69d80c5eaf84.png",
-        "index": 25,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livi MPR",
@@ -999,7 +866,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 73.3757,
+        "@search.score": 73.42889,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1016,7 +883,7 @@
         "endsOn": "08:30 PM",
         "id": "10128536",
         "imagePath": null,
-        "index": 26,
+        "index": 23,
         "institutionId": 4753,
         "latitude": "40.501880",
         "location": "Center for Social Justice Education for LGBTQ+ Communities",
@@ -1034,7 +901,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 72.160736,
+        "@search.score": 72.21544,
         "benefitNames": [
             "Free Food"
         ],
@@ -1054,7 +921,7 @@
         "endsOn": "10:00 PM",
         "id": "10120269",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 27,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC Coffeehouse",
@@ -1072,7 +939,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 69.226906,
+        "@search.score": 69.28547,
         "benefitNames": [
             "Free Food"
         ],
@@ -1092,7 +959,7 @@
         "endsOn": "10:00 PM",
         "id": "10120270",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 28,
+        "index": 25,
         "institutionId": 4753,
         "latitude": null,
         "location": "LSC Coffeehouse",
@@ -1110,7 +977,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 71.381424,
+        "@search.score": 71.437126,
         "benefitNames": [
             "Free Food"
         ],
@@ -1122,7 +989,7 @@
         "endsOn": "09:00 PM",
         "id": "10118589",
         "imagePath": "114a9daf-fc46-446a-8cef-1fd55a47505c4ec67e63-a24e-4a36-84a2-55c3dc104e0a.png",
-        "index": 29,
+        "index": 26,
         "institutionId": 4753,
         "latitude": null,
         "location": "TBD",
@@ -1140,7 +1007,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 73.240105,
+        "@search.score": 73.29346,
         "benefitNames": [
             "Free Food"
         ],
@@ -1156,7 +1023,7 @@
         "endsOn": "01:00 PM",
         "id": "10133902",
         "imagePath": null,
-        "index": 30,
+        "index": 27,
         "institutionId": 4753,
         "latitude": null,
         "location": "TBD",
@@ -1174,7 +1041,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 66.078125,
+        "@search.score": 66.141136,
         "benefitNames": [
             "Free Food"
         ],
@@ -1194,7 +1061,7 @@
         "endsOn": "10:00 PM",
         "id": "10120271",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 31,
+        "index": 28,
         "institutionId": 4753,
         "latitude": null,
         "location": "LSC Coffeehouse",
