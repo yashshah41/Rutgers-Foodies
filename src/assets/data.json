@@ -1,53 +1,6 @@
 [
     {
-        "@search.score": 1.0,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "5337",
-            "5354"
-        ],
-        "categoryNames": [
-            "Cultural Performance",
-            "Special Interest"
-        ],
-        "description": "The annual Rites of Passage Ceremony is a pre-commencement celebration to honor Black and Latinx/e-identified students who through resolute persistence have successfully completed an undergraduate or graduate degree at Rutgers University\u2014New Brunswick. The event recognizes their accomplishments, hard work, and dedication, while simultaneously acknowledging the accomplishments of our student\u2019s families and networks of support. Distinguished speakers, student awards, performances, and the incorporation of African culture and traditions\u2014specifically the culminating Kente Stole presentation\u2014all add to the vibrancy of this celebratory day. Participation in the Rites of Passage Ceremony is open to all Black and Latinx-identified Rutgers University\u2013New Brunswick Undergraduate and Graduate students who have earned their degrees between January 2024 and August 2024. To participate, students must register by Monday, April 29th, 2024 through the getINVOLVED portal. Only students registered by the deadline will be guaranteed Rites of Passage graduate perks! The late registration deadline is May 8th (Day of ceremony). All graduates are required to wear their academic regalia, which can be purchased from the Barnes and Noble Rutgers University Bookstore on Somerset Street. There is no cost to participate in Rites of Passage for graduates or guests. All graduates who register will receive the following:-1 Free Kente Cloth Stole-Unlimited number of guests-Access to food trucks for graduates and guests immediately following the ceremony (Guests and late registrants will be required to pay) If you have specific questions about your registration or the ceremony, please email rop@echo.rutgers.edu. Please note that all graduates need to be checked-in between 1:30-2:30pm. The graduation will start promptly at 3:00pm.  Visit the Rites of Passage website for more information!",
-        "endsOn": "06:30 PM",
-        "id": "10071662",
-        "imagePath": "986bc19b-175c-430b-976e-a239a9d7cac61c5177b6-e69b-4023-87ee-7eac181bf58e.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": "40.525200",
-        "location": "Jersey Mikes Arena",
-        "longitude": "-74.441380",
-        "name": "32nd Rites of Passage Ceremony Registration",
-        "organizationId": 354086,
-        "organizationIds": [
-            "140585",
-            "181140",
-            "354086"
-        ],
-        "organizationName": "Rites of Passage Ceremony",
-        "organizationNames": [
-            "Center for Latino Arts and Culture",
-            "Paul Robeson Cultural Center",
-            "Rites of Passage Ceremony"
-        ],
-        "organizationProfilePicture": "60d1baf7-0b6e-4078-b0d8-6eae3641ba39568132ea-a261-4722-b32d-e13508e957d9.png",
-        "recScore": null,
-        "startsOn": "May 08 | 11:00 AM",
-        "status": "Approved",
-        "theme": "Cultural",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.690445,
+        "@search.score": 99.71897,
         "benefitNames": [
             "Free Food"
         ],
@@ -69,7 +22,7 @@
         "endsOn": "07:00 PM",
         "id": "10136323",
         "imagePath": "3c116c3b-0a3d-4d66-8705-b427a7db5d653e611016-8839-4da3-945b-264cca20e8b1.png",
-        "index": 1,
+        "index": 0,
         "institutionId": 4753,
         "latitude": "40.488450",
         "location": "Donaldson Park, Picnic Grove 2",
@@ -87,7 +40,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.13292,
+        "@search.score": 99.16181,
         "benefitNames": [
             "Free Food"
         ],
@@ -101,7 +54,7 @@
         "endsOn": "06:30 PM",
         "id": "10084388",
         "imagePath": "44e45e0d-bd8c-4ca5-a89a-954886f6105281343867-a2bb-4712-b00d-75e60a3442d3.png",
-        "index": 2,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.524170",
         "location": "RWJMS Research Tower Patio",
@@ -125,7 +78,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.82305,
+        "@search.score": 98.85216,
         "benefitNames": [
             "Free Food"
         ],
@@ -143,7 +96,7 @@
         "endsOn": "02:00 PM",
         "id": "9941216",
         "imagePath": "566b6326-777d-4671-87f5-64b97873443160385040-4b1b-443d-a1e7-22b028e9b332.png",
-        "index": 3,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.500060",
         "location": "Zimmerli Art Museum",
@@ -161,7 +114,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.67611,
+        "@search.score": 85.715614,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -181,7 +134,7 @@
         "endsOn": "03:00 PM",
         "id": "10136258",
         "imagePath": "2b25cfd3-63f1-47e2-81ae-1acb5bca2a4a075e28d1-1647-4513-98fb-f1edaaae09aa.png",
-        "index": 4,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.513750",
         "location": "SHI Stadium",
@@ -199,7 +152,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.18639,
+        "@search.score": 85.22636,
         "benefitNames": [
             "Free Food"
         ],
@@ -215,7 +168,7 @@
         "endsOn": "09:00 PM",
         "id": "10072754",
         "imagePath": "ed054d54-b302-41be-977e-7c8fe1c84a780d4b6c61-73d2-4cba-a365-81141b4d6230.png",
-        "index": 5,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.521390",
         "location": "CoRE 301",
@@ -233,7 +186,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.03025,
+        "@search.score": 85.07036,
         "benefitNames": [
             "Free Food"
         ],
@@ -249,7 +202,7 @@
         "endsOn": "09:00 PM",
         "id": "10141101",
         "imagePath": null,
-        "index": 6,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "TBD",
@@ -267,7 +220,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.77924,
+        "@search.score": 84.81958,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -280,7 +233,7 @@
         "endsOn": "01:00 PM",
         "id": "10144177",
         "imagePath": "b40a4ee5-a7e5-4e92-8353-50b2d346046e5873aa4c-52a9-4d71-9720-c7da1d59a93b.png",
-        "index": 7,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.499870",
         "location": "Scott Hall (Room TBD)",
@@ -298,7 +251,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.74776,
+        "@search.score": 84.78813,
         "benefitNames": [
             "Free Food"
         ],
@@ -314,7 +267,7 @@
         "endsOn": "07:00 PM",
         "id": "10132513",
         "imagePath": "c63b1eff-165f-4518-95b5-b867aa893dc32645c67b-ad82-4811-bf9f-a114434438ce.png",
-        "index": 8,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.521060",
         "location": "Livingston Recreation Center MPR A",
@@ -332,7 +285,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.62793,
+        "@search.score": 84.66841,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -350,7 +303,7 @@
         "endsOn": "03:00 PM",
         "id": "10136259",
         "imagePath": "2bcef61a-53f7-4514-9f1f-9be7d3b5d5d6d8c9729c-f411-4be4-9b15-3d49d68ba0a7.png",
-        "index": 9,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.513750",
         "location": "SHI Stadium",
@@ -368,7 +321,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.27277,
+        "@search.score": 84.3136,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -385,7 +338,7 @@
         "endsOn": "09:00 PM",
         "id": "10140030",
         "imagePath": "dd83d0fc-39dc-4428-b954-27bc73d97d95ab89eba5-d5ee-4649-ab4b-ac2a81361884.png",
-        "index": 10,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center ",
@@ -403,7 +356,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.26641,
+        "@search.score": 84.307236,
         "benefitNames": [
             "Free Food"
         ],
@@ -415,7 +368,7 @@
         "endsOn": "10:00 PM",
         "id": "10133417",
         "imagePath": "913be973-7a14-4cee-887c-0df7ab51b751c6382115-b6ca-41b8-adf7-da82f14a0d3d.png",
-        "index": 11,
+        "index": 10,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Ave, TBD",
@@ -433,7 +386,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.11008,
+        "@search.score": 84.151054,
         "benefitNames": [
             "Free Food"
         ],
@@ -449,7 +402,7 @@
         "endsOn": "10:30 PM",
         "id": "10140721",
         "imagePath": null,
-        "index": 12,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "College Avenue Student Center, room 411 BC",
@@ -467,7 +420,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.9628,
+        "@search.score": 84.00392,
         "benefitNames": [
             "Free Food"
         ],
@@ -487,7 +440,7 @@
         "endsOn": "10:00 PM",
         "id": "10120265",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 13,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC Coffeehouse",
@@ -505,7 +458,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.657036,
+        "@search.score": 83.69845,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -518,7 +471,7 @@
         "endsOn": "09:00 PM",
         "id": "10141396",
         "imagePath": "1e6369bb-07bd-4596-8029-22b1b8c24c136ee85923-ec40-4ed9-8e41-39c9fcf5ec7b.png",
-        "index": 14,
+        "index": 13,
         "institutionId": 4753,
         "latitude": null,
         "location": "TBD",
@@ -536,7 +489,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.07127,
+        "@search.score": 82.114235,
         "benefitNames": [
             "Free Food"
         ],
@@ -548,7 +501,7 @@
         "endsOn": "10:00 PM",
         "id": "10136044",
         "imagePath": "9d58429c-1df3-4677-8aa8-ee3e6860640a85239723-04d2-46da-b483-a9292b80cff6.png",
-        "index": 15,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.523320",
         "location": "Rutgers Business School",
@@ -566,7 +519,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.7517,
+        "@search.score": 81.79499,
         "benefitNames": [
             "Free Food"
         ],
@@ -586,7 +539,7 @@
         "endsOn": "10:00 PM",
         "id": "10120266",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 16,
+        "index": 15,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC 202AB",
@@ -604,7 +557,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.43314,
+        "@search.score": 81.47675,
         "benefitNames": [
             "Free Food"
         ],
@@ -622,7 +575,7 @@
         "endsOn": "11:00 PM",
         "id": "10141344",
         "imagePath": null,
-        "index": 17,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.502750",
         "location": "College Ave Student Centre MRP",
@@ -640,7 +593,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.42974,
+        "@search.score": 81.47335,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -653,7 +606,7 @@
         "endsOn": "11:45 PM",
         "id": "10070544",
         "imagePath": "a934dc4b-d727-4624-a920-7bc590b3e7a1df2f76fc-07b1-4736-ac7b-d998e20224d3.png",
-        "index": 18,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.591580",
         "location": "8 On The Break",
@@ -671,7 +624,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.32075,
+        "@search.score": 81.36446,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -689,7 +642,7 @@
         "endsOn": "03:00 PM",
         "id": "10136260",
         "imagePath": "bd3390ea-ac7e-4991-81bf-5b232d9685df9449b760-af8c-4170-829a-dffe84ea1284.png",
-        "index": 19,
+        "index": 18,
         "institutionId": 4753,
         "latitude": "40.513750",
         "location": "SHI Stadium",
@@ -707,7 +660,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 79.4207,
+        "@search.score": 79.46639,
         "benefitNames": [
             "Free Food"
         ],
@@ -727,7 +680,7 @@
         "endsOn": "10:00 PM",
         "id": "10120267",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 20,
+        "index": 19,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC Coffeehouse",
@@ -745,7 +698,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 78.96561,
+        "@search.score": 79.01179,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -763,7 +716,7 @@
         "endsOn": "03:00 PM",
         "id": "10136261",
         "imagePath": "3a0fe2c7-8810-40a0-afca-f89ebe030340fdc6b4bc-5d59-46f4-8b8a-b1fbf5cbc71f.png",
-        "index": 21,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.513750",
         "location": "SHI Stadium",
@@ -781,7 +734,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 77.73782,
+        "@search.score": 77.78534,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -799,7 +752,7 @@
         "endsOn": "03:00 PM",
         "id": "10136262",
         "imagePath": "af0e8384-ac53-4b4c-8071-f00390671438703b58e2-2e8d-41a9-b777-a7e09f30d514.png",
-        "index": 22,
+        "index": 21,
         "institutionId": 4753,
         "latitude": "40.513750",
         "location": "SHI Stadium",
@@ -817,7 +770,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 76.95604,
+        "@search.score": 77.004425,
         "benefitNames": [
             "Free Food"
         ],
@@ -837,7 +790,7 @@
         "endsOn": "10:00 PM",
         "id": "10120268",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 23,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC 202AB",
@@ -855,7 +808,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 76.60354,
+        "@search.score": 76.65233,
         "benefitNames": [
             "Free Food"
         ],
@@ -881,7 +834,7 @@
         "endsOn": "11:30 PM",
         "id": "10120285",
         "imagePath": "e8b12132-2fb2-41f8-a3eb-2d0a5828a64a77c5a0ab-d8c1-43d4-acc7-69d80c5eaf84.png",
-        "index": 24,
+        "index": 23,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livi MPR",
@@ -899,7 +852,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 76.04426,
+        "@search.score": 76.09368,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -912,7 +865,7 @@
         "endsOn": "09:00 PM",
         "id": "10140042",
         "imagePath": "572abd50-1ddf-4f6b-8722-c10d4486b61f6910e46b-a462-4dcb-aa84-e97eba36f7b5.png",
-        "index": 25,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center ",
@@ -930,7 +883,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 75.48933,
+        "@search.score": 75.53939,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -947,7 +900,7 @@
         "endsOn": "08:30 PM",
         "id": "10128536",
         "imagePath": null,
-        "index": 26,
+        "index": 25,
         "institutionId": 4753,
         "latitude": "40.501880",
         "location": "Center for Social Justice Education for LGBTQ+ Communities",
@@ -965,7 +918,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 74.33343,
+        "@search.score": 74.38486,
         "benefitNames": [
             "Free Food"
         ],
@@ -985,7 +938,7 @@
         "endsOn": "10:00 PM",
         "id": "10120269",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 27,
+        "index": 26,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC Coffeehouse",
@@ -1003,7 +956,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 73.82083,
+        "@search.score": 73.87288,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1021,7 +974,7 @@
         "endsOn": "03:00 PM",
         "id": "10136263",
         "imagePath": "cf6b9ad6-10aa-4c66-8f9e-d05437b00e7cd0923db9-560f-43cd-8edc-dc41c70106b2.png",
-        "index": 28,
+        "index": 27,
         "institutionId": 4753,
         "latitude": "40.513750",
         "location": "SHI Stadium",
@@ -1039,7 +992,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 72.43444,
+        "@search.score": 72.48819,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1057,7 +1010,7 @@
         "endsOn": "03:00 PM",
         "id": "10136264",
         "imagePath": "d3340ee2-4bc9-4e2c-87e9-7ddc1f37226416c298d0-41bd-4935-8d44-150062b2ab67.png",
-        "index": 29,
+        "index": 28,
         "institutionId": 4753,
         "latitude": "38.990260",
         "location": "SECU Stadium",
@@ -1075,7 +1028,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 71.54896,
+        "@search.score": 71.60383,
         "benefitNames": [
             "Free Food"
         ],
@@ -1095,7 +1048,7 @@
         "endsOn": "10:00 PM",
         "id": "10120270",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 30,
+        "index": 29,
         "institutionId": 4753,
         "latitude": null,
         "location": "LSC Coffeehouse",
@@ -1113,7 +1066,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 73.59285,
+        "@search.score": 73.64517,
         "benefitNames": [
             "Free Food"
         ],
@@ -1125,7 +1078,7 @@
         "endsOn": "09:00 PM",
         "id": "10118589",
         "imagePath": "114a9daf-fc46-446a-8cef-1fd55a47505c4ec67e63-a24e-4a36-84a2-55c3dc104e0a.png",
-        "index": 31,
+        "index": 30,
         "institutionId": 4753,
         "latitude": null,
         "location": "TBD",
@@ -1143,7 +1096,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 71.00185,
+        "@search.score": 71.05742,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1161,7 +1114,7 @@
         "endsOn": "03:00 PM",
         "id": "10136265",
         "imagePath": "80ffda05-3084-45a7-88a8-f9757d2f4b374e5a2ff4-a6c7-41a4-bc8e-0be41d003a29.png",
-        "index": 32,
+        "index": 31,
         "institutionId": 4753,
         "latitude": "40.513750",
         "location": "SHI Stadium",
@@ -1179,7 +1132,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 75.36024,
+        "@search.score": 75.41045,
         "benefitNames": [
             "Free Food"
         ],
@@ -1195,7 +1148,7 @@
         "endsOn": "01:00 PM",
         "id": "10133902",
         "imagePath": null,
-        "index": 33,
+        "index": 32,
         "institutionId": 4753,
         "latitude": null,
         "location": "TBD",
@@ -1213,7 +1166,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 68.571594,
+        "@search.score": 68.6304,
         "benefitNames": [
             "Free Food"
         ],
@@ -1233,7 +1186,7 @@
         "endsOn": "10:00 PM",
         "id": "10120271",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 34,
+        "index": 33,
         "institutionId": 4753,
         "latitude": null,
         "location": "LSC Coffeehouse",
@@ -1251,7 +1204,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 67.7144,
+        "@search.score": 67.77438,
         "benefitNames": [
             "Free Food"
         ],
@@ -1263,7 +1216,7 @@
         "endsOn": "07:00 PM",
         "id": "10136336",
         "imagePath": "e5846e30-601e-449b-921b-9cdedcac387bac2f7708-4337-4697-a80b-4dde205c4598.png",
-        "index": 35,
+        "index": 34,
         "institutionId": 4753,
         "latitude": null,
         "location": "TBD",
@@ -1281,7 +1234,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 66.854095,
+        "@search.score": 66.91529,
         "benefitNames": [
             "Free Food"
         ],
@@ -1297,7 +1250,7 @@
         "endsOn": "05:00 PM",
         "id": "10141086",
         "imagePath": null,
-        "index": 36,
+        "index": 35,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "TBD",
