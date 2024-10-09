@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.962585,
+        "@search.score": 99.98872,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -35,7 +35,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.959274,
+        "@search.score": 99.98541,
         "benefitNames": [
             "Free Food"
         ],
@@ -65,7 +65,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.95264,
+        "@search.score": 99.97878,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -100,7 +100,37 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.95264,
+        "@search.score": 99.97878,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Come spend mental health awareness day with the cog sci club! ",
+        "endsOn": "08:00 PM",
+        "id": "10596934",
+        "imagePath": null,
+        "index": 3,
+        "institutionId": 4753,
+        "latitude": "40.523640",
+        "location": "RUCCS",
+        "longitude": "-74.466300",
+        "name": "Mental Health Awareness Day ",
+        "organizationId": 121472,
+        "organizationIds": [],
+        "organizationName": "Cognitive Science Club",
+        "organizationNames": [],
+        "organizationProfilePicture": "8afe56b4-58b7-4070-ab87-75f9cb009efb300241fa-3dba-4544-85ac-75e98a141e16.png",
+        "recScore": null,
+        "startsOn": "October 09 | 07:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.97878,
         "benefitNames": [
             "Free Food"
         ],
@@ -112,7 +142,7 @@
         "endsOn": "08:00 PM",
         "id": "10564982",
         "imagePath": "86aae701-d16c-4f60-bb3c-3ac79db6a70b7e39dcaf-75bd-4553-8cae-03ae3ba4c0ed.png",
-        "index": 3,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "38.634890",
         "location": "BSC Center Hall",
@@ -130,7 +160,95 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.95043,
+        "@search.score": 99.97658,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5358"
+        ],
+        "categoryNames": [
+            "Wellness Event"
+        ],
+        "description": "Join us for our hair porosity lab!!! we are testing out our curls' porosity and eating yummy cookies!!!",
+        "endsOn": "08:30 PM",
+        "id": "10595936",
+        "imagePath": "7500e706-77cb-4bb0-b746-429c59126f92a021325d-9f73-434a-aca4-d122f9620001.png",
+        "index": 5,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "check instagram for updates RU_Curly//// Tillett tbd",
+        "longitude": null,
+        "name": "Hair Porosity Lab",
+        "organizationId": 136434,
+        "organizationIds": [
+            "125100",
+            "125103",
+            "136434"
+        ],
+        "organizationName": "RU Curly",
+        "organizationNames": [
+            "Latinos Siempre Unidos, Lambda Sigma Upsilon Latino Fraternity, Incorporated",
+            "La Unidad Latina, Lambda Upsilon Lambda Fraternity, Inc. - IOTA Chapter",
+            "RU Curly"
+        ],
+        "organizationProfilePicture": "9844b71c-d03f-4deb-9224-a6be84dd159787821dd4-648c-4517-84df-388828836808.jpg",
+        "recScore": null,
+        "startsOn": "October 09 | 07:30 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.97658,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5358"
+        ],
+        "categoryNames": [
+            "Wellness Event"
+        ],
+        "description": "Join us for our hair porosity lab!!! we are testing out our curls' porosity and eating yummy cookies!!!",
+        "endsOn": "08:30 PM",
+        "id": "10595935",
+        "imagePath": "7500e706-77cb-4bb0-b746-429c59126f92a021325d-9f73-434a-aca4-d122f9620001.png",
+        "index": 6,
+        "institutionId": 4753,
+        "latitude": "40.524500",
+        "location": "check instagram for updates RU_Curly//// Tillett tbd",
+        "longitude": "-74.436390",
+        "name": "Hair Porosity Lab",
+        "organizationId": 136434,
+        "organizationIds": [
+            "125100",
+            "125103",
+            "136434"
+        ],
+        "organizationName": "RU Curly",
+        "organizationNames": [
+            "Latinos Siempre Unidos, Lambda Sigma Upsilon Latino Fraternity, Incorporated",
+            "La Unidad Latina, Lambda Upsilon Lambda Fraternity, Inc. - IOTA Chapter",
+            "RU Curly"
+        ],
+        "organizationProfilePicture": "9844b71c-d03f-4deb-9224-a6be84dd159787821dd4-648c-4517-84df-388828836808.jpg",
+        "recScore": null,
+        "startsOn": "October 09 | 07:30 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.97658,
         "benefitNames": [
             "Free Food"
         ],
@@ -144,7 +262,7 @@
         "endsOn": "08:30 PM",
         "id": "10587618",
         "imagePath": "d338aefd-da16-4553-8e7d-9e66481ae4f5eee5356e-9fc1-4772-a3ea-50830645321b.png",
-        "index": 4,
+        "index": 7,
         "institutionId": 4753,
         "latitude": null,
         "location": "Busch Student Center Room 120ABC",
@@ -168,7 +286,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94822,
+        "@search.score": 99.974365,
         "benefitNames": [
             "Free Food"
         ],
@@ -180,7 +298,7 @@
         "endsOn": "09:00 PM",
         "id": "10373704",
         "imagePath": "9c4191ec-6b3e-4c29-a4c9-68317116d8ffed1b4b9c-f797-4710-87e0-7f4a83edd58d.png",
-        "index": 5,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.478950",
         "location": "Merle V. Adams Room (Cook Student Center)",
@@ -198,7 +316,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94822,
+        "@search.score": 99.974365,
         "benefitNames": [
             "Free Food"
         ],
@@ -216,7 +334,7 @@
         "endsOn": "09:00 PM",
         "id": "10592568",
         "imagePath": "8434fd18-e908-4f4d-af48-2903da0c9fde53a2e1d7-e168-422c-aa3d-1a3b6b3b96fb.png",
-        "index": 6,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.499800",
         "location": "Scott Halll Room216",
@@ -234,7 +352,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94601,
+        "@search.score": 99.97215,
         "benefitNames": [
             "Free Food"
         ],
@@ -254,7 +372,7 @@
         "endsOn": "10:00 PM",
         "id": "10120267",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 7,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC Coffeehouse",
@@ -272,7 +390,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.943794,
+        "@search.score": 99.96995,
         "benefitNames": [
             "Free Food"
         ],
@@ -288,7 +406,7 @@
         "endsOn": "10:00 PM",
         "id": "10576633",
         "imagePath": "e813ecc2-9dfd-4031-b494-88ad939a8235c6ba1f28-e34f-4876-8a34-6b36930c19f3.png",
-        "index": 8,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.478120",
         "location": "PAL Scarlet Lounge",
@@ -306,7 +424,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.85081,
+        "@search.score": 99.877014,
         "benefitNames": [
             "Free Food"
         ],
@@ -322,7 +440,7 @@
         "endsOn": "08:00 PM",
         "id": "10525645",
         "imagePath": "1967b3d9-e870-4a1c-8126-fd6113ea51112e3b2705-cf36-4f38-9929-86bb2cf36887.png",
-        "index": 9,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.524170",
         "location": "Deans Conference Room 123, RWJMS Research Tower",
@@ -340,7 +458,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.846375,
+        "@search.score": 99.87259,
         "benefitNames": [
             "Free Food"
         ],
@@ -352,7 +470,7 @@
         "endsOn": "08:00 PM",
         "id": "10581670",
         "imagePath": "b69889f9-fe13-47fd-8b5c-68518e8126afdd859b10-d5aa-46c6-8281-b30d2b8ef842.png",
-        "index": 10,
+        "index": 13,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center 111",
@@ -370,7 +488,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.84527,
+        "@search.score": 99.871475,
         "benefitNames": [
             "Free Food"
         ],
@@ -382,7 +500,7 @@
         "endsOn": "08:15 PM",
         "id": "10593826",
         "imagePath": "1b0d3fb3-a06d-4f4f-81ca-3c4aafb6acea455e5047-9622-47ef-a514-add5dd4cef77.png",
-        "index": 11,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.523320",
         "location": "Busch Student Center, Room 120",
@@ -400,7 +518,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.84194,
+        "@search.score": 99.86816,
         "benefitNames": [
             "Free Food"
         ],
@@ -418,7 +536,7 @@
         "endsOn": "09:00 PM",
         "id": "10581379",
         "imagePath": "7e4f421c-becc-435f-96d9-cc4fcd079ab07d095e48-b573-429c-b7b9-d77453d0c30e.png",
-        "index": 12,
+        "index": 15,
         "institutionId": 4753,
         "latitude": "40.499800",
         "location": "Scott Hall (Room: 104)",
@@ -442,7 +560,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.84194,
+        "@search.score": 99.86816,
         "benefitNames": [
             "Free Food"
         ],
@@ -460,7 +578,7 @@
         "endsOn": "09:00 PM",
         "id": "10580667",
         "imagePath": "65716851-1558-404c-a51a-9cc586e350fc08be9325-5662-41d3-9c19-ac204a7069c8.png",
-        "index": 13,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.499800",
         "location": "Scott Hall College Ave, Room 104",
@@ -478,7 +596,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.84194,
+        "@search.score": 99.86816,
         "benefitNames": [
             "Free Food"
         ],
@@ -494,7 +612,7 @@
         "endsOn": "09:00 PM",
         "id": "10581332",
         "imagePath": "e9154ba4-9163-479b-ae69-4f30d10373e099d3f96d-fe87-409b-b121-a7928d7981ad.png",
-        "index": 14,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Busch Student Center 116 AB",
@@ -512,7 +630,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.84194,
+        "@search.score": 99.86816,
         "benefitNames": [
             "Free Food"
         ],
@@ -528,7 +646,7 @@
         "endsOn": "10:00 PM",
         "id": "10575769",
         "imagePath": "e6426e0e-3b32-4f58-98f6-4c556e514900eec3e564-a1f9-4e43-bbbf-2b74559a9afb.png",
-        "index": 15,
+        "index": 18,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Center Hall, Busch Student Center",
@@ -546,7 +664,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.83751,
+        "@search.score": 99.86372,
         "benefitNames": [
             "Free Food"
         ],
@@ -558,7 +676,7 @@
         "endsOn": "11:00 PM",
         "id": "10529895",
         "imagePath": "df1cda14-0d66-4d19-8a28-18063e7856a4d480fea0-2a59-4b27-b9b6-d3320c5eb843.png",
-        "index": 16,
+        "index": 19,
         "institutionId": 4753,
         "latitude": "40.502450",
         "location": "The Honors College of Rutgers - New Brunswick",
@@ -576,7 +694,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.75318,
+        "@search.score": 99.77945,
         "benefitNames": [
             "Free Food"
         ],
@@ -588,7 +706,7 @@
         "endsOn": "05:00 PM",
         "id": "10547355",
         "imagePath": "46e0f9d5-62f8-4b97-b154-a4d274d5f2aee1f7045b-98cf-48fe-9353-d9b10543bf12.png",
-        "index": 17,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.477880",
         "location": "Environmental and Natural Resources Building, Room 223",
@@ -606,7 +724,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.75318,
+        "@search.score": 99.77945,
         "benefitNames": [
             "Free Food"
         ],
@@ -622,7 +740,7 @@
         "endsOn": "05:00 PM",
         "id": "10376676",
         "imagePath": null,
-        "index": 18,
+        "index": 21,
         "institutionId": 4753,
         "latitude": null,
         "location": "ENR 123",
@@ -640,7 +758,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.73985,
+        "@search.score": 99.76612,
         "benefitNames": [
             "Free Food"
         ],
@@ -666,7 +784,7 @@
         "endsOn": "11:30 PM",
         "id": "10120285",
         "imagePath": "1afb4457-de44-41b0-9338-3e5f430a4a3d2e476c91-40bb-430c-8bcc-7303fd4d8230.png",
-        "index": 19,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.502670",
         "location": "CASC MPR ",
@@ -684,7 +802,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.66423,
+        "@search.score": 99.69055,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -702,7 +820,7 @@
         "endsOn": "03:00 PM",
         "id": "10136261",
         "imagePath": "3a0fe2c7-8810-40a0-afca-f89ebe030340fdc6b4bc-5d59-46f4-8b8a-b1fbf5cbc71f.png",
-        "index": 20,
+        "index": 23,
         "institutionId": 4753,
         "latitude": "40.513750",
         "location": "SHI Stadium",
@@ -720,7 +838,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.668686,
+        "@search.score": 99.695,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -733,7 +851,7 @@
         "endsOn": "08:00 PM",
         "id": "10419467",
         "imagePath": "03b882a2-12f2-4df6-9141-3a427c64103043033daf-e3b7-4c57-9f62-f23b4754e943.png",
-        "index": 21,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.746240",
         "location": "Music Box Theatre",
@@ -751,7 +869,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.42316,
+        "@search.score": 99.44962,
         "benefitNames": [
             "Free Food"
         ],
@@ -767,7 +885,7 @@
         "endsOn": "07:00 PM",
         "id": "10581433",
         "imagePath": "89143057-cd7b-442a-8b01-33795bde64e1ad0aece6-a29d-466a-a807-e2ed67fd9ef7.png",
-        "index": 22,
+        "index": 25,
         "institutionId": 4753,
         "latitude": "40.502670",
         "location": "Graduate Student Lounge",
@@ -785,7 +903,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.4142,
+        "@search.score": 99.440674,
         "benefitNames": [
             "Free Food"
         ],
@@ -799,7 +917,7 @@
         "endsOn": "09:00 PM",
         "id": "10567617",
         "imagePath": "c2031998-d13d-46a1-b7db-3933de56f408e88ddcfd-15d0-4b43-93cc-1a9fa98b4c93.png",
-        "index": 23,
+        "index": 26,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "BSC Rm. 174",
@@ -823,7 +941,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.32006,
+        "@search.score": 99.34659,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -838,7 +956,7 @@
         "endsOn": "07:00 PM",
         "id": "10563816",
         "imagePath": "69a75814-3ba1-4086-a4e4-447c0f6d7bba7ca6bb4d-d6e9-4a22-aa4b-f3037996554e.png",
-        "index": 24,
+        "index": 27,
         "institutionId": 4753,
         "latitude": "40.504190",
         "location": "Center for Latino Arts and Culture ",
@@ -862,7 +980,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.31108,
+        "@search.score": 99.33762,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -877,7 +995,7 @@
         "endsOn": "09:00 PM",
         "id": "10566708",
         "imagePath": "2347e56e-1365-48c6-b846-642e18ba3500a1a5000a-422b-4421-b9c8-5b7755d5828c.png",
-        "index": 25,
+        "index": 28,
         "institutionId": 4753,
         "latitude": "40.499490",
         "location": "Sojourner Truth",
@@ -903,7 +1021,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.21896,
+        "@search.score": 99.24556,
         "benefitNames": [
             "Free Food"
         ],
@@ -915,7 +1033,7 @@
         "endsOn": "06:30 PM",
         "id": "10572851",
         "imagePath": null,
-        "index": 26,
+        "index": 29,
         "institutionId": 4753,
         "latitude": "40.521380",
         "location": "CCB 3217",
@@ -933,7 +1051,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.099594,
+        "@search.score": 99.12627,
         "benefitNames": [
             "Free Food"
         ],
@@ -945,7 +1063,7 @@
         "endsOn": "08:00 PM",
         "id": "10543160",
         "imagePath": "50810610-e624-42de-9601-d3bd2a4de4b047bd4a55-cf2b-4bb8-a141-10625b121e8c.png",
-        "index": 27,
+        "index": 30,
         "institutionId": 4753,
         "latitude": "40.497960",
         "location": "Evelyn's ",
@@ -963,7 +1081,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.09734,
+        "@search.score": 99.12401,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -977,7 +1095,7 @@
         "endsOn": "08:00 PM",
         "id": "10230671",
         "imagePath": "5f24a598-27a5-4598-b9d7-b6c2db7907abcaa54ee4-d8af-4220-a473-394d2c1a49a7.png",
-        "index": 28,
+        "index": 31,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "The Ludwig Center ",
@@ -995,7 +1113,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.095085,
+        "@search.score": 99.12176,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1010,7 +1128,7 @@
         "endsOn": "09:00 PM",
         "id": "10566857",
         "imagePath": "9975322d-ecee-46f1-b5cc-b4064d8d31cb5a3f0d71-5cd2-49ac-ab9d-b577c91d319b.png",
-        "index": 29,
+        "index": 32,
         "institutionId": 4753,
         "latitude": "40.525420",
         "location": "Livingston Apartment B - Reading Room",
@@ -1036,7 +1154,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.090576,
+        "@search.score": 99.11725,
         "benefitNames": [
             "Free Food"
         ],
@@ -1052,7 +1170,7 @@
         "endsOn": "10:00 PM",
         "id": "10205484",
         "imagePath": null,
-        "index": 30,
+        "index": 33,
         "institutionId": 4753,
         "latitude": "40.504190",
         "location": "Center For Latino Arts and Culture",
@@ -1070,7 +1188,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.08832,
+        "@search.score": 99.11499,
         "benefitNames": [
             "Free Food"
         ],
@@ -1088,7 +1206,7 @@
         "endsOn": "10:30 PM",
         "id": "10592988",
         "imagePath": "3def8682-1d69-4f94-8b38-3a3feecbbc01b39371ee-3d06-42c8-a427-51281f13b150.png",
-        "index": 31,
+        "index": 34,
         "institutionId": 4753,
         "latitude": "40.502450",
         "location": "Honors College",
@@ -1112,7 +1230,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.09283,
+        "@search.score": 99.1195,
         "benefitNames": [
             "Free Food"
         ],
@@ -1130,7 +1248,7 @@
         "endsOn": "11:00 PM",
         "id": "10141344",
         "imagePath": "a140cd05-4d3d-4b4a-bbd6-f7b96e10dec73a09b454-4f05-40a4-b8c3-d0957cac0482.png",
-        "index": 32,
+        "index": 35,
         "institutionId": 4753,
         "latitude": "40.502750",
         "location": "College Ave Student Centre MRP",
@@ -1148,7 +1266,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.000244,
+        "@search.score": 99.02698,
         "benefitNames": [
             "Free Food"
         ],
@@ -1164,7 +1282,7 @@
         "endsOn": "05:00 PM",
         "id": "10376677",
         "imagePath": null,
-        "index": 33,
+        "index": 36,
         "institutionId": 4753,
         "latitude": null,
         "location": "ENR 123",
@@ -1182,7 +1300,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.000244,
+        "@search.score": 99.02698,
         "benefitNames": [
             "Free Food"
         ],
@@ -1194,7 +1312,7 @@
         "endsOn": "05:00 PM",
         "id": "10236835",
         "imagePath": "8f82a40f-4762-4e77-9d65-42290b457a19e33b834c-f59e-45e5-8966-3554e609ca70.png",
-        "index": 34,
+        "index": 37,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "College Avenue Student Center - Multipurpose Room",
@@ -1212,7 +1330,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.99572,
+        "@search.score": 99.02245,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1233,7 +1351,7 @@
         "endsOn": "08:00 PM",
         "id": "10502333",
         "imagePath": "bcb4c0be-8614-41df-8e03-bd4098e324b4a0fa57c0-9abe-4120-9f1a-7475dac35c9e.png",
-        "index": 35,
+        "index": 38,
         "institutionId": 4753,
         "latitude": null,
         "location": "Livingston Hall - Livingston Student Center",
@@ -1257,7 +1375,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.90973,
+        "@search.score": 98.93651,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1275,7 +1393,7 @@
         "endsOn": "03:00 PM",
         "id": "10136262",
         "imagePath": "af0e8384-ac53-4b4c-8071-f00390671438703b58e2-2e8d-41a9-b777-a7e09f30d514.png",
-        "index": 36,
+        "index": 39,
         "institutionId": 4753,
         "latitude": "40.513750",
         "location": "SHI Stadium",
@@ -1293,7 +1411,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.659805,
+        "@search.score": 98.68675,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1306,7 +1424,7 @@
         "endsOn": "09:00 PM",
         "id": "10544863",
         "imagePath": "6f140278-ae7f-414b-9ff4-1fdb7ad0f70dc800ab56-1048-4787-ab53-dc4951279764.png",
-        "index": 37,
+        "index": 40,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center - MPR",
@@ -1324,7 +1442,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.54801,
+        "@search.score": 98.57503,
         "benefitNames": [
             "Free Food"
         ],
@@ -1341,8 +1459,8 @@
         "description": "Are you an aspiring entrepreneur on campus and wondering if forming an LLC is the right step for your business? Join Max Hayden, an experienced entrepreneur and board member of the Rutgers Entrepreneurial Society, and Ansh Gandhi, another experienced entrepreneur and board member of the Rutgers Personal Finance Club for an insightful event designed to educate student entrepreneurs about Limited Liability Companies (LLCs) and other corporate structures for entrepreneur-founded businesses. Event Highlights:  Is an LLC Right for You?  Understand the key considerations for choosing an LLC over other business structures, including sole proprietorships and corporations.    Benefits and Responsibilities of Forming an LLC  Learn about the advantages of forming an LLC in New Jersey, such as personal liability protection, and discover the ongoing responsibilities of maintaining your LLC\u2019s compliance.    Tax Implications for LLCs  Get a clear breakdown of how forming an LLC can affect your taxes, including federal and state tax obligations, deductions, and more.    How to Form an LLC in New Jersey  We will guide you step by step through the process of setting up an LLC in New Jersey, from filing paperwork to handling registration fees.     With their extensive experience in forming multiple LLCs and building successful ventures, Max Hayden and Ansh Gandhi will provide actionable insights and practical advice for student entrepreneurs looking to structure their businesses properly. Don\u2019t miss this opportunity to learn the foundations of forming and running a legal business entity in New Jersey. Who Should Attend?  Rutgers students interested in entrepreneurship Aspiring business founders exploring corporate structures Entrepreneurs curious about the benefits of LLCs  Reserve your spot today and take the first step toward formalizing your business! Parking passes and REAL points are available for attendees.",
         "endsOn": "08:30 PM",
         "id": "10493006",
-        "imagePath": null,
-        "index": 38,
+        "imagePath": "809c7385-ef7e-45a2-bda2-8db66d3f76bcc558991c-3ad0-4f1f-ae0a-c60d1055a321.png",
+        "index": 41,
         "institutionId": 4753,
         "latitude": "40.523320",
         "location": "Rutgers Business School Room 5073",
@@ -1366,7 +1484,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.47942,
+        "@search.score": 98.50648,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1379,7 +1497,7 @@
         "endsOn": "12:30 PM",
         "id": "10429087",
         "imagePath": "4700057b-a14c-4d39-b511-12819878303990f6aff9-1760-4995-a6c4-d810bc3e6dda.png",
-        "index": 39,
+        "index": 42,
         "institutionId": 4753,
         "latitude": null,
         "location": "Kathleen Ludwig",
@@ -1397,7 +1515,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.45425,
+        "@search.score": 98.481316,
         "benefitNames": [
             "Free Food"
         ],
@@ -1413,7 +1531,7 @@
         "endsOn": "06:00 PM",
         "id": "10586336",
         "imagePath": "e21c4c56-0403-45d8-ad7d-c31e8b52efee67720f04-fc46-4cb6-a993-865ce5b64a00.png",
-        "index": 40,
+        "index": 43,
         "institutionId": 4753,
         "latitude": "40.524170",
         "location": "Dean's Conference Room (Room 123)",
@@ -1431,7 +1549,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.44967,
+        "@search.score": 98.47674,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1448,7 +1566,7 @@
         "endsOn": "06:30 PM",
         "id": "10223520",
         "imagePath": "959f3a14-90d4-40b4-bc10-e8f8cb042afbabb8901d-304a-48f7-ad96-9a466c760f1d.png",
-        "index": 41,
+        "index": 44,
         "institutionId": 4753,
         "latitude": "40.485730",
         "location": "Douglass Library, Mabel Smith Douglass Room",
@@ -1466,7 +1584,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.43363,
+        "@search.score": 98.46072,
         "benefitNames": [
             "Free Food"
         ],
@@ -1486,7 +1604,7 @@
         "endsOn": "10:00 PM",
         "id": "10120268",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 42,
+        "index": 45,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC 202AB",
@@ -1504,7 +1622,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.33503,
+        "@search.score": 98.362175,
         "benefitNames": [
             "Free Food"
         ],
@@ -1522,7 +1640,7 @@
         "endsOn": "08:00 PM",
         "id": "10581431",
         "imagePath": "6708404f-361e-4610-82c6-4bd267b4cfe6a7efaa1e-bdd5-434b-b4b0-51e7b1337504.png",
-        "index": 43,
+        "index": 46,
         "institutionId": 4753,
         "latitude": "40.502670",
         "location": "Graduate Student Lounge",
@@ -1540,7 +1658,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.33044,
+        "@search.score": 98.35758,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1555,7 +1673,7 @@
         "endsOn": "09:00 PM",
         "id": "10544589",
         "imagePath": "47e280cb-c863-4059-af1e-cd6fc26e5b782e9d832e-6146-422e-8e0c-67effcefd7a9.png",
-        "index": 44,
+        "index": 47,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Rutgers Zone",
@@ -1579,7 +1697,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.32355,
+        "@search.score": 98.3507,
         "benefitNames": [
             "Free Food"
         ],
@@ -1591,7 +1709,7 @@
         "endsOn": "10:30 PM",
         "id": "10205486",
         "imagePath": null,
-        "index": 45,
+        "index": 48,
         "institutionId": 4753,
         "latitude": "40.504190",
         "location": "Center For Latino Arts and Culture",
@@ -1609,7 +1727,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.23389,
+        "@search.score": 98.2611,
         "benefitNames": [
             "Free Food"
         ],
@@ -1625,7 +1743,7 @@
         "endsOn": "05:00 PM",
         "id": "10376678",
         "imagePath": null,
-        "index": 46,
+        "index": 49,
         "institutionId": 4753,
         "latitude": null,
         "location": "ENR 123",
@@ -1643,7 +1761,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.90586,
+        "@search.score": 97.93328,
         "benefitNames": [
             "Free Food"
         ],
@@ -1659,7 +1777,7 @@
         "endsOn": "04:30 PM",
         "id": "10566249",
         "imagePath": "719456a1-034d-41a3-8910-9a1bb1b49f9bb1bdd0d1-5ca4-433f-b2cb-0f4bf18945c9.png",
-        "index": 47,
+        "index": 50,
         "institutionId": 4753,
         "latitude": "40.484790",
         "location": "Hickman Hall",
@@ -1677,7 +1795,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.88267,
+        "@search.score": 97.9101,
         "benefitNames": [
             "Free Food"
         ],
@@ -1693,7 +1811,7 @@
         "endsOn": "09:00 PM",
         "id": "10587535",
         "imagePath": null,
-        "index": 48,
+        "index": 51,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center - Room 109",
@@ -1711,7 +1829,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.88267,
+        "@search.score": 97.9101,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1724,7 +1842,7 @@
         "endsOn": "09:00 PM",
         "id": "10140042",
         "imagePath": "572abd50-1ddf-4f6b-8722-c10d4486b61f6910e46b-a462-4dcb-aa84-e97eba36f7b5.png",
-        "index": 49,
+        "index": 52,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center ",
@@ -1742,7 +1860,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.79906,
+        "@search.score": 97.826546,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1755,7 +1873,7 @@
         "endsOn": "04:00 PM",
         "id": "10452868",
         "imagePath": "6f473ede-1190-4fdd-8e6b-ac5fc750ddb014cd8cb9-4222-4620-9335-ef3901e6369e.png",
-        "index": 50,
+        "index": 53,
         "institutionId": 4753,
         "latitude": "40.479090",
         "location": "Office of Global Engagement",
@@ -1773,7 +1891,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.78511,
+        "@search.score": 97.81261,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1786,7 +1904,7 @@
         "endsOn": "07:00 PM",
         "id": "10216121",
         "imagePath": "f69926ef-9fe7-43a7-8727-a94b43fa6c35759e546e-e027-44e6-8ae2-109a5b8e73ff.png",
-        "index": 51,
+        "index": 54,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "Busch Student Center (Room 171)",
@@ -1804,7 +1922,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.7665,
+        "@search.score": 97.79401,
         "benefitNames": [
             "Free Food"
         ],
@@ -1820,7 +1938,7 @@
         "endsOn": "10:00 PM",
         "id": "10205490",
         "imagePath": null,
-        "index": 52,
+        "index": 55,
         "institutionId": 4753,
         "latitude": "40.504690",
         "location": "Hardenbergh Hall",
@@ -1838,7 +1956,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.66402,
+        "@search.score": 97.69159,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1855,7 +1973,7 @@
         "endsOn": "08:30 PM",
         "id": "10286113",
         "imagePath": "69744e1d-89c1-4e85-bb42-97bf5ab0ce5ad1ed3ca6-8515-4a25-bbb9-21ea6384502a.png",
-        "index": 53,
+        "index": 56,
         "institutionId": 4753,
         "latitude": "40.502670",
         "location": "College Avenue Student Center - Multipurpose Room",
@@ -1873,7 +1991,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.56596,
+        "@search.score": 97.5936,
         "benefitNames": [
             "Free Food"
         ],
@@ -1885,7 +2003,7 @@
         "endsOn": "06:00 PM",
         "id": "10205487",
         "imagePath": null,
-        "index": 54,
+        "index": 57,
         "institutionId": 4753,
         "latitude": "40.487730",
         "location": "Unity Square",
@@ -1903,7 +2021,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.5496,
+        "@search.score": 97.57725,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1920,7 +2038,7 @@
         "endsOn": "08:30 PM",
         "id": "10128536",
         "imagePath": null,
-        "index": 55,
+        "index": 58,
         "institutionId": 4753,
         "latitude": "40.501880",
         "location": "Center for Social Justice Education for LGBTQ+ Communities",
@@ -1938,7 +2056,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.47159,
+        "@search.score": 97.49928,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1951,7 +2069,7 @@
         "endsOn": "01:30 PM",
         "id": "10223577",
         "imagePath": "0c643927-4b77-436c-a1e6-842971e64cdb918820b5-cd46-4ba6-8fa6-345f73bce7e8.png",
-        "index": 56,
+        "index": 59,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -1969,7 +2087,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.45363,
+        "@search.score": 97.48133,
         "benefitNames": [
             "Free Food"
         ],
@@ -1985,7 +2103,7 @@
         "endsOn": "05:00 PM",
         "id": "10376679",
         "imagePath": null,
-        "index": 57,
+        "index": 60,
         "institutionId": 4753,
         "latitude": null,
         "location": "ENR 123",
@@ -2003,7 +2121,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.90886,
+        "@search.score": 96.93692,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -2016,7 +2134,7 @@
         "endsOn": "12:30 PM",
         "id": "10429088",
         "imagePath": "4700057b-a14c-4d39-b511-12819878303990f6aff9-1760-4995-a6c4-d810bc3e6dda.png",
-        "index": 58,
+        "index": 61,
         "institutionId": 4753,
         "latitude": null,
         "location": "Kathleen Ludwig",
@@ -2034,7 +2152,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.90411,
+        "@search.score": 96.932175,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2047,7 +2165,7 @@
         "endsOn": "01:30 PM",
         "id": "10216122",
         "imagePath": null,
-        "index": 59,
+        "index": 62,
         "institutionId": 4753,
         "latitude": "40.484710",
         "location": "Douglass Student Center, Trayes Hall",
@@ -2065,7 +2183,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.86137,
+        "@search.score": 96.88946,
         "benefitNames": [
             "Free Food"
         ],
@@ -2085,7 +2203,7 @@
         "endsOn": "10:00 PM",
         "id": "10120269",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 60,
+        "index": 63,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "LSC Coffeehouse",
@@ -2103,7 +2221,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.65417,
+        "@search.score": 96.682396,
         "benefitNames": [
             "Free Food"
         ],
@@ -2119,7 +2237,7 @@
         "endsOn": "05:00 PM",
         "id": "10376680",
         "imagePath": null,
-        "index": 61,
+        "index": 64,
         "institutionId": 4753,
         "latitude": null,
         "location": "ENR 123",
@@ -2137,7 +2255,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.65417,
+        "@search.score": 96.682396,
         "benefitNames": [
             "Free Food"
         ],
@@ -2149,7 +2267,7 @@
         "endsOn": "05:00 PM",
         "id": "10236850",
         "imagePath": "5f4a7765-ec7e-4f88-be02-cbd59df3e56c1fbfbde7-a455-4576-bb57-a35661773544.png",
-        "index": 62,
+        "index": 65,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Gathering Lounge - Livingston Student Center",
@@ -2167,7 +2285,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.572914,
+        "@search.score": 96.6012,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2186,7 +2304,7 @@
         "endsOn": "03:00 PM",
         "id": "10517434",
         "imagePath": "a56e3a96-6fb0-45b4-a615-c4b629c7d3a5b071db83-e170-4b2e-aac8-69ccada4c44b.png",
-        "index": 63,
+        "index": 66,
         "institutionId": 4753,
         "latitude": "40.505730",
         "location": "Buccleuch Park",
@@ -2204,7 +2322,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.55856,
+        "@search.score": 96.58685,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -2222,7 +2340,7 @@
         "endsOn": "03:00 PM",
         "id": "10136263",
         "imagePath": "cf6b9ad6-10aa-4c66-8f9e-d05437b00e7cd0923db9-560f-43cd-8edc-dc41c70106b2.png",
-        "index": 64,
+        "index": 67,
         "institutionId": 4753,
         "latitude": "40.513750",
         "location": "SHI Stadium",
@@ -2240,7 +2358,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.55856,
+        "@search.score": 96.58685,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2263,7 +2381,7 @@
         "endsOn": "04:00 PM",
         "id": "10588514",
         "imagePath": "c8d0ca99-96ee-49d6-ab1f-f31dbe911167843b1eaf-db6f-4c67-a32a-5960a99301d9.png",
-        "index": 65,
+        "index": 68,
         "institutionId": 4753,
         "latitude": "40.500520",
         "location": "Voorhees Mall",
@@ -2281,7 +2399,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.20056,
+        "@search.score": 96.22909,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2294,7 +2412,7 @@
         "endsOn": "04:30 PM",
         "id": "10224991",
         "imagePath": null,
-        "index": 66,
+        "index": 69,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center",
@@ -2312,7 +2430,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.96589,
+        "@search.score": 95.994576,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2325,7 +2443,7 @@
         "endsOn": "05:00 PM",
         "id": "10216123",
         "imagePath": "3cd5a148-0036-4c1e-a2f1-ccfa2ada8cd365437c9e-bd0c-40ce-b5ee-9357dbf2d8e7.png",
-        "index": 67,
+        "index": 70,
         "institutionId": 4753,
         "latitude": "40.484710",
         "location": "Douglass Student Center, Trayes Hall",
@@ -2343,7 +2461,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.84442,
+        "@search.score": 95.873184,
         "benefitNames": [
             "Free Food"
         ],
@@ -2359,7 +2477,7 @@
         "endsOn": "05:00 PM",
         "id": "10376681",
         "imagePath": null,
-        "index": 68,
+        "index": 71,
         "institutionId": 4753,
         "latitude": null,
         "location": "ENR 123",
@@ -2377,7 +2495,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.747,
+        "@search.score": 95.77583,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -2395,7 +2513,7 @@
         "endsOn": "03:00 PM",
         "id": "10136264",
         "imagePath": "d3340ee2-4bc9-4e2c-87e9-7ddc1f37226416c298d0-41bd-4935-8d44-150062b2ab67.png",
-        "index": 69,
+        "index": 72,
         "institutionId": 4753,
         "latitude": "38.990260",
         "location": "SECU Stadium",
@@ -2413,7 +2531,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.36247,
+        "@search.score": 95.39156,
         "benefitNames": [
             "Free Food"
         ],
@@ -2431,7 +2549,7 @@
         "endsOn": "08:00 PM",
         "id": "10236468",
         "imagePath": "2b0d9016-c043-43a9-a200-198f5a83fa65ad7eb883-f243-419f-8f2d-75d228fee68d.png",
-        "index": 70,
+        "index": 73,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "College Avenue Student Center - Multipurpose Room",
@@ -2449,7 +2567,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.23435,
+        "@search.score": 95.26353,
         "benefitNames": [
             "Free Food"
         ],
@@ -2469,7 +2587,7 @@
         "endsOn": "10:00 PM",
         "id": "10120270",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 71,
+        "index": 74,
         "institutionId": 4753,
         "latitude": null,
         "location": "LSC Coffeehouse",
@@ -2487,7 +2605,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.03897,
+        "@search.score": 95.06828,
         "benefitNames": [
             "Free Food"
         ],
@@ -2499,7 +2617,7 @@
         "endsOn": "02:00 PM",
         "id": "10518009",
         "imagePath": "399474c4-5763-4f69-b6b3-9d887c72011ca712fb54-24f0-4481-94de-8289a621f08d.png",
-        "index": 72,
+        "index": 75,
         "institutionId": 4753,
         "latitude": "40.479090",
         "location": "Cook Campus",
@@ -2517,7 +2635,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.019135,
+        "@search.score": 95.04846,
         "benefitNames": [
             "Free Food"
         ],
@@ -2533,7 +2651,7 @@
         "endsOn": "05:00 PM",
         "id": "10376682",
         "imagePath": null,
-        "index": 73,
+        "index": 76,
         "institutionId": 4753,
         "latitude": null,
         "location": "ENR 123",
@@ -2551,7 +2669,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.42436,
+        "@search.score": 96.45274,
         "benefitNames": [
             "Free Food"
         ],
@@ -2563,7 +2681,7 @@
         "endsOn": "09:00 PM",
         "id": "10118589",
         "imagePath": "114a9daf-fc46-446a-8cef-1fd55a47505c4ec67e63-a24e-4a36-84a2-55c3dc104e0a.png",
-        "index": 74,
+        "index": 77,
         "institutionId": 4753,
         "latitude": null,
         "location": "TBD",
@@ -2581,7 +2699,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.91982,
+        "@search.score": 94.94922,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -2599,7 +2717,7 @@
         "endsOn": "03:00 PM",
         "id": "10136265",
         "imagePath": "80ffda05-3084-45a7-88a8-f9757d2f4b374e5a2ff4-a6c7-41a4-bc8e-0be41d003a29.png",
-        "index": 75,
+        "index": 78,
         "institutionId": 4753,
         "latitude": "40.513750",
         "location": "SHI Stadium",
@@ -2617,7 +2735,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.47237,
+        "@search.score": 97.50007,
         "benefitNames": [
             "Free Food"
         ],
@@ -2633,7 +2751,7 @@
         "endsOn": "01:00 PM",
         "id": "10133902",
         "imagePath": null,
-        "index": 76,
+        "index": 79,
         "institutionId": 4753,
         "latitude": null,
         "location": "TBD",
@@ -2651,7 +2769,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.58951,
+        "@search.score": 93.61982,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2664,7 +2782,7 @@
         "endsOn": "01:30 PM",
         "id": "10216124",
         "imagePath": null,
-        "index": 77,
+        "index": 80,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center (Multi-Purpose Room)",
@@ -2682,7 +2800,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.545906,
+        "@search.score": 93.57625,
         "benefitNames": [
             "Free Food"
         ],
@@ -2694,7 +2812,7 @@
         "endsOn": "09:00 PM",
         "id": "10375306",
         "imagePath": "37ab6b41-7cb3-4175-944f-a20e2b97879f2429303a-74dc-46bc-9812-5bf0861dbedf.png",
-        "index": 78,
+        "index": 81,
         "institutionId": 4753,
         "latitude": "40.478950",
         "location": "Merle V. Adams Room (Cook Student Center)",
@@ -2712,7 +2830,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.55103,
+        "@search.score": 93.581375,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -2723,11 +2841,11 @@
         ],
         "categoryIds": [],
         "categoryNames": [],
-        "description": "Join Douglass Arts Club for a destress movie night featuring a film and winter crafts! This experience counts towards the R3: Douglass Discovery/Career Pathways curriculum requirement. Snacks and supplies provided. Date an time posted is tentative, check back for updates! Contact: douglassartsclub@gmail.com",
+        "description": "Join Douglass Arts Club for a destress movie night featuring a film and winter crafts! This experience counts towards the R3: Douglass Discovery/Career Pathways curriculum requirement. Snacks and supplies provided. Date and time posted is tentative, check back for updates! Contact: douglassartsclub@gmail.com",
         "endsOn": "09:30 PM",
         "id": "10223701",
         "imagePath": "a9c04fdd-199c-4416-952c-62419caaef97d91cfbdf-fe3e-4b0d-b735-849301ac40fe.png",
-        "index": 79,
+        "index": 82,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -2751,7 +2869,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.543335,
+        "@search.score": 93.573685,
         "benefitNames": [
             "Free Food"
         ],
@@ -2771,7 +2889,7 @@
         "endsOn": "10:00 PM",
         "id": "10120271",
         "imagePath": "20e24333-3d15-4597-a459-4f647b8bbd0188778d17-2ec9-408c-9033-0c167c9c3644.png",
-        "index": 80,
+        "index": 83,
         "institutionId": 4753,
         "latitude": null,
         "location": "LSC Coffeehouse",
@@ -2789,7 +2907,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.319466,
+        "@search.score": 93.34997,
         "benefitNames": [
             "Free Food"
         ],
@@ -2805,7 +2923,7 @@
         "endsOn": "05:00 PM",
         "id": "10376683",
         "imagePath": null,
-        "index": 81,
+        "index": 84,
         "institutionId": 4753,
         "latitude": null,
         "location": "ENR 123",
@@ -2823,7 +2941,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.319466,
+        "@search.score": 93.34997,
         "benefitNames": [
             "Free Food"
         ],
@@ -2835,7 +2953,7 @@
         "endsOn": "05:00 PM",
         "id": "10236880",
         "imagePath": "b9d0fef9-d19d-46f5-82ae-5b039e92b89c93bd9d61-7ad9-49b2-9316-39d5bddeb207.png",
-        "index": 82,
+        "index": 85,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "The Cove - Busch Student Center",
@@ -2853,7 +2971,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.06589,
+        "@search.score": 93.09657,
         "benefitNames": [
             "Free Food"
         ],
@@ -2865,7 +2983,7 @@
         "endsOn": "07:00 PM",
         "id": "10136336",
         "imagePath": "e5846e30-601e-449b-921b-9cdedcac387bac2f7708-4337-4697-a80b-4dde205c4598.png",
-        "index": 83,
+        "index": 86,
         "institutionId": 4753,
         "latitude": null,
         "location": "TBD",
@@ -2883,7 +3001,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.92031,
+        "@search.score": 92.951096,
         "benefitNames": [
             "Free Food"
         ],
@@ -2895,7 +3013,7 @@
         "endsOn": "10:00 PM",
         "id": "10303456",
         "imagePath": "dc1d5ee4-0f01-4f17-bde4-c9ee54b8cf4c02fe4ae4-8c3a-4d0f-b67b-9dbb5c6f881e.png",
-        "index": 84,
+        "index": 87,
         "institutionId": 4753,
         "latitude": null,
         "location": "Meeting Room A - Douglass Student Center",
@@ -2913,7 +3031,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.816025,
+        "@search.score": 92.846886,
         "benefitNames": [
             "Free Food"
         ],
@@ -2925,7 +3043,7 @@
         "endsOn": "07:00 PM",
         "id": "10216126",
         "imagePath": "a041e793-a79e-4a68-8d0f-ad36ef4ef94b0521cead-c78d-4cd5-a3e9-0bf96c22971b.png",
-        "index": 85,
+        "index": 88,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center (Gathering Lounge)",
@@ -2943,7 +3061,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.59095,
+        "@search.score": 92.62197,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -2956,7 +3074,7 @@
         "endsOn": "02:00 PM",
         "id": "10223654",
         "imagePath": "80e5cda2-b382-463a-b71a-8a99d9debb8927d6df40-fd95-450f-bc23-c0098c75c6f0.png",
-        "index": 86,
+        "index": 89,
         "institutionId": 4753,
         "latitude": "40.484120",
         "location": "Willets Open Art Studio - Jameson W Rm 106",
@@ -2974,7 +3092,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.59095,
+        "@search.score": 92.62197,
         "benefitNames": [
             "Free Food"
         ],
@@ -2990,7 +3108,7 @@
         "endsOn": "05:00 PM",
         "id": "10141086",
         "imagePath": null,
-        "index": 87,
+        "index": 90,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "TBD",
@@ -3008,7 +3126,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.44375,
+        "@search.score": 92.474884,
         "benefitNames": [
             "Free Food"
         ],
@@ -3024,7 +3142,7 @@
         "endsOn": "05:00 PM",
         "id": "10376684",
         "imagePath": null,
-        "index": 88,
+        "index": 91,
         "institutionId": 4753,
         "latitude": null,
         "location": "ENR 123",
@@ -3042,7 +3160,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 86.31307,
+        "@search.score": 86.348976,
         "benefitNames": [
             "Free Food"
         ],
@@ -3058,7 +3176,7 @@
         "endsOn": "10:00 PM",
         "id": "10303519",
         "imagePath": "f9bdcc83-47fb-4078-92cd-ea25ca8329e46ddb1d7a-731c-4193-9085-3738476cafc7.png",
-        "index": 89,
+        "index": 92,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -3076,7 +3194,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 68.96079,
+        "@search.score": 69.01453,
         "benefitNames": [
             "Free Food"
         ],
@@ -3092,7 +3210,7 @@
         "endsOn": "10:00 PM",
         "id": "10303672",
         "imagePath": "b420d455-109e-49b8-b0b5-cacdd90ce792d32c558c-4f13-420f-9cdc-ba99b9569e09.png",
-        "index": 90,
+        "index": 93,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
