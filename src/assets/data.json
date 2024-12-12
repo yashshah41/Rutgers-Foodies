@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.97049,
+        "@search.score": 99.99663,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -43,7 +43,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.97933,
+        "@search.score": 1.0,
         "benefitNames": [
             "Free Food"
         ],
@@ -77,7 +77,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.881996,
+        "@search.score": 99.90818,
         "benefitNames": [
             "Free Food"
         ],
@@ -111,7 +111,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.86427,
+        "@search.score": 99.89047,
         "benefitNames": [
             "Free Food"
         ],
@@ -141,7 +141,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.85541,
+        "@search.score": 99.881615,
         "benefitNames": [
             "Free Food"
         ],
@@ -175,7 +175,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.87092,
+        "@search.score": 99.89712,
         "benefitNames": [
             "Free Food"
         ],
@@ -213,7 +213,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.84211,
+        "@search.score": 99.868324,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -252,7 +252,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.13133,
+        "@search.score": 99.15798,
         "benefitNames": [
             "Free Food"
         ],
@@ -286,7 +286,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.10428,
+        "@search.score": 99.13094,
         "benefitNames": [
             "Free Food"
         ],
@@ -320,7 +320,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.27154,
+        "@search.score": 95.30069,
         "benefitNames": [
             "Free Food"
         ],
@@ -354,7 +354,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.1382,
+        "@search.score": 95.16744,
         "benefitNames": [
             "Free Food"
         ],
@@ -384,7 +384,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.755646,
+        "@search.score": 94.78515,
         "benefitNames": [
             "Free Food"
         ],
@@ -418,7 +418,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.35319,
+        "@search.score": 94.56015,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5349"
+        ],
+        "categoryNames": [
+            "Performance"
+        ],
+        "description": "The Office of Student Involvement & Leadership week is doing an open mic night, as part of our Student Involvement & Leadership week! During this event students will be able to perform, whether it is spoken word, dancing, singing, sharing art or any other forms of expression! This will be a great way to showcase your talent, support your peers, meet new people, enjoy food, and have fun! ",
+        "endsOn": "09:00 PM",
+        "id": "10777103",
+        "imagePath": null,
+        "index": 12,
+        "institutionId": 4753,
+        "latitude": "40.504380",
+        "location": "Student Activities Center",
+        "longitude": "-74.449060",
+        "name": "Student Involvement & Leadership Week: Open Mic Night",
+        "organizationId": 123208,
+        "organizationIds": [],
+        "organizationName": "Student Involvement & Leadership (Office of)",
+        "organizationNames": [],
+        "organizationProfilePicture": "58b4a1fc-77b5-4313-9ca6-022965749f31e939b6dc-0beb-453f-8ad8-fbfd2cddcb9d.jpg",
+        "recScore": null,
+        "startsOn": "January 29 | 06:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 93.38367,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -438,7 +472,7 @@
         "endsOn": "04:30 PM",
         "id": "10751603",
         "imagePath": "a57e00da-961d-4caf-8da8-a4e5c534303fa61355a3-ec16-4406-8fd2-ac2c1ec02834.png",
-        "index": 12,
+        "index": 13,
         "institutionId": 4753,
         "latitude": "40.484710",
         "location": "Douglass Student Center",
@@ -456,7 +490,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.76327,
+        "@search.score": 90.79564,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -481,7 +515,7 @@
         "endsOn": "08:00 PM",
         "id": "10686687",
         "imagePath": "1ef4e5c2-b0ee-4eec-8bf2-0814124867cd4d3ad61f-2213-4657-987d-8a1710588d92.png",
-        "index": 13,
+        "index": 14,
         "institutionId": 4753,
         "latitude": null,
         "location": "Busch Student Center",
@@ -511,7 +545,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.610664,
+        "@search.score": 81.65071,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -534,7 +568,7 @@
         "endsOn": "03:00 PM",
         "id": "10687366",
         "imagePath": "22b6b923-3d93-4b61-9019-fc474852afb93583c647-a656-4496-a0db-4de7b7867231.png",
-        "index": 14,
+        "index": 15,
         "institutionId": 4753,
         "latitude": null,
         "location": "Hatchery Innovation Studio, Alexander Library",
@@ -552,7 +586,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.054924,
+        "@search.score": 81.0955,
         "benefitNames": [
             "Free Food"
         ],
@@ -568,7 +602,7 @@
         "endsOn": "10:00 PM",
         "id": "10303672",
         "imagePath": "b420d455-109e-49b8-b0b5-cacdd90ce792d32c558c-4f13-420f-9cdc-ba99b9569e09.png",
-        "index": 15,
+        "index": 16,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -586,7 +620,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 80.77952,
+        "@search.score": 80.82035,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -603,7 +637,7 @@
         "endsOn": "02:30 PM",
         "id": "10766943",
         "imagePath": "0b2d48e2-be0c-44ee-a287-afb0b58311b70ebab3a8-6267-4929-98ca-88a3ed208ae0.png",
-        "index": 16,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
