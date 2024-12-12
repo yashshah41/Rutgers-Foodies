@@ -1,518 +1,6 @@
 [
     {
-        "@search.score": 1.0,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join us for a cozy break at our Hot Cider & Donuts event! Stop by to enjoy a warm cup of cider or hot chocolate, paired with delicious donuts. It's the perfect way to relax and recharge while mingling with friends. See you there!",
-        "endsOn": "03:00 PM",
-        "id": "10761005",
-        "imagePath": "b506fbe2-9f35-4f0d-bec1-c62529dbe2b92c330328-aefe-41ef-a54f-67cd7b945b93.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "College Ave - Morrell Street",
-        "longitude": null,
-        "name": "Cider & Donuts",
-        "organizationId": 127461,
-        "organizationIds": [],
-        "organizationName": "Rutgers University Programming Association",
-        "organizationNames": [],
-        "organizationProfilePicture": "424c475d-2e22-40f8-8a87-ffbb039eed79af749958-3db3-47b6-aca8-ffed8e0137f1.jpg",
-        "recScore": null,
-        "startsOn": "December 11 | 12:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.981155,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Craving adventure? Pizza? And a the chance to study abroad this summer? Come join the Creative Writing and English Departments, alongside the Study Abroad Office, for an Pizza Meet & Greet to learn about three incredible summer study abroad programs! Whether you're into Shakespeare, fascinated by horror writing, or eager to dive into the world of Irish authors, we've got the perfect summer programs for you. And the best part? You can earn academic credit (3 credits each program) \u2014 which could be for your major, minor, or core courses \u2014 while exploring the UK and/or Ireland. Join us to discover your perfect program:  Summer: Rutgers-Creative Writing; Where Dips the Rocky Highland Summer: Rutgers-Creative Writing; \"Things Terrible and Unguessable\" Summer: Rutgers-Shakespeare in England ",
-        "endsOn": "06:30 PM",
-        "id": "10750531",
-        "imagePath": "85735eae-83b3-4665-8c07-e8e2cd732cde3db8f5ae-de7b-4462-b67c-2fa3e10e8337.png",
-        "index": 1,
-        "institutionId": 4753,
-        "latitude": "40.499800",
-        "location": "Scott Hall- SC- 121",
-        "longitude": "-74.447610",
-        "name": "Creative Writing & Study Abroad Pizza Party + Meet and Greet",
-        "organizationId": 257221,
-        "organizationIds": [],
-        "organizationName": "Rutgers Global (Department at Rutgers University)",
-        "organizationNames": [],
-        "organizationProfilePicture": "a96f5e6b-9a7f-4935-bf18-df189b160627bb86fe92-c4cb-4771-b25b-64a8479a70fb.png",
-        "recScore": null,
-        "startsOn": "December 11 | 05:30 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.987785,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "20311"
-        ],
-        "categoryNames": [
-            "Graduate Student Organization Event"
-        ],
-        "description": "Join us for a festive winter celebration filled with food, crafts, games, and more!  ",
-        "endsOn": "07:00 PM",
-        "id": "10745996",
-        "imagePath": "933a9133-b8ac-4aed-9494-dbd2f28882ceb70da1f5-dcd9-470b-95ac-52e3cb980ddc.png",
-        "index": 2,
-        "institutionId": 4753,
-        "latitude": "40.523820",
-        "location": "EOHSI C",
-        "longitude": "-74.468390",
-        "name": "Holiday Party",
-        "organizationId": 327082,
-        "organizationIds": [],
-        "organizationName": "Rutgers Association of Toxicology Students (Graduate Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "4ebfc9bc-b972-4a1b-a0d1-526087ceb26bbfb861ca-4882-4c98-a9b9-99b697d20dea.png",
-        "recScore": null,
-        "startsOn": "December 11 | 04:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97895,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "20311"
-        ],
-        "categoryNames": [
-            "Graduate Student Organization Event"
-        ],
-        "description": "Join the ECE-GSA for their final event of the semester \u2014 Worry Less, Laugh S'more! We'll have a little bonfire by the CoRE building (near the parking lot) with supplies to make s'mores and destress with fellow ECE grad students before finals week.",
-        "endsOn": "08:00 PM",
-        "id": "10742128",
-        "imagePath": "17695dac-37c8-403b-bdd6-8a6355aa2aeb0669487f-ee7b-440a-81bb-383f29ba7fd0.png",
-        "index": 3,
-        "institutionId": 4753,
-        "latitude": "40.521390",
-        "location": "Computer Research and Education (CoRE) Building",
-        "longitude": "-74.461350",
-        "name": "Worry Less, Laugh S'more",
-        "organizationId": 401013,
-        "organizationIds": [
-            "312665",
-            "401013"
-        ],
-        "organizationName": "Electrical & Computer Engineering Graduate Student Association",
-        "organizationNames": [
-            "Graduate Student Association (GSA)",
-            "Electrical & Computer Engineering Graduate Student Association"
-        ],
-        "organizationProfilePicture": "fcabadaf-94e1-4590-8ede-ad93eb1275fd37b95db4-57ca-479a-abe8-a10124b1aba4.png",
-        "recScore": null,
-        "startsOn": "December 11 | 06:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.974525,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5343"
-        ],
-        "categoryNames": [
-            "Entertainment"
-        ],
-        "description": "Take a break from finals stress and join us for Coffeehouse Cram: Karaoke Edition! \ud83c\udfb6 Sing your heart out, paint your own custom mug, and enjoy some hot cocoa in a fun and relaxing environment! \u2615\ufe0f",
-        "endsOn": "08:00 PM",
-        "id": "10771430",
-        "imagePath": "658db4e6-38d6-4a2d-a6a5-11a65c7897473600c15b-a974-4b59-8e37-c147bea8c62c.png",
-        "index": 4,
-        "institutionId": 4753,
-        "latitude": "40.523110",
-        "location": "Busch Student Center MPR",
-        "longitude": "-74.458630",
-        "name": "Coffeehouse Cram",
-        "organizationId": 127461,
-        "organizationIds": [],
-        "organizationName": "Rutgers University Programming Association",
-        "organizationNames": [],
-        "organizationProfilePicture": "424c475d-2e22-40f8-8a87-ffbb039eed79af749958-3db3-47b6-aca8-ffed8e0137f1.jpg",
-        "recScore": null,
-        "startsOn": "December 11 | 07:00 PM",
-        "status": "Approved",
-        "theme": "Arts",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97343,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5346"
-        ],
-        "categoryNames": [
-            "General Organization Meeting"
-        ],
-        "description": "Don\u2019t miss our final PDAOA club meeting! We\u2019ll kick things off with an inspiring TED Talk, followed by an exciting educational game and a fun guessing game. Of course, we\u2019ll have delicious pizza to enjoy! Join us for a memorable evening filled with great conversations and connections with fellow members.",
-        "endsOn": "08:15 PM",
-        "id": "10767562",
-        "imagePath": "6afb851b-e344-4e0e-aff1-3a3ef66c0857874ac35e-f5e5-419d-89b6-41626dce29d3.pdf",
-        "index": 5,
-        "institutionId": 4753,
-        "latitude": "40.523110",
-        "location": "BSC - Room 115",
-        "longitude": "-74.458630",
-        "name": "Last Meeting Fall 2024",
-        "organizationId": 179229,
-        "organizationIds": [],
-        "organizationName": "Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers ",
-        "organizationNames": [],
-        "organizationProfilePicture": "f73c45db-91f7-46fc-894f-be047c739b9a594bee2b-63fc-4b8d-8191-1f2013040c19.png",
-        "recScore": null,
-        "startsOn": "December 11 | 07:15 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97232,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5358"
-        ],
-        "categoryNames": [
-            "Wellness Event"
-        ],
-        "description": "Join us, NEXT WEDNESDAY, as we decorate ornaments and enjoy delicious food from Mereys!!\ud83e\uded3\ud83c\udf74We can\u2019t wait to see you there!\ud83c\udf84\u2728\ud83d\uddd3\ufe0fDate: Wednesday, December 11th, 2024\ud83d\udd52Time: 7:30 PM\ud83d\udccdLocation: Hardenburgh Hall, A7",
-        "endsOn": "08:45 PM",
-        "id": "10767511",
-        "imagePath": "ea9416be-d48a-4cda-847e-c8645f6cbadaba0edf05-23e9-4089-b19a-96652466c29a.png",
-        "index": 6,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "Hardenburg Hall, Room A7",
-        "longitude": null,
-        "name": "Ornamentando la Navidad con CASU",
-        "organizationId": 392768,
-        "organizationIds": [],
-        "organizationName": "Central American Student Union (Provisional Organization 24/25)",
-        "organizationNames": [],
-        "organizationProfilePicture": "a93c72c8-f656-4f7d-a740-1e88d7fe33c9d24bcdef-2a23-42a3-8f65-7ac40c58b2f3.png",
-        "recScore": null,
-        "startsOn": "December 11 | 07:30 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97895,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "5346",
-            "5353"
-        ],
-        "categoryNames": [
-            "General Organization Meeting",
-            "Seasonal/Holiday"
-        ],
-        "description": "\ud83c\udf84\u2728 Parranda con RUEP \u2728\ud83c\udf84 Experience the joy of a traditional Puerto Rican holiday celebration! A parranda is a festive gathering filled with music, singing, and community, where friends and family bring festive cheer from house to house. Join us as we bring this cherished tradition to life with music, delicious food, and plenty of holiday spirit. \ud83d\udcc5 Wednesday, December 11\ud83d\udd55 6:00 PM - 9:00 PM\ud83d\udccd Center for Latino Arts and Culture (CLAC) Celebrate the season with RUEP\u2014don\u2019t miss this night of fun and tradition! \ud83c\udfb6\ud83c\udf81\u2728",
-        "endsOn": "09:00 PM",
-        "id": "10747972",
-        "imagePath": "38c92e2c-1882-4638-96ff-b95350f0df9586a8e587-193b-4b65-9347-ac283e75f94e.png",
-        "index": 7,
-        "institutionId": 4753,
-        "latitude": "40.504190",
-        "location": "Center for Latino Arts and Culture",
-        "longitude": "-74.453480",
-        "name": "Parranda con RUEP",
-        "organizationId": 122872,
-        "organizationIds": [
-            "122872",
-            "140585"
-        ],
-        "organizationName": "Uni\u00f3n Estudiantil Puertorrique\u00f1a (Rutgers)",
-        "organizationNames": [
-            "Uni\u00f3n Estudiantil Puertorrique\u00f1a (Rutgers)",
-            "Center for Latino Arts and Culture"
-        ],
-        "organizationProfilePicture": "dbf55829-c055-4f3b-b600-0d32c97358b0fc9a11c2-252b-4b69-bd67-9a633dcd741a.png",
-        "recScore": null,
-        "startsOn": "December 11 | 06:00 PM",
-        "status": "Approved",
-        "theme": "Cultural",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97011,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join us for our last meeting of the year. We will be hanging out, listening to music, and discussing the next semester for the club. The best part is we'll have sushi, dumplings, and boba!!! Find us in Davison Hall Room 129 at 8 PM on Wednesday the 11th",
-        "endsOn": "09:00 PM",
-        "id": "10768786",
-        "imagePath": "e1eb6635-bda9-4c77-9821-f64b11578ed8bf745064-074c-411d-8590-153899f4c2ef.png",
-        "index": 8,
-        "institutionId": 4753,
-        "latitude": "40.484190",
-        "location": "Davison Hall Room 129",
-        "longitude": "-74.437460",
-        "name": "Sociology Club - Party!!",
-        "organizationId": 392785,
-        "organizationIds": [],
-        "organizationName": "Sociology Club (Provisional Organization 24/25)",
-        "organizationNames": [],
-        "organizationProfilePicture": "804380a3-bb20-4b6e-843e-0bae371541b22c5dda4e-49ad-477a-907d-40069c280390.png",
-        "recScore": null,
-        "startsOn": "December 11 | 08:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.974525,
-        "benefitNames": [
-            "Credit",
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join Douglass Arts Club for a winter movie night and make cards for local NJ organizations! This experience counts towards the R3: Douglass Discovery/Career Pathways curriculum requirement. Snacks and supplies provided. Contact: douglassartsclub@gmail.com",
-        "endsOn": "09:30 PM",
-        "id": "10223701",
-        "imagePath": "a9c04fdd-199c-4416-952c-62419caaef97d91cfbdf-fe3e-4b0d-b735-849301ac40fe.png",
-        "index": 9,
-        "institutionId": 4753,
-        "latitude": "40.484150",
-        "location": "Ludwig Center, Albers-Schonberg Rm",
-        "longitude": "-74.439000",
-        "name": "Douglass Arts Club | Winter Movie & Cards",
-        "organizationId": 234210,
-        "organizationIds": [
-            "234210",
-            "392824"
-        ],
-        "organizationName": "Academic Programs at Douglass Residential College - DRC",
-        "organizationNames": [
-            "Academic Programs at Douglass Residential College - DRC",
-            "Douglass Arts Club"
-        ],
-        "organizationProfilePicture": "5ed5910e-a369-4630-978c-8b9b350e348f9ba332eb-d00f-45f8-9203-7f07d1b096ab.png",
-        "recScore": null,
-        "startsOn": "December 11 | 07:00 PM",
-        "status": "Approved",
-        "theme": "Arts",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97011,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Celebrate the end of the semester with KLC x HARU's cupsleeve event! Capture memories with your friends at our festive photobooth, shop from our incredible vendors, and enter our raffle for a chance to win some fantastic prizes all while enjoying some FREE BOBA!",
-        "endsOn": "09:30 PM",
-        "id": "10767750",
-        "imagePath": "994f197a-928e-4ad2-aefa-ace81db08e2e6a302835-8b55-4740-adac-86e7666d3aa3.png",
-        "index": 10,
-        "institutionId": 4753,
-        "latitude": "40.490870",
-        "location": "Tillet Room 116",
-        "longitude": "-74.449480",
-        "name": "Winter Wonderland Cupsleeve Event",
-        "organizationId": 291181,
-        "organizationIds": [
-            "121937",
-            "291181"
-        ],
-        "organizationName": "Korean Language Club ",
-        "organizationNames": [
-            "Haru: Kpop Dance Cover Club",
-            "Korean Language Club "
-        ],
-        "organizationProfilePicture": "31d22d3b-55b9-4dce-a92a-6d90cf1bafc0a31d5fc2-a9cc-4351-a01e-be1c25be1bbc.png",
-        "recScore": null,
-        "startsOn": "December 11 | 08:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.974525,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "5343",
-            "5353"
-        ],
-        "categoryNames": [
-            "Entertainment",
-            "Seasonal/Holiday"
-        ],
-        "description": "Come challenge your friends in a pie eating contest \ud83e\udd67 (with prizes!), make goodie bags for your loved ones \ud83c\udf81, and unleash your creativity with fun DIYs \ud83c\udfa8!",
-        "endsOn": "10:00 PM",
-        "id": "10766994",
-        "imagePath": "99ef6476-7833-445a-8cac-ec2802ed82afde559233-3466-4af1-b63a-9ca6d67cfd1c.png",
-        "index": 11,
-        "institutionId": 4753,
-        "latitude": "40.525420",
-        "location": "Livingston Reading Room B",
-        "longitude": "-74.437590",
-        "name": "Piece Of Pie And Piece Of Mind by RHA Campus Ambassadors",
-        "organizationId": 128128,
-        "organizationIds": [
-            "128128",
-            "129832",
-            "132649"
-        ],
-        "organizationName": "Residence Hall Association (RHA)",
-        "organizationNames": [
-            "Residence Hall Association (RHA)",
-            "Rutgers Residence Life",
-            "Residence Life: Livingston - Livingston Apartments"
-        ],
-        "organizationProfilePicture": "f2b4e0fa-f05a-40ab-b063-c00d109669cefa4840ff-ece8-4087-bec5-3fe69e991815.JPG",
-        "recScore": null,
-        "startsOn": "December 11 | 07:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.967896,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "5346"
-        ],
-        "categoryNames": [
-            "General Organization Meeting"
-        ],
-        "description": "In collaboration the United Black Council, Thee Scarlet Divas invites all Rutgers students to come to our Holiday Party!! The festivities will begin after UBC Town-hall meeting (in PRCC) at 7pm today (hope to see y'all there too!!) and they'll be lead by some of your favorite Divas. Food and Drinks will be served, you don't wanna miss this!!",
-        "endsOn": "10:00 PM",
-        "id": "10774089",
-        "imagePath": "65aa96ae-ee09-4363-9fd0-a4a45b681235bcc2993b-3317-4a1f-9354-6d60d6c9654e.png",
-        "index": 12,
-        "institutionId": 4753,
-        "latitude": "40.523930",
-        "location": "Paul Robeson Cultural Center",
-        "longitude": "-74.459070",
-        "name": "Deck The Halls with Divas & UBC",
-        "organizationId": 392788,
-        "organizationIds": [
-            "122548",
-            "392788"
-        ],
-        "organizationName": "Thee Scarlet Divas (Provisional Organization 24/25)",
-        "organizationNames": [
-            "United Black Council",
-            "Thee Scarlet Divas (Provisional Organization 24/25)"
-        ],
-        "organizationProfilePicture": "2a66dac5-5807-46c0-9a1c-6eb7e4e4058d6252fad6-a89f-4a60-baf1-902fc9d29232.jpeg",
-        "recScore": null,
-        "startsOn": "December 11 | 08:30 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.89932,
-        "benefitNames": [
-            "Credit",
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Come relax and destress with the Center for Women in the Arts at Douglass before you leave for winter break and embroider your own tote bag! This experience counts towards the R3: Douglass Discovery/Career Pathways curriculum requirement. Snacks and supplies provided. Note: Moved from Willets Open Art Studio to Ludwig.",
-        "endsOn": "02:00 PM",
-        "id": "10223654",
-        "imagePath": "80e5cda2-b382-463a-b71a-8a99d9debb8927d6df40-fd95-450f-bc23-c0098c75c6f0.png",
-        "index": 13,
-        "institutionId": 4753,
-        "latitude": "40.484150",
-        "location": "Ludwig Center, Albers-Schonberg Rm",
-        "longitude": "-74.439000",
-        "name": "Tote Bag Embroidery Workshop ",
-        "organizationId": 234210,
-        "organizationIds": [],
-        "organizationName": "Academic Programs at Douglass Residential College - DRC",
-        "organizationNames": [],
-        "organizationProfilePicture": "5ed5910e-a369-4630-978c-8b9b350e348f9ba332eb-d00f-45f8-9203-7f07d1b096ab.png",
-        "recScore": null,
-        "startsOn": "December 12 | 12:00 PM",
-        "status": "Approved",
-        "theme": "Arts",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.890465,
+        "@search.score": 99.91966,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -527,7 +15,7 @@
         "endsOn": "03:30 PM",
         "id": "10728226",
         "imagePath": "d8a6c49c-c021-47af-825c-5009818c35c06a9a463c-9144-4500-bff5-595d37761d39.png",
-        "index": 14,
+        "index": 0,
         "institutionId": 4753,
         "latitude": "40.522280",
         "location": "BEST West MPR",
@@ -555,7 +43,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.89932,
+        "@search.score": 99.92851,
         "benefitNames": [
             "Free Food"
         ],
@@ -571,7 +59,7 @@
         "endsOn": "05:00 PM",
         "id": "10141086",
         "imagePath": null,
-        "index": 15,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "TBD",
@@ -589,7 +77,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.8018,
+        "@search.score": 99.83106,
         "benefitNames": [
             "Free Food"
         ],
@@ -605,7 +93,7 @@
         "endsOn": "11:00 AM",
         "id": "10618084",
         "imagePath": null,
-        "index": 16,
+        "index": 2,
         "institutionId": 4753,
         "latitude": null,
         "location": "EOHSI AB",
@@ -623,7 +111,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.78405,
+        "@search.score": 99.81332,
         "benefitNames": [
             "Free Food"
         ],
@@ -635,7 +123,7 @@
         "endsOn": "04:00 PM",
         "id": "10762249",
         "imagePath": "59237df8-e8c7-4aa5-8391-7f13fcb4a6f929829927-65b7-4ffd-bd6e-1891f3a2bab5.png",
-        "index": 17,
+        "index": 3,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Ave Student Center Room 413 (Cap and Skull)",
@@ -653,7 +141,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.77517,
+        "@search.score": 99.80444,
         "benefitNames": [
             "Free Food"
         ],
@@ -669,7 +157,7 @@
         "endsOn": "05:00 PM",
         "id": "10376684",
         "imagePath": null,
-        "index": 18,
+        "index": 4,
         "institutionId": 4753,
         "latitude": null,
         "location": "ENR 123",
@@ -687,7 +175,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.79071,
+        "@search.score": 99.81997,
         "benefitNames": [
             "Free Food"
         ],
@@ -707,7 +195,7 @@
         "endsOn": "05:30 PM",
         "id": "10719272",
         "imagePath": "ed1d480c-3634-4221-8e60-ff70feb0cfdf7c529bcb-93b2-4bb0-8c7f-1dcd1742797a.png",
-        "index": 19,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.524430",
         "location": "Biomedical Engineering Building, NB-Busch Campus",
@@ -725,7 +213,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.76185,
+        "@search.score": 99.79113,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -740,7 +228,7 @@
         "endsOn": "08:30 PM",
         "id": "10753830",
         "imagePath": "e97610db-7e30-4f2b-b0de-5fbdf3209136cdee6202-266b-4fe0-b4a4-c0b44c6b0717.png",
-        "index": 20,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.502450",
         "location": "Honors College",
@@ -764,7 +252,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.04973,
+        "@search.score": 99.0795,
         "benefitNames": [
             "Free Food"
         ],
@@ -780,7 +268,7 @@
         "endsOn": "11:00 AM",
         "id": "10618085",
         "imagePath": null,
-        "index": 21,
+        "index": 7,
         "institutionId": 4753,
         "latitude": null,
         "location": "EOHSI AB",
@@ -798,7 +286,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.02262,
+        "@search.score": 99.052414,
         "benefitNames": [
             "Free Food"
         ],
@@ -814,7 +302,7 @@
         "endsOn": "05:30 PM",
         "id": "10759105",
         "imagePath": "15e07c43-76b8-4519-917d-9f7c7a30ffc2e63a7b83-4b91-4fad-a3dc-9bdccfeb70b3.png",
-        "index": 22,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.523740",
         "location": "Proteomics - Floor 1",
@@ -832,7 +320,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.18226,
+        "@search.score": 95.21483,
         "benefitNames": [
             "Free Food"
         ],
@@ -848,7 +336,7 @@
         "endsOn": "04:00 PM",
         "id": "10758633",
         "imagePath": "b6463ea5-2532-490a-a55a-be043c1a647297aef6e1-ad97-47e4-b231-e7e5dc507fe2.png",
-        "index": 23,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.501400",
         "location": "Study Abroad Office",
@@ -866,7 +354,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.048645,
+        "@search.score": 95.081314,
         "benefitNames": [
             "Free Food"
         ],
@@ -878,7 +366,7 @@
         "endsOn": "05:00 PM",
         "id": "10741341",
         "imagePath": "56fc71ab-0292-469d-9a37-8cd4848daf2098cf57e2-b5a6-4f37-9ae7-e3f541df0699.png",
-        "index": 24,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.524480",
         "location": "Life Sciences Building Atrium",
@@ -896,7 +384,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.66529,
+        "@search.score": 94.69826,
         "benefitNames": [
             "Free Food"
         ],
@@ -912,7 +400,7 @@
         "endsOn": "10:00 PM",
         "id": "10303519",
         "imagePath": "f9bdcc83-47fb-4078-92cd-ea25ca8329e46ddb1d7a-731c-4193-9085-3738476cafc7.png",
-        "index": 25,
+        "index": 11,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -930,7 +418,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.259834,
+        "@search.score": 93.29389,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -950,7 +438,7 @@
         "endsOn": "04:30 PM",
         "id": "10751603",
         "imagePath": "a57e00da-961d-4caf-8da8-a4e5c534303fa61355a3-ec16-4406-8fd2-ac2c1ec02834.png",
-        "index": 26,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.484710",
         "location": "Douglass Student Center",
@@ -968,7 +456,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.66411,
+        "@search.score": 90.70029,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -993,7 +481,7 @@
         "endsOn": "08:00 PM",
         "id": "10686687",
         "imagePath": "1ef4e5c2-b0ee-4eec-8bf2-0814124867cd4d3ad61f-2213-4657-987d-8a1710588d92.png",
-        "index": 27,
+        "index": 13,
         "institutionId": 4753,
         "latitude": null,
         "location": "Busch Student Center",
@@ -1023,7 +511,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.48795,
+        "@search.score": 81.53273,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1046,7 +534,7 @@
         "endsOn": "03:00 PM",
         "id": "10687366",
         "imagePath": "22b6b923-3d93-4b61-9019-fc474852afb93583c647-a656-4496-a0db-4de7b7867231.png",
-        "index": 28,
+        "index": 14,
         "institutionId": 4753,
         "latitude": null,
         "location": "Hatchery Innovation Studio, Alexander Library",
@@ -1064,7 +552,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 80.93061,
+        "@search.score": 80.97598,
         "benefitNames": [
             "Free Food"
         ],
@@ -1080,7 +568,7 @@
         "endsOn": "10:00 PM",
         "id": "10303672",
         "imagePath": "b420d455-109e-49b8-b0b5-cacdd90ce792d32c558c-4f13-420f-9cdc-ba99b9569e09.png",
-        "index": 29,
+        "index": 15,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -1098,7 +586,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 80.65441,
+        "@search.score": 80.700066,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1115,7 +603,7 @@
         "endsOn": "02:30 PM",
         "id": "10766943",
         "imagePath": "0b2d48e2-be0c-44ee-a287-afb0b58311b70ebab3a8-6267-4929-98ca-88a3ed208ae0.png",
-        "index": 30,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
