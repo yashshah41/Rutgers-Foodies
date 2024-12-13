@@ -1,36 +1,6 @@
 [
     {
-        "@search.score": 99.97044,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join us for a relaxing afternoon with warm matcha and winter themed crafting!",
-        "endsOn": "04:00 PM",
-        "id": "10762249",
-        "imagePath": "59237df8-e8c7-4aa5-8391-7f13fcb4a6f929829927-65b7-4ffd-bd6e-1891f3a2bab5.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "College Ave Student Center Room 413 (Cap and Skull)",
-        "longitude": null,
-        "name": "Matcha and Winter Crafts",
-        "organizationId": 359346,
-        "organizationIds": [],
-        "organizationName": "Coffee and Tea Association at Rutgers ",
-        "organizationNames": [],
-        "organizationProfilePicture": "c02ba3e8-f7a1-43d8-9ec7-ba95f24e5ca6021097b6-492a-4f70-8fdb-e58a793233a9.png",
-        "recScore": null,
-        "startsOn": "December 13 | 02:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97044,
+        "@search.score": 99.99658,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -51,7 +21,7 @@
         "endsOn": "04:00 PM",
         "id": "10779660",
         "imagePath": null,
-        "index": 1,
+        "index": 0,
         "institutionId": 4753,
         "latitude": "40.484010",
         "location": "Willets Open Art Studio",
@@ -69,7 +39,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.9616,
+        "@search.score": 99.98774,
         "benefitNames": [
             "Free Food"
         ],
@@ -85,7 +55,7 @@
         "endsOn": "05:00 PM",
         "id": "10376684",
         "imagePath": null,
-        "index": 2,
+        "index": 1,
         "institutionId": 4753,
         "latitude": null,
         "location": "ENR 123",
@@ -103,7 +73,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.97707,
+        "@search.score": 1.0,
         "benefitNames": [
             "Free Food"
         ],
@@ -123,7 +93,7 @@
         "endsOn": "05:30 PM",
         "id": "10719272",
         "imagePath": "ed1d480c-3634-4221-8e60-ff70feb0cfdf7c529bcb-93b2-4bb0-8c7f-1dcd1742797a.png",
-        "index": 3,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.524430",
         "location": "Biomedical Engineering Building, NB-Busch Campus",
@@ -141,7 +111,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94833,
+        "@search.score": 99.97449,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -156,7 +126,7 @@
         "endsOn": "08:30 PM",
         "id": "10753830",
         "imagePath": "e97610db-7e30-4f2b-b0de-5fbdf3209136cdee6202-266b-4fe0-b4a4-c0b44c6b0717.png",
-        "index": 4,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.502450",
         "location": "Honors College",
@@ -180,7 +150,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.23932,
+        "@search.score": 99.26591,
         "benefitNames": [
             "Free Food"
         ],
@@ -196,7 +166,7 @@
         "endsOn": "11:00 AM",
         "id": "10618085",
         "imagePath": null,
-        "index": 5,
+        "index": 4,
         "institutionId": 4753,
         "latitude": null,
         "location": "EOHSI AB",
@@ -214,7 +184,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.21233,
+        "@search.score": 99.23894,
         "benefitNames": [
             "Free Food"
         ],
@@ -230,7 +200,7 @@
         "endsOn": "05:30 PM",
         "id": "10759105",
         "imagePath": "15e07c43-76b8-4519-917d-9f7c7a30ffc2e63a7b83-4b91-4fad-a3dc-9bdccfeb70b3.png",
-        "index": 6,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.523740",
         "location": "Proteomics - Floor 1",
@@ -248,7 +218,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.389656,
+        "@search.score": 95.41873,
         "benefitNames": [
             "Free Food"
         ],
@@ -264,7 +234,7 @@
         "endsOn": "04:00 PM",
         "id": "10758633",
         "imagePath": "b6463ea5-2532-490a-a55a-be043c1a647297aef6e1-ad97-47e4-b231-e7e5dc507fe2.png",
-        "index": 7,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.501400",
         "location": "Study Abroad Office",
@@ -282,7 +252,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.25668,
+        "@search.score": 95.28585,
         "benefitNames": [
             "Free Food"
         ],
@@ -294,7 +264,7 @@
         "endsOn": "05:00 PM",
         "id": "10741341",
         "imagePath": "56fc71ab-0292-469d-9a37-8cd4848daf2098cf57e2-b5a6-4f37-9ae7-e3f541df0699.png",
-        "index": 8,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.524480",
         "location": "Life Sciences Building Atrium",
@@ -312,7 +282,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.87519,
+        "@search.score": 94.90462,
         "benefitNames": [
             "Free Food"
         ],
@@ -328,7 +298,7 @@
         "endsOn": "10:00 PM",
         "id": "10303519",
         "imagePath": "f9bdcc83-47fb-4078-92cd-ea25ca8329e46ddb1d7a-731c-4193-9085-3738476cafc7.png",
-        "index": 9,
+        "index": 8,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -346,7 +316,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.650665,
+        "@search.score": 94.680244,
         "benefitNames": [
             "Free Food"
         ],
@@ -362,7 +332,7 @@
         "endsOn": "09:00 PM",
         "id": "10777103",
         "imagePath": null,
-        "index": 10,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.504380",
         "location": "Student Activities Center",
@@ -380,7 +350,45 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.47669,
+        "@search.score": 94.48232,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5332",
+            "5340",
+            "5354"
+        ],
+        "categoryNames": [
+            "Banquet/Food or Culinary",
+            "Educational Conference/Seminar/Workshop/Panel",
+            "Special Interest"
+        ],
+        "description": "This design lab will bring together students, faculty and staff together with food waste recycling and reutilization experts. Participants will hear the food waste related views, technology options and current practices and will be guided on creating ideas to bring sustainable solutions to food waste matters at Robert Wood Johnson Hospital  ",
+        "endsOn": "01:30 PM",
+        "id": "10779935",
+        "imagePath": null,
+        "index": 10,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Hatchery Innovation Studio, Alexander Library",
+        "longitude": null,
+        "name": "Design Lab: Exploring Sustainable Food Waste Recycling & Reutilization at RWJ Hospital ",
+        "organizationId": 350605,
+        "organizationIds": [],
+        "organizationName": "Innovation, Design, and Entrepreneurship Academy",
+        "organizationNames": [],
+        "organizationProfilePicture": "eb26a40c-9f5b-494c-92a0-ff2b6dea41c74937327d-a615-4dbb-aa87-95a0e4e2a98a.png",
+        "recScore": null,
+        "startsOn": "January 31 | 09:30 AM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 93.50709,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -418,7 +426,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.894424,
+        "@search.score": 90.926704,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -439,7 +447,7 @@
             "Performance",
             "Special Interest"
         ],
-        "description": "Attend the annual university-wide pitch competition to check out innovative new ideas from students around campus. Vote for your favorite idea for the Audience Choice Award and enter to win an audience raffle prize. Dinner will be served at the event. Additional awards include:1st Prize $1500 2nd Prize $1000 3rd Prize $750 Hult Prize $250 + travel to North America Regional competition in June UPitchNJ $250 + opportunity to represent Rutgers at statewide pitch competition in May Have an idea you want to pitch? Pre-register your team to get exclusive invites to pitch prep parties and more: https://go.rutgers.edu/ScarletPitchPreReghttps://go.rutgers.edu/ScarletPitchPreReghttps://go.rutgers.edu/ScarletPitchPreReghttps://go.rutgers.edu/ScarletPitchPreReghttps://go.rutgers.edu/ScarletPitchPreReg",
+        "description": "Attend the annual university-wide pitch competition to check out innovative new ideas from students around campus. Vote for your favorite idea for the Audience Choice Award and enter to win an audience raffle prize. Dinner will be served at the event. Additional awards include:1st Prize $1500 2nd Prize $1000 3rd Prize $750 Hult Prize $250 + travel to North America Regional competition in June UPitchNJ $250 + opportunity to represent Rutgers at statewide pitch competition in May Apply:  https://go.rutgers.edu/ApplyScarletPitchhttps://go.rutgers.edu/ApplyScarletPitchhttps://go.rutgers.edu/ApplyScarletPitch",
         "endsOn": "08:00 PM",
         "id": "10686687",
         "imagePath": "1ef4e5c2-b0ee-4eec-8bf2-0814124867cd4d3ad61f-2213-4657-987d-8a1710588d92.png",
@@ -473,7 +481,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.77288,
+        "@search.score": 81.81278,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -514,7 +522,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.219246,
+        "@search.score": 81.25967,
         "benefitNames": [
             "Free Food"
         ],
@@ -548,7 +556,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 80.94489,
+        "@search.score": 80.98557,
         "benefitNames": [
             "Credit",
             "Free Food"
