@@ -1,156 +1,6 @@
 [
     {
-        "@search.score": 99.99658,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5343",
-            "5346",
-            "5358"
-        ],
-        "categoryNames": [
-            "Entertainment",
-            "General Organization Meeting",
-            "Wellness Event"
-        ],
-        "description": "The AMUSE Origami Afternoon will take place at 2 pm in the Willets Open Arts Studio at 7 Suydam Street, in Jameson W - there will be an instructor, supplies, and for the first ten attendees, boba! ",
-        "endsOn": "04:00 PM",
-        "id": "10779660",
-        "imagePath": null,
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": "40.484010",
-        "location": "Willets Open Art Studio",
-        "longitude": "-74.438710",
-        "name": "AMUSE Origami Night",
-        "organizationId": 330483,
-        "organizationIds": [],
-        "organizationName": "Arts and Music Undergraduate Service Education",
-        "organizationNames": [],
-        "organizationProfilePicture": "1b7ec609-4545-4c79-af37-65ad1f7b1343383f2624-ccb9-4006-8bfb-76d922ffb6de.png",
-        "recScore": null,
-        "startsOn": "December 13 | 02:00 PM",
-        "status": "Approved",
-        "theme": "Arts",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.98774,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5346"
-        ],
-        "categoryNames": [
-            "General Organization Meeting"
-        ],
-        "description": "Weekly graduate student gatherings to discuss research and related topics.",
-        "endsOn": "05:00 PM",
-        "id": "10376684",
-        "imagePath": null,
-        "index": 1,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "ENR 123",
-        "longitude": null,
-        "name": "EcoGSA Meeting",
-        "organizationId": 331846,
-        "organizationIds": [],
-        "organizationName": "Ecology and Evolution Graduate Student Association (Graduate Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "78932a00-1339-4bad-98cb-94c63d2b4b10c6a8e19b-f376-47ff-a42f-ab6652d899c7.jpg",
-        "recScore": null,
-        "startsOn": "December 13 | 04:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5340",
-            "5341",
-            "20311"
-        ],
-        "categoryNames": [
-            "Educational Conference/Seminar/Workshop/Panel",
-            "Educational Lecture",
-            "Graduate Student Organization Event"
-        ],
-        "description": "Join us on December 13th at 12:30 pm! Please register and join the Biomedical Engineering Student Society in our annual symposium to showcase our department's new research discoveries. Our Keynote speaker for this year will be Michael Johnson, PhD, the founder of Vikiol and the current President of the New Jersey Innovation Institute at NJIT. Do not miss out on free food and the opportunity to learn from our esteemed speaker and the fantastic students within the biomedical engineeringcommunity! REGISTRATION LINK: https://forms.gle/RLFRz44h5MWxEnbS6  SEE YOU THERE!",
-        "endsOn": "05:30 PM",
-        "id": "10719272",
-        "imagePath": "ed1d480c-3634-4221-8e60-ff70feb0cfdf7c529bcb-93b2-4bb0-8c7f-1dcd1742797a.png",
-        "index": 2,
-        "institutionId": 4753,
-        "latitude": "40.524430",
-        "location": "Biomedical Engineering Building, NB-Busch Campus",
-        "longitude": "-74.460600",
-        "name": "6th Annual BESS Symposium",
-        "organizationId": 333221,
-        "organizationIds": [],
-        "organizationName": "Biomedical Engineering Student Society (Graduate Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "c740dc6b-b8d8-44ae-a83f-e49906d1854750eb2d00-6a0d-4dfa-a0e2-3056bea5f4b6.jpg",
-        "recScore": null,
-        "startsOn": "December 13 | 12:30 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97449,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Experience a cozy caf\u00e9 ambiance with Khyber Coffee and Tea House\u2019s exquisite coffee and tea, accompanied by tempting sweet treats to fuel your study sessions. Whether you're in a rush to grab your favorites or looking to relax and savor the moment, this is the perfect setting to unwind, enjoy engaging activities, and connect with others. Plus, the first ten attendees will be rewarded with a thoughtful stress-relief kit featuring a mini crossword book and a stress ball to help keep you focused and relaxed. Don\u2019t miss out on this delightful experience!",
-        "endsOn": "08:30 PM",
-        "id": "10753830",
-        "imagePath": "e97610db-7e30-4f2b-b0de-5fbdf3209136cdee6202-266b-4fe0-b4a4-c0b44c6b0717.png",
-        "index": 3,
-        "institutionId": 4753,
-        "latitude": "40.502450",
-        "location": "Honors College",
-        "longitude": "-74.447140",
-        "name": "\"Take a Study Break\" Cafe",
-        "organizationId": 152572,
-        "organizationIds": [
-            "152572",
-            "234210"
-        ],
-        "organizationName": "Honors College",
-        "organizationNames": [
-            "Honors College",
-            "Academic Programs at Douglass Residential College - DRC"
-        ],
-        "organizationProfilePicture": "50903c0d-8314-494e-bd38-f89d44cd1b5953afb87c-d7cb-40c2-9012-499257c6fe6d.png",
-        "recScore": null,
-        "startsOn": "December 13 | 07:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.26591,
+        "@search.score": 99.295425,
         "benefitNames": [
             "Free Food"
         ],
@@ -166,7 +16,7 @@
         "endsOn": "11:00 AM",
         "id": "10618085",
         "imagePath": null,
-        "index": 4,
+        "index": 0,
         "institutionId": 4753,
         "latitude": null,
         "location": "EOHSI AB",
@@ -184,7 +34,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.23894,
+        "@search.score": 99.26848,
         "benefitNames": [
             "Free Food"
         ],
@@ -200,7 +50,7 @@
         "endsOn": "05:30 PM",
         "id": "10759105",
         "imagePath": "15e07c43-76b8-4519-917d-9f7c7a30ffc2e63a7b83-4b91-4fad-a3dc-9bdccfeb70b3.png",
-        "index": 5,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.523740",
         "location": "Proteomics - Floor 1",
@@ -218,7 +68,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.41873,
+        "@search.score": 95.45101,
         "benefitNames": [
             "Free Food"
         ],
@@ -234,7 +84,7 @@
         "endsOn": "04:00 PM",
         "id": "10758633",
         "imagePath": "b6463ea5-2532-490a-a55a-be043c1a647297aef6e1-ad97-47e4-b231-e7e5dc507fe2.png",
-        "index": 6,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.501400",
         "location": "Study Abroad Office",
@@ -252,7 +102,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.28585,
+        "@search.score": 95.31823,
         "benefitNames": [
             "Free Food"
         ],
@@ -264,7 +114,7 @@
         "endsOn": "05:00 PM",
         "id": "10741341",
         "imagePath": "56fc71ab-0292-469d-9a37-8cd4848daf2098cf57e2-b5a6-4f37-9ae7-e3f541df0699.png",
-        "index": 7,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.524480",
         "location": "Life Sciences Building Atrium",
@@ -282,7 +132,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.90462,
+        "@search.score": 94.93729,
         "benefitNames": [
             "Free Food"
         ],
@@ -298,7 +148,7 @@
         "endsOn": "10:00 PM",
         "id": "10303519",
         "imagePath": "f9bdcc83-47fb-4078-92cd-ea25ca8329e46ddb1d7a-731c-4193-9085-3738476cafc7.png",
-        "index": 8,
+        "index": 4,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -316,7 +166,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.680244,
+        "@search.score": 94.71308,
         "benefitNames": [
             "Free Food"
         ],
@@ -332,7 +182,7 @@
         "endsOn": "09:00 PM",
         "id": "10777103",
         "imagePath": null,
-        "index": 9,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.504380",
         "location": "Student Activities Center",
@@ -350,7 +200,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.48232,
+        "@search.score": 94.51531,
         "benefitNames": [
             "Free Food"
         ],
@@ -370,7 +220,7 @@
         "endsOn": "01:30 PM",
         "id": "10779935",
         "imagePath": null,
-        "index": 10,
+        "index": 6,
         "institutionId": 4753,
         "latitude": null,
         "location": "Hatchery Innovation Studio, Alexander Library",
@@ -388,7 +238,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.50709,
+        "@search.score": 93.54083,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -408,7 +258,7 @@
         "endsOn": "04:30 PM",
         "id": "10751603",
         "imagePath": "a57e00da-961d-4caf-8da8-a4e5c534303fa61355a3-ec16-4406-8fd2-ac2c1ec02834.png",
-        "index": 11,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.484710",
         "location": "Douglass Student Center",
@@ -426,7 +276,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.926704,
+        "@search.score": 90.96253,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -451,7 +301,7 @@
         "endsOn": "08:00 PM",
         "id": "10686687",
         "imagePath": "1ef4e5c2-b0ee-4eec-8bf2-0814124867cd4d3ad61f-2213-4657-987d-8a1710588d92.png",
-        "index": 12,
+        "index": 8,
         "institutionId": 4753,
         "latitude": null,
         "location": "Busch Student Center",
@@ -481,7 +331,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.81278,
+        "@search.score": 81.85707,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -504,7 +354,7 @@
         "endsOn": "03:00 PM",
         "id": "10687366",
         "imagePath": "22b6b923-3d93-4b61-9019-fc474852afb93583c647-a656-4496-a0db-4de7b7867231.png",
-        "index": 13,
+        "index": 9,
         "institutionId": 4753,
         "latitude": null,
         "location": "Hatchery Innovation Studio, Alexander Library",
@@ -522,7 +372,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.25967,
+        "@search.score": 81.30453,
         "benefitNames": [
             "Free Food"
         ],
@@ -538,7 +388,7 @@
         "endsOn": "10:00 PM",
         "id": "10303672",
         "imagePath": "b420d455-109e-49b8-b0b5-cacdd90ce792d32c558c-4f13-420f-9cdc-ba99b9569e09.png",
-        "index": 14,
+        "index": 10,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -556,7 +406,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 80.98557,
+        "@search.score": 81.03072,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -569,11 +419,11 @@
         "categoryNames": [
             "Wellness Event"
         ],
-        "description": "Come relax and destress with the Center for Women in the Arts at Douglass before you leave for summer break and paint botanical watercolor bookmarks! This experience counts towards the Douglass Discovery curriculum requirement. R3: Career/Discovery/Professional Development/Research. Snacks and supplies provided. ",
+        "description": "Come relax and destress with the Center for Women in the Arts at Douglass before you leave for summer break and paint botanical watercolor bookmarks! This experience counts towards the Douglass Discovery curriculum requirement. R3: Career/Discovery/Professional Development/Research. Snacks and supplies provided. Supplies are limited \u2013 First come, first serve.",
         "endsOn": "02:30 PM",
         "id": "10766943",
         "imagePath": "0b2d48e2-be0c-44ee-a287-afb0b58311b70ebab3a8-6267-4929-98ca-88a3ed208ae0.png",
-        "index": 15,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
