@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.966,
+        "@search.score": 99.99212,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -35,7 +35,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.85534,
+        "@search.score": 99.88152,
         "benefitNames": [
             "Free Food"
         ],
@@ -69,7 +69,47 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.09196,
+        "@search.score": 98.15987,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5331",
+            "5337",
+            "5343",
+            "5349"
+        ],
+        "categoryNames": [
+            "Art Exhibition",
+            "Cultural Performance",
+            "Entertainment",
+            "Performance"
+        ],
+        "description": "\u00daltimo Domingo (Last Sunday) is a series celebrating Latinx culture and invites bilingual communities to come together through the experience of art. Explore our stunning exhibitions, create art, and enjoy interactive performances. Free Admission | Entrada gratuita Open to the Public | Abierto al p\u00fablico Thank you to our campus and community partners in presenting this event! \u00a1Les damos las gracias a nuestros socios del campus y a la comunidad por presentar este evento! New Brunswick Cultural Arts Center, State Theatre of New Jersey, Professional Latino Firefighters of New Jersey (NJ Bomberos), Vulcan Pioneers of New Brunswick, Middlesex County Sheriff\u2019s Office, North Brunswick Township High School Latin American Club and The Holy Parish of New Brunswick\u2019s NeXt Level Youth Group and Danza performance team, Crossroads.",
+        "endsOn": "03:00 PM",
+        "id": "10791486",
+        "imagePath": "ee778bc2-c18f-4d7b-8005-d323c1f24e5d9f0b02a5-f918-4ce2-ae15-761fa3058682.png",
+        "index": 2,
+        "institutionId": 4753,
+        "latitude": "40.500060",
+        "location": "Zimmerli Art Museum",
+        "longitude": "-74.446010",
+        "name": "\u00daltimo Domingo:",
+        "organizationId": 267503,
+        "organizationIds": [],
+        "organizationName": "J Voorhees Zimmerli Art Museum",
+        "organizationNames": [],
+        "organizationProfilePicture": "3ad4961a-36dc-4c3d-ba82-886de2493d469e5a9e4c-75fb-4b67-a113-1d235cdadfb2.jpeg",
+        "recScore": null,
+        "startsOn": "January 05 | 01:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 96.12054,
         "benefitNames": [
             "Free Food"
         ],
@@ -85,7 +125,7 @@
         "endsOn": "04:00 PM",
         "id": "10758633",
         "imagePath": "b6463ea5-2532-490a-a55a-be043c1a647297aef6e1-ad97-47e4-b231-e7e5dc507fe2.png",
-        "index": 2,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.501400",
         "location": "Study Abroad Office",
@@ -103,7 +143,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.96114,
+        "@search.score": 95.98981,
         "benefitNames": [
             "Free Food"
         ],
@@ -115,7 +155,7 @@
         "endsOn": "05:00 PM",
         "id": "10741341",
         "imagePath": "56fc71ab-0292-469d-9a37-8cd4848daf2098cf57e2-b5a6-4f37-9ae7-e3f541df0699.png",
-        "index": 3,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.524480",
         "location": "Life Sciences Building Atrium",
@@ -133,7 +173,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.58588,
+        "@search.score": 95.61479,
         "benefitNames": [
             "Free Food"
         ],
@@ -149,7 +189,7 @@
         "endsOn": "10:00 PM",
         "id": "10303519",
         "imagePath": "f9bdcc83-47fb-4078-92cd-ea25ca8329e46ddb1d7a-731c-4193-9085-3738476cafc7.png",
-        "index": 4,
+        "index": 5,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -167,7 +207,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.36504,
+        "@search.score": 95.394104,
         "benefitNames": [
             "Free Food"
         ],
@@ -183,7 +223,7 @@
         "endsOn": "09:00 PM",
         "id": "10777103",
         "imagePath": null,
-        "index": 5,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.504380",
         "location": "Student Activities Center",
@@ -201,7 +241,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.17026,
+        "@search.score": 95.199455,
         "benefitNames": [
             "Free Food"
         ],
@@ -221,7 +261,7 @@
         "endsOn": "01:30 PM",
         "id": "10779935",
         "imagePath": null,
-        "index": 6,
+        "index": 7,
         "institutionId": 4753,
         "latitude": null,
         "location": "Hatchery Innovation Studio, Alexander Library",
@@ -239,7 +279,53 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.21068,
+        "@search.score": 94.44459,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5337",
+            "5349"
+        ],
+        "categoryNames": [
+            "Cultural Performance",
+            "Performance"
+        ],
+        "description": "SparkNight is the free art party at the Zimmerli, inviting everyone to explore art, engage their creativity, and have fun!   Celebrate Black History Month with performances, music, artmaking, and pop-up tours that highlight contributions of African American and African Diasporic Artists. Free and open to the public. Complimentary light refreshments. Food available for purchase from food truck outside the Zimmerli.   Specials thanks to our campus and community partners for their support: Crossroads Theatre | Paul Robeson Cultural Center | Rutgers SJE",
+        "endsOn": "08:00 PM",
+        "id": "10791513",
+        "imagePath": "e93452b1-9272-4896-a9ef-d67fa8eab05762d1320d-4b63-4100-85c7-a5f8f3062667.png",
+        "index": 8,
+        "institutionId": 4753,
+        "latitude": "40.500060",
+        "location": "Zimmerli Art Museum",
+        "longitude": "-74.446010",
+        "name": "SparkNight: Celebrating Black History Month",
+        "organizationId": 267503,
+        "organizationIds": [
+            "181140",
+            "181141",
+            "267503"
+        ],
+        "organizationName": "J Voorhees Zimmerli Art Museum",
+        "organizationNames": [
+            "Paul Robeson Cultural Center",
+            "Center for Social Justice Education and LGBT Communities (Rutgers University)",
+            "J Voorhees Zimmerli Art Museum"
+        ],
+        "organizationProfilePicture": "3ad4961a-36dc-4c3d-ba82-886de2493d469e5a9e4c-75fb-4b67-a113-1d235cdadfb2.jpeg",
+        "recScore": null,
+        "startsOn": "February 06 | 05:00 PM",
+        "status": "Approved",
+        "theme": "Cultural",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 94.24053,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -259,7 +345,7 @@
         "endsOn": "04:30 PM",
         "id": "10751603",
         "imagePath": "a57e00da-961d-4caf-8da8-a4e5c534303fa61355a3-ec16-4406-8fd2-ac2c1ec02834.png",
-        "index": 7,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.484710",
         "location": "Douglass Student Center",
@@ -277,7 +363,55 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.67343,
+        "@search.score": 92.36433,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5337"
+        ],
+        "categoryNames": [
+            "Cultural Performance"
+        ],
+        "description": "Join us for a vibrant and immersive Carnival-themed celebration honoring Latine culture! This lively event will feature colorful costumes, traditional music, dance performances, and delicious Latinx cuisine. Experience the rich diversity of Latine traditions through art, storytelling, and community engagement, as we come together to celebrate the beauty, history, and creativity of Latine communities. Don't miss out on this exciting cultural extravaganza\u2014bring your family, friends, and festive spirit!",
+        "endsOn": "03:00 PM",
+        "id": "10791642",
+        "imagePath": "69fdbe74-47cd-48eb-9233-ef29fa6aa300c505d8c0-047f-4d41-9177-fc7069f0da29.png",
+        "index": 10,
+        "institutionId": 4753,
+        "latitude": "40.489610",
+        "location": "Zimmerli Art Museum",
+        "longitude": "-74.477650",
+        "name": "\u00daltimo Domingo: Carnaval (Last Sunday: Carnival)",
+        "organizationId": 267503,
+        "organizationIds": [
+            "122874",
+            "124774",
+            "140585",
+            "267503",
+            "385507"
+        ],
+        "organizationName": "J Voorhees Zimmerli Art Museum",
+        "organizationNames": [
+            "Sociedad Estudiantil Dominicana",
+            "Latino Student Council",
+            "Center for Latino Arts and Culture",
+            "J Voorhees Zimmerli Art Museum",
+            "Raices Ecuatorianas en America (Rutgers)"
+        ],
+        "organizationProfilePicture": "3ad4961a-36dc-4c3d-ba82-886de2493d469e5a9e4c-75fb-4b67-a113-1d235cdadfb2.jpeg",
+        "recScore": null,
+        "startsOn": "February 23 | 01:00 PM",
+        "status": "Approved",
+        "theme": "Cultural",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 91.7051,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -302,7 +436,7 @@
         "endsOn": "08:00 PM",
         "id": "10686687",
         "imagePath": "1ef4e5c2-b0ee-4eec-8bf2-0814124867cd4d3ad61f-2213-4657-987d-8a1710588d92.png",
-        "index": 8,
+        "index": 11,
         "institutionId": 4753,
         "latitude": null,
         "location": "Busch Student Center",
@@ -332,7 +466,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.733955,
+        "@search.score": 82.77294,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -355,7 +489,7 @@
         "endsOn": "03:00 PM",
         "id": "10687366",
         "imagePath": "22b6b923-3d93-4b61-9019-fc474852afb93583c647-a656-4496-a0db-4de7b7867231.png",
-        "index": 9,
+        "index": 12,
         "institutionId": 4753,
         "latitude": null,
         "location": "Hatchery Innovation Studio, Alexander Library",
@@ -373,7 +507,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.192635,
+        "@search.score": 82.23212,
         "benefitNames": [
             "Free Food"
         ],
@@ -389,7 +523,7 @@
         "endsOn": "10:00 PM",
         "id": "10303672",
         "imagePath": "b420d455-109e-49b8-b0b5-cacdd90ce792d32c558c-4f13-420f-9cdc-ba99b9569e09.png",
-        "index": 10,
+        "index": 13,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -407,7 +541,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 81.924446,
+        "@search.score": 81.96417,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -420,7 +554,7 @@
         "endsOn": "02:30 PM",
         "id": "10766943",
         "imagePath": "0b2d48e2-be0c-44ee-a287-afb0b58311b70ebab3a8-6267-4929-98ca-88a3ed208ae0.png",
-        "index": 11,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
