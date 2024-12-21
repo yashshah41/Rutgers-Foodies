@@ -1,40 +1,6 @@
 [
     {
-        "@search.score": 99.98766,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "20311"
-        ],
-        "categoryNames": [
-            "Graduate Student Organization Event"
-        ],
-        "description": "Join us for Ornament Making, cookies, and hot cocoa. Come dressed in your ugly holiday sweater!!",
-        "endsOn": "05:30 PM",
-        "id": "10759105",
-        "imagePath": "15e07c43-76b8-4519-917d-9f7c7a30ffc2e63a7b83-4b91-4fad-a3dc-9bdccfeb70b3.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": "40.523740",
-        "location": "Proteomics - Floor 1",
-        "longitude": "-74.469120",
-        "name": "Winter Wonderland",
-        "organizationId": 401102,
-        "organizationIds": [],
-        "organizationName": "Quantitative Biomedicine Graduate Student Organization",
-        "organizationNames": [],
-        "organizationProfilePicture": "33a34afd-f15e-4f65-81ce-81f013270003d2962398-100b-43da-bc87-39635a256e32.png",
-        "recScore": null,
-        "startsOn": "December 20 | 04:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 98.27034,
+        "@search.score": 98.30034,
         "benefitNames": [
             "Free Food"
         ],
@@ -56,7 +22,7 @@
         "endsOn": "03:00 PM",
         "id": "10791486",
         "imagePath": "ee778bc2-c18f-4d7b-8005-d323c1f24e5d9f0b02a5-f918-4ce2-ae15-761fa3058682.png",
-        "index": 1,
+        "index": 0,
         "institutionId": 4753,
         "latitude": "40.500060",
         "location": "Zimmerli Art Museum",
@@ -74,7 +40,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.236374,
+        "@search.score": 96.26782,
         "benefitNames": [
             "Free Food"
         ],
@@ -90,7 +56,7 @@
         "endsOn": "04:00 PM",
         "id": "10758633",
         "imagePath": "b6463ea5-2532-490a-a55a-be043c1a647297aef6e1-ad97-47e4-b231-e7e5dc507fe2.png",
-        "index": 2,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.501400",
         "location": "Study Abroad Office",
@@ -108,7 +74,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.105995,
+        "@search.score": 96.13754,
         "benefitNames": [
             "Free Food"
         ],
@@ -120,7 +86,7 @@
         "endsOn": "05:00 PM",
         "id": "10741341",
         "imagePath": "56fc71ab-0292-469d-9a37-8cd4848daf2098cf57e2-b5a6-4f37-9ae7-e3f541df0699.png",
-        "index": 3,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.524480",
         "location": "Life Sciences Building Atrium",
@@ -138,7 +104,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.731995,
+        "@search.score": 95.76382,
         "benefitNames": [
             "Free Food"
         ],
@@ -154,7 +120,7 @@
         "endsOn": "10:00 PM",
         "id": "10303519",
         "imagePath": "f9bdcc83-47fb-4078-92cd-ea25ca8329e46ddb1d7a-731c-4193-9085-3738476cafc7.png",
-        "index": 4,
+        "index": 3,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -172,7 +138,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.51191,
+        "@search.score": 95.54389,
         "benefitNames": [
             "Free Food"
         ],
@@ -188,7 +154,7 @@
         "endsOn": "09:00 PM",
         "id": "10777103",
         "imagePath": null,
-        "index": 5,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.504380",
         "location": "Student Activities Center",
@@ -206,7 +172,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.31779,
+        "@search.score": 95.34992,
         "benefitNames": [
             "Free Food"
         ],
@@ -226,7 +192,7 @@
         "endsOn": "01:30 PM",
         "id": "10779935",
         "imagePath": null,
-        "index": 6,
+        "index": 5,
         "institutionId": 4753,
         "latitude": null,
         "location": "Hatchery Innovation Studio, Alexander Library",
@@ -244,7 +210,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.56502,
+        "@search.score": 94.59772,
         "benefitNames": [
             "Free Food"
         ],
@@ -264,7 +230,7 @@
         "endsOn": "08:00 PM",
         "id": "10791513",
         "imagePath": "e93452b1-9272-4896-a9ef-d67fa8eab05762d1320d-4b63-4100-85c7-a5f8f3062667.png",
-        "index": 7,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.500060",
         "location": "Zimmerli Art Museum",
@@ -290,7 +256,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.361534,
+        "@search.score": 94.39439,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -310,7 +276,7 @@
         "endsOn": "04:30 PM",
         "id": "10751603",
         "imagePath": "a57e00da-961d-4caf-8da8-a4e5c534303fa61355a3-ec16-4406-8fd2-ac2c1ec02834.png",
-        "index": 8,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.484710",
         "location": "Douglass Student Center",
@@ -328,7 +294,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.490715,
+        "@search.score": 92.52503,
         "benefitNames": [
             "Free Food"
         ],
@@ -346,7 +312,7 @@
         "endsOn": "03:00 PM",
         "id": "10791642",
         "imagePath": "69fdbe74-47cd-48eb-9233-ef29fa6aa300c505d8c0-047f-4d41-9177-fc7069f0da29.png",
-        "index": 9,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.489610",
         "location": "Zimmerli Art Museum",
@@ -376,7 +342,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.83344,
+        "@search.score": 91.868286,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -401,7 +367,7 @@
         "endsOn": "08:00 PM",
         "id": "10686687",
         "imagePath": "1ef4e5c2-b0ee-4eec-8bf2-0814124867cd4d3ad61f-2213-4657-987d-8a1710588d92.png",
-        "index": 10,
+        "index": 9,
         "institutionId": 4753,
         "latitude": null,
         "location": "Busch Student Center",
@@ -431,7 +397,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.93086,
+        "@search.score": 82.97371,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -454,7 +420,7 @@
         "endsOn": "03:00 PM",
         "id": "10687366",
         "imagePath": "22b6b923-3d93-4b61-9019-fc474852afb93583c647-a656-4496-a0db-4de7b7867231.png",
-        "index": 11,
+        "index": 10,
         "institutionId": 4753,
         "latitude": null,
         "location": "Hatchery Innovation Studio, Alexander Library",
@@ -472,7 +438,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.39203,
+        "@search.score": 82.435425,
         "benefitNames": [
             "Free Food"
         ],
@@ -488,7 +454,7 @@
         "endsOn": "10:00 PM",
         "id": "10303672",
         "imagePath": "b420d455-109e-49b8-b0b5-cacdd90ce792d32c558c-4f13-420f-9cdc-ba99b9569e09.png",
-        "index": 12,
+        "index": 11,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -506,7 +472,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.125084,
+        "@search.score": 82.16875,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -519,7 +485,7 @@
         "endsOn": "02:30 PM",
         "id": "10766943",
         "imagePath": "0b2d48e2-be0c-44ee-a287-afb0b58311b70ebab3a8-6267-4929-98ca-88a3ed208ae0.png",
-        "index": 13,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
