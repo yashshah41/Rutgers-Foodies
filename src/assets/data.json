@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.71077,
+        "@search.score": 99.735146,
         "benefitNames": [
             "Free Food"
         ],
@@ -40,7 +40,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.74537,
+        "@search.score": 97.77088,
         "benefitNames": [
             "Free Food"
         ],
@@ -74,7 +74,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.61949,
+        "@search.score": 97.64509,
         "benefitNames": [
             "Free Food"
         ],
@@ -104,7 +104,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.258484,
+        "@search.score": 97.284294,
         "benefitNames": [
             "Free Food"
         ],
@@ -138,7 +138,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.0461,
+        "@search.score": 97.07204,
         "benefitNames": [
             "Free Food"
         ],
@@ -172,7 +172,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.858795,
+        "@search.score": 96.98209,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "18433"
+        ],
+        "categoryNames": [
+            "Welcome Week"
+        ],
+        "description": "Join us for free food and fun activities while chatting with other commuter students and building new connections. Learn more about the resources and opportunities available at Rutgers.",
+        "endsOn": "03:00 PM",
+        "id": "10802164",
+        "imagePath": null,
+        "index": 5,
+        "institutionId": 4753,
+        "latitude": "40.523540",
+        "location": "LSC Gathering Lounge ",
+        "longitude": "-74.437180",
+        "name": "Commuter Welcome Back Social",
+        "organizationId": 123166,
+        "organizationIds": [],
+        "organizationName": "Rutgers Commuter Student Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
+        "recScore": null,
+        "startsOn": "January 30 | 01:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 96.88485,
         "benefitNames": [
             "Free Food"
         ],
@@ -192,7 +226,7 @@
         "endsOn": "01:30 PM",
         "id": "10779935",
         "imagePath": null,
-        "index": 5,
+        "index": 6,
         "institutionId": 4753,
         "latitude": null,
         "location": "Hatchery Innovation Studio, Alexander Library",
@@ -210,7 +244,37 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.13275,
+        "@search.score": 96.18581,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Enjoy a free brunch while chatting with department administrators and other commuter students. Learn more about the services Rutgers has to offer.",
+        "endsOn": "01:30 PM",
+        "id": "10802165",
+        "imagePath": null,
+        "index": 7,
+        "institutionId": 4753,
+        "latitude": "40.523540",
+        "location": "Livingston Hall",
+        "longitude": "-74.437180",
+        "name": "Sunny Side Start Up",
+        "organizationId": 123166,
+        "organizationIds": [],
+        "organizationName": "Rutgers Commuter Student Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
+        "recScore": null,
+        "startsOn": "February 06 | 11:30 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 96.15925,
         "benefitNames": [
             "Free Food"
         ],
@@ -230,7 +294,7 @@
         "endsOn": "08:00 PM",
         "id": "10791513",
         "imagePath": "e93452b1-9272-4896-a9ef-d67fa8eab05762d1320d-4b63-4100-85c7-a5f8f3062667.png",
-        "index": 6,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.500060",
         "location": "Zimmerli Art Museum",
@@ -256,7 +320,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.93657,
+        "@search.score": 95.96318,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -276,7 +340,7 @@
         "endsOn": "04:30 PM",
         "id": "10751603",
         "imagePath": "a57e00da-961d-4caf-8da8-a4e5c534303fa61355a3-ec16-4406-8fd2-ac2c1ec02834.png",
-        "index": 7,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.484710",
         "location": "Douglass Student Center",
@@ -294,7 +358,37 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.134476,
+        "@search.score": 95.595276,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Stop by our craft corner for a hands-on experience in artistic expression and fun!",
+        "endsOn": "03:00 PM",
+        "id": "10802168",
+        "imagePath": null,
+        "index": 10,
+        "institutionId": 4753,
+        "latitude": "40.484710",
+        "location": "DSC RCSA Lounge ",
+        "longitude": "-74.436630",
+        "name": "Valentine Craft Corner",
+        "organizationId": 123166,
+        "organizationIds": [],
+        "organizationName": "Rutgers Commuter Student Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
+        "recScore": null,
+        "startsOn": "February 11 | 01:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 94.16223,
         "benefitNames": [
             "Free Food"
         ],
@@ -312,7 +406,7 @@
         "endsOn": "03:00 PM",
         "id": "10791642",
         "imagePath": "69fdbe74-47cd-48eb-9233-ef29fa6aa300c505d8c0-047f-4d41-9177-fc7069f0da29.png",
-        "index": 8,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.489610",
         "location": "Zimmerli Art Museum",
@@ -342,7 +436,37 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.50204,
+        "@search.score": 93.77596,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Take a trip around the world with your fellow commuters! Celebrate culture and diversity on campus through various cultural crafts and snacks.",
+        "endsOn": "07:00 PM",
+        "id": "10802170",
+        "imagePath": null,
+        "index": 12,
+        "institutionId": 4753,
+        "latitude": "40.523540",
+        "location": "LSC Livingston Hall ",
+        "longitude": "-74.437180",
+        "name": "Commuter Cultural Fest",
+        "organizationId": 123166,
+        "organizationIds": [],
+        "organizationName": "Rutgers Commuter Student Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
+        "recScore": null,
+        "startsOn": "February 26 | 05:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 93.530205,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -367,7 +491,7 @@
         "endsOn": "08:00 PM",
         "id": "10686687",
         "imagePath": "1ef4e5c2-b0ee-4eec-8bf2-0814124867cd4d3ad61f-2213-4657-987d-8a1710588d92.png",
-        "index": 9,
+        "index": 13,
         "institutionId": 4753,
         "latitude": null,
         "location": "Busch Student Center",
@@ -397,7 +521,132 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.974335,
+        "@search.score": 93.06299,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Enjoy a complimentary brunch with department staff and other commuter students. Learn about some of the programs and services available at Rutgers.",
+        "endsOn": "01:30 PM",
+        "id": "10802171",
+        "imagePath": null,
+        "index": 14,
+        "institutionId": 4753,
+        "latitude": "40.484710",
+        "location": "DSC Trayes Hall",
+        "longitude": "-74.436630",
+        "name": "Sunny Side Start Up",
+        "organizationId": 123166,
+        "organizationIds": [],
+        "organizationName": "Rutgers Commuter Student Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
+        "recScore": null,
+        "startsOn": "March 04 | 11:30 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 90.228264,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Stop by and participate in fun relaxing activities such as crafts, free massages, and board games! Learn about fitness, stress-relieving techniques, and tips on healthy living.",
+        "endsOn": "03:00 PM",
+        "id": "10802172",
+        "imagePath": null,
+        "index": 15,
+        "institutionId": 4753,
+        "latitude": "40.523110",
+        "location": "BSC International Lounge",
+        "longitude": "-74.458630",
+        "name": "Wellness Wednesday",
+        "organizationId": 123166,
+        "organizationIds": [],
+        "organizationName": "Rutgers Commuter Student Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
+        "recScore": null,
+        "startsOn": "March 26 | 01:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 87.34778,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Join us for a free brunch while chatting with department administrators and other commuter students. Learn about the programs and services available to you.",
+        "endsOn": "01:30 PM",
+        "id": "10802177",
+        "imagePath": null,
+        "index": 16,
+        "institutionId": 4753,
+        "latitude": "40.523110",
+        "location": "BSC MPR",
+        "longitude": "-74.458630",
+        "name": "Sunny Side Start Up",
+        "organizationId": 123166,
+        "organizationIds": [],
+        "organizationName": "Rutgers Commuter Student Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
+        "recScore": null,
+        "startsOn": "April 16 | 11:30 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 85.13058,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5348"
+        ],
+        "categoryNames": [
+            "Outdoor Event"
+        ],
+        "description": "Join us outside for some fun activities. Enjoy carnival games, snacks, and prizes as we close out the semester.",
+        "endsOn": "06:00 PM",
+        "id": "10802178",
+        "imagePath": null,
+        "index": 17,
+        "institutionId": 4753,
+        "latitude": "40.502670",
+        "location": "Morrell Street ",
+        "longitude": "-74.451790",
+        "name": "Spring Carnival",
+        "organizationId": 123166,
+        "organizationIds": [],
+        "organizationName": "Rutgers Commuter Student Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
+        "recScore": null,
+        "startsOn": "May 01 | 04:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 85.008675,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -420,7 +669,7 @@
         "endsOn": "03:00 PM",
         "id": "10687366",
         "imagePath": "22b6b923-3d93-4b61-9019-fc474852afb93583c647-a656-4496-a0db-4de7b7867231.png",
-        "index": 10,
+        "index": 18,
         "institutionId": 4753,
         "latitude": null,
         "location": "Hatchery Innovation Studio, Alexander Library",
@@ -438,7 +687,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.46067,
+        "@search.score": 84.49542,
         "benefitNames": [
             "Free Food"
         ],
@@ -454,7 +703,7 @@
         "endsOn": "10:00 PM",
         "id": "10303672",
         "imagePath": "b420d455-109e-49b8-b0b5-cacdd90ce792d32c558c-4f13-420f-9cdc-ba99b9569e09.png",
-        "index": 11,
+        "index": 19,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -472,7 +721,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.2063,
+        "@search.score": 84.24126,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -485,7 +734,7 @@
         "endsOn": "02:30 PM",
         "id": "10766943",
         "imagePath": "0b2d48e2-be0c-44ee-a287-afb0b58311b70ebab3a8-6267-4929-98ca-88a3ed208ae0.png",
-        "index": 12,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
