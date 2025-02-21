@@ -1,36 +1,6 @@
 [
     {
-        "@search.score": 99.977,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join us Friday, Feb 21 at the Cook Student MPR for our annual Revival of the Sunnah event! The khutbah will be led by Shaykh Yahya Rhodus, and there will be a Halaqa and Q&A following Jumu'ah! Food will be served so pull up for some good eats and take part in reviving some Sunnahs!",
-        "endsOn": "03:30 PM",
-        "id": "11088545",
-        "imagePath": "57de9ba1-fd8a-44e6-bc68-f6388081d1b22bf8be00-9d26-4486-8b33-93c8ac72fa8e.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": "40.479130",
-        "location": "Cook Student Center MPR",
-        "longitude": "-74.431510",
-        "name": "Revival of the Sunnah",
-        "organizationId": 121985,
-        "organizationIds": [],
-        "organizationName": "Jumu\u2019ah (Rutgers)",
-        "organizationNames": [],
-        "organizationProfilePicture": "ef1a0bcc-6240-44ad-ac11-30c2faf17d3d0ad92dd4-cc52-4d8f-b214-53738eb7b808.png",
-        "recScore": null,
-        "startsOn": "February 21 | 12:30 PM",
-        "status": "Approved",
-        "theme": "Spirituality",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97037,
+        "@search.score": 99.99653,
         "benefitNames": [
             "Free Food"
         ],
@@ -42,7 +12,7 @@
         "endsOn": "03:30 PM",
         "id": "11098913",
         "imagePath": "1a884ad6-8450-4870-9074-993a15437cc8be04f7c6-4c1c-4ba5-8122-f836ba01eb36.png",
-        "index": 1,
+        "index": 0,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Ave Student Center Room 411 AB",
@@ -60,7 +30,37 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.961525,
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Join us Friday, Feb 21 at the Cook Student MPR for our annual Revival of the Sunnah event! The khutbah will be led by Shaykh Yahya Rhodus, and there will be a Halaqa and Q&A following Jumu'ah! Food will be served so pull up for some good eats and take part in reviving some Sunnahs!",
+        "endsOn": "03:30 PM",
+        "id": "11088545",
+        "imagePath": "57de9ba1-fd8a-44e6-bc68-f6388081d1b22bf8be00-9d26-4486-8b33-93c8ac72fa8e.png",
+        "index": 1,
+        "institutionId": 4753,
+        "latitude": "40.479130",
+        "location": "Cook Student Center MPR",
+        "longitude": "-74.431510",
+        "name": "Revival of the Sunnah",
+        "organizationId": 121985,
+        "organizationIds": [],
+        "organizationName": "Jumu\u2019ah (Rutgers)",
+        "organizationNames": [],
+        "organizationProfilePicture": "ef1a0bcc-6240-44ad-ac11-30c2faf17d3d0ad92dd4-cc52-4d8f-b214-53738eb7b808.png",
+        "recScore": null,
+        "startsOn": "February 21 | 12:30 PM",
+        "status": "Approved",
+        "theme": "Spirituality",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.98769,
         "benefitNames": [
             "Free Food"
         ],
@@ -90,7 +90,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.95268,
+        "@search.score": 99.97885,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -121,7 +121,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.954895,
+        "@search.score": 99.981064,
         "benefitNames": [
             "Free Food"
         ],
@@ -165,7 +165,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94384,
+        "@search.score": 99.97002,
         "benefitNames": [
             "Free Food"
         ],
@@ -199,7 +199,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.76211,
+        "@search.score": 99.7884,
         "benefitNames": [
             "Free Food"
         ],
@@ -245,7 +245,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.6331,
+        "@search.score": 99.65947,
         "benefitNames": [
             "Free Food"
         ],
@@ -275,7 +275,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.5573,
+        "@search.score": 99.58371,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -306,7 +306,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.51711,
+        "@search.score": 99.54355,
         "benefitNames": [
             "Free Food"
         ],
@@ -346,7 +346,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.51264,
+        "@search.score": 99.539085,
         "benefitNames": [
             "Free Food"
         ],
@@ -390,18 +390,20 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.423195,
+        "@search.score": 99.44969,
         "benefitNames": [
             "Free Food"
         ],
         "branchId": 112385,
-        "branchIds": [],
+        "branchIds": [
+            "112385"
+        ],
         "categoryIds": [],
         "categoryNames": [],
         "description": "Take a trip around the world with your fellow commuters! Celebrate culture and diversity on campus through various cultural crafts and snacks.",
         "endsOn": "07:00 PM",
         "id": "10802170",
-        "imagePath": "509d7a99-c961-461e-8bbc-293aeaa837f4e3ede139-c5e6-4ec7-9d54-9f2751d2bb7d.png",
+        "imagePath": "5aca55b0-3c97-4766-a8e7-6d4345dd0c07f9d29d6b-f8de-43d3-bd3a-022223cfeebf.png",
         "index": 11,
         "institutionId": 4753,
         "latitude": "40.523540",
@@ -409,9 +411,17 @@
         "longitude": "-74.437180",
         "name": "Commuter Cultural Fest",
         "organizationId": 123166,
-        "organizationIds": [],
+        "organizationIds": [
+            "122870",
+            "123166",
+            "322909"
+        ],
         "organizationName": "Rutgers Commuter Student Association",
-        "organizationNames": [],
+        "organizationNames": [
+            "Russian Club",
+            "Rutgers Commuter Student Association",
+            "Peruvian American Student Association"
+        ],
         "organizationProfilePicture": "a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
         "recScore": null,
         "startsOn": "February 26 | 05:00 PM",
@@ -420,7 +430,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.42096,
+        "@search.score": 99.44746,
         "benefitNames": [
             "Free Food"
         ],
@@ -454,7 +464,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.41872,
+        "@search.score": 99.44522,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -485,7 +495,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.40977,
+        "@search.score": 99.43627,
         "benefitNames": [
             "Free Food"
         ],
@@ -519,7 +529,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.32011,
+        "@search.score": 99.346664,
         "benefitNames": [
             "Free Food"
         ],
@@ -555,7 +565,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.31337,
+        "@search.score": 99.339935,
         "benefitNames": [
             "Free Food"
         ],
@@ -570,7 +580,7 @@
         "description": "Hey Everyone! Come join us at the Theory/Philosophy Reading Group. First meeting is on 2/27, 5:30pm-7:00pm in Murray Hall rm. 107. Food will be provided! The topic of the first discussion will be: 1. Plato's Apology 2. Bergson, Philosophic Intuition 3. What is Philosophy Please email daniel.pan@rutgers.edu for readings and RSVP.",
         "endsOn": "07:00 PM",
         "id": "11084730",
-        "imagePath": "d55d9507-bba5-42a3-8f38-5b25afff604c8371cfb6-2ec3-44b2-ab60-f45ace134924.png",
+        "imagePath": "738ee1ee-a1fd-4585-8ce7-b74bd960abca09314757-3954-4630-859e-af4e58a2be8f.png",
         "index": 16,
         "institutionId": 4753,
         "latitude": "33.586630",
@@ -589,7 +599,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.30664,
+        "@search.score": 99.333206,
         "benefitNames": [
             "Free Food"
         ],
@@ -633,7 +643,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.228004,
+        "@search.score": 99.25462,
         "benefitNames": [
             "Free Food"
         ],
@@ -663,7 +673,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.243744,
+        "@search.score": 99.27035,
         "benefitNames": [
             "Free Food"
         ],
@@ -693,7 +703,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.20776,
+        "@search.score": 99.23439,
         "benefitNames": [
             "Free Food"
         ],
@@ -723,7 +733,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.20776,
+        "@search.score": 99.23439,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -764,7 +774,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.20326,
+        "@search.score": 99.2299,
         "benefitNames": [
             "Free Food"
         ],
@@ -794,7 +804,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.19876,
+        "@search.score": 99.225395,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -835,7 +845,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.09964,
+        "@search.score": 99.126335,
         "benefitNames": [
             "Free Food"
         ],
@@ -869,7 +879,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.905235,
+        "@search.score": 98.93205,
         "benefitNames": [
             "Free Food"
         ],
@@ -883,15 +893,15 @@
             "Career Fair/Panel",
             "Graduate Student Organization Event"
         ],
-        "description": "Join us for an exciting career panel with scientists at Johnson & Johnson! We will be discussing their journey from graduate school to an industry career, decisions to remain at the bench, pursuing an internship or a postdoc before industry, and more! There will be opportunity for student attendees to ask the panelists questions at the end. This event is held in collaboration with the J&J professional SACNAS chapter.  This is a virtual event, but lunch will be served in-person for those who choose to attend the meeting with our SACNAS chapter on campus. ",
+        "description": "Join us for an exciting career panel with scientists at Johnson & Johnson! We will be discussing their journey from graduate school to an industry career, decisions to remain at the bench, pursuing an internship or a postdoc before industry, and more! There will be opportunity for student attendees to ask the panelists questions at the end. This event is held in collaboration with the J&J professional SACNAS chapter.  Lunch will be served in-person for those who choose to attend the meeting with our SACNAS chapter on campus. Option to end virtually.",
         "endsOn": "01:00 PM",
         "id": "11038187",
         "imagePath": null,
         "index": 25,
         "institutionId": 4753,
-        "latitude": null,
-        "location": "Online",
-        "longitude": null,
+        "latitude": "40.523820",
+        "location": "EOHSI C",
+        "longitude": "-74.468390",
         "name": "Rutgers SACNAS x J&J Career Panel",
         "organizationId": 383258,
         "organizationIds": [],
@@ -905,7 +915,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.878044,
+        "@search.score": 98.90488,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -936,7 +946,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.86897,
+        "@search.score": 98.89581,
         "benefitNames": [
             "Free Food"
         ],
@@ -970,7 +980,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.79862,
+        "@search.score": 98.82551,
         "benefitNames": [
             "Free Food"
         ],
@@ -1000,7 +1010,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.778175,
+        "@search.score": 98.80507,
         "benefitNames": [
             "Free Food"
         ],
@@ -1030,7 +1040,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.763405,
+        "@search.score": 98.790306,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1067,7 +1077,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.68719,
+        "@search.score": 98.71414,
         "benefitNames": [
             "Free Food"
         ],
@@ -1097,7 +1107,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.55263,
+        "@search.score": 98.579666,
         "benefitNames": [
             "Free Food"
         ],
@@ -1131,7 +1141,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.55034,
+        "@search.score": 98.57738,
         "benefitNames": [
             "Free Food"
         ],
@@ -1161,7 +1171,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.46574,
+        "@search.score": 98.49283,
         "benefitNames": [
             "Free Food"
         ],
@@ -1191,7 +1201,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.468025,
+        "@search.score": 98.49512,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1222,7 +1232,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.36949,
+        "@search.score": 98.396645,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1260,7 +1270,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.104866,
+        "@search.score": 98.13219,
         "benefitNames": [
             "Free Food"
         ],
@@ -1294,13 +1304,15 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.00319,
+        "@search.score": 98.03057,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
         ],
         "branchId": 112385,
-        "branchIds": [],
+        "branchIds": [
+            "112385"
+        ],
         "categoryIds": [
             "5337",
             "5343"
@@ -1309,7 +1321,7 @@
             "Cultural Performance",
             "Entertainment"
         ],
-        "description": "Experience the world in one night through cultural performances and fun activities - no passport required!  Join us in Livingston Hall for an evening of crafts, language learning, international dances, and more, thanks to many of the cultural student organizations at Rutgers.  There will be prize raffles throughout the evening including $50 Visa gift cards. You can also sample international sweets, too.     Scheduled to appear: Asian Student Council Rutgers Chinese Dance Troupe French Arts Culture & Inclusive Language Experience (FACILE) Georgian Association Irish Dance Club Korean Language Club NATYA Peruvian American Student Association Polish Club Rutgers Salvadoran Student Association Twese: The Organization for African Students and Friends of Africa  Wanawake And more",
+        "description": "Experience the world in one night through cultural performances and fun activities - no passport required!  Join us in Livingston Hall for an evening of crafts, language learning, international dances, and more, thanks to many of the cultural student organizations at Rutgers.  There will be prize raffles throughout the evening including $50 Visa gift cards. You can also sample international sweets, too.     Scheduled to appear: Asian Student Council Association of Philippine Students Rutgers Chinese Dance Troupe French Arts Culture & Inclusive Language Experience (FACILE) Georgian Association Irish Dance Club Korean Language Club Mexican American Student Association NATYA Peruvian American Student Association Polish Club Rutgers Salvadoran Student Association South East Asians of Rutgers University Twese: The Organization for African Students and Friends of Africa  Wanawake And more",
         "endsOn": "09:00 PM",
         "id": "10803160",
         "imagePath": "e92a210f-e498-466f-ad00-2171e9433bfe6e200c6b-ee4f-401d-aa99-9fa6e7861bca.png",
@@ -1320,9 +1332,41 @@
         "longitude": null,
         "name": "Global Showcase",
         "organizationId": 257221,
-        "organizationIds": [],
+        "organizationIds": [
+            "121405",
+            "121971",
+            "122148",
+            "122380",
+            "122878",
+            "122882",
+            "122905",
+            "124750",
+            "179233",
+            "291181",
+            "322909",
+            "359329",
+            "365065",
+            "392770",
+            "392780"
+        ],
         "organizationName": "Rutgers Global (Department at Rutgers University)",
-        "organizationNames": [],
+        "organizationNames": [
+            "Asian Student Council",
+            "Irish Dance Club",
+            "Chinese Dance Troupe",
+            "Polish Club",
+            "TWESE, The Organization for African Students and Friends of Africa",
+            "Wanawake (Rutgers University)",
+            "Natya",
+            "Association of Philippine Students (Rutgers)",
+            "Mexican American Student Association",
+            "Korean Language Club ",
+            "Peruvian American Student Association",
+            "French Arts Culture & Inclusive Language Experience ",
+            "South East Asians of Rutgers University ",
+            "Georgian Association (Provisional Organization 24/25)",
+            "Rutgers Salvadoran Student Association (Provisional Organization 24/25)"
+        ],
         "organizationProfilePicture": "a96f5e6b-9a7f-4935-bf18-df189b160627bb86fe92-c4cb-4771-b25b-64a8479a70fb.png",
         "recScore": null,
         "startsOn": "March 11 | 06:00 PM",
@@ -1331,7 +1375,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.87807,
+        "@search.score": 97.90553,
         "benefitNames": [
             "Free Food"
         ],
@@ -1361,7 +1405,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.69437,
+        "@search.score": 97.72195,
         "benefitNames": [
             "Free Food"
         ],
@@ -1391,7 +1435,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.5251,
+        "@search.score": 96.553444,
         "benefitNames": [
             "Free Food"
         ],
@@ -1425,7 +1469,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.32829,
+        "@search.score": 96.356766,
         "benefitNames": [
             "Free Food"
         ],
@@ -1455,7 +1499,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.09916,
+        "@search.score": 96.12778,
         "benefitNames": [
             "Free Food"
         ],
@@ -1485,7 +1529,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.47309,
+        "@search.score": 95.50213,
         "benefitNames": [
             "Free Food"
         ],
@@ -1515,7 +1559,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.27879,
+        "@search.score": 95.30797,
         "benefitNames": [
             "Free Food"
         ],
@@ -1545,7 +1589,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.52534,
+        "@search.score": 94.55502,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1590,7 +1634,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.442474,
+        "@search.score": 94.47222,
         "benefitNames": [
             "Free Food"
         ],
@@ -1620,7 +1664,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.42487,
+        "@search.score": 94.454636,
         "benefitNames": [
             "Free Food"
         ],
@@ -1650,7 +1694,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.84008,
+        "@search.score": 93.87025,
         "benefitNames": [
             "Free Food"
         ],
@@ -1680,7 +1724,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.79162,
+        "@search.score": 93.82182,
         "benefitNames": [
             "Free Food"
         ],
@@ -1710,7 +1754,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.67408,
+        "@search.score": 93.70437,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1749,7 +1793,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.93078,
+        "@search.score": 92.961586,
         "benefitNames": [
             "Free Food"
         ],
@@ -1783,7 +1827,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.04171,
+        "@search.score": 92.073166,
         "benefitNames": [
             "Free Food"
         ],
@@ -1813,7 +1857,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.9406,
+        "@search.score": 91.97213,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1848,7 +1892,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.91928,
+        "@search.score": 91.95083,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1887,7 +1931,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.83123,
+        "@search.score": 91.86285,
         "benefitNames": [
             "Free Food"
         ],
@@ -1917,7 +1961,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.83658,
+        "@search.score": 91.86818,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1958,7 +2002,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.81253,
+        "@search.score": 91.84416,
         "benefitNames": [
             "Free Food"
         ],
@@ -1988,7 +2032,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.39907,
+        "@search.score": 91.431,
         "benefitNames": [
             "Free Food"
         ],
@@ -2022,7 +2066,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.18271,
+        "@search.score": 91.2148,
         "benefitNames": [
             "Credit",
             "Free Food"
