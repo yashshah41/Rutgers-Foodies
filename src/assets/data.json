@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.95275,
+        "@search.score": 99.9788,
         "benefitNames": [
             "Free Food"
         ],
@@ -34,7 +34,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.95054,
+        "@search.score": 99.976585,
         "benefitNames": [
             "Free Food"
         ],
@@ -68,7 +68,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94612,
+        "@search.score": 99.97217,
         "benefitNames": [
             "Free Food"
         ],
@@ -110,7 +110,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94612,
+        "@search.score": 99.97217,
         "benefitNames": [
             "Free Food"
         ],
@@ -140,7 +140,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.94833,
+        "@search.score": 99.97438,
         "benefitNames": [
             "Free Food"
         ],
@@ -174,7 +174,109 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.86865,
+        "@search.score": 99.969955,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5340"
+        ],
+        "categoryNames": [
+            "Educational Conference/Seminar/Workshop/Panel"
+        ],
+        "description": "Bloustein Public Service Association is hosting a resume/CV building workshop tonight! It will be a pretty chill meeting with food and we will also discuss E-Board positions for next year too, so attendance matters - this is our second to last meeting of the year. We hope all of your semesters are going well and that we will see you tonight.",
+        "endsOn": "10:00 PM",
+        "id": "11152272",
+        "imagePath": "eee7d41a-c2b8-4474-9312-04da43e8eacaff4c902d-0685-4867-9e56-7aa52e4bb4f7.png",
+        "index": 5,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "CASC Rm 108",
+        "longitude": null,
+        "name": "Resume/CV building workshop",
+        "organizationId": 121424,
+        "organizationIds": [],
+        "organizationName": "Bloustein Public Service Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "91ebaa44-a915-460c-8a18-c918d1fca6ab23343e41-6e65-4cde-8ec3-97dd2c7a78ad.png",
+        "recScore": null,
+        "startsOn": "March 10 | 09:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.969955,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5340"
+        ],
+        "categoryNames": [
+            "Educational Conference/Seminar/Workshop/Panel"
+        ],
+        "description": "Bloustein Public Service Association is hosting a resume/CV building workshop tonight! It will be a pretty chill meeting with food and we will also discuss E-Board positions for next year too, so attendance matters - this is our second to last meeting of the year. We hope all of your semesters are going well and that we will see you tonight.",
+        "endsOn": "10:00 PM",
+        "id": "11152271",
+        "imagePath": "eee7d41a-c2b8-4474-9312-04da43e8eacaff4c902d-0685-4867-9e56-7aa52e4bb4f7.png",
+        "index": 6,
+        "institutionId": 4753,
+        "latitude": "40.502670",
+        "location": "CASC Rm 108",
+        "longitude": "-74.451790",
+        "name": "Resume/CV building workshop",
+        "organizationId": 121424,
+        "organizationIds": [],
+        "organizationName": "Bloustein Public Service Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "91ebaa44-a915-460c-8a18-c918d1fca6ab23343e41-6e65-4cde-8ec3-97dd2c7a78ad.png",
+        "recScore": null,
+        "startsOn": "March 10 | 09:00 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.969955,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5346"
+        ],
+        "categoryNames": [
+            "General Organization Meeting"
+        ],
+        "description": "Hong Kong is a land of rich history and diverse relics \ud83c\udded\ud83c\uddf0\u2728But wait\u2026 some of the relics have gone MISSING \u2049\ufe0fHKSA is looking for YOUR help on our thrilling scavenger hunt to retrieve 6 stolen artifacts \ud83d\udd0d Compete in teams and race to catch some thieves \ud83d\udea8and win a grand prize \ud83c\udfc6 \ud83d\uddd3\ufe0f Monday, 3/10\ud83d\udccdTillet 253\ud83d\udd58 9 PM",
+        "endsOn": "10:30 PM",
+        "id": "11154055",
+        "imagePath": "2942d701-72c8-49b7-9b1c-fd0e0b4a1d1d28730959-ec9d-4c7c-b455-0220a45813f2.png",
+        "index": 7,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Tillet 253",
+        "longitude": null,
+        "name": "HKSA Intern Event: Relic Rush Scavenger Hunt! ",
+        "organizationId": 291191,
+        "organizationIds": [],
+        "organizationName": "Hong Kong Student Association ",
+        "organizationNames": [],
+        "organizationProfilePicture": "a8da7472-d084-46f4-bf4e-d4982021dce5e9a18180-6444-4cf2-bf56-d5137fdabaa6.png",
+        "recScore": null,
+        "startsOn": "March 10 | 09:00 PM",
+        "status": "Approved",
+        "theme": "Cultural",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.894745,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -189,16 +291,16 @@
             "Cultural Performance",
             "Wellness Event"
         ],
-        "description": "Learn how Dubai chocolate is made & became famous with Art Librarian Megan Lotts! Hear about Dubai culture from Rutgers Study Abroad! FREE Dubai chocolate bites while supplies last! FREE Dubai chocolate zine from the Art Library! FREE swag from Rutgers Global! All Rutgers students welcome! Drop by!",
+        "description": "Learn how Dubai chocolate is made & became famous with Art Librarian Megan Lotts! Hear about Dubai culture from Rutgers Study Abroad! FREE Dubai chocolate bites while supplies last! FREE Dubai chocolate zine from the Art Library! FREE swag from Rutgers Global! FREE henna hand tattoos done by an artist! All Rutgers students welcome! Drop by!",
         "endsOn": "03:00 PM",
         "id": "11136399",
-        "imagePath": "2d8f66d3-3c89-47f3-abbe-486edb60b0cd13d412e4-1953-4b66-80e4-9adddc4e4002.png",
-        "index": 5,
+        "imagePath": "133944ef-7c61-4394-8506-40cd18325541433c96df-03a4-4faa-adeb-7181878fe5d4.png",
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.499310",
         "location": "The Yard - 1st Floor Classroom in Sojourner Truth Building",
         "longitude": "-74.448400",
-        "name": "FREE Dubai Chocolate - The Art of Chocolate Event (Collab of ScaRx + Rutgers Libraries + Rutgers Global)",
+        "name": "FREE Dubai Chocolate - The Art of Chocolate Event - with Hand Henna (Collab of ScaRx + Rutgers Libraries + Rutgers Global)",
         "organizationId": 392207,
         "organizationIds": [],
         "organizationName": "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)",
@@ -211,7 +313,41 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.85092,
+        "@search.score": 99.878136,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5352"
+        ],
+        "categoryNames": [
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Come join us for an off-campus event and a discussion about \"Prayer\" led by Pastor Jay! We will be meeting at 5:45 pm. We will have fellowship and authentic Korean food! Anyone is welcome to come and we hope to see you all there :) * Please RSVP ahead of time if you want to come and contact us through GroupMe or Instagram for more details.",
+        "endsOn": "07:30 PM",
+        "id": "11153767",
+        "imagePath": "eb614c72-6c9d-4d90-bd91-d328472a5dcc38939723-e118-4c63-b062-e1fbad4f7aff.png",
+        "index": 9,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Off-Campus (contact for details)",
+        "longitude": null,
+        "name": "Prayer",
+        "organizationId": 121303,
+        "organizationIds": [],
+        "organizationName": "Adventist Students for Christ",
+        "organizationNames": [],
+        "organizationProfilePicture": "cf3c9183-40a3-4417-b90d-36749dfdf78d0f5e2f23-cfa0-4175-9823-30f4919dc1e3.png",
+        "recScore": null,
+        "startsOn": "March 11 | 05:45 PM",
+        "status": "Approved",
+        "theme": "Spirituality",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.87703,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -228,11 +364,11 @@
             "Cultural Performance",
             "Entertainment"
         ],
-        "description": "Experience the world in one night through cultural performances and fun activities - no passport required!  Join us in Livingston Hall for an evening of crafts, language learning, international dances, and more, thanks to many of the cultural student organizations at Rutgers.  There will be prize raffles throughout the evening including $50 Visa gift cards. You can also sample international sweets, too.     Scheduled to appear: Asian Student Council Association of Philippine Students Bachata Club French Arts Culture & Inclusive Language Experience (FACILE) Georgian Association Irish Dance Club Korean-American Scientists and Engineers Association Korean Language Club Mexican American Student Association NATYA Peruvian American Student Association Polish Club Rutgers Chinese Dance Troupe Rutgers Salvadoran Student Association South East Asians of Rutgers University Twese: The Organization for African Students and Friends of Africa  Wanawake And more",
+        "description": "Experience the world in one night through cultural performances and fun activities - no passport required!  Join us in Livingston Hall for an evening of crafts, language learning, international dances, and more, thanks to many of the cultural student organizations at Rutgers.  There will be prize raffles throughout the evening including $50 Visa gift cards. There will also be plenty of international sweets and treats along with the largest world map made out of cupcakes you've probably ever seen.     Scheduled to appear: Asian Student Council Association of Philippine Students Bachata Club French Arts Culture & Inclusive Language Experience (FACILE) Georgian Association Irish Dance Club Korean-American Scientists and Engineers Association Korean Language Club Mexican American Student Association NATYA Peruvian American Student Association Polish Club Rutgers Chinese Dance Troupe Rutgers Salvadoran Student Association South East Asians of Rutgers University Wanawake And more",
         "endsOn": "09:00 PM",
         "id": "10803160",
         "imagePath": "e92a210f-e498-466f-ad00-2171e9433bfe6e200c6b-ee4f-401d-aa99-9fa6e7861bca.png",
-        "index": 6,
+        "index": 10,
         "institutionId": 4753,
         "latitude": null,
         "location": "Livingston Hall - Livingston Student Center",
@@ -245,7 +381,6 @@
             "121990",
             "122148",
             "122380",
-            "122878",
             "122882",
             "122905",
             "124750",
@@ -265,7 +400,6 @@
             "Korean-American Scientists and Engineers Association",
             "Chinese Dance Troupe",
             "Polish Club",
-            "TWESE, The Organization for African Students and Friends of Africa",
             "Wanawake (Rutgers University)",
             "Natya",
             "Association of Philippine Students (Rutgers)",
@@ -286,7 +420,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.85314,
+        "@search.score": 99.87924,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -299,7 +433,7 @@
         "endsOn": "11:00 PM",
         "id": "11151496",
         "imagePath": "7b847017-3515-4a8b-9a50-cc71baf64eb4cea8fe62-9f75-4de7-86be-cf2fe188ba70.png",
-        "index": 7,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.502670",
         "location": "College Ave Student Center",
@@ -317,7 +451,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.76218,
+        "@search.score": 99.78834,
         "benefitNames": [
             "Free Food"
         ],
@@ -331,7 +465,7 @@
         "endsOn": "04:00 PM",
         "id": "11149238",
         "imagePath": "a4f5f596-5d4b-4805-83ca-2654ba18c01ac77cc6ed-1341-4227-b779-b589799a366a.png",
-        "index": 8,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.502750",
         "location": "Graduate Student Lounge",
@@ -353,7 +487,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.73774,
+        "@search.score": 99.763916,
         "benefitNames": [
             "Free Food"
         ],
@@ -365,7 +499,7 @@
         "endsOn": "08:30 PM",
         "id": "11151699",
         "imagePath": "fe8ceefd-736a-4d41-9c2d-6f2f2f88891ac68a67ee-305a-4f15-b127-cc39b13d0d45.png",
-        "index": 9,
+        "index": 13,
         "institutionId": 4753,
         "latitude": null,
         "location": "Center for Social Justice & Education",
@@ -383,7 +517,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.73996,
+        "@search.score": 99.766136,
         "benefitNames": [
             "Free Food"
         ],
@@ -395,7 +529,7 @@
         "endsOn": "09:00 PM",
         "id": "11148128",
         "imagePath": "4ced2464-d48e-414f-9a7a-0f1ca0773174143bd331-1257-4b56-b927-1ba073e63c8f.png",
-        "index": 10,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.523650",
         "location": "Janice Levin Building - Room 102",
@@ -413,7 +547,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.73107,
+        "@search.score": 99.757256,
         "benefitNames": [
             "Free Food"
         ],
@@ -425,7 +559,7 @@
         "endsOn": "10:00 PM",
         "id": "10924402",
         "imagePath": "dd9c5350-cfc0-40ee-939a-115351be9b6e116b5b22-5995-4b77-87fc-ac11b88dc96f.png",
-        "index": 11,
+        "index": 15,
         "institutionId": 4753,
         "latitude": "40.523450",
         "location": "Livingston Student Center Board Room (located upstairs)",
@@ -443,7 +577,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.65544,
+        "@search.score": 99.68166,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -456,7 +590,7 @@
         "endsOn": "04:00 PM",
         "id": "11150972",
         "imagePath": "4f84e594-0eec-4d10-8118-76068c32162fc3c7836a-d8d4-47bb-a0a0-f386e54e4947.png",
-        "index": 12,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.521970",
         "location": "Lucy Stone Hall, Suite A145, 1st Fl. Lobby",
@@ -474,7 +608,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.64431,
+        "@search.score": 99.67054,
         "benefitNames": [
             "Free Food"
         ],
@@ -492,7 +626,7 @@
         "endsOn": "07:00 PM",
         "id": "11121865",
         "imagePath": null,
-        "index": 13,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.523820",
         "location": "EOHSI C",
@@ -510,7 +644,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.55514,
+        "@search.score": 99.58142,
         "benefitNames": [
             "Free Food"
         ],
@@ -522,7 +656,7 @@
         "endsOn": "01:30 PM",
         "id": "11023528",
         "imagePath": null,
-        "index": 14,
+        "index": 18,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cook student Center ",
@@ -540,7 +674,49 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.54844,
+        "@search.score": 99.58365,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5343",
+            "5346",
+            "7111",
+            "20311"
+        ],
+        "categoryNames": [
+            "Entertainment",
+            "General Organization Meeting",
+            "Social Event",
+            "Graduate Student Organization Event"
+        ],
+        "description": "Happy almost spring everyone! We're super excited to kick the ESGSA back into gear for the spring semester, and would love to see you all for a lowkey meeting of chit chat and legos! It will be this Friday, March 14th at noon in the Environmental and Natural Resources Building, Room 123. Snacks and drinks will be provided as well! Hope to see you there :)",
+        "endsOn": "02:00 PM",
+        "id": "11154447",
+        "imagePath": "3dcf78e4-cb5a-48a4-a779-e9c71316ac60cea718a1-d0fc-44ed-b882-57dca934fc0c.png",
+        "index": 19,
+        "institutionId": 4753,
+        "latitude": "40.477880",
+        "location": "Environmental and Natural Resources Building",
+        "longitude": "-74.439570",
+        "name": "ESGSA Building Friendships and Legos",
+        "organizationId": 327151,
+        "organizationIds": [
+            "327151"
+        ],
+        "organizationName": "Environmental Sciences Graduate Student Association (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "d540b3a3-727a-4462-89e3-d19071c7734137fb87fa-e90e-455d-9cbf-42ed49379e1a.jpg",
+        "recScore": null,
+        "startsOn": "March 14 | 12:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.57473,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -553,7 +729,7 @@
         "endsOn": "05:00 PM",
         "id": "11123586",
         "imagePath": "ce1fbb63-4826-45c5-8bcc-5da549c864435b058bd6-388d-4dbb-b9e4-b12731176f9b.png",
-        "index": 15,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center - Center Hall",
@@ -571,7 +747,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.526115,
+        "@search.score": 99.55242,
         "benefitNames": [
             "Free Food"
         ],
@@ -591,7 +767,7 @@
         "endsOn": "09:30 PM",
         "id": "11133945",
         "imagePath": null,
-        "index": 16,
+        "index": 21,
         "institutionId": 4753,
         "latitude": "40.501880",
         "location": "Center for Social Justice Education & LGBT Communities",
@@ -615,7 +791,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.43604,
+        "@search.score": 98.46302,
         "benefitNames": [
             "Free Food"
         ],
@@ -631,7 +807,7 @@
         "endsOn": "10:00 PM",
         "id": "11088562",
         "imagePath": "5b4c9971-82df-4120-b856-ef54098817b77f214b25-c342-4614-ad82-980e66654a26.png",
-        "index": 17,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Student Center - Gathering Lounge",
@@ -649,7 +825,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.321365,
+        "@search.score": 98.34842,
         "benefitNames": [
             "Free Food"
         ],
@@ -665,7 +841,7 @@
         "endsOn": "10:00 PM",
         "id": "11149735",
         "imagePath": "116d262e-c11e-42b5-bbba-dcbd7fd6247e80ae84c9-f070-4710-bff1-5286d5871490.png",
-        "index": 18,
+        "index": 23,
         "institutionId": 4753,
         "latitude": null,
         "location": "3 South Lounge",
@@ -683,7 +859,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.24781,
+        "@search.score": 98.27491,
         "benefitNames": [
             "Free Food"
         ],
@@ -695,7 +871,7 @@
         "endsOn": "03:00 PM",
         "id": "10802172",
         "imagePath": "38c0d93a-76e9-4d2d-8d54-9f7b776ddbe1d5d4dac4-28d4-4979-b0ef-e00ca4fc3ec1.png",
-        "index": 19,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "BSC International Lounge",
@@ -713,7 +889,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.2202,
+        "@search.score": 98.247314,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -726,7 +902,7 @@
         "endsOn": "08:00 PM",
         "id": "11129411",
         "imagePath": "0e5a8ca6-3066-4e6a-beb2-443a2628ef1c3a9b69ed-63a5-463b-8f6a-6df17982616f.png",
-        "index": 20,
+        "index": 25,
         "institutionId": 4753,
         "latitude": "40.521760",
         "location": "CSL",
@@ -744,7 +920,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.0287,
+        "@search.score": 98.05594,
         "benefitNames": [
             "Free Food"
         ],
@@ -756,7 +932,7 @@
         "endsOn": "01:30 PM",
         "id": "11023620",
         "imagePath": null,
-        "index": 21,
+        "index": 26,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cook Student Center ",
@@ -774,7 +950,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.04951,
+        "@search.score": 98.07673,
         "benefitNames": [
             "Free Food"
         ],
@@ -792,7 +968,7 @@
         "endsOn": "05:00 PM",
         "id": "11145376",
         "imagePath": "a3a5241d-b329-4808-ab68-0bb99e1c3df54307941d-6c42-4426-9dcf-619d18dc58a7.png",
-        "index": 22,
+        "index": 27,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen W. Ludwig Global Village Living Learning Center",
@@ -818,7 +994,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.003265,
+        "@search.score": 98.03051,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -835,7 +1011,7 @@
         "endsOn": "08:00 PM",
         "id": "11147182",
         "imagePath": "795ee370-041a-419f-be8b-61a8b5358b69e28aefcf-44f6-434e-ad54-78b7733e1e9c.png",
-        "index": 23,
+        "index": 28,
         "institutionId": 4753,
         "latitude": "40.499310",
         "location": "The Yard - 1st Floor Classroom in Sojourner Truth Building",
@@ -853,7 +1029,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.68046,
+        "@search.score": 97.70792,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -870,7 +1046,7 @@
         "endsOn": "05:00 PM",
         "id": "11136490",
         "imagePath": "98f1a8e3-31fe-4ba1-9676-a97cab2a97d75c6e1091-7236-40c5-a881-ff712eaf31ce.png",
-        "index": 24,
+        "index": 29,
         "institutionId": 4753,
         "latitude": "40.521970",
         "location": "Office of Disability Services Lucy Stone Hall, Suite A145, Livingston Campus",
@@ -888,7 +1064,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.430305,
+        "@search.score": 97.457924,
         "benefitNames": [
             "Free Food"
         ],
@@ -900,7 +1076,7 @@
         "endsOn": "10:00 PM",
         "id": "10924418",
         "imagePath": "fc41c055-03a8-4438-b922-088825f8fc15de6af79f-094d-47c1-80cc-42b87b629f61.png",
-        "index": 25,
+        "index": 30,
         "institutionId": 4753,
         "latitude": "40.523450",
         "location": "Livingston Student Center Board Room (located upstairs)",
@@ -918,7 +1094,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.32701,
+        "@search.score": 97.3547,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -931,7 +1107,7 @@
         "endsOn": "11:00 PM",
         "id": "11110683",
         "imagePath": "81a0cd14-7e29-4922-8db5-ee133b9b5724f4f1c8da-373b-4fc8-9eed-d3f8f58cc202.png",
-        "index": 26,
+        "index": 31,
         "institutionId": 4753,
         "latitude": "40.484710",
         "location": "Trayes Hall",
@@ -949,7 +1125,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.244675,
+        "@search.score": 97.27241,
         "benefitNames": [
             "Free Food"
         ],
@@ -961,7 +1137,7 @@
         "endsOn": "01:30 PM",
         "id": "11023658",
         "imagePath": null,
-        "index": 27,
+        "index": 32,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cook Student Center ",
@@ -979,7 +1155,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.52518,
+        "@search.score": 96.553375,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -998,7 +1174,7 @@
         "endsOn": "10:00 PM",
         "id": "10985996",
         "imagePath": "abbffd98-0ac8-4d7e-9d06-6c32369194ea845ee7ca-e6b9-4519-abb3-8b0274df6fed.png",
-        "index": 28,
+        "index": 33,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -1024,7 +1200,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.44608,
+        "@search.score": 96.474335,
         "benefitNames": [
             "Free Food"
         ],
@@ -1036,7 +1212,7 @@
         "endsOn": "01:30 PM",
         "id": "11023772",
         "imagePath": null,
-        "index": 29,
+        "index": 34,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cook Student Center ",
@@ -1054,7 +1230,75 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.42928,
+        "@search.score": 96.49111,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5340"
+        ],
+        "categoryNames": [
+            "Educational Conference/Seminar/Workshop/Panel"
+        ],
+        "description": "RUSHRM is delighted to bring its flagship event, RUSHRM's 20th Annual Spring Business Conference. This year's theme is HR Leaders Shaping the Future. As the business world is becoming more and more complex, employees and human resource professionals must figure out a way to navigate these uncertain, yet necessary changes. Join this event if you are an upcoming human resource professional or job seeker to learn more about today's job market, network with top HR leaders, and SMLR alumni & students. ",
+        "endsOn": "04:15 PM",
+        "id": "11154007",
+        "imagePath": "4db880b3-fa6f-4b3c-86a1-3d328acc8a38b40ebc63-a1c9-494a-8be5-9491aff33be4.png",
+        "index": 35,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Room 003, Janice Levine Building, Livingstone Campus, Rutgers",
+        "longitude": null,
+        "name": "RUSHRM 20th Annual Spring Conference",
+        "organizationId": 388627,
+        "organizationIds": [],
+        "organizationName": "Rutgers University SHRM Chapter (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "1204fc07-f60d-41ce-b657-c95e1a14940a9933ebe3-2ad1-41fd-8019-0b47235cc4e1.jpg",
+        "recScore": null,
+        "startsOn": "April 11 | 09:00 AM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 96.49111,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5340"
+        ],
+        "categoryNames": [
+            "Educational Conference/Seminar/Workshop/Panel"
+        ],
+        "description": "RUSHRM is delighted to bring its flagship event, RUSHRM's 20th Annual Spring Business Conference. This year's theme is HR Leaders Shaping the Future. As the business world is becoming more and more complex, employees and human resource professionals must figure out a way to navigate these uncertain, yet necessary changes. Join this event if you are an upcoming human resource professional or job seeker to learn more about today's job market, network with top HR leaders, and SMLR alumni & students. ",
+        "endsOn": "04:15 PM",
+        "id": "11154006",
+        "imagePath": "4db880b3-fa6f-4b3c-86a1-3d328acc8a38b40ebc63-a1c9-494a-8be5-9491aff33be4.png",
+        "index": 36,
+        "institutionId": 4753,
+        "latitude": "40.496650",
+        "location": "Room 003, Janice Levine Building, Livingstone Campus, Rutgers",
+        "longitude": "-74.444280",
+        "name": "RUSHRM 20th Annual Spring Conference",
+        "organizationId": 388627,
+        "organizationIds": [],
+        "organizationName": "Rutgers University SHRM Chapter (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "1204fc07-f60d-41ce-b657-c95e1a14940a9933ebe3-2ad1-41fd-8019-0b47235cc4e1.jpg",
+        "recScore": null,
+        "startsOn": "April 11 | 09:00 AM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 96.45755,
         "benefitNames": [
             "Free Food"
         ],
@@ -1066,7 +1310,7 @@
         "endsOn": "05:00 PM",
         "id": "10803362",
         "imagePath": "cbe0ac07-b259-40b5-8c60-1546c757ee02978a6532-0f66-4b50-8065-898d114bab29.png",
-        "index": 30,
+        "index": 37,
         "institutionId": 4753,
         "latitude": null,
         "location": "Coffee House - Livingston Student Center",
@@ -1084,7 +1328,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.8713,
+        "@search.score": 95.89993,
         "benefitNames": [
             "Free Food"
         ],
@@ -1096,7 +1340,7 @@
         "endsOn": "01:30 PM",
         "id": "10802177",
         "imagePath": "f33079e1-9d06-4510-b124-426e5f7a3f4fa109acf9-973e-4db8-b606-86bb0e230c42.png",
-        "index": 31,
+        "index": 38,
         "institutionId": 4753,
         "latitude": "40.523110",
         "location": "BSC MPR",
@@ -1114,7 +1358,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.82508,
+        "@search.score": 95.853745,
         "benefitNames": [
             "Free Food"
         ],
@@ -1126,7 +1370,7 @@
         "endsOn": "10:00 PM",
         "id": "10924423",
         "imagePath": "e302d31c-4afc-45ec-bf1f-5344a46c518c295f4137-da90-40c7-a133-2c75d91eda5b.png",
-        "index": 32,
+        "index": 39,
         "institutionId": 4753,
         "latitude": "40.523450",
         "location": "Livingston Student Center Board Room (located upstairs)",
@@ -1144,7 +1388,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.712975,
+        "@search.score": 95.741714,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1159,7 +1403,7 @@
         "endsOn": "09:00 PM",
         "id": "10986175",
         "imagePath": "502055b4-8d3c-460e-af5d-d4ad73d97b9736581cfc-1662-4eed-9271-11cbbb47c65f.png",
-        "index": 33,
+        "index": 40,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -1183,7 +1427,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.009346,
+        "@search.score": 95.03856,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1200,7 +1444,7 @@
         "endsOn": "09:00 PM",
         "id": "11119840",
         "imagePath": null,
-        "index": 34,
+        "index": 41,
         "institutionId": 4753,
         "latitude": "40.502720",
         "location": "Mettler Hall - College Avenue Campus",
@@ -1218,7 +1462,48 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.00438,
+        "@search.score": 95.03608,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5331"
+        ],
+        "categoryNames": [
+            "Art Exhibition"
+        ],
+        "description": "We are excited to partner with Event Hosts @rahsa.ru on a Student Art Gallery show and an interactive arts activity where you will get to mingle and meet other students. There will be giveaways and food at the reception! Follow them on Instagram! Save the date! April 23rdCampus location to comeReception from 7:30-9pmSign-up link to exhibit art work: https://docs.google.com/forms/d/e/1FAIpQLScABuN7JFNuVeEkEeHkExGwcVuGarvLSea8Bh03cRLxk89m8g/viewformOpen to undergraduate and graduate students of all majors. All are welcome!    Also... Rutgers - NB students: Sign up for Scarlet Arts Rx, a free and flexible program with a ton of benefits including free arts events across campus, free show tix, and free Makerspace activities: https://go.rutgers.edu/ScarletArtsSignUp Instagram: scarletartsrx  ",
+        "endsOn": "09:00 PM",
+        "id": "11154030",
+        "imagePath": "d9c22eb4-24f5-453d-ac38-bba6970d56ea3afc3187-49aa-410d-bbd9-4272a29e3a4a.png",
+        "index": 42,
+        "institutionId": 4753,
+        "latitude": "40.475770",
+        "location": "To be determined - check back! Will be on Rutgers- NB campus.",
+        "longitude": "-74.428960",
+        "name": "Rutgers Students Art Exhibit and Reception",
+        "organizationId": 392207,
+        "organizationIds": [
+            "121445"
+        ],
+        "organizationName": "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)",
+        "organizationNames": [
+            "Art History Student Association (Rutgers)"
+        ],
+        "organizationProfilePicture": "bcd338bc-854f-473b-b4da-0b84df2549706b29878b-47e7-4208-85d2-a1266437689e.png",
+        "recScore": null,
+        "startsOn": "April 23 | 07:30 PM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 95.0336,
         "benefitNames": [
             "Free Food"
         ],
@@ -1234,7 +1519,7 @@
         "endsOn": "09:00 PM",
         "id": "10895148",
         "imagePath": null,
-        "index": 35,
+        "index": 43,
         "institutionId": 4753,
         "latitude": "40.502670",
         "location": "College Ave Student Center - Room 411A",
@@ -1252,7 +1537,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.92493,
+        "@search.score": 94.9542,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1271,7 +1556,7 @@
         "endsOn": "02:00 PM",
         "id": "11119867",
         "imagePath": null,
-        "index": 36,
+        "index": 44,
         "institutionId": 4753,
         "latitude": "40.502720",
         "location": "Bishop Beach ( Across the Street From Panera)",
@@ -1295,7 +1580,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.800476,
+        "@search.score": 94.829834,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1312,7 +1597,7 @@
         "endsOn": "03:00 PM",
         "id": "11121794",
         "imagePath": "dc8a7b35-d3c3-4ec7-a9a5-6be901f2bfd7d1cb790f-e83d-4894-8d01-45a29d8d819e.png",
-        "index": 37,
+        "index": 45,
         "institutionId": 4753,
         "latitude": "40.522280",
         "location": "B.E.S.T. Hall",
@@ -1330,7 +1615,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.53043,
+        "@search.score": 94.559975,
         "benefitNames": [
             "Free Food"
         ],
@@ -1346,7 +1631,7 @@
         "endsOn": "09:00 PM",
         "id": "11122077",
         "imagePath": null,
-        "index": 38,
+        "index": 46,
         "institutionId": 4753,
         "latitude": "40.502720",
         "location": "Bishop Beach ( Across the Street From Panera)",
@@ -1364,7 +1649,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.15759,
+        "@search.score": 94.18739,
         "benefitNames": [
             "Free Food"
         ],
@@ -1376,7 +1661,7 @@
         "endsOn": "10:00 PM",
         "id": "10924429",
         "imagePath": "26986607-536f-4fef-a33e-c1793eee1be9e9e04045-f7e1-4897-aefc-8ef9088b1b2b.png",
-        "index": 39,
+        "index": 47,
         "institutionId": 4753,
         "latitude": "40.523450",
         "location": "Livingston Student Center Board Room (located upstairs)",
@@ -1394,7 +1679,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.06134,
+        "@search.score": 94.09121,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1411,7 +1696,7 @@
         "endsOn": "06:00 PM",
         "id": "10802178",
         "imagePath": "c1705757-219d-480f-92d8-f164950b683fc9eb8cf8-8ec4-41c1-a65b-ae7480127894.png",
-        "index": 40,
+        "index": 48,
         "institutionId": 4753,
         "latitude": "40.502670",
         "location": "Morrell Street ",
@@ -1429,7 +1714,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.041046,
+        "@search.score": 94.07093,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1444,7 +1729,7 @@
         "endsOn": "09:00 PM",
         "id": "10986395",
         "imagePath": "9a536e8b-06dc-4a80-b7b8-327542cbf37c8b6409dd-1a2e-433d-826b-9c80b44c6a0d.png",
-        "index": 41,
+        "index": 49,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -1468,7 +1753,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.957245,
+        "@search.score": 93.98719,
         "benefitNames": [
             "Free Food"
         ],
@@ -1480,7 +1765,7 @@
         "endsOn": "01:30 PM",
         "id": "11023870",
         "imagePath": null,
-        "index": 42,
+        "index": 50,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cook Student Center ",
@@ -1498,7 +1783,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.96233,
+        "@search.score": 93.99226,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1521,7 +1806,7 @@
         "endsOn": "03:00 PM",
         "id": "10687366",
         "imagePath": "22b6b923-3d93-4b61-9019-fc474852afb93583c647-a656-4496-a0db-4de7b7867231.png",
-        "index": 43,
+        "index": 51,
         "institutionId": 4753,
         "latitude": null,
         "location": "Hatchery Innovation Studio, Alexander Library",
@@ -1539,7 +1824,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.93945,
+        "@search.score": 93.9694,
         "benefitNames": [
             "Free Food"
         ],
@@ -1551,7 +1836,7 @@
         "endsOn": "05:00 PM",
         "id": "10803379",
         "imagePath": "aff426f9-a2ef-4a6f-9817-bf24a2a4fd000371eee6-1a67-4ad6-99f4-56c3b5de8d00.png",
-        "index": 44,
+        "index": 52,
         "institutionId": 4753,
         "latitude": "40.498770",
         "location": "Rutgers Global ",
@@ -1569,7 +1854,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.679276,
+        "@search.score": 93.70941,
         "benefitNames": [
             "Free Food"
         ],
@@ -1585,7 +1870,7 @@
         "endsOn": "08:00 PM",
         "id": "10953017",
         "imagePath": "c5c908e2-655b-4831-9b39-d37dea6b388033f62160-34f0-4cfd-a854-916d665bc97d.png",
-        "index": 45,
+        "index": 53,
         "institutionId": 4753,
         "latitude": null,
         "location": "Busch Student Center Room 115",
@@ -1603,7 +1888,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.546036,
+        "@search.score": 93.57626,
         "benefitNames": [
             "Free Food"
         ],
@@ -1619,7 +1904,7 @@
         "endsOn": "10:00 PM",
         "id": "10303672",
         "imagePath": "b420d455-109e-49b8-b0b5-cacdd90ce792d32c558c-4f13-420f-9cdc-ba99b9569e09.png",
-        "index": 46,
+        "index": 54,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -1637,7 +1922,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.34023,
+        "@search.score": 93.370605,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1650,7 +1935,7 @@
         "endsOn": "02:30 PM",
         "id": "10766943",
         "imagePath": "0b2d48e2-be0c-44ee-a287-afb0b58311b70ebab3a8-6267-4929-98ca-88a3ed208ae0.png",
-        "index": 47,
+        "index": 55,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -1668,7 +1953,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.47021,
+        "@search.score": 92.5012,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1687,7 +1972,7 @@
         "endsOn": "09:30 PM",
         "id": "11129195",
         "imagePath": "4d645d3e-6f66-4102-a0ba-02f04e9c87de2192e359-9dd0-4320-a133-cf752ee48459.png",
-        "index": 48,
+        "index": 56,
         "institutionId": 4753,
         "latitude": "40.525010",
         "location": "Jersey Mike's Arena",
