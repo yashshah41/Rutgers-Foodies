@@ -1,210 +1,6 @@
 [
     {
-        "@search.score": 1.0,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Hello Everyone! Join us for our last meeting of the semester \u2615\ufe0f Grab a coffee, a snack and make some new friends!",
-        "endsOn": "03:30 PM",
-        "id": "11294157",
-        "imagePath": "c98c8bb1-b074-44cd-8a64-72533efaa62a26ad601a-4b0d-4dcc-9220-6908558100e8.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "College Ave Student Center Room 413 (Cap and Skull)",
-        "longitude": null,
-        "name": "General Meeting",
-        "organizationId": 359346,
-        "organizationIds": [],
-        "organizationName": "Coffee and Tea Association at Rutgers ",
-        "organizationNames": [],
-        "organizationProfilePicture": "c02ba3e8-f7a1-43d8-9ec7-ba95f24e5ca6021097b6-492a-4f70-8fdb-e58a793233a9.png",
-        "recScore": null,
-        "startsOn": "May 02 | 02:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.99664,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5343",
-            "5346",
-            "5358"
-        ],
-        "categoryNames": [
-            "Entertainment",
-            "General Organization Meeting",
-            "Wellness Event"
-        ],
-        "description": "The AMUSE Succulent Pot Painting event will take place at 3 pm at the Coffeehouse in the Livingston Student Center. Succulents and painting supplies provided - since supplies may be limited, we'll also have beads and string available for everyone to enjoy! Please RSVP here so that we can estimate supplies: https://forms.gle/xL6LujW4XCXKncn36.",
-        "endsOn": "05:00 PM",
-        "id": "11286086",
-        "imagePath": "0c4d8195-6d81-4148-b67a-b0287b1fc8b5be4aa796-7ae9-4e42-8302-5c75f38ae467.png",
-        "index": 1,
-        "institutionId": 4753,
-        "latitude": "40.523540",
-        "location": "Livingston Student Center Coffeehouse",
-        "longitude": "-74.437180",
-        "name": "AMUSE Succulent Pot Painting!",
-        "organizationId": 330483,
-        "organizationIds": [],
-        "organizationName": "Arts and Music Undergraduate Service Education",
-        "organizationNames": [],
-        "organizationProfilePicture": "1b7ec609-4545-4c79-af37-65ad1f7b1343383f2624-ccb9-4006-8bfb-76d922ffb6de.png",
-        "recScore": null,
-        "startsOn": "May 02 | 03:00 PM",
-        "status": "Approved",
-        "theme": "Arts",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.992226,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Friendship Fridays are a monthly opportunity for the Rutgers community to step away from classwork and research and just hang out and relax together.  Join us to enjoy games, activities, food, and conversation - and make new friends from around the world!   Celebrate the end of the semester and warmer weather with our annual ice cream social featuring Ben & Jerry's ice cream!",
-        "endsOn": "05:00 PM",
-        "id": "10803379",
-        "imagePath": "aff426f9-a2ef-4a6f-9817-bf24a2a4fd000371eee6-1a67-4ad6-99f4-56c3b5de8d00.png",
-        "index": 2,
-        "institutionId": 4753,
-        "latitude": "40.498770",
-        "location": "Rutgers Global ",
-        "longitude": "-74.447840",
-        "name": "Friendship Fridays",
-        "organizationId": 257221,
-        "organizationIds": [],
-        "organizationName": "Rutgers Global (Department at Rutgers University)",
-        "organizationNames": [],
-        "organizationProfilePicture": "e7fb94e5-30a7-461c-8c95-d0695c3269f587d7e612-a687-4d59-a4d3-9ebc02d6f0d2.png",
-        "recScore": null,
-        "startsOn": "May 02 | 04:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.98338,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5355"
-        ],
-        "categoryNames": [
-            "Sports/Recreation/Intramural"
-        ],
-        "description": "We invite the Rutgers community to attend the Riot Squad Banquet! We will be honoring our seniors, reflecting on this year's events, and previewing next year's events! Please RSVP using this link. (bit.ly/banquet25rsvp) Attire: semi-formal",
-        "endsOn": "08:00 PM",
-        "id": "11285861",
-        "imagePath": null,
-        "index": 3,
-        "institutionId": 4753,
-        "latitude": "40.515950",
-        "location": "Rodkin Academic Success Center",
-        "longitude": "-74.463450",
-        "name": "Riot Squad Banquet",
-        "organizationId": 132611,
-        "organizationIds": [],
-        "organizationName": "Riot Squad (Rutgers)",
-        "organizationNames": [],
-        "organizationProfilePicture": "9192a581-5eae-451c-b102-3cce250495e0ee94d395-a191-4939-aa55-f9ac980a6854.jpg",
-        "recScore": null,
-        "startsOn": "May 02 | 06:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.978966,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5358"
-        ],
-        "categoryNames": [
-            "Wellness Event"
-        ],
-        "description": "Quien m\u00e1s tiene estr\u00e9ssss \ud83d\ude29 Finals to study for? Big paper got you in a slump? Come study with REA & enjoy board games in between study breaks! \ud83d\udcda\u265f\ufe0f\u23f0Thursday, May 1st @ 7 P.M.\ud83d\udccdCLAC",
-        "endsOn": "09:00 PM",
-        "id": "11290880",
-        "imagePath": "181c1c34-5ab5-4df9-ae60-3b6ae068fae146cc1cc4-7d3c-476f-a795-2acf0e39de0f.png",
-        "index": 4,
-        "institutionId": 4753,
-        "latitude": "40.504190",
-        "location": "Center for Latino Arts and Culture",
-        "longitude": "-74.453480",
-        "name": "Study and Destress with REA",
-        "organizationId": 385507,
-        "organizationIds": [],
-        "organizationName": "Raices Ecuatorianas en America (Rutgers)",
-        "organizationNames": [],
-        "organizationProfilePicture": "c2a4985e-dab3-4c28-8549-4f173f4aa3988f74ccc2-faf4-430e-b3fb-ad9271adc49a.jpeg",
-        "recScore": null,
-        "startsOn": "May 02 | 07:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97012,
-        "benefitNames": [
-            "Credit",
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5354"
-        ],
-        "categoryNames": [
-            "Special Interest"
-        ],
-        "description": "Join us for the last Late Knight of the semester and a fan favorite \u2013 Late Knight: Bingo! With over 10 rounds and over $1,000 worth of prizes, this night is sure to excite. Join us for games and pizza to end the semester.",
-        "endsOn": "11:59 PM",
-        "id": "11288576",
-        "imagePath": "06767a32-32c7-457e-87f1-195d8e696586e314de02-52d2-4c35-9775-a03629fe50da.png",
-        "index": 5,
-        "institutionId": 4753,
-        "latitude": "40.502670",
-        "location": "College Avenue Student Center",
-        "longitude": "-74.451790",
-        "name": "Late Knight: Bingo",
-        "organizationId": 341079,
-        "organizationIds": [],
-        "organizationName": "Student Centers and Activities (Department of)",
-        "organizationNames": [],
-        "organizationProfilePicture": "6c3b8d26-a9e6-482d-8808-a336ea942311d8adc91e-419d-449a-a3cf-0a011222fdac.jpg",
-        "recScore": null,
-        "startsOn": "May 02 | 09:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.90377,
+        "@search.score": 99.93299,
         "benefitNames": [
             "Free Food"
         ],
@@ -218,7 +14,7 @@
         "endsOn": "04:00 PM",
         "id": "11290788",
         "imagePath": "5dccac96-a30b-44c7-a876-32a877de74da00586474-7326-421d-90f2-8f208d9c4924.png",
-        "index": 6,
+        "index": 0,
         "institutionId": 4753,
         "latitude": "40.479130",
         "location": "Cook Student Center",
@@ -242,7 +38,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.917046,
+        "@search.score": 99.94626,
         "benefitNames": [
             "Free Food"
         ],
@@ -258,7 +54,7 @@
         "endsOn": "05:00 PM",
         "id": "11229716",
         "imagePath": null,
-        "index": 7,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.500960",
         "location": "Linguistics Department",
@@ -276,7 +72,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.90156,
+        "@search.score": 99.93078,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -295,7 +91,7 @@
         "endsOn": "05:00 PM",
         "id": "11274620",
         "imagePath": "c3f6fd58-0766-406d-9884-d922da11d4c170dd219b-0708-4355-913d-90f2e6bfb98d.png",
-        "index": 8,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.523640",
         "location": "Rutgers University Psychology Department",
@@ -319,7 +115,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.91926,
+        "@search.score": 99.94847,
         "benefitNames": [
             "Free Food"
         ],
@@ -335,7 +131,7 @@
         "endsOn": "06:30 PM",
         "id": "11192769",
         "imagePath": "159e83bd-4f91-44ce-a113-292706dfba415c0128b6-baad-40c9-beee-59cc32b3d0c3.png",
-        "index": 9,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.501850",
         "location": "Rutgers Academic Building",
@@ -353,7 +149,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.8772,
+        "@search.score": 99.90644,
         "benefitNames": [
             "Free Food"
         ],
@@ -365,7 +161,7 @@
         "endsOn": "08:00 PM",
         "id": "11229812",
         "imagePath": "a049fa31-71dd-4143-a5d9-a06a1570b327f338c0f4-fded-45ea-a92c-c510d0af1310.png",
-        "index": 10,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.500960",
         "location": "Linguistics Department",
@@ -383,7 +179,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.784065,
+        "@search.score": 99.81337,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -402,7 +198,7 @@
         "endsOn": "07:00 PM",
         "id": "11286317",
         "imagePath": "35de1169-f457-489b-a7c4-5be93bc6988f9acb7d89-57a9-4ce3-b408-d9e40181dd6b.png",
-        "index": 11,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.523540",
         "location": "Livingston Hall",
@@ -432,7 +228,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.766304,
+        "@search.score": 99.79562,
         "benefitNames": [
             "Free Food"
         ],
@@ -448,7 +244,7 @@
         "endsOn": "08:00 PM",
         "id": "10953017",
         "imagePath": "c5c908e2-655b-4831-9b39-d37dea6b388033f62160-34f0-4cfd-a854-916d665bc97d.png",
-        "index": 12,
+        "index": 6,
         "institutionId": 4753,
         "latitude": null,
         "location": "Busch Student Center Room 115",
@@ -466,7 +262,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.690735,
+        "@search.score": 99.7201,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -483,7 +279,7 @@
         "endsOn": "03:00 PM",
         "id": "11274585",
         "imagePath": "c87a7b03-78f1-4211-8a8f-5ee76297199599750bd7-39e1-43d3-a925-064b3062e261.png",
-        "index": 13,
+        "index": 7,
         "institutionId": 4753,
         "latitude": null,
         "location": "Academic Building West 5th floor",
@@ -501,7 +297,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.659584,
+        "@search.score": 99.68897,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -522,7 +318,7 @@
         "endsOn": "08:00 PM",
         "id": "11230030",
         "imagePath": "eda321fc-6c96-4320-92e8-5b0037ea9235e747273f-8e24-49f1-92e2-4bba7ffcf4a5.png",
-        "index": 14,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.503080",
         "location": "Bishop Beach",
@@ -548,7 +344,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.65067,
+        "@search.score": 99.68007,
         "benefitNames": [
             "Free Food"
         ],
@@ -564,7 +360,7 @@
         "endsOn": "10:00 PM",
         "id": "10303672",
         "imagePath": "b420d455-109e-49b8-b0b5-cacdd90ce792d32c558c-4f13-420f-9cdc-ba99b9569e09.png",
-        "index": 15,
+        "index": 9,
         "institutionId": 4753,
         "latitude": null,
         "location": "Cap & Skull Room 413 - College Avenue Student Center",
@@ -582,7 +378,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.5749,
+        "@search.score": 99.60435,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -603,7 +399,7 @@
         "endsOn": "04:00 PM",
         "id": "11277451",
         "imagePath": "576c73f8-9356-4a90-92e7-22b2a4c858a53a4eab11-8e31-42f3-95e5-e4adbb851cc8.png",
-        "index": 16,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.522280",
         "location": "Best West MPR",
@@ -631,7 +427,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.5749,
+        "@search.score": 99.60435,
         "benefitNames": [
             "Free Food"
         ],
@@ -643,7 +439,7 @@
         "endsOn": "05:00 PM",
         "id": "11283195",
         "imagePath": "b7a2288b-b8e5-4f46-8cbb-ac0ca4aa077859b6803f-be31-4f70-b846-63b7c6488da5.png",
-        "index": 17,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.522050",
         "location": "Buell Apartments ",
@@ -661,7 +457,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.58828,
+        "@search.score": 99.61772,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -682,7 +478,7 @@
         "endsOn": "08:00 PM",
         "id": "11246401",
         "imagePath": "ce57eefe-bc0a-4e66-947f-05d5b0148e55b0bc1981-19ef-4fe3-ab8c-344ce4e52494.png",
-        "index": 18,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.500060",
         "location": "Zimmerli Art Museum",
@@ -700,7 +496,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.59274,
+        "@search.score": 99.62218,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -715,7 +511,7 @@
         "endsOn": "11:00 PM",
         "id": "11286033",
         "imagePath": "d75815ad-2c90-46e4-88c0-dec29d20e504a6b4ec68-6dab-4033-9f3c-d1c79a9e090b.png",
-        "index": 19,
+        "index": 13,
         "institutionId": 4753,
         "latitude": "40.500940",
         "location": "The Canterbury House",
@@ -739,7 +535,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.49005,
+        "@search.score": 99.51956,
         "benefitNames": [
             "Free Food"
         ],
@@ -751,7 +547,7 @@
         "endsOn": "11:00 AM",
         "id": "11277345",
         "imagePath": "4e85e4e1-1399-4fce-bc09-662ea8a406cb25e7a2e1-399f-41bf-b289-f70366301a11.png",
-        "index": 20,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.502670",
         "location": "Graduate Student Lounge ",
@@ -769,7 +565,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.47665,
+        "@search.score": 99.50616,
         "benefitNames": [
             "Free Food"
         ],
@@ -785,7 +581,7 @@
         "endsOn": "01:30 PM",
         "id": "11282035",
         "imagePath": "2d9ffd75-72c4-4c40-8091-7da2c81547c90b2a4cb2-f472-463f-a364-57c00c4ab0ce.png",
-        "index": 21,
+        "index": 15,
         "institutionId": 4753,
         "latitude": "40.523740",
         "location": "Center for Integrative Proteomics",
@@ -803,7 +599,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.47217,
+        "@search.score": 99.501686,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -816,7 +612,7 @@
         "endsOn": "02:30 PM",
         "id": "10766943",
         "imagePath": "0b2d48e2-be0c-44ee-a287-afb0b58311b70ebab3a8-6267-4929-98ca-88a3ed208ae0.png",
-        "index": 22,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -834,7 +630,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.45204,
+        "@search.score": 99.481575,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -847,7 +643,7 @@
         "endsOn": "07:30 PM",
         "id": "11268268",
         "imagePath": "38e9b472-e149-4181-aef8-e6e326ab0972ae249f96-eba9-42dc-bb9e-519decac8aa6.png",
-        "index": 23,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.502450",
         "location": "Honors College",
@@ -865,7 +661,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.48559,
+        "@search.score": 99.51509,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -880,7 +676,7 @@
         "endsOn": "11:00 PM",
         "id": "11286034",
         "imagePath": "d75815ad-2c90-46e4-88c0-dec29d20e504a6b4ec68-6dab-4033-9f3c-d1c79a9e090b.png",
-        "index": 24,
+        "index": 18,
         "institutionId": 4753,
         "latitude": "40.500940",
         "location": "The Canterbury House",
@@ -904,7 +700,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.38264,
+        "@search.score": 99.41222,
         "benefitNames": [
             "Free Food"
         ],
@@ -916,7 +712,7 @@
         "endsOn": "11:45 AM",
         "id": "11261532",
         "imagePath": "98b12493-5724-4a3d-84d9-bff52ca032cc3708ad81-b79f-40ce-adfd-e2bf85024906.png",
-        "index": 25,
+        "index": 19,
         "institutionId": 4753,
         "latitude": "40.521910",
         "location": "LSH B120",
@@ -934,7 +730,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.370316,
+        "@search.score": 99.3999,
         "benefitNames": [
             "Free Food"
         ],
@@ -946,7 +742,7 @@
         "endsOn": "03:00 PM",
         "id": "11261577",
         "imagePath": "c4fb78ab-ae3b-4818-9abe-45015ff94a752081fda7-19d9-4958-bbe2-01246ccabbcf.png",
-        "index": 26,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.521910",
         "location": "LSH B120",
@@ -964,7 +760,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.7188,
+        "@search.score": 98.74885,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -983,7 +779,7 @@
         "endsOn": "09:30 PM",
         "id": "11129195",
         "imagePath": "4d645d3e-6f66-4102-a0ba-02f04e9c87de2192e359-9dd0-4320-a133-cf752ee48459.png",
-        "index": 27,
+        "index": 21,
         "institutionId": 4753,
         "latitude": "40.525010",
         "location": "Jersey Mike's Arena",
@@ -1009,7 +805,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.389885,
+        "@search.score": 98.42015,
         "benefitNames": [
             "Free Food"
         ],
@@ -1025,7 +821,7 @@
         "endsOn": "03:00 PM",
         "id": "11293935",
         "imagePath": "40187b8e-255f-4aa2-b12b-bd16df3687d91745678d-12bd-47f4-a234-b667332f580d.png",
-        "index": 28,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.507840",
         "location": "Johnson Park Picnic Grove 3",
@@ -1043,7 +839,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.16184,
+        "@search.score": 97.192986,
         "benefitNames": [
             "Free Food"
         ],
@@ -1055,16 +851,14 @@
         "endsOn": "02:00 PM",
         "id": "11294714",
         "imagePath": "e2549cea-5aca-4177-8058-26e1944e154985563490-22af-4f2c-ab83-59d4c1b817d5.pdf",
-        "index": 29,
+        "index": 23,
         "institutionId": 4753,
         "latitude": "40.479090",
         "location": "FSNS Rm 120 (Conference/Seminar Room)",
         "longitude": "-74.436310",
         "name": "Dr. Joshua Anthony Seminar on Personalized Nutrition",
         "organizationId": 326935,
-        "organizationIds": [
-            "326935"
-        ],
+        "organizationIds": [],
         "organizationName": "Nutritional Sciences (Graduate Student Organization)",
         "organizationNames": [],
         "organizationProfilePicture": "a32e2e3a-1490-4a57-87df-6849c19df45601465327-8186-4206-9fda-925131d7609a.jpg",
@@ -1075,7 +869,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.50538,
+        "@search.score": 83.548164,
         "benefitNames": [
             "Free Food"
         ],
@@ -1091,7 +885,7 @@
         "endsOn": "08:30 PM",
         "id": "11175859",
         "imagePath": "bd5788ef-1e84-41e9-a50f-c294a47bee157509326d-a6e3-4447-ba60-aea2108e18a3.png",
-        "index": 30,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.502670",
         "location": "College Avenue Student Center: Room 108",
@@ -1109,7 +903,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.35602,
+        "@search.score": 83.39895,
         "benefitNames": [
             "Free Food"
         ],
@@ -1125,7 +919,7 @@
         "endsOn": "07:30 PM",
         "id": "11286521",
         "imagePath": null,
-        "index": 31,
+        "index": 25,
         "institutionId": 4753,
         "latitude": "40.523320",
         "location": "TBD",
@@ -1143,7 +937,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.189804,
+        "@search.score": 83.2329,
         "benefitNames": [
             "Free Food"
         ],
@@ -1159,7 +953,7 @@
         "endsOn": "09:00 PM",
         "id": "11290835",
         "imagePath": null,
-        "index": 32,
+        "index": 26,
         "institutionId": 4753,
         "latitude": "40.502670",
         "location": "College Ave Student Center Room 411A",
@@ -1177,7 +971,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.189804,
+        "@search.score": 83.2329,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1196,7 +990,7 @@
         "endsOn": "09:00 PM",
         "id": "11253114",
         "imagePath": "e8919684-1b39-4690-b193-63bb84a41a1e8a234869-14f9-446c-8753-8670fb744837.png",
-        "index": 33,
+        "index": 27,
         "institutionId": 4753,
         "latitude": null,
         "location": "BSC Room 116",
@@ -1214,7 +1008,48 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.230606,
+        "@search.score": 83.229645,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5332",
+            "5337",
+            "5346",
+            "5352"
+        ],
+        "categoryNames": [
+            "Banquet/Food or Culinary",
+            "Cultural Performance",
+            "General Organization Meeting",
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Join us in learning more about Hinduism with fun activities!",
+        "endsOn": "10:00 PM",
+        "id": "11295063",
+        "imagePath": null,
+        "index": 28,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "BSC 120 ABC",
+        "longitude": null,
+        "name": "HSC General Meeting",
+        "organizationId": 121950,
+        "organizationIds": [],
+        "organizationName": "Hindu Students Council (Rutgers) ",
+        "organizationNames": [],
+        "organizationProfilePicture": "47d14246-312b-4688-9c71-43d2c489175b21a8b6fd-1504-46ed-a852-373a1f2bec24.png",
+        "recScore": null,
+        "startsOn": "September 10 | 08:30 PM",
+        "status": "Approved",
+        "theme": "Spirituality",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 82.27467,
         "benefitNames": [
             "Free Food"
         ],
@@ -1226,7 +1061,7 @@
         "endsOn": "10:15 PM",
         "id": "11293206",
         "imagePath": "58f19782-51ab-43d8-939f-81528fb00507e5cb9338-c6ff-4d12-9cf3-50d635ebf8c6.png",
-        "index": 34,
+        "index": 29,
         "institutionId": 4753,
         "latitude": null,
         "location": "Busch Student Center",
@@ -1244,7 +1079,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.08511,
+        "@search.score": 82.12933,
         "benefitNames": [
             "Free Food"
         ],
@@ -1256,7 +1091,7 @@
         "endsOn": "08:00 PM",
         "id": "11286177",
         "imagePath": null,
-        "index": 35,
+        "index": 30,
         "institutionId": 4753,
         "latitude": "40.523020",
         "location": "Busch Student Center",
@@ -1274,7 +1109,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.081764,
+        "@search.score": 82.125984,
         "benefitNames": [
             "Free Food"
         ],
@@ -1286,7 +1121,7 @@
         "endsOn": "08:30 PM",
         "id": "11286185",
         "imagePath": "0a6008dc-9f5e-4755-af4a-39b3709043c6973ddf3b-facd-4279-9034-ad08e7be0d1a.png",
-        "index": 36,
+        "index": 31,
         "institutionId": 4753,
         "latitude": "40.523020",
         "location": "Busch Student Center",
@@ -1304,7 +1139,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 80.93752,
+        "@search.score": 80.98294,
         "benefitNames": [
             "Free Food"
         ],
@@ -1320,7 +1155,7 @@
         "endsOn": "09:00 PM",
         "id": "11290840",
         "imagePath": null,
-        "index": 37,
+        "index": 32,
         "institutionId": 4753,
         "latitude": "40.502670",
         "location": "College Ave Student Center Room 411A",
@@ -1338,7 +1173,48 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 78.5607,
+        "@search.score": 80.9795,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5332",
+            "5337",
+            "5346",
+            "5352"
+        ],
+        "categoryNames": [
+            "Banquet/Food or Culinary",
+            "Cultural Performance",
+            "General Organization Meeting",
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Join us in learning more about Hinduism with fun activities!",
+        "endsOn": "09:30 PM",
+        "id": "11295064",
+        "imagePath": null,
+        "index": 33,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "BSC 120 ABC",
+        "longitude": null,
+        "name": "HSC General Meeting",
+        "organizationId": 121950,
+        "organizationIds": [],
+        "organizationName": "Hindu Students Council (Rutgers) ",
+        "organizationNames": [],
+        "organizationProfilePicture": "47d14246-312b-4688-9c71-43d2c489175b21a8b6fd-1504-46ed-a852-373a1f2bec24.png",
+        "recScore": null,
+        "startsOn": "September 24 | 08:30 PM",
+        "status": "Approved",
+        "theme": "Spirituality",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 78.608696,
         "benefitNames": [
             "Free Food"
         ],
@@ -1354,7 +1230,7 @@
         "endsOn": "09:00 PM",
         "id": "11290841",
         "imagePath": null,
-        "index": 38,
+        "index": 34,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Ave Student Center Room 411A",
@@ -1372,7 +1248,48 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 76.04476,
+        "@search.score": 78.605064,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5332",
+            "5337",
+            "5346",
+            "5352"
+        ],
+        "categoryNames": [
+            "Banquet/Food or Culinary",
+            "Cultural Performance",
+            "General Organization Meeting",
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Join us in learning more about Hinduism with fun activities!",
+        "endsOn": "09:30 PM",
+        "id": "11295065",
+        "imagePath": null,
+        "index": 35,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "BSC 120 ABC",
+        "longitude": null,
+        "name": "HSC General Meeting",
+        "organizationId": 121950,
+        "organizationIds": [],
+        "organizationName": "Hindu Students Council (Rutgers) ",
+        "organizationNames": [],
+        "organizationProfilePicture": "47d14246-312b-4688-9c71-43d2c489175b21a8b6fd-1504-46ed-a852-373a1f2bec24.png",
+        "recScore": null,
+        "startsOn": "October 08 | 08:30 PM",
+        "status": "Approved",
+        "theme": "Spirituality",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 76.09565,
         "benefitNames": [
             "Free Food"
         ],
@@ -1388,7 +1305,7 @@
         "endsOn": "09:00 PM",
         "id": "11290842",
         "imagePath": null,
-        "index": 39,
+        "index": 36,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Ave Student Center Room 411A",
@@ -1406,7 +1323,48 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 73.36419,
+        "@search.score": 76.0918,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5332",
+            "5337",
+            "5346",
+            "5352"
+        ],
+        "categoryNames": [
+            "Banquet/Food or Culinary",
+            "Cultural Performance",
+            "General Organization Meeting",
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Join us in learning more about Hinduism with fun activities!",
+        "endsOn": "09:30 PM",
+        "id": "11295066",
+        "imagePath": null,
+        "index": 37,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "BSC 120 ABC",
+        "longitude": null,
+        "name": "HSC General Meeting",
+        "organizationId": 121950,
+        "organizationIds": [],
+        "organizationName": "Hindu Students Council (Rutgers) ",
+        "organizationNames": [],
+        "organizationProfilePicture": "47d14246-312b-4688-9c71-43d2c489175b21a8b6fd-1504-46ed-a852-373a1f2bec24.png",
+        "recScore": null,
+        "startsOn": "October 22 | 08:30 PM",
+        "status": "Approved",
+        "theme": "Spirituality",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 73.41834,
         "benefitNames": [
             "Free Food"
         ],
@@ -1422,7 +1380,7 @@
         "endsOn": "09:00 PM",
         "id": "11290843",
         "imagePath": null,
-        "index": 40,
+        "index": 38,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Ave Student Center Room 411A",
@@ -1440,7 +1398,48 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 70.514084,
+        "@search.score": 73.414246,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5332",
+            "5337",
+            "5346",
+            "5352"
+        ],
+        "categoryNames": [
+            "Banquet/Food or Culinary",
+            "Cultural Performance",
+            "General Organization Meeting",
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Join us in learning more about Hinduism with fun activities!",
+        "endsOn": "09:30 PM",
+        "id": "11295067",
+        "imagePath": null,
+        "index": 39,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "BSC 120 ABC",
+        "longitude": null,
+        "name": "HSC General Meeting",
+        "organizationId": 121950,
+        "organizationIds": [],
+        "organizationName": "Hindu Students Council (Rutgers) ",
+        "organizationNames": [],
+        "organizationProfilePicture": "47d14246-312b-4688-9c71-43d2c489175b21a8b6fd-1504-46ed-a852-373a1f2bec24.png",
+        "recScore": null,
+        "startsOn": "November 05 | 08:30 PM",
+        "status": "Approved",
+        "theme": "Spirituality",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 70.57195,
         "benefitNames": [
             "Free Food"
         ],
@@ -1456,7 +1455,7 @@
         "endsOn": "09:00 PM",
         "id": "11290844",
         "imagePath": null,
-        "index": 41,
+        "index": 40,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Ave Student Center Room 411A",
@@ -1474,7 +1473,48 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 67.46155,
+        "@search.score": 70.56757,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5332",
+            "5337",
+            "5346",
+            "5352"
+        ],
+        "categoryNames": [
+            "Banquet/Food or Culinary",
+            "Cultural Performance",
+            "General Organization Meeting",
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Join us in learning more about Hinduism with fun activities!",
+        "endsOn": "09:30 PM",
+        "id": "11295068",
+        "imagePath": null,
+        "index": 41,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "BSC 120 ABC",
+        "longitude": null,
+        "name": "HSC General Meeting",
+        "organizationId": 121950,
+        "organizationIds": [],
+        "organizationName": "Hindu Students Council (Rutgers) ",
+        "organizationNames": [],
+        "organizationProfilePicture": "47d14246-312b-4688-9c71-43d2c489175b21a8b6fd-1504-46ed-a852-373a1f2bec24.png",
+        "recScore": null,
+        "startsOn": "November 19 | 08:30 PM",
+        "status": "Approved",
+        "theme": "Spirituality",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 67.523674,
         "benefitNames": [
             "Free Food"
         ],
@@ -1508,7 +1548,48 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 66.5769,
+        "@search.score": 67.51897,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5332",
+            "5337",
+            "5346",
+            "5352"
+        ],
+        "categoryNames": [
+            "Banquet/Food or Culinary",
+            "Cultural Performance",
+            "General Organization Meeting",
+            "Religious/Religious Cultural/Spiritual Event"
+        ],
+        "description": "Join us in learning more about Hinduism with fun activities!",
+        "endsOn": "09:30 PM",
+        "id": "11295069",
+        "imagePath": null,
+        "index": 43,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "BSC 120 ABC",
+        "longitude": null,
+        "name": "HSC General Meeting",
+        "organizationId": 121950,
+        "organizationIds": [],
+        "organizationName": "Hindu Students Council (Rutgers) ",
+        "organizationNames": [],
+        "organizationProfilePicture": "47d14246-312b-4688-9c71-43d2c489175b21a8b6fd-1504-46ed-a852-373a1f2bec24.png",
+        "recScore": null,
+        "startsOn": "December 03 | 08:30 PM",
+        "status": "Approved",
+        "theme": "Spirituality",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 66.64031,
         "benefitNames": [
             "Free Food"
         ],
@@ -1524,7 +1605,7 @@
         "endsOn": "07:00 PM",
         "id": "11292236",
         "imagePath": "6d0f0934-2b06-4fae-997a-5e4ff418745a711bcd2f-5a07-48b5-9a42-86ab50c58b20.png",
-        "index": 43,
+        "index": 44,
         "institutionId": 4753,
         "latitude": "40.484710",
         "location": "Douglass Student Center - Trayes Hall ",
