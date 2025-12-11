@@ -1,311 +1,6 @@
 [
     {
-        "@search.score": 1.0,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "7127"
-        ],
-        "categoryNames": [
-            "Art Creation"
-        ],
-        "description": "Our club will be hosting a Self-Care and Clay Charm Night focused on creativity and stress relief. Participants will have the opportunity to make their own clay charms and engage in light self-care activities designed to help students decompress during a busy academic period. Materials will be supplied, and the event is open to all students looking for a calm and creative break.",
-        "endsOn": "03:00 PM",
-        "id": "11935775",
-        "imagePath": "b5349b81-5059-4898-9fa2-e4a64c5828451e04bd62-42ae-4113-907c-f134ed0f9cc2.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": "40.524940",
-        "location": "livingston Coffeehouse",
-        "longitude": "-74.435840",
-        "name": "Clay Charm And Self Care Night ",
-        "organizationId": 330483,
-        "organizationIds": [],
-        "organizationName": "Arts and Music Undergraduate Service Education",
-        "organizationNames": [],
-        "organizationProfilePicture": "1b7ec609-4545-4c79-af37-65ad1f7b1343383f2624-ccb9-4006-8bfb-76d922ffb6de.png",
-        "recScore": null,
-        "rsvpTotal": 9,
-        "startsOn": "December 10 | 01:00 PM",
-        "status": "Approved",
-        "theme": "Arts",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97481,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "7111"
-        ],
-        "categoryNames": [
-            "Social Event"
-        ],
-        "description": "Get your sweet fix and join JAQs in cupcake decorating as our last event of the semester! Limited supply of gluten free cupcakes will be there as well!\ud83e\uddc1\ud83d\ude0b\ud83e\uddd1\u200d\ud83c\udf73\ud83d\udc8c\ud83d\udc95",
-        "endsOn": "08:00 PM",
-        "id": "11936222",
-        "imagePath": "688161aa-ea27-45b2-a5ee-ac8e7c8953ad0978a3b9-c7e9-44c5-9c50-ff8b04a8afb1.png",
-        "index": 1,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "Rutgers Hillel Building - Pavlovsky Student Office",
-        "longitude": null,
-        "name": "Cupcake Decorating",
-        "organizationId": 198856,
-        "organizationIds": [],
-        "organizationName": "Jewish Allies and Queers ",
-        "organizationNames": [],
-        "organizationProfilePicture": "e39e8941-4c5e-4690-9be9-454f869da8d0b8551dd1-1dee-4d4b-991d-cdcf7aeaeef2.png",
-        "recScore": null,
-        "rsvpTotal": 0,
-        "startsOn": "December 10 | 07:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97039,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Join Sociology Club for our end-of-year party with boba, sushi, and dumplings! ",
-        "endsOn": "09:00 PM",
-        "id": "11939627",
-        "imagePath": "0f556b50-260c-4788-a443-f1ee346192c3f845fe02-a9d4-436a-9c69-bf106fdc842b.png",
-        "index": 2,
-        "institutionId": 4753,
-        "latitude": "40.484210",
-        "location": "Davison Hall Room 129",
-        "longitude": "-74.437450",
-        "name": "End of Year Party with the Sociology Club ",
-        "organizationId": 392785,
-        "organizationIds": [],
-        "organizationName": "Sociology Club ",
-        "organizationNames": [],
-        "organizationProfilePicture": "804380a3-bb20-4b6e-843e-0bae371541b22c5dda4e-49ad-477a-907d-40069c280390.png",
-        "recScore": null,
-        "rsvpTotal": 6,
-        "startsOn": "December 10 | 08:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.969284,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "6111",
-            "7111"
-        ],
-        "categoryNames": [
-            "Academics (Residence Life)",
-            "Social Event"
-        ],
-        "description": "Study breaks hit different when food is involved! Join HARU for a finals study session. Come eat, study, and vibe with us!   Date: Wednesday, December 10th 2025.  Time: 8:15 pm Location: Tillet Hall  ",
-        "endsOn": "09:15 PM",
-        "id": "11939962",
-        "imagePath": "c69d60d4-9131-44c4-940b-91fef794f4fb129c946d-cfec-45d5-ba6e-4844942b0a0f.png",
-        "index": 3,
-        "institutionId": 4753,
-        "latitude": "40.522350",
-        "location": "Tillet Hall",
-        "longitude": "-74.435160",
-        "name": "Study & Patties",
-        "organizationId": 124764,
-        "organizationIds": [],
-        "organizationName": "Haitian Association at Rutgers University (HARU)",
-        "organizationNames": [],
-        "organizationProfilePicture": "fc90ad25-d184-4fed-944e-bc00b69c71c12c585e82-64dc-4205-833a-e66c30c897bd.png",
-        "recScore": null,
-        "rsvpTotal": 1,
-        "startsOn": "December 10 | 08:15 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97039,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "7111"
-        ],
-        "categoryNames": [
-            "Social Event"
-        ],
-        "description": "Join us a CSBQ and take a break from finals! We will be providing free Hot Cocoa and a movie for us all to enjoy and relax!    December 10, 8-930 pm at Luepp Hall Basement",
-        "endsOn": "09:30 PM",
-        "id": "11942762",
-        "imagePath": "41eaf591-44d4-453c-b809-03a780059bf21cd39022-6642-4d32-84b8-d19e9a031e73.png",
-        "index": 4,
-        "institutionId": 4753,
-        "latitude": "40.503830",
-        "location": "Luepp Hall Basement",
-        "longitude": "-74.449620",
-        "name": "Cozy Up With a Cup!",
-        "organizationId": 128128,
-        "organizationIds": [
-            "128128",
-            "132650"
-        ],
-        "organizationName": "Residence Hall Association (RHA)",
-        "organizationNames": [
-            "Residence Hall Association (RHA)",
-            "Residence Life: College Avenue - Bishop Quad"
-        ],
-        "organizationProfilePicture": "f2b4e0fa-f05a-40ab-b063-c00d109669cefa4840ff-ece8-4087-bec5-3fe69e991815.JPG",
-        "recScore": null,
-        "rsvpTotal": 0,
-        "startsOn": "December 10 | 08:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.96818,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5346"
-        ],
-        "categoryNames": [
-            "General Organization Meeting"
-        ],
-        "description": "Come join us to learn about the 5 elements of Hinduism with food and activity stations !",
-        "endsOn": "09:30 PM",
-        "id": "11943702",
-        "imagePath": "a36db8d1-473c-4410-8d91-4e89ff09704cdfa8322e-5315-459c-93f0-b5a750d8ad34.png",
-        "index": 5,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "BSC 174",
-        "longitude": null,
-        "name": "HSC X ASC General Meeting",
-        "organizationId": 121950,
-        "organizationIds": [],
-        "organizationName": "Hindu Students Council (Rutgers) ",
-        "organizationNames": [],
-        "organizationProfilePicture": "47d14246-312b-4688-9c71-43d2c489175b21a8b6fd-1504-46ed-a852-373a1f2bec24.png",
-        "recScore": null,
-        "rsvpTotal": 0,
-        "startsOn": "December 10 | 08:30 PM",
-        "status": "Approved",
-        "theme": "Cultural",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.97039,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5353",
-            "5358",
-            "7111"
-        ],
-        "categoryNames": [
-            "Seasonal/Holiday",
-            "Wellness Event",
-            "Social Event"
-        ],
-        "description": "Come destress before finals at the Cozy Cocoa Lounge in the McCormick MPR! Enjoy some games, crafts, and free hot chocolate!",
-        "endsOn": "10:00 PM",
-        "id": "11926948",
-        "imagePath": "acfc0306-b807-4c54-8adc-e598659d70837b3a02fb-3f51-416c-beec-8ab1aae81d30.png",
-        "index": 6,
-        "institutionId": 4753,
-        "latitude": "40.524840",
-        "location": "McCormick MPR Room",
-        "longitude": "-74.458830",
-        "name": "Cozy Cocoa Lounge",
-        "organizationId": 152572,
-        "organizationIds": [],
-        "organizationName": "Honors College",
-        "organizationNames": [],
-        "organizationProfilePicture": "bad64d2d-e31b-43ef-9900-cb3f8d4982ac4d668a3d-4463-4354-a963-72bfb94173fa.png",
-        "recScore": null,
-        "rsvpTotal": 14,
-        "startsOn": "December 10 | 08:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.905136,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "20311"
-        ],
-        "categoryNames": [
-            "Graduate Student Organization Event"
-        ],
-        "description": " Feeling the finals crunch? Step away from your desk and reset with some guided movement with RU Rec professionals to wake up your biceps and quads, and a guided mini pi\u00f1ata-making led by Scarlet Arts RX \u2014 engage, create, unwind!    We\u2019ll be doing some cardio and flexibility activities with RU Rec to shake off the exam stress and then indulging in creative pursuits by making pi\u00f1atas with Scarlet Arts RX while enjoying some well-deserved food.   No experience needed \u2014 just bring your sneakers, spirit, and something comfy to move in.   RSVP: https://forms.gle/y6sycQztCfPRmUu68",
-        "endsOn": "11:45 AM",
-        "id": "11915024",
-        "imagePath": "28bd3ecb-88e1-46f4-8e3e-b9a39d94bb36cb2b9e0a-36fc-4a3f-a987-9610045bce52.png",
-        "index": 7,
-        "institutionId": 4753,
-        "latitude": "40.519610",
-        "location": "Sonny Werblin Recreation Center",
-        "longitude": "-74.460980",
-        "name": "Low Resistance. High Capacity",
-        "organizationId": 401013,
-        "organizationIds": [
-            "215013",
-            "312665",
-            "392207",
-            "401013"
-        ],
-        "organizationName": "Electrical & Computer Engineering Graduate Student Association",
-        "organizationNames": [
-            "Rutgers Recreation (Department at Rutgers)",
-            "Graduate Student Association (GSA)",
-            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)",
-            "Electrical & Computer Engineering Graduate Student Association"
-        ],
-        "organizationProfilePicture": "fcabadaf-94e1-4590-8ede-ad93eb1275fd37b95db4-57ca-479a-abe8-a10124b1aba4.png",
-        "recScore": null,
-        "rsvpTotal": 0,
-        "startsOn": "December 11 | 10:45 AM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.89517,
+        "@search.score": 99.924614,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -324,7 +19,7 @@
         "endsOn": "02:30 PM",
         "id": "11365593",
         "imagePath": "c854be94-a88f-4140-81d1-9dcdc608e33f940c5114-8f09-4b17-82c0-11351a196667.png",
-        "index": 8,
+        "index": 0,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -336,14 +31,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "5ed5910e-a369-4630-978c-8b9b350e348f9ba332eb-d00f-45f8-9203-7f07d1b096ab.png",
         "recScore": null,
-        "rsvpTotal": 58,
+        "rsvpTotal": 59,
         "startsOn": "December 11 | 01:00 PM",
         "status": "Approved",
         "theme": "Arts",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.89517,
+        "@search.score": 99.924614,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -362,7 +57,7 @@
         "endsOn": "03:00 PM",
         "id": "11916237",
         "imagePath": "0fe37040-ca22-4312-ad2a-1e821cc3a45f927a273a-ec24-4692-8825-862e5e0e1af4.png",
-        "index": 9,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.480760",
         "location": "Bunting-Cobb Lounge",
@@ -380,14 +75,14 @@
         ],
         "organizationProfilePicture": "89083923-ad70-4379-9729-9a40a4ad5836403fe08a-7b11-4c8d-be01-a03e112a1c2e.png",
         "recScore": null,
-        "rsvpTotal": 40,
+        "rsvpTotal": 45,
         "startsOn": "December 11 | 01:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.899605,
+        "@search.score": 99.92904,
         "benefitNames": [
             "Free Food"
         ],
@@ -399,7 +94,7 @@
         "endsOn": "04:00 PM",
         "id": "11924628",
         "imagePath": "821c6aba-0646-4f19-a786-284c0e7dec6aeb0ed775-7d85-4c1e-a3bd-0a5e4e060524.png",
-        "index": 10,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.504990",
         "location": "IDEA Lab, College Ave Library",
@@ -411,14 +106,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "b7fe21f7-4f80-4dc3-9688-a04ae960266b5b8faf4d-3f60-4d94-aba5-389c1d291e47.jpg",
         "recScore": null,
-        "rsvpTotal": 11,
+        "rsvpTotal": 14,
         "startsOn": "December 11 | 12:00 PM",
         "status": "Approved",
         "theme": "ThoughtfulLearning",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.89075,
+        "@search.score": 99.92019,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -437,7 +132,7 @@
         "endsOn": "04:00 PM",
         "id": "11910879",
         "imagePath": "1ef68f4a-54f8-4db9-a66f-9b6c033f345ed73ab4fe-a55f-4ac5-875b-4e883ba23ba8.png",
-        "index": 11,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.525370",
         "location": "Mc Cormick Suites (First Floor Lounge)  ",
@@ -466,7 +161,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.87968,
+        "@search.score": 99.90913,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -485,7 +180,7 @@
         "endsOn": "06:00 PM",
         "id": "11888123",
         "imagePath": "a70dc5ec-c026-4786-9025-91c971c1d1be95fe8924-b1ad-46a5-9bbc-73d6253bea6e.png",
-        "index": 12,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.487280",
         "location": "Kathleen W. Ludwig Global Village Living Learning Center",
@@ -510,7 +205,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.87746,
+        "@search.score": 99.90691,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -527,7 +222,7 @@
         "endsOn": "06:00 PM",
         "id": "11603763",
         "imagePath": "9c3d416c-001f-4117-86bd-0f5441b230926645b0e6-c8d7-4337-aee9-e1f9b49c2ed8.png",
-        "index": 13,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.521910",
         "location": "Lucy Stone Hall ",
@@ -539,14 +234,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "98da50a6-c5e9-4dea-97cd-d30d0481e58c3575b987-86e6-4dd1-b6d6-30f43841a641.jpg",
         "recScore": null,
-        "rsvpTotal": 0,
+        "rsvpTotal": 1,
         "startsOn": "December 11 | 05:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.875244,
+        "@search.score": 99.9047,
         "benefitNames": [
             "Free Food"
         ],
@@ -558,11 +253,11 @@
         "categoryNames": [
             "Film "
         ],
-        "description": "Let us get ready for one last time with a movie night! We will be ordering Chinese food from China Lee for our get together to celebrate Christmas. This will be our last event of the year, we hope to see you all!  ",
+        "description": "Let us get ready for one last time with a movie night! We will be ordering Chinese food from China Lee for our get together to celebrate the Holiday season. The movie would be Home Alone. This will be our last event of the year, we hope to see you all!  ",
         "endsOn": "06:30 PM",
         "id": "11935743",
         "imagePath": "cbdf6087-d10f-446e-980e-56a493eee0e4c962309b-ec37-4f65-9dcc-2f7191c16618.png",
-        "index": 14,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.522680",
         "location": "330W Serin building ",
@@ -574,14 +269,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "6efe8259-af77-468c-b9e6-84232e4151bf55656a5a-dc3d-4dac-9a96-372af9a7c906.jpg",
         "recScore": null,
-        "rsvpTotal": 11,
+        "rsvpTotal": 18,
         "startsOn": "December 11 | 05:30 PM",
         "status": "Approved",
-        "theme": "Arts",
+        "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.8686,
+        "@search.score": 99.898056,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -604,7 +299,7 @@
         "endsOn": "10:00 PM",
         "id": "11941175",
         "imagePath": "9c313e8e-464c-4586-b554-662e1e08d0d6a6238cf1-bd91-44cd-ad5d-8b03e707d69b.png",
-        "index": 15,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.503230",
         "location": "Clothier Hall",
@@ -629,7 +324,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.23477,
+        "@search.score": 99.26467,
         "benefitNames": [
             "Free Food"
         ],
@@ -653,7 +348,7 @@
         "endsOn": "07:00 PM",
         "id": "11928760",
         "imagePath": "9aee0f62-9a84-4a5a-9e1d-5695b63718ba5b2015b9-efae-4bcb-a0d7-09b85cc975cc.png",
-        "index": 16,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.524640",
         "location": "RWJMS Research Tower, Dean's Conference Room (123)",
@@ -678,7 +373,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.932434,
+        "@search.score": 98.96255,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -699,7 +394,7 @@
         "endsOn": "03:00 PM",
         "id": "11935726",
         "imagePath": "e29f3442-b399-41c3-809a-25711dcf16c03692ec0c-9bf8-416b-abe4-de731c337163.png",
-        "index": 17,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "Graduate Student Lounge",
@@ -719,14 +414,14 @@
         ],
         "organizationProfilePicture": "67324cf2-eb53-45f3-8635-c25617096de061b5f661-e57a-4587-b441-1f83eec06234.png",
         "recScore": null,
-        "rsvpTotal": 16,
+        "rsvpTotal": 18,
         "startsOn": "December 20 | 12:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 95.07868,
+        "@search.score": 95.11161,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -743,11 +438,11 @@
             "Social Event",
             "Welcome Week"
         ],
-        "description": "RU a new? Have you heard about Douglass, historically known as the women's college at Rutgers? RU looking for a supportive community that will help you hit the ground running and get the most of your time here? Come check out Douglass where we focus on women's leadership by providing special opportunities for you to build your skills and surround yourself with students and staff who are passionate about social justice and centering women's lived experiences.  Meet new and current Douglass students and staff and hear about the opportunities and experiences that will enhance your college journey. From social events like International Women's Day to internship and research opportunities, Douglass enhances all majors and helps you build your resume and connections. Don't miss food and Douglass swag!!",
+        "description": "RU a new? Have you heard about Douglass, historically known as the women's college at Rutgers? RU looking for a supportive community that will help you hit the ground running and get the most of your time here? Come check out Douglass where we focus on women's leadership by providing special opportunities for you to build your skills and surround yourself with students and staff who are passionate about social justice and centering women's lived experiences.  Meet new and current Douglass students and staff and hear about the opportunities and experiences that will enhance your college journey. From social events like International Women's Day to internship and research opportunities, Douglass enhances all majors and helps you build your resume and connections. Don't miss food and Douglass swag!!   Image and Media Release By attending this event, you acknowledge and agree that Rutgers University may photograph, record, or otherwise capture your image, and/or voice at this event. You grant Rutgers the unrestricted right to use, reproduce, publish, and distribute these sound, still, or moving images in any medium for educational, promotional, advertising, or other purposes aligned with the University\u2019s mission. All rights to these materials will belong to Rutgers University. Please let our photographer or videographer know if you do not want your image taken at the event.",
         "endsOn": "12:00 PM",
         "id": "11932669",
         "imagePath": "e3d1e193-51d7-461b-bdc8-1a2df1ab79ae3c318e63-6316-4110-a985-5da5670ba98f.png",
-        "index": 18,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen W. Ludwig Building",
@@ -766,7 +461,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.710594,
+        "@search.score": 94.743805,
         "benefitNames": [
             "Free Food"
         ],
@@ -782,7 +477,7 @@
         "endsOn": "01:30 PM",
         "id": "11928149",
         "imagePath": "5c8903a0-8402-4faf-b52e-4f549915736d98ce95c6-ab14-45cf-a862-86d4d38a0485.pdf",
-        "index": 19,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.484680",
         "location": "Hickman Hall- Room TBA",
@@ -801,7 +496,77 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 89.76599,
+        "@search.score": 94.241714,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "7111"
+        ],
+        "categoryNames": [
+            "Social Event"
+        ],
+        "description": "Friendship Fridays are a monthly opportunity for the Rutgers community to step away from classwork and research and just hang out and relax together.  Join us to enjoy games, activities, food, and conversation - and make new friends from around the world! ",
+        "endsOn": "05:30 PM",
+        "id": "11945073",
+        "imagePath": "78415a30-29b2-4a79-8d55-803b4ec7ebf93eda0eca-656c-4d0f-8d18-019495c35c8f.png",
+        "index": 12,
+        "institutionId": 4753,
+        "latitude": "40.523320",
+        "location": "The Cove - Busch Student Center ",
+        "longitude": "-74.458640",
+        "name": "Friendship Fridays ",
+        "organizationId": 257221,
+        "organizationIds": [],
+        "organizationName": "Rutgers Global (Department at Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "e7fb94e5-30a7-461c-8c95-d0695c3269f587d7e612-a687-4d59-a4d3-9ebc02d6f0d2.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "January 30 | 04:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 91.617874,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "7111"
+        ],
+        "categoryNames": [
+            "Social Event"
+        ],
+        "description": "Friendship Fridays are a monthly opportunity for the Rutgers community to step away from classwork and research and just hang out and relax together.  Join us to enjoy games, activities, food, and conversation - and make new friends from around the world! ",
+        "endsOn": "05:30 PM",
+        "id": "11945076",
+        "imagePath": "a9960645-1f43-4314-8970-2b700bace8cc12611b22-6668-44b0-82ba-ec8b1050ee5f.png",
+        "index": 13,
+        "institutionId": 4753,
+        "latitude": "40.524940",
+        "location": "Gathering Lounge - Livingston Student Center ",
+        "longitude": "-74.435840",
+        "name": "Friendship Fridays ",
+        "organizationId": 257221,
+        "organizationIds": [],
+        "organizationName": "Rutgers Global (Department at Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "e7fb94e5-30a7-461c-8c95-d0695c3269f587d7e612-a687-4d59-a4d3-9ebc02d6f0d2.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "February 20 | 04:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 89.803246,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -823,7 +588,7 @@
         "endsOn": "03:00 PM",
         "id": "11872693",
         "imagePath": "974900fd-fce6-480e-a91f-5dd3b69fb2456e126703-a5dd-4fa8-b70a-5f8ddce73d7c.png",
-        "index": 20,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Trayes Hall Douglass Student Center",
@@ -837,6 +602,41 @@
         "recScore": null,
         "rsvpTotal": 3,
         "startsOn": "March 06 | 11:00 AM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 86.86019,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "7111"
+        ],
+        "categoryNames": [
+            "Social Event"
+        ],
+        "description": "Friendship Fridays are a monthly opportunity for the Rutgers community to step away from classwork and research and just hang out and relax together.  Join us to enjoy games, activities, food, and conversation - and make new friends from around the world! ",
+        "endsOn": "05:30 PM",
+        "id": "11945079",
+        "imagePath": "abbe88a8-282b-4b62-bcff-fb6d5849460649bc2e0e-bd7e-495d-ae10-ce8ca14e616b.png",
+        "index": 15,
+        "institutionId": 4753,
+        "latitude": "40.523320",
+        "location": "The Cove - Busch Student Center ",
+        "longitude": "-74.458640",
+        "name": "Friendship Fridays ",
+        "organizationId": 257221,
+        "organizationIds": [],
+        "organizationName": "Rutgers Global (Department at Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "e7fb94e5-30a7-461c-8c95-d0695c3269f587d7e612-a687-4d59-a4d3-9ebc02d6f0d2.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "March 27 | 04:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
