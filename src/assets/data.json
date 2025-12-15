@@ -1,6 +1,38 @@
 [
     {
-        "@search.score": 99.74489,
+        "@search.score": 99.98589,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Come join us to play some music jeopardy! There will be snacks and prizes!",
+        "endsOn": "05:30 PM",
+        "id": "11950667",
+        "imagePath": "fbadda3f-b923-4959-9e2b-c3fc03444dd14cbfc42b-29c7-4268-b5cc-47bdd0bc8353.png",
+        "index": 0,
+        "institutionId": 4753,
+        "latitude": "40.486630",
+        "location": "Marryott Music Building Room 109",
+        "longitude": "-74.433070",
+        "name": "Rutgers ACDA Music Jeopardy Stress Buster",
+        "organizationId": 121324,
+        "organizationIds": [],
+        "organizationName": "American Choral Directors Association",
+        "organizationNames": [],
+        "organizationProfilePicture": "b2b06dbe-be6d-4fcd-ad3d-0b2ad87aa80c134fd770-4073-421a-ae6d-1d6ca9bcd1e2.jpg",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "December 15 | 04:30 PM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.77104,
         "benefitNames": [
             "Free Food"
         ],
@@ -24,7 +56,7 @@
         "endsOn": "07:00 PM",
         "id": "11928760",
         "imagePath": "9aee0f62-9a84-4a5a-9e1d-5695b63718ba5b2015b9-efae-4bcb-a0d7-09b85cc975cc.png",
-        "index": 0,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.524640",
         "location": "RWJMS Research Tower, Dean's Conference Room (123)",
@@ -49,7 +81,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.44613,
+        "@search.score": 99.47247,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -70,7 +102,7 @@
         "endsOn": "03:00 PM",
         "id": "11935726",
         "imagePath": "1def8a5b-57aa-45b7-8f10-51f55609c2b37a205fff-7e86-47a9-b9f0-2642b3d3c6eb.png",
-        "index": 1,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "Graduate Student Lounge",
@@ -94,14 +126,14 @@
         ],
         "organizationProfilePicture": "67324cf2-eb53-45f3-8635-c25617096de061b5f661-e57a-4587-b441-1f83eec06234.png",
         "recScore": null,
-        "rsvpTotal": 70,
+        "rsvpTotal": 74,
         "startsOn": "December 20 | 12:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 95.640236,
+        "@search.score": 95.669014,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -122,7 +154,7 @@
         "endsOn": "12:00 PM",
         "id": "11932669",
         "imagePath": "e3d1e193-51d7-461b-bdc8-1a2df1ab79ae3c318e63-6316-4110-a985-5da5670ba98f.png",
-        "index": 2,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen W. Ludwig Building",
@@ -141,7 +173,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.27694,
+        "@search.score": 95.30596,
         "benefitNames": [
             "Free Food"
         ],
@@ -157,7 +189,7 @@
         "endsOn": "01:30 PM",
         "id": "11928149",
         "imagePath": "5c8903a0-8402-4faf-b52e-4f549915736d98ce95c6-ab14-45cf-a862-86d4d38a0485.pdf",
-        "index": 3,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.484680",
         "location": "Hickman Hall- Room TBA",
@@ -176,7 +208,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.91552,
+        "@search.score": 94.944786,
         "benefitNames": [
             "Free Food"
         ],
@@ -194,7 +226,7 @@
         "endsOn": "03:00 PM",
         "id": "11945851",
         "imagePath": null,
-        "index": 4,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Livingston Student Center, Livingston Hall",
@@ -213,7 +245,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.78107,
+        "@search.score": 94.810425,
         "benefitNames": [
             "Free Food"
         ],
@@ -229,7 +261,7 @@
         "endsOn": "05:30 PM",
         "id": "11945073",
         "imagePath": "78415a30-29b2-4a79-8d55-803b4ec7ebf93eda0eca-656c-4d0f-8d18-019495c35c8f.png",
-        "index": 5,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.523320",
         "location": "The Cove - Busch Student Center ",
@@ -248,7 +280,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.20113,
+        "@search.score": 94.23089,
         "benefitNames": [
             "Free Food"
         ],
@@ -264,7 +296,7 @@
         "endsOn": "01:30 PM",
         "id": "11945867",
         "imagePath": null,
-        "index": 6,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Livingston Student Center, Livingston Hall",
@@ -283,7 +315,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.19094,
+        "@search.score": 92.22212,
         "benefitNames": [
             "Free Food"
         ],
@@ -299,7 +331,7 @@
         "endsOn": "05:30 PM",
         "id": "11945076",
         "imagePath": "a9960645-1f43-4314-8970-2b700bace8cc12611b22-6668-44b0-82ba-ec8b1050ee5f.png",
-        "index": 7,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Gathering Lounge - Livingston Student Center ",
@@ -318,7 +350,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.674034,
+        "@search.score": 91.70559,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -335,7 +367,7 @@
         "endsOn": "07:00 PM",
         "id": "11945885",
         "imagePath": null,
-        "index": 8,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Trayes Hall",
@@ -354,7 +386,44 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.400856,
+        "@search.score": 91.69755,
+        "benefitNames": [
+            "Credit",
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "7127"
+        ],
+        "categoryNames": [
+            "Art Creation"
+        ],
+        "description": "Join the Center for Women in the Arts at Douglass for a workshop led by acclaimed artist Liz Collins! This unique needlepoint workshop invites you to explore the meditative joy of stitching. Collins will guide participants through the myriad of stitches possible within needlepoint and share her distinctive methodology for creating improvisational designs, treating needlepoint as a slow drawing process in response to the grid.   Only open to Douglass and Art & Design students. Free supplies and snacks provided! Supplies are limited \u2013 First come, first served. All skill levels and forms of stitching are welcome and supported. This experience counts towards the Douglass Discovery curriculum requirement. R3: Career/Discovery/Professional Development/Research. Reminder: To receive DRC curriculum credit, you must complete a reflection survey. *Liz Collins is the 2025-2026 Estelle Lebowitz & Ann Beneduce-Lebowitz Artist-in-Residence. Her solo exhibition, Shapeshifter, is on view through March 13, 2026 in the Mary H. Dana Women Artists Series Galleries at Douglass Libraries. ___ * Image and Media ReleaseBy attending this event, you acknowledge and agree that Rutgers University may photograph, record, or otherwise capture your artwork, image, and/or voice. You grant Rutgers the unrestricted right to use, reproduce, publish, and distribute these sound, still, or moving images in any medium for educational, promotional, advertising, or other purposes aligned with the University\u2019s mission. All rights to these materials will belong to Rutgers University. Please let our photographer or videographer know if you do not want your image taken at the event.",
+        "endsOn": "08:30 PM",
+        "id": "11950313",
+        "imagePath": "5d050158-edca-45ea-93e6-fb38913aea9989dbdaed-e482-4ed8-a722-0327c917a7bd.png",
+        "index": 10,
+        "institutionId": 4753,
+        "latitude": "40.484150",
+        "location": "Ludwig Center, Albers-Schonberg Rm",
+        "longitude": "-74.439000",
+        "name": "Needlepoint Workshop with artist Liz Collins ",
+        "organizationId": 234210,
+        "organizationIds": [],
+        "organizationName": "Academic Programs at Douglass Residential College - DRC",
+        "organizationNames": [],
+        "organizationProfilePicture": "5ed5910e-a369-4630-978c-8b9b350e348f9ba332eb-d00f-45f8-9203-7f07d1b096ab.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "February 24 | 06:30 PM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 90.43336,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -376,7 +445,7 @@
         "endsOn": "03:00 PM",
         "id": "11872693",
         "imagePath": "974900fd-fce6-480e-a91f-5dd3b69fb2456e126703-a5dd-4fa8-b70a-5f8ddce73d7c.png",
-        "index": 9,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Trayes Hall Douglass Student Center",
@@ -395,7 +464,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 89.87022,
+        "@search.score": 89.90312,
         "benefitNames": [
             "Free Food"
         ],
@@ -411,7 +480,7 @@
         "endsOn": "01:30 PM",
         "id": "11945891",
         "imagePath": null,
-        "index": 10,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.523190",
         "location": "Busch Student Center, Multipurpose Room",
@@ -430,7 +499,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.499825,
+        "@search.score": 87.5346,
         "benefitNames": [
             "Free Food"
         ],
@@ -446,7 +515,7 @@
         "endsOn": "05:30 PM",
         "id": "11945079",
         "imagePath": "abbe88a8-282b-4b62-bcff-fb6d5849460649bc2e0e-bd7e-495d-ae10-ce8ca14e616b.png",
-        "index": 11,
+        "index": 13,
         "institutionId": 4753,
         "latitude": "40.523320",
         "location": "The Cove - Busch Student Center ",
@@ -465,7 +534,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 86.95584,
+        "@search.score": 86.99106,
         "benefitNames": [
             "Free Food"
         ],
@@ -481,7 +550,7 @@
         "endsOn": "01:30 PM",
         "id": "11945914",
         "imagePath": null,
-        "index": 12,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Trayes Hall",
@@ -500,7 +569,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.79148,
+        "@search.score": 85.82767,
         "benefitNames": [
             "Free Food"
         ],
@@ -516,7 +585,7 @@
         "endsOn": "01:30 PM",
         "id": "11945929",
         "imagePath": null,
-        "index": 13,
+        "index": 15,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Trayes Hall",
@@ -535,7 +604,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.7178,
+        "@search.score": 84.75489,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -554,7 +623,7 @@
         "endsOn": "06:00 PM",
         "id": "11945939",
         "imagePath": null,
-        "index": 14,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Livingston Lawn",
@@ -573,7 +642,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.53291,
+        "@search.score": 82.57194,
         "benefitNames": [
             "Free Food"
         ],
@@ -589,7 +658,7 @@
         "endsOn": "09:00 PM",
         "id": "11945957",
         "imagePath": null,
-        "index": 15,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.523190",
         "location": "Busch Student Center, Commuter Lounge",
@@ -608,7 +677,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.37347,
+        "@search.score": 82.41264,
         "benefitNames": [
             "Free Food"
         ],
@@ -624,7 +693,7 @@
         "endsOn": "09:00 PM",
         "id": "11945958",
         "imagePath": null,
-        "index": 16,
+        "index": 18,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Commuter Lounge",
