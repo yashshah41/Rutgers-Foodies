@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 96.283585,
+        "@search.score": 96.309,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -40,7 +40,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.25468,
+        "@search.score": 96.28011,
         "benefitNames": [
             "Free Food"
         ],
@@ -77,7 +77,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.01545,
+        "@search.score": 96.04103,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -113,7 +113,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.925705,
+        "@search.score": 95.95133,
         "benefitNames": [
             "Free Food"
         ],
@@ -148,7 +148,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.88683,
+        "@search.score": 95.91249,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -193,7 +193,44 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.56972,
+        "@search.score": 95.69577,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5341",
+            "5356"
+        ],
+        "categoryNames": [
+            "Educational Lecture",
+            "Trip Off-campus"
+        ],
+        "description": "BEAT will take a field trip to NYU Tandon in Brooklyn for a talk will about using data and coding to simulate real and fantasy transit lines. It will be hosted by Sunny Ng, software engineer with the MTA, in addition to the Transit Techies group at NYU Tandon's Center for Urban Science and Progress. One of the featured guests is the developer of the popular game Subway Builder.Where: 370 Jay St, Brooklyn, NY 11201 When: Wednesday, January 28, 2026. Leave New Brunswick station at 4:30 pm, maybe get dinner, arrive at event at 6:30 pm, runs until 8:30 pm, get back to New Brunswick around 10:30 pm (all times are approximate)",
+        "endsOn": "10:30 PM",
+        "id": "11961375",
+        "imagePath": "76542d25-614b-4e74-95c4-35898739b14f26c418ac-2315-4394-ab37-4d9f1fe0eaef.png",
+        "index": 5,
+        "institutionId": 4753,
+        "latitude": "40.693150",
+        "location": "NYU Tandon",
+        "longitude": "-73.987440",
+        "name": "Field Trip to Transit Techies talk at NYU Tandon",
+        "organizationId": 401973,
+        "organizationIds": [],
+        "organizationName": "Bloustein Enthusiasts and Advocates for Transportation",
+        "organizationNames": [],
+        "organizationProfilePicture": "95c4d54e-8381-4758-b7a3-7612c7600873e041fe4e-ecc3-418a-9a1d-79a296df10dc.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "January 28 | 04:30 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 95.59556,
         "benefitNames": [
             "Free Food"
         ],
@@ -211,7 +248,7 @@
         "endsOn": "03:00 PM",
         "id": "11945851",
         "imagePath": null,
-        "index": 5,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Livingston Student Center, Livingston Hall",
@@ -230,7 +267,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.4373,
+        "@search.score": 95.46323,
         "benefitNames": [
             "Free Food"
         ],
@@ -246,7 +283,7 @@
         "endsOn": "05:30 PM",
         "id": "11945073",
         "imagePath": "78415a30-29b2-4a79-8d55-803b4ec7ebf93eda0eca-656c-4d0f-8d18-019495c35c8f.png",
-        "index": 6,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.523320",
         "location": "The Cove - Busch Student Center ",
@@ -265,7 +302,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.8662,
+        "@search.score": 94.89248,
         "benefitNames": [
             "Free Food"
         ],
@@ -281,7 +318,7 @@
         "endsOn": "01:30 PM",
         "id": "11945867",
         "imagePath": null,
-        "index": 7,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Livingston Student Center, Livingston Hall",
@@ -300,7 +337,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.70663,
+        "@search.score": 94.732994,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -319,7 +356,7 @@
         "endsOn": "09:00 PM",
         "id": "11956005",
         "imagePath": null,
-        "index": 8,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen W. Ludwig Global Village Living Learning Center",
@@ -344,7 +381,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.22179,
+        "@search.score": 94.24845,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -364,7 +401,7 @@
         "endsOn": "09:00 PM",
         "id": "11950894",
         "imagePath": "8ff98136-52ac-4a8e-b921-4104ac00455059efc53b-9328-4f1f-acb9-ea31f628f985.png",
-        "index": 9,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -389,7 +426,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.98111,
+        "@search.score": 94.00793,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -404,7 +441,7 @@
         "endsOn": "09:00 PM",
         "id": "11955935",
         "imagePath": null,
-        "index": 10,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen W. Ludwig Global Village Living Learning Center",
@@ -429,7 +466,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.641884,
+        "@search.score": 93.668915,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -449,7 +486,7 @@
         "endsOn": "05:00 PM",
         "id": "11955886",
         "imagePath": "3156720d-ac42-49fc-b94f-9091125ba3c5b29fed57-a54a-4296-873c-4966ef026ebe.png",
-        "index": 11,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -474,7 +511,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.887596,
+        "@search.score": 92.9151,
         "benefitNames": [
             "Free Food"
         ],
@@ -490,7 +527,7 @@
         "endsOn": "05:30 PM",
         "id": "11945076",
         "imagePath": "a9960645-1f43-4314-8970-2b700bace8cc12611b22-6668-44b0-82ba-ec8b1050ee5f.png",
-        "index": 12,
+        "index": 13,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Gathering Lounge - Livingston Student Center ",
@@ -509,7 +546,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.37904,
+        "@search.score": 92.406876,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -526,7 +563,7 @@
         "endsOn": "07:00 PM",
         "id": "11945885",
         "imagePath": null,
-        "index": 13,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Trayes Hall",
@@ -545,7 +582,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.37113,
+        "@search.score": 92.39897,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -563,7 +600,7 @@
         "endsOn": "08:30 PM",
         "id": "11950313",
         "imagePath": "5d050158-edca-45ea-93e6-fb38913aea9989dbdaed-e482-4ed8-a722-0327c917a7bd.png",
-        "index": 14,
+        "index": 15,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -582,7 +619,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.16226,
+        "@search.score": 92.19024,
         "benefitNames": [
             "Free Food"
         ],
@@ -598,7 +635,7 @@
         "endsOn": "04:00 PM",
         "id": "11959326",
         "imagePath": "d30bf6f0-5eed-4497-bc6c-2618bcc5aaf472ef4a66-0751-4871-8948-b4abb5596b7d.png",
-        "index": 15,
+        "index": 16,
         "institutionId": 4753,
         "latitude": null,
         "location": "Academic Building West",
@@ -617,7 +654,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.98002,
+        "@search.score": 91.00877,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -637,7 +674,7 @@
         "endsOn": "05:00 PM",
         "id": "11955877",
         "imagePath": "b1ad3bff-e1a6-4e2c-a153-ba96dc7d51803886cb85-60da-4d99-880c-d8fa490f8e58.png",
-        "index": 16,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -664,7 +701,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.60518,
+        "@search.score": 90.63418,
         "benefitNames": [
             "Free Food"
         ],
@@ -680,7 +717,7 @@
         "endsOn": "01:30 PM",
         "id": "11945891",
         "imagePath": null,
-        "index": 17,
+        "index": 18,
         "institutionId": 4753,
         "latitude": "40.523190",
         "location": "Busch Student Center, Multipurpose Room",
@@ -699,7 +736,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.27607,
+        "@search.score": 88.30669,
         "benefitNames": [
             "Free Food"
         ],
@@ -715,7 +752,7 @@
         "endsOn": "05:30 PM",
         "id": "11945079",
         "imagePath": "abbe88a8-282b-4b62-bcff-fb6d5849460649bc2e0e-bd7e-495d-ae10-ce8ca14e616b.png",
-        "index": 18,
+        "index": 19,
         "institutionId": 4753,
         "latitude": "40.523320",
         "location": "The Cove - Busch Student Center ",
@@ -734,7 +771,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.83284,
+        "@search.score": 87.86378,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -753,7 +790,7 @@
         "endsOn": "09:00 PM",
         "id": "11951035",
         "imagePath": "c61c2d9b-86ad-4c04-aa12-ad181e577f442431de5b-b4be-447b-a4cd-904cc18bf055.png",
-        "index": 19,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -778,7 +815,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.741875,
+        "@search.score": 87.77288,
         "benefitNames": [
             "Free Food"
         ],
@@ -794,7 +831,7 @@
         "endsOn": "01:30 PM",
         "id": "11945914",
         "imagePath": null,
-        "index": 20,
+        "index": 21,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Trayes Hall",
@@ -813,7 +850,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 86.5989,
+        "@search.score": 86.63074,
         "benefitNames": [
             "Free Food"
         ],
@@ -829,7 +866,7 @@
         "endsOn": "01:30 PM",
         "id": "11945929",
         "imagePath": null,
-        "index": 21,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Trayes Hall",
@@ -848,7 +885,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.54543,
+        "@search.score": 85.57806,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -867,7 +904,7 @@
         "endsOn": "06:00 PM",
         "id": "11945939",
         "imagePath": null,
-        "index": 22,
+        "index": 23,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Livingston Lawn",
@@ -886,7 +923,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.110466,
+        "@search.score": 85.143425,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -906,7 +943,7 @@
         "endsOn": "05:00 PM",
         "id": "11955833",
         "imagePath": "68577e99-064f-4dd7-925a-9aa18f706682537d0f17-fc45-419b-9dd5-21d59a725456.png",
-        "index": 23,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Jameson Courtyard / Schonberg Rm, Ludwig (rain location)",
@@ -931,7 +968,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.77188,
+        "@search.score": 84.8051,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -951,7 +988,7 @@
         "endsOn": "09:00 PM",
         "id": "11951078",
         "imagePath": "e0bf8508-6f6b-41a3-b772-c4820b37d926dc0b3368-802a-4be4-b867-ea0a5e5f63db.png",
-        "index": 24,
+        "index": 25,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -976,7 +1013,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.40326,
+        "@search.score": 83.43755,
         "benefitNames": [
             "Free Food"
         ],
@@ -992,7 +1029,7 @@
         "endsOn": "09:00 PM",
         "id": "11945957",
         "imagePath": null,
-        "index": 25,
+        "index": 26,
         "institutionId": 4753,
         "latitude": "40.523190",
         "location": "Busch Student Center, Commuter Lounge",
@@ -1011,7 +1048,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.24702,
+        "@search.score": 83.28143,
         "benefitNames": [
             "Free Food"
         ],
@@ -1027,7 +1064,7 @@
         "endsOn": "09:00 PM",
         "id": "11945958",
         "imagePath": null,
-        "index": 26,
+        "index": 27,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Commuter Lounge",
@@ -1046,7 +1083,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.490364,
+        "@search.score": 82.5254,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1064,7 +1101,7 @@
         "endsOn": "02:30 PM",
         "id": "11951223",
         "imagePath": "540c4b21-73f9-4f5f-ba81-5a6fa570d293f4c76866-7676-41fd-ba9b-4d2a23289578.png",
-        "index": 27,
+        "index": 28,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
