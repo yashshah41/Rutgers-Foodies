@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 96.45368,
+        "@search.score": 96.48198,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -40,7 +40,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.4249,
+        "@search.score": 96.45321,
         "benefitNames": [
             "Free Food"
         ],
@@ -77,7 +77,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.186615,
+        "@search.score": 96.21509,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -113,7 +113,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.09723,
+        "@search.score": 96.125755,
         "benefitNames": [
             "Free Food"
         ],
@@ -148,7 +148,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.05851,
+        "@search.score": 96.08707,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -193,7 +193,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.84253,
+        "@search.score": 95.87122,
         "benefitNames": [
             "Free Food"
         ],
@@ -230,7 +230,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.74266,
+        "@search.score": 95.77143,
         "benefitNames": [
             "Free Food"
         ],
@@ -267,7 +267,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.61078,
+        "@search.score": 95.63963,
         "benefitNames": [
             "Free Food"
         ],
@@ -302,7 +302,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.042,
+        "@search.score": 95.071236,
         "benefitNames": [
             "Free Food"
         ],
@@ -337,7 +337,59 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.88307,
+        "@search.score": 94.93976,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5331",
+            "5343",
+            "5358",
+            "7111",
+            "7127"
+        ],
+        "categoryNames": [
+            "Art Exhibition",
+            "Entertainment",
+            "Wellness Event",
+            "Social Event",
+            "Art Creation"
+        ],
+        "description": "Every 1st and 3rd Thursday of each month! We start again on 1/22/26!  Join us for a creative space where students can explore self-expression through art. Each session offers guided prompts as well as the freedom to create in your own style and medium\u2014whether drawing, painting, writing, or any other form of artistic expression. This group encourages open dialogue, reflection, and connection while using art as a tool for self-discovery and communication.",
+        "endsOn": "04:00 PM",
+        "id": "11962142",
+        "imagePath": "b1969b24-318a-4d78-874f-dd654cc175abe8243462-54a6-4434-bc3e-d0fc81194d1c.pdf",
+        "index": 9,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "The Hatchery",
+        "longitude": null,
+        "name": "Let's Talk With Art ",
+        "organizationId": 378393,
+        "organizationIds": [
+            "378393",
+            "392207"
+        ],
+        "organizationName": "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+        "organizationNames": [
+            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
+        ],
+        "organizationProfilePicture": "b9c29610-5963-4217-b1e5-fb172b7e49dc4bc9def9-8f3b-433d-be8c-43c5d474bdb6.jpg",
+        "recScore": null,
+        "rsvpTotal": 2,
+        "startsOn": "February 05 | 02:00 PM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 94.91242,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -356,7 +408,7 @@
         "endsOn": "09:00 PM",
         "id": "11956005",
         "imagePath": null,
-        "index": 9,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen W. Ludwig Global Village Living Learning Center",
@@ -381,7 +433,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.40023,
+        "@search.score": 94.42991,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -401,7 +453,7 @@
         "endsOn": "09:00 PM",
         "id": "11950894",
         "imagePath": "8ff98136-52ac-4a8e-b921-4104ac00455059efc53b-9328-4f1f-acb9-ea31f628f985.png",
-        "index": 10,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -426,7 +478,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.16055,
+        "@search.score": 94.1904,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -441,7 +493,7 @@
         "endsOn": "09:00 PM",
         "id": "11955935",
         "imagePath": null,
-        "index": 11,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Kathleen W. Ludwig Global Village Living Learning Center",
@@ -466,7 +518,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.82275,
+        "@search.score": 93.85282,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -486,7 +538,7 @@
         "endsOn": "05:00 PM",
         "id": "11955886",
         "imagePath": "3156720d-ac42-49fc-b94f-9091125ba3c5b29fed57-a54a-4296-873c-4966ef026ebe.png",
-        "index": 12,
+        "index": 13,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -511,7 +563,59 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.07165,
+        "@search.score": 93.236885,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5331",
+            "5343",
+            "5358",
+            "7111",
+            "7127"
+        ],
+        "categoryNames": [
+            "Art Exhibition",
+            "Entertainment",
+            "Wellness Event",
+            "Social Event",
+            "Art Creation"
+        ],
+        "description": "Every 1st and 3rd Thursday of each month! We start again on 1/22/26!  Join us for a creative space where students can explore self-expression through art. Each session offers guided prompts as well as the freedom to create in your own style and medium\u2014whether drawing, painting, writing, or any other form of artistic expression. This group encourages open dialogue, reflection, and connection while using art as a tool for self-discovery and communication.",
+        "endsOn": "04:00 PM",
+        "id": "11962143",
+        "imagePath": "b1969b24-318a-4d78-874f-dd654cc175abe8243462-54a6-4434-bc3e-d0fc81194d1c.pdf",
+        "index": 14,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "The Hatchery",
+        "longitude": null,
+        "name": "Let's Talk With Art ",
+        "organizationId": 378393,
+        "organizationIds": [
+            "378393",
+            "392207"
+        ],
+        "organizationName": "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+        "organizationNames": [
+            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
+        ],
+        "organizationProfilePicture": "b9c29610-5963-4217-b1e5-fb172b7e49dc4bc9def9-8f3b-433d-be8c-43c5d474bdb6.jpg",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "February 19 | 02:00 PM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 93.10226,
         "benefitNames": [
             "Free Food"
         ],
@@ -527,7 +631,7 @@
         "endsOn": "05:30 PM",
         "id": "11945076",
         "imagePath": "a9960645-1f43-4314-8970-2b700bace8cc12611b22-6668-44b0-82ba-ec8b1050ee5f.png",
-        "index": 13,
+        "index": 15,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Gathering Lounge - Livingston Student Center ",
@@ -546,7 +650,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.565285,
+        "@search.score": 92.59625,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -563,7 +667,7 @@
         "endsOn": "07:00 PM",
         "id": "11945885",
         "imagePath": null,
-        "index": 14,
+        "index": 16,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Trayes Hall",
@@ -582,7 +686,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.5574,
+        "@search.score": 92.58838,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -600,7 +704,7 @@
         "endsOn": "08:30 PM",
         "id": "11950313",
         "imagePath": "5d050158-edca-45ea-93e6-fb38913aea9989dbdaed-e482-4ed8-a722-0327c917a7bd.png",
-        "index": 15,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -619,7 +723,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.34944,
+        "@search.score": 92.38057,
         "benefitNames": [
             "Free Food"
         ],
@@ -635,7 +739,7 @@
         "endsOn": "04:00 PM",
         "id": "11959326",
         "imagePath": "d30bf6f0-5eed-4497-bc6c-2618bcc5aaf472ef4a66-0751-4871-8948-b4abb5596b7d.png",
-        "index": 16,
+        "index": 18,
         "institutionId": 4753,
         "latitude": null,
         "location": "Academic Building West",
@@ -654,7 +758,59 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.17241,
+        "@search.score": 91.463776,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5331",
+            "5343",
+            "5358",
+            "7111",
+            "7127"
+        ],
+        "categoryNames": [
+            "Art Exhibition",
+            "Entertainment",
+            "Wellness Event",
+            "Social Event",
+            "Art Creation"
+        ],
+        "description": "Every 1st and 3rd Thursday of each month! We start again on 1/22/26!  Join us for a creative space where students can explore self-expression through art. Each session offers guided prompts as well as the freedom to create in your own style and medium\u2014whether drawing, painting, writing, or any other form of artistic expression. This group encourages open dialogue, reflection, and connection while using art as a tool for self-discovery and communication.",
+        "endsOn": "04:00 PM",
+        "id": "11962144",
+        "imagePath": "b1969b24-318a-4d78-874f-dd654cc175abe8243462-54a6-4434-bc3e-d0fc81194d1c.pdf",
+        "index": 19,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "The Hatchery",
+        "longitude": null,
+        "name": "Let's Talk With Art ",
+        "organizationId": 378393,
+        "organizationIds": [
+            "378393",
+            "392207"
+        ],
+        "organizationName": "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+        "organizationNames": [
+            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
+        ],
+        "organizationProfilePicture": "b9c29610-5963-4217-b1e5-fb172b7e49dc4bc9def9-8f3b-433d-be8c-43c5d474bdb6.jpg",
+        "recScore": null,
+        "rsvpTotal": 1,
+        "startsOn": "March 05 | 02:00 PM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 91.2044,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -674,7 +830,7 @@
         "endsOn": "05:00 PM",
         "id": "11955877",
         "imagePath": "b1ad3bff-e1a6-4e2c-a153-ba96dc7d51803886cb85-60da-4d99-880c-d8fa490f8e58.png",
-        "index": 17,
+        "index": 20,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -701,7 +857,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.79924,
+        "@search.score": 90.83151,
         "benefitNames": [
             "Free Food"
         ],
@@ -717,7 +873,7 @@
         "endsOn": "01:30 PM",
         "id": "11945891",
         "imagePath": null,
-        "index": 18,
+        "index": 21,
         "institutionId": 4753,
         "latitude": "40.523190",
         "location": "Busch Student Center, Multipurpose Room",
@@ -736,7 +892,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.48091,
+        "@search.score": 88.51497,
         "benefitNames": [
             "Free Food"
         ],
@@ -752,7 +908,7 @@
         "endsOn": "05:30 PM",
         "id": "11945079",
         "imagePath": "abbe88a8-282b-4b62-bcff-fb6d5849460649bc2e0e-bd7e-495d-ae10-ce8ca14e616b.png",
-        "index": 19,
+        "index": 22,
         "institutionId": 4753,
         "latitude": "40.523320",
         "location": "The Cove - Busch Student Center ",
@@ -771,7 +927,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.039795,
+        "@search.score": 88.0742,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -790,7 +946,7 @@
         "endsOn": "09:00 PM",
         "id": "11951035",
         "imagePath": "c61c2d9b-86ad-4c04-aa12-ad181e577f442431de5b-b4be-447b-a4cd-904cc18bf055.png",
-        "index": 20,
+        "index": 23,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -815,7 +971,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 87.94927,
+        "@search.score": 87.98376,
         "benefitNames": [
             "Free Food"
         ],
@@ -831,7 +987,7 @@
         "endsOn": "01:30 PM",
         "id": "11945914",
         "imagePath": null,
-        "index": 21,
+        "index": 24,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Trayes Hall",
@@ -850,7 +1006,59 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 86.81187,
+        "@search.score": 87.68774,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5331",
+            "5343",
+            "5358",
+            "7111",
+            "7127"
+        ],
+        "categoryNames": [
+            "Art Exhibition",
+            "Entertainment",
+            "Wellness Event",
+            "Social Event",
+            "Art Creation"
+        ],
+        "description": "Every 1st and 3rd Thursday of each month! We start again on 1/22/26!  Join us for a creative space where students can explore self-expression through art. Each session offers guided prompts as well as the freedom to create in your own style and medium\u2014whether drawing, painting, writing, or any other form of artistic expression. This group encourages open dialogue, reflection, and connection while using art as a tool for self-discovery and communication.",
+        "endsOn": "04:00 PM",
+        "id": "11962146",
+        "imagePath": "b1969b24-318a-4d78-874f-dd654cc175abe8243462-54a6-4434-bc3e-d0fc81194d1c.pdf",
+        "index": 25,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "The Hatchery",
+        "longitude": null,
+        "name": "Let's Talk With Art ",
+        "organizationId": 378393,
+        "organizationIds": [
+            "378393",
+            "392207"
+        ],
+        "organizationName": "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+        "organizationNames": [
+            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
+        ],
+        "organizationProfilePicture": "b9c29610-5963-4217-b1e5-fb172b7e49dc4bc9def9-8f3b-433d-be8c-43c5d474bdb6.jpg",
+        "recScore": null,
+        "rsvpTotal": 1,
+        "startsOn": "April 02 | 02:00 PM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 86.847275,
         "benefitNames": [
             "Free Food"
         ],
@@ -866,7 +1074,7 @@
         "endsOn": "01:30 PM",
         "id": "11945929",
         "imagePath": null,
-        "index": 22,
+        "index": 26,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Trayes Hall",
@@ -885,7 +1093,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.76367,
+        "@search.score": 85.79995,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -904,7 +1112,7 @@
         "endsOn": "06:00 PM",
         "id": "11945939",
         "imagePath": null,
-        "index": 23,
+        "index": 27,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Livingston Lawn",
@@ -923,7 +1131,59 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.33092,
+        "@search.score": 85.66452,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5331",
+            "5343",
+            "5358",
+            "7111",
+            "7127"
+        ],
+        "categoryNames": [
+            "Art Exhibition",
+            "Entertainment",
+            "Wellness Event",
+            "Social Event",
+            "Art Creation"
+        ],
+        "description": "Every 1st and 3rd Thursday of each month! We start again on 1/22/26!  Join us for a creative space where students can explore self-expression through art. Each session offers guided prompts as well as the freedom to create in your own style and medium\u2014whether drawing, painting, writing, or any other form of artistic expression. This group encourages open dialogue, reflection, and connection while using art as a tool for self-discovery and communication.",
+        "endsOn": "04:00 PM",
+        "id": "11962147",
+        "imagePath": "b1969b24-318a-4d78-874f-dd654cc175abe8243462-54a6-4434-bc3e-d0fc81194d1c.pdf",
+        "index": 28,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "The Hatchery",
+        "longitude": null,
+        "name": "Let's Talk With Art ",
+        "organizationId": 378393,
+        "organizationIds": [
+            "378393",
+            "392207"
+        ],
+        "organizationName": "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+        "organizationNames": [
+            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
+        ],
+        "organizationProfilePicture": "b9c29610-5963-4217-b1e5-fb172b7e49dc4bc9def9-8f3b-433d-be8c-43c5d474bdb6.jpg",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "April 16 | 02:00 PM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 85.36756,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -943,7 +1203,7 @@
         "endsOn": "05:00 PM",
         "id": "11955833",
         "imagePath": "68577e99-064f-4dd7-925a-9aa18f706682537d0f17-fc45-419b-9dd5-21d59a725456.png",
-        "index": 24,
+        "index": 29,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Jameson Courtyard / Schonberg Rm, Ludwig (rain location)",
@@ -968,7 +1228,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.99408,
+        "@search.score": 85.031006,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -988,7 +1248,7 @@
         "endsOn": "09:00 PM",
         "id": "11951078",
         "imagePath": "e0bf8508-6f6b-41a3-b772-c4820b37d926dc0b3368-802a-4be4-b867-ea0a5e5f63db.png",
-        "index": 25,
+        "index": 30,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -1013,7 +1273,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.632614,
+        "@search.score": 83.67074,
         "benefitNames": [
             "Free Food"
         ],
@@ -1029,7 +1289,7 @@
         "endsOn": "09:00 PM",
         "id": "11945957",
         "imagePath": null,
-        "index": 26,
+        "index": 31,
         "institutionId": 4753,
         "latitude": "40.523190",
         "location": "Busch Student Center, Commuter Lounge",
@@ -1048,7 +1308,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 83.4772,
+        "@search.score": 83.515465,
         "benefitNames": [
             "Free Food"
         ],
@@ -1064,7 +1324,7 @@
         "endsOn": "09:00 PM",
         "id": "11945958",
         "imagePath": null,
-        "index": 27,
+        "index": 32,
         "institutionId": 4753,
         "latitude": "40.484720",
         "location": "Douglass Student Center, Commuter Lounge",
@@ -1083,7 +1343,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 82.72463,
+        "@search.score": 82.763565,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1101,7 +1361,7 @@
         "endsOn": "02:30 PM",
         "id": "11951223",
         "imagePath": "540c4b21-73f9-4f5f-ba81-5a6fa570d293f4c76866-7676-41fd-ba9b-4d2a23289578.png",
-        "index": 28,
+        "index": 33,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
