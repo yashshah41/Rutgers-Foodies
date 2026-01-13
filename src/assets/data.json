@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.12228,
+        "@search.score": 99.15201,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -44,7 +44,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.11552,
+        "@search.score": 99.14525,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -80,7 +80,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.89853,
+        "@search.score": 98.92841,
         "benefitNames": [
             "Free Food"
         ],
@@ -115,7 +115,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.83276,
+        "@search.score": 98.86269,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -148,14 +148,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "f6859e93-6894-4495-8bac-0f8057d148a4f2a1faee-e455-43cd-9f4f-6110049c7d71.png",
         "recScore": null,
-        "rsvpTotal": 3,
+        "rsvpTotal": 4,
         "startsOn": "January 23 | 10:00 AM",
         "status": "Approved",
         "theme": "ThoughtfulLearning",
         "visibility": "Public"
     },
     {
-        "@search.score": 98.80553,
+        "@search.score": 98.83547,
         "benefitNames": [
             "Free Food"
         ],
@@ -192,7 +192,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.58012,
+        "@search.score": 98.61022,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -228,7 +228,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.495575,
+        "@search.score": 98.525734,
         "benefitNames": [
             "Free Food"
         ],
@@ -263,7 +263,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.45896,
+        "@search.score": 98.48915,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -308,13 +308,15 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.376465,
+        "@search.score": 98.406715,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
         ],
         "branchId": 112385,
-        "branchIds": [],
+        "branchIds": [
+            "112385"
+        ],
         "categoryIds": [
             "7111"
         ],
@@ -332,9 +334,15 @@
         "longitude": "-74.451800",
         "name": "Graduate Student Life & GSA Spring 2026 Welcome & Open House",
         "organizationId": 305241,
-        "organizationIds": [],
+        "organizationIds": [
+            "305241",
+            "312665"
+        ],
         "organizationName": "Graduate Student Life (Department at Rutgers University)",
-        "organizationNames": [],
+        "organizationNames": [
+            "Graduate Student Life (Department at Rutgers University)",
+            "Graduate Student Association (GSA)"
+        ],
         "organizationProfilePicture": "acb57f25-fdc5-42ac-a7a6-374496f15f9cef5c6226-5fd2-4273-ab17-bd271c2410f6.png",
         "recScore": null,
         "rsvpTotal": 0,
@@ -344,7 +352,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.35123,
+        "@search.score": 98.38149,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -382,7 +390,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.25473,
+        "@search.score": 98.285065,
         "benefitNames": [
             "Free Food"
         ],
@@ -419,7 +427,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.160324,
+        "@search.score": 98.19072,
         "benefitNames": [
             "Free Food"
         ],
@@ -456,7 +464,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.05877,
+        "@search.score": 98.08924,
         "benefitNames": [
             "Free Food"
         ],
@@ -491,7 +499,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.03566,
+        "@search.score": 98.06615,
         "benefitNames": [
             "Free Food"
         ],
@@ -526,7 +534,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.80385,
+        "@search.score": 97.834496,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -554,16 +562,16 @@
         "organizationId": 234279,
         "organizationIds": [
             "234279",
+            "378410",
             "359909",
-            "359911",
-            "378410"
+            "359911"
         ],
         "organizationName": "Douglass Women in Science and Engineering (WiSE)   ",
         "organizationNames": [
             "Douglass Women in Science and Engineering (WiSE)   ",
+            "Douglass Pharmacy & Nursing Living Learning Community (Rutgers Department)",
             "Computer Science Living-Learning Community (Douglass WiSE, DRC)",
-            "Reilly Douglass Living Learning Community (Douglass WiSE)",
-            "Douglass Pharmacy & Nursing Living Learning Community (Rutgers Department)"
+            "Reilly Douglass Living Learning Community (Douglass WiSE)"
         ],
         "organizationProfilePicture": "e24e1778-34dc-435e-ac15-7889723f4f7e4f1a1f1c-35cc-4195-a478-454a0c88e866.jpg",
         "recScore": null,
@@ -574,7 +582,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.49827,
+        "@search.score": 97.52914,
         "benefitNames": [
             "Free Food"
         ],
@@ -609,7 +617,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.48656,
+        "@search.score": 97.51744,
         "benefitNames": [
             "Free Food"
         ],
@@ -644,7 +652,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.374016,
+        "@search.score": 97.404976,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -679,13 +687,13 @@
         "name": "Let's Talk With Art ",
         "organizationId": 378393,
         "organizationIds": [
-            "392207",
-            "378393"
+            "378393",
+            "392207"
         ],
         "organizationName": "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
         "organizationNames": [
-            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)",
-            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)"
+            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
         ],
         "organizationProfilePicture": "b9c29610-5963-4217-b1e5-fb172b7e49dc4bc9def9-8f3b-433d-be8c-43c5d474bdb6.jpg",
         "recScore": null,
@@ -696,7 +704,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.89239,
+        "@search.score": 96.92369,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -741,7 +749,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.4389,
+        "@search.score": 96.47054,
         "benefitNames": [
             "Free Food"
         ],
@@ -772,7 +780,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.347626,
+        "@search.score": 96.37933,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -800,13 +808,13 @@
         "name": "Douglass x Scarlet Arts RX | Artful Saturday: Letterpress Notecards and Sticker Making",
         "organizationId": 234210,
         "organizationIds": [
-            "392207",
-            "234210"
+            "234210",
+            "392207"
         ],
         "organizationName": "Academic Programs at Douglass Residential College - DRC",
         "organizationNames": [
-            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)",
-            "Academic Programs at Douglass Residential College - DRC"
+            "Academic Programs at Douglass Residential College - DRC",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
         ],
         "organizationProfilePicture": "5ed5910e-a369-4630-978c-8b9b350e348f9ba332eb-d00f-45f8-9203-7f07d1b096ab.png",
         "recScore": null,
@@ -817,7 +825,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.76665,
+        "@search.score": 95.79878,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -852,13 +860,13 @@
         "name": "Let's Talk With Art ",
         "organizationId": 378393,
         "organizationIds": [
-            "392207",
-            "378393"
+            "378393",
+            "392207"
         ],
         "organizationName": "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
         "organizationNames": [
-            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)",
-            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)"
+            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
         ],
         "organizationProfilePicture": "b9c29610-5963-4217-b1e5-fb172b7e49dc4bc9def9-8f3b-433d-be8c-43c5d474bdb6.jpg",
         "recScore": null,
@@ -869,7 +877,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.639725,
+        "@search.score": 95.67196,
         "benefitNames": [
             "Free Food"
         ],
@@ -904,7 +912,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.54919,
+        "@search.score": 95.58149,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -941,7 +949,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.16288,
+        "@search.score": 95.19547,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -977,7 +985,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.155464,
+        "@search.score": 95.188065,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1014,7 +1022,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.959724,
+        "@search.score": 94.99247,
         "benefitNames": [
             "Free Food"
         ],
@@ -1049,7 +1057,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.09685,
+        "@search.score": 94.13026,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1084,13 +1092,13 @@
         "name": "Let's Talk With Art ",
         "organizationId": 378393,
         "organizationIds": [
-            "392207",
-            "378393"
+            "378393",
+            "392207"
         ],
         "organizationName": "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
         "organizationNames": [
-            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)",
-            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)"
+            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
         ],
         "organizationProfilePicture": "b9c29610-5963-4217-b1e5-fb172b7e49dc4bc9def9-8f3b-433d-be8c-43c5d474bdb6.jpg",
         "recScore": null,
@@ -1101,7 +1109,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.9903,
+        "@search.score": 94.023796,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1142,7 +1150,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.85292,
+        "@search.score": 93.88652,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1189,7 +1197,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.5024,
+        "@search.score": 93.53628,
         "benefitNames": [
             "Free Food"
         ],
@@ -1224,7 +1232,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.70563,
+        "@search.score": 91.74095,
         "benefitNames": [
             "Free Food"
         ],
@@ -1265,7 +1273,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.32898,
+        "@search.score": 91.36461,
         "benefitNames": [
             "Free Food"
         ],
@@ -1300,7 +1308,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.916275,
+        "@search.score": 90.95225,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -1327,13 +1335,13 @@
         "name": "Douglass Arts Club | Just Dance & Karaoke Night ",
         "organizationId": 234210,
         "organizationIds": [
-            "392824",
-            "234210"
+            "234210",
+            "392824"
         ],
         "organizationName": "Academic Programs at Douglass Residential College - DRC",
         "organizationNames": [
-            "Douglass Arts Club",
-            "Academic Programs at Douglass Residential College - DRC"
+            "Academic Programs at Douglass Residential College - DRC",
+            "Douglass Arts Club"
         ],
         "organizationProfilePicture": "5ed5910e-a369-4630-978c-8b9b350e348f9ba332eb-d00f-45f8-9203-7f07d1b096ab.png",
         "recScore": null,
@@ -1344,7 +1352,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.80701,
+        "@search.score": 90.84307,
         "benefitNames": [
             "Free Food"
         ],
@@ -1379,7 +1387,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.55463,
+        "@search.score": 90.590904,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1414,13 +1422,13 @@
         "name": "Let's Talk With Art ",
         "organizationId": 378393,
         "organizationIds": [
-            "392207",
-            "378393"
+            "378393",
+            "392207"
         ],
         "organizationName": "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
         "organizationNames": [
-            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)",
-            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)"
+            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
         ],
         "organizationProfilePicture": "b9c29610-5963-4217-b1e5-fb172b7e49dc4bc9def9-8f3b-433d-be8c-43c5d474bdb6.jpg",
         "recScore": null,
@@ -1431,7 +1439,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 89.768875,
+        "@search.score": 89.805824,
         "benefitNames": [
             "Free Food"
         ],
@@ -1466,7 +1474,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.791145,
+        "@search.score": 88.82894,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1504,7 +1512,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.66483,
+        "@search.score": 88.70274,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1539,13 +1547,13 @@
         "name": "Let's Talk With Art ",
         "organizationId": 378393,
         "organizationIds": [
-            "392207",
-            "378393"
+            "378393",
+            "392207"
         ],
         "organizationName": "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
         "organizationNames": [
-            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)",
-            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)"
+            "Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (University Department)",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
         ],
         "organizationProfilePicture": "b9c29610-5963-4217-b1e5-fb172b7e49dc4bc9def9-8f3b-433d-be8c-43c5d474bdb6.jpg",
         "recScore": null,
@@ -1556,7 +1564,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.558334,
+        "@search.score": 88.59634,
         "benefitNames": [
             "Free Food"
         ],
@@ -1591,7 +1599,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.387955,
+        "@search.score": 88.42611,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1636,7 +1644,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.07432,
+        "@search.score": 88.11275,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -1664,13 +1672,13 @@
         "name": "Douglass Arts Club | Stamp Making",
         "organizationId": 234210,
         "organizationIds": [
-            "392824",
-            "234210"
+            "234210",
+            "392824"
         ],
         "organizationName": "Academic Programs at Douglass Residential College - DRC",
         "organizationNames": [
-            "Douglass Arts Club",
-            "Academic Programs at Douglass Residential College - DRC"
+            "Academic Programs at Douglass Residential College - DRC",
+            "Douglass Arts Club"
         ],
         "organizationProfilePicture": "5ed5910e-a369-4630-978c-8b9b350e348f9ba332eb-d00f-45f8-9203-7f07d1b096ab.png",
         "recScore": null,
@@ -1681,7 +1689,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 86.80838,
+        "@search.score": 86.84796,
         "benefitNames": [
             "Free Food"
         ],
@@ -1716,7 +1724,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 86.664055,
+        "@search.score": 86.703766,
         "benefitNames": [
             "Free Food"
         ],
@@ -1751,7 +1759,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.96568,
+        "@search.score": 86.00605,
         "benefitNames": [
             "Credit",
             "Free Food",
