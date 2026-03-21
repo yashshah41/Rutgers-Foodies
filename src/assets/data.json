@@ -1,78 +1,6 @@
 [
     {
-        "@search.score": 99.993614,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "7111"
-        ],
-        "categoryNames": [
-            "Social Event"
-        ],
-        "description": "General Meeting for EcoGSa",
-        "endsOn": "05:00 PM",
-        "id": "12206620",
-        "imagePath": "88340fe7-1127-4fcb-88b2-468c9e250a31a7c6b66a-2d41-4a5c-964d-02a0686dad7d.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "ENR 123",
-        "longitude": null,
-        "name": "EcoGSA",
-        "organizationId": 331846,
-        "organizationIds": [],
-        "organizationName": "Ecology and Evolution Graduate Student Association (Graduate Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "78932a00-1339-4bad-98cb-94c63d2b4b10c6a8e19b-f376-47ff-a42f-ab6652d899c7.jpg",
-        "recScore": null,
-        "rsvpTotal": 0,
-        "startsOn": "March 20 | 04:00 PM",
-        "status": "Approved",
-        "theme": "GroupBusiness",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.911804,
-        "benefitNames": [
-            "Credit",
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5347"
-        ],
-        "categoryNames": [
-            "Marathons/Races "
-        ],
-        "description": "CLICK HERE TO REGISTER!   The Rutgers University Honors College is thrilled to present the 1st Annual Heart & Sole 5K at Buccleuch Park!   The race kicks off at 10:30 AM sharp, so come early to grab your bib and free event t-shirt! Pickup opens at 9:00 AM at the Large Pavilion. Every registrant will also earn a finisher medal as they cross the line!   Stick around afterward for our 11:30 AM Award Ceremony, where top finishers will be recognized with exciting awards. Extra prizes will also be raffled off!   All registration fees and donations will support the American Heart Association in honor of American Heart Month. Thank you for helping us make a meaningful impact! Registration is capped at 200 participants, so don\u2019t wait\u2014spots will fill fast!   Additionally, Honors College students will be awarded 2 community service hours upon request!",
-        "endsOn": "11:30 AM",
-        "id": "12002632",
-        "imagePath": "0488e73c-0874-4c05-95d6-0a6bf940c368d9556182-1c2b-4e50-a405-5080d38621b0.png",
-        "index": 1,
-        "institutionId": 4753,
-        "latitude": "40.505860",
-        "location": "Buccleuch Park",
-        "longitude": "-74.459880",
-        "name": "Heart & Sole 5K",
-        "organizationId": 152572,
-        "organizationIds": [],
-        "organizationName": "Honors College",
-        "organizationNames": [],
-        "organizationProfilePicture": "bad64d2d-e31b-43ef-9900-cb3f8d4982ac4d668a3d-4463-4354-a963-72bfb94173fa.png",
-        "recScore": null,
-        "rsvpTotal": 58,
-        "startsOn": "March 21 | 10:30 AM",
-        "status": "Approved",
-        "theme": "Athletics",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.76771,
+        "@search.score": 99.796814,
         "benefitNames": [
             "Free Food"
         ],
@@ -88,7 +16,7 @@
         "endsOn": "08:00 PM",
         "id": "12108970",
         "imagePath": "b27194e1-f35d-489a-b963-b2593acba718199b6de5-d814-43cf-b44f-f43ccd38a38b.png",
-        "index": 2,
+        "index": 0,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Catholic Center at Rutgers",
@@ -107,7 +35,43 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.57631,
+        "@search.score": 99.69461,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "7127"
+        ],
+        "categoryNames": [
+            "Art Creation"
+        ],
+        "description": "Join us for a creative and relaxing Mirror Painting Night hosted by our club! Take a break from classes and express yourself by designing your own personalized mirror whether that is quotes, patterns, or something totally unique to you. No artistic experience is needed. This event is open to all Rutgers students. We will provide all the supplies so just come ready to unwind, meet new people, and tap into your creative side. Bring your friends or come solo and connect with fellow students in a fun and welcoming environment. By the end of the night, you will leave with a custom mirror that reflects your personality and a great experience to remember. \ud83d\udcab",
+        "endsOn": "08:00 PM",
+        "id": "12355165",
+        "imagePath": "6f0688c2-a97a-41be-be82-ac37c1e0ec95ad2070bb-40a8-4aeb-b76f-0f52f5ea7bb7.png",
+        "index": 1,
+        "institutionId": 4753,
+        "latitude": "40.524940",
+        "location": "livingston Coffeehouse",
+        "longitude": "-74.435840",
+        "name": "Mirror Painting Night ",
+        "organizationId": 330483,
+        "organizationIds": [],
+        "organizationName": "Arts and Music Undergraduate Service Education",
+        "organizationNames": [],
+        "organizationProfilePicture": "1b7ec609-4545-4c79-af37-65ad1f7b1343383f2624-ccb9-4006-8bfb-76d922ffb6de.png",
+        "recScore": null,
+        "rsvpTotal": 1,
+        "startsOn": "March 23 | 06:00 PM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.605545,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -128,7 +92,7 @@
         "endsOn": "04:00 PM",
         "id": "12335895",
         "imagePath": "0b58dfc4-d52b-4cc0-b2b8-774298e1934110874b0d-4631-4d7f-8d24-5c1a1b77c6db.png",
-        "index": 3,
+        "index": 2,
         "institutionId": 4753,
         "latitude": null,
         "location": "Alexander Library - The Hatchery in the basement",
@@ -140,14 +104,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "bcd338bc-854f-473b-b4da-0b84df2549706b29878b-47e7-4208-85d2-a1266437689e.png",
         "recScore": null,
-        "rsvpTotal": 27,
+        "rsvpTotal": 31,
         "startsOn": "March 24 | 02:00 PM",
         "status": "Approved",
         "theme": "Arts",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.56292,
+        "@search.score": 99.59217,
         "benefitNames": [
             "Free Food"
         ],
@@ -159,7 +123,7 @@
         "endsOn": "06:00 PM",
         "id": "12281194",
         "imagePath": "f8cb0f4c-04d5-4e21-bf56-d459499e9586fb6c4e69-2d98-4c14-8a15-e7de8998132d.png",
-        "index": 4,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.505270",
         "location": "SC&I Student Lounge",
@@ -178,7 +142,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.55846,
+        "@search.score": 99.58771,
         "benefitNames": [
             "Free Food"
         ],
@@ -200,7 +164,7 @@
         "endsOn": "08:00 PM",
         "id": "11978659",
         "imagePath": "cfee270d-559f-4025-903c-ecdd7c4df0a51762db68-92e2-44fe-be89-8c31f7a2f2ff.png",
-        "index": 5,
+        "index": 4,
         "institutionId": 4753,
         "latitude": null,
         "location": "College Avenue Student Center - Multipurpose Room ",
@@ -219,7 +183,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.56069,
+        "@search.score": 99.58994,
         "benefitNames": [
             "Free Food"
         ],
@@ -237,7 +201,7 @@
         "endsOn": "08:30 PM",
         "id": "12328833",
         "imagePath": "05c1302d-70d9-4cd2-b1b3-c7dcbe44068b38a32240-46f0-47e2-b1b9-ed714bc85a4f.png",
-        "index": 6,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Livingston Student Center",
@@ -256,7 +220,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.55623,
+        "@search.score": 99.58548,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -274,7 +238,7 @@
         "endsOn": "08:30 PM",
         "id": "11950313",
         "imagePath": "5d050158-edca-45ea-93e6-fb38913aea9989dbdaed-e482-4ed8-a722-0327c917a7bd.png",
-        "index": 7,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -293,7 +257,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.54953,
+        "@search.score": 99.57879,
         "benefitNames": [
             "Free Food"
         ],
@@ -309,7 +273,7 @@
         "endsOn": "09:00 PM",
         "id": "12349002",
         "imagePath": "f7c3f5c9-fa2f-48d6-b3f6-b5ca8692eb7cb8c240fe-1b3d-4b46-91b1-55c5fff1b235.png",
-        "index": 8,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.524450",
         "location": "Life Science Building (Room: TBD)",
@@ -328,7 +292,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.48252,
+        "@search.score": 99.511826,
         "benefitNames": [
             "Free Food"
         ],
@@ -344,7 +308,7 @@
         "endsOn": "12:30 PM",
         "id": "12320912",
         "imagePath": "fb4cd93f-0f3c-4458-8d3a-610929e951711bfe4133-6a01-4b55-a515-e154fb9dfd27.png",
-        "index": 9,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Room 202, Livingston Student Center",
@@ -363,7 +327,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.45569,
+        "@search.score": 99.48501,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -386,7 +350,7 @@
         "endsOn": "07:00 PM",
         "id": "12335898",
         "imagePath": "ed9b92bf-25f1-43b7-87a9-a04fea6190f5c5bc2413-fa3f-472f-af78-8c51750dd0c5.png",
-        "index": 10,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.518580",
         "location": "Livingston Student Center Coffeehouse (1st floor, near back)",
@@ -411,7 +375,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.45345,
+        "@search.score": 99.48277,
         "benefitNames": [
             "Free Food"
         ],
@@ -427,7 +391,7 @@
         "endsOn": "08:00 PM",
         "id": "12329724",
         "imagePath": "a5c03228-9a9d-4f27-9372-95cae0aaff0e24e8ec73-2a97-46bb-af8e-7874d29f66f5.png",
-        "index": 11,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.479450",
         "location": "Department of Marine and Coastal Sciences",
@@ -446,7 +410,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.44674,
+        "@search.score": 99.47607,
         "benefitNames": [
             "Free Food"
         ],
@@ -462,7 +426,7 @@
         "endsOn": "08:00 PM",
         "id": "12025766",
         "imagePath": null,
-        "index": 12,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.500320",
         "location": "Rutgers Hillel",
@@ -481,7 +445,47 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.43779,
+        "@search.score": 99.47383,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5334",
+            "5353",
+            "7111"
+        ],
+        "categoryNames": [
+            "Community Service Event on Campus",
+            "Seasonal/Holiday",
+            "Social Event"
+        ],
+        "description": "Join JAQs x Kehillah for our Spring into Service event! Come for paint and sip, \u201cwelcome spring\u201d card making, dinner, treats, and good-old community service!",
+        "endsOn": "09:30 PM",
+        "id": "12355174",
+        "imagePath": "e77954d9-c1db-4d7b-9887-8f8b42aa901461c887e0-953d-414b-9b8e-d64034160787.png",
+        "index": 12,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "Rutgers Hillel Building - Tanzman Dining Room (First Floor)",
+        "longitude": null,
+        "name": "Spring Into Service",
+        "organizationId": 198856,
+        "organizationIds": [],
+        "organizationName": "Jewish Allies and Queers ",
+        "organizationNames": [],
+        "organizationProfilePicture": "e39e8941-4c5e-4690-9be9-454f869da8d0b8551dd1-1dee-4d4b-991d-cdcf7aeaeef2.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "March 25 | 07:30 PM",
+        "status": "Approved",
+        "theme": "CommunityService",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.467125,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -519,7 +523,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.35268,
+        "@search.score": 99.382065,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -569,7 +573,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.34819,
+        "@search.score": 99.37759,
         "benefitNames": [
             "Free Food"
         ],
@@ -606,7 +610,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.33249,
+        "@search.score": 99.36189,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -646,7 +650,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.25616,
+        "@search.score": 99.28561,
         "benefitNames": [
             "Free Food"
         ],
@@ -683,7 +687,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.24492,
+        "@search.score": 99.274376,
         "benefitNames": [
             "Free Food"
         ],
@@ -718,7 +722,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.24492,
+        "@search.score": 99.274376,
         "benefitNames": [
             "Free Food"
         ],
@@ -753,7 +757,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.04214,
+        "@search.score": 99.07174,
         "benefitNames": [
             "Free Food"
         ],
@@ -802,7 +806,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.01503,
+        "@search.score": 99.04465,
         "benefitNames": [
             "Free Food"
         ],
@@ -837,7 +841,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.93586,
+        "@search.score": 98.96554,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -876,14 +880,14 @@
         ],
         "organizationProfilePicture": "6a3443c9-ee14-49c8-973d-847a987bca096c05d880-846e-42e4-a878-6bc4a96900cb.jpg",
         "recScore": null,
-        "rsvpTotal": 5,
+        "rsvpTotal": 7,
         "startsOn": "March 30 | 12:30 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 98.91548,
+        "@search.score": 98.94517,
         "benefitNames": [
             "Free Food"
         ],
@@ -922,7 +926,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.901886,
+        "@search.score": 98.93159,
         "benefitNames": [
             "Credit",
             "Free Food"
@@ -966,7 +970,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.897354,
+        "@search.score": 98.927055,
         "benefitNames": [
             "Free Food"
         ],
@@ -997,7 +1001,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.897354,
+        "@search.score": 98.927055,
         "benefitNames": [
             "Free Food"
         ],
@@ -1028,7 +1032,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.81116,
+        "@search.score": 98.84092,
         "benefitNames": [
             "Free Food"
         ],
@@ -1063,7 +1067,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.81116,
+        "@search.score": 98.84092,
         "benefitNames": [
             "Free Food"
         ],
@@ -1098,7 +1102,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.80662,
+        "@search.score": 98.83639,
         "benefitNames": [
             "Free Food"
         ],
@@ -1135,7 +1139,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.80208,
+        "@search.score": 98.83185,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1171,7 +1175,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.733894,
+        "@search.score": 98.76371,
         "benefitNames": [
             "Free Food"
         ],
@@ -1214,7 +1218,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.68382,
+        "@search.score": 98.71367,
         "benefitNames": [
             "Free Food"
         ],
@@ -1249,7 +1253,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.68154,
+        "@search.score": 98.711395,
         "benefitNames": [
             "Free Food"
         ],
@@ -1284,7 +1288,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.60176,
+        "@search.score": 98.63167,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1336,7 +1340,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.588066,
+        "@search.score": 98.61798,
         "benefitNames": [
             "Free Food"
         ],
@@ -1379,7 +1383,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.588066,
+        "@search.score": 98.61798,
         "benefitNames": [
             "Free Food"
         ],
@@ -1422,7 +1426,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.5835,
+        "@search.score": 98.61342,
         "benefitNames": [
             "Free Food"
         ],
@@ -1453,7 +1457,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.57893,
+        "@search.score": 98.60886,
         "benefitNames": [
             "Free Food"
         ],
@@ -1484,7 +1488,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.492096,
+        "@search.score": 98.52208,
         "benefitNames": [
             "Free Food"
         ],
@@ -1521,7 +1525,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.48295,
+        "@search.score": 98.51294,
         "benefitNames": [
             "Free Food"
         ],
@@ -1556,7 +1560,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.170654,
+        "@search.score": 98.20086,
         "benefitNames": [
             "Free Food"
         ],
@@ -1591,7 +1595,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.05988,
+        "@search.score": 98.09017,
         "benefitNames": [
             "Free Food"
         ],
@@ -1622,7 +1626,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.03215,
+        "@search.score": 98.062454,
         "benefitNames": [
             "Free Food"
         ],
@@ -1657,7 +1661,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.95115,
+        "@search.score": 97.981514,
         "benefitNames": [
             "Free Food"
         ],
@@ -1692,7 +1696,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.92798,
+        "@search.score": 97.95836,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1736,7 +1740,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.837494,
+        "@search.score": 97.867935,
         "benefitNames": [
             "Free Food"
         ],
@@ -1771,7 +1775,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.83285,
+        "@search.score": 97.8633,
         "benefitNames": [
             "Free Food"
         ],
@@ -1806,7 +1810,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.8038,
+        "@search.score": 97.83427,
         "benefitNames": [
             "Free Food"
         ],
@@ -1841,7 +1845,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.70723,
+        "@search.score": 97.73777,
         "benefitNames": [
             "Free Food"
         ],
@@ -1876,7 +1880,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.716545,
+        "@search.score": 97.74708,
         "benefitNames": [
             "Free Food"
         ],
@@ -1911,7 +1915,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.46895,
+        "@search.score": 97.49966,
         "benefitNames": [
             "Free Food"
         ],
@@ -1942,7 +1946,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.38688,
+        "@search.score": 97.41765,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -1988,7 +1992,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.24347,
+        "@search.score": 97.27434,
         "benefitNames": [
             "Free Food"
         ],
@@ -2023,7 +2027,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.16805,
+        "@search.score": 97.19897,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2069,7 +2073,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.144455,
+        "@search.score": 97.17539,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2107,7 +2111,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.13973,
+        "@search.score": 97.17067,
         "benefitNames": [
             "Free Food"
         ],
@@ -2146,7 +2150,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.13501,
+        "@search.score": 97.165955,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2182,7 +2186,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.12321,
+        "@search.score": 97.15416,
         "benefitNames": [
             "Free Food"
         ],
@@ -2217,7 +2221,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.049934,
+        "@search.score": 97.08094,
         "benefitNames": [
             "Free Food"
         ],
@@ -2252,7 +2256,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.045204,
+        "@search.score": 97.07622,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2296,7 +2300,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.040474,
+        "@search.score": 97.07149,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2348,7 +2352,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.03929,
+        "@search.score": 97.070305,
         "benefitNames": [
             "Free Food"
         ],
@@ -2385,7 +2389,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.02154,
+        "@search.score": 97.05257,
         "benefitNames": [
             "Free Food"
         ],
@@ -2422,7 +2426,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.01681,
+        "@search.score": 97.04784,
         "benefitNames": [
             "Free Food"
         ],
@@ -2453,7 +2457,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.94099,
+        "@search.score": 96.97207,
         "benefitNames": [
             "Free Food"
         ],
@@ -2484,7 +2488,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.93387,
+        "@search.score": 96.96496,
         "benefitNames": [
             "Free Food"
         ],
@@ -2529,7 +2533,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.931496,
+        "@search.score": 96.962585,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2565,7 +2569,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.91726,
+        "@search.score": 96.948364,
         "benefitNames": [
             "Free Food"
         ],
@@ -2600,7 +2604,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.95284,
+        "@search.score": 96.98392,
         "benefitNames": [
             "Free Food"
         ],
@@ -2635,7 +2639,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.95047,
+        "@search.score": 96.981544,
         "benefitNames": [
             "Free Food"
         ],
@@ -2670,7 +2674,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.90777,
+        "@search.score": 96.93888,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2708,7 +2712,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.83176,
+        "@search.score": 96.86292,
         "benefitNames": [
             "Free Food"
         ],
@@ -2751,7 +2755,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.81273,
+        "@search.score": 96.84391,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -2796,7 +2800,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.67455,
+        "@search.score": 96.705826,
         "benefitNames": [
             "Free Food"
         ],
@@ -2831,7 +2835,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.67932,
+        "@search.score": 96.710594,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -2875,7 +2879,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.55507,
+        "@search.score": 96.58643,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -2920,7 +2924,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.47843,
+        "@search.score": 96.50985,
         "benefitNames": [
             "Free Food"
         ],
@@ -2951,7 +2955,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.348785,
+        "@search.score": 96.3803,
         "benefitNames": [
             "Free Food"
         ],
@@ -2986,7 +2990,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.14634,
+        "@search.score": 96.178,
         "benefitNames": [
             "Free Food"
         ],
@@ -3023,7 +3027,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.1125,
+        "@search.score": 96.144196,
         "benefitNames": [
             "Free Food"
         ],
@@ -3058,7 +3062,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.1125,
+        "@search.score": 96.144196,
         "benefitNames": [
             "Free Food"
         ],
@@ -3093,7 +3097,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.10284,
+        "@search.score": 96.13453,
         "benefitNames": [
             "Free Food"
         ],
@@ -3121,14 +3125,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "95c4d54e-8381-4758-b7a3-7612c7600873e041fe4e-ecc3-418a-9a1d-79a296df10dc.png",
         "recScore": null,
-        "rsvpTotal": 1,
+        "rsvpTotal": 2,
         "startsOn": "April 24 | 06:00 PM",
         "status": "Approved",
         "theme": "ThoughtfulLearning",
         "visibility": "Public"
     },
     {
-        "@search.score": 95.8652,
+        "@search.score": 95.897064,
         "benefitNames": [
             "Free Food"
         ],
@@ -3163,7 +3167,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.75563,
+        "@search.score": 95.78759,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -3195,7 +3199,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.51361,
+        "@search.score": 95.545746,
         "benefitNames": [
             "Free Food"
         ],
@@ -3230,7 +3234,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.51852,
+        "@search.score": 95.550644,
         "benefitNames": [
             "Free Food"
         ],
@@ -3265,7 +3269,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.506256,
+        "@search.score": 95.53839,
         "benefitNames": [
             "Free Food"
         ],
@@ -3300,7 +3304,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.40069,
+        "@search.score": 95.43291,
         "benefitNames": [
             "Free Food"
         ],
@@ -3335,7 +3339,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.395775,
+        "@search.score": 95.42799,
         "benefitNames": [
             "Free Food"
         ],
@@ -3366,7 +3370,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.2924,
+        "@search.score": 95.3247,
         "benefitNames": [
             "Free Food"
         ],
@@ -3401,7 +3405,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.04031,
+        "@search.score": 95.0728,
         "benefitNames": [
             "Free Food"
         ],
@@ -3436,7 +3440,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.83658,
+        "@search.score": 94.86922,
         "benefitNames": [
             "Free Food"
         ],
@@ -3467,7 +3471,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.8316,
+        "@search.score": 94.86424,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -3504,7 +3508,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.84156,
+        "@search.score": 94.8742,
         "benefitNames": [
             "Free Food"
         ],
@@ -3541,7 +3545,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.57177,
+        "@search.score": 94.604614,
         "benefitNames": [
             "Free Food"
         ],
@@ -3584,7 +3588,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.456345,
+        "@search.score": 94.48928,
         "benefitNames": [
             "Free Food"
         ],
@@ -3619,7 +3623,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.199295,
+        "@search.score": 94.23242,
         "benefitNames": [
             "Free Food"
         ],
@@ -3654,7 +3658,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.34149,
+        "@search.score": 93.37529,
         "benefitNames": [
             "Free Food"
         ],
@@ -3689,7 +3693,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 77.32723,
+        "@search.score": 77.376274,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
