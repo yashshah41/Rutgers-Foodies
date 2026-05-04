@@ -1,87 +1,6 @@
 [
     {
-        "@search.score": 99.98103,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "7111"
-        ],
-        "categoryNames": [
-            "Social Event"
-        ],
-        "description": "Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!",
-        "endsOn": "08:00 PM",
-        "id": "12108975",
-        "imagePath": "b27194e1-f35d-489a-b963-b2593acba718199b6de5-d814-43cf-b44f-f43ccd38a38b.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "The Catholic Center at Rutgers",
-        "longitude": null,
-        "name": "Student Dinner",
-        "organizationId": 121454,
-        "organizationIds": [],
-        "organizationName": "Catholic Students (Rutgers) ",
-        "organizationNames": [],
-        "organizationProfilePicture": "9768e32f-b910-4b4b-9325-fcdc492496e0736a85a4-795c-404f-af4f-9887bb6da308.png",
-        "recScore": null,
-        "rsvpTotal": 0,
-        "startsOn": "May 03 | 07:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.903625,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "5358",
-            "7111"
-        ],
-        "categoryNames": [
-            "Wellness Event",
-            "Social Event"
-        ],
-        "description": "  The Office of Disability Services and Scarlet Arts Rx are hosting a study break for graduate and undergraduate students with disabilities and disability allies. Take a moment to step away from your routine and create a t-shirt for a study buddy teddy bear. Snacks, drinks, and teddy bears while supplies last. Registration is required as supplies and space are limited.    Please register here.   Do you have any questions or accommodation requests specific to this event? Please email dsoffice@echo.rutgers.edu, call 848-202-3111, or visit ODS in Lucy Stone Hall, Suite A145, Livingston Campus.",
-        "endsOn": "02:00 PM",
-        "id": "12426115",
-        "imagePath": "f07b27aa-69f2-41c9-a234-821cc8f324f0a58dd1a0-ec35-4492-8bbd-0dc940a899fe.png",
-        "index": 1,
-        "institutionId": 4753,
-        "latitude": "40.521910",
-        "location": "Lucy Stone Hall, 1st Floor Lobby, Suite A145, Livingston Campus",
-        "longitude": "-74.434880",
-        "name": "Crafter Noon: Making Finals Bear-Able!",
-        "organizationId": 327071,
-        "organizationIds": [
-            "327071",
-            "392207"
-        ],
-        "organizationName": "Office of Disability Services (University Department)",
-        "organizationNames": [
-            "Office of Disability Services (University Department)",
-            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
-        ],
-        "organizationProfilePicture": "6a3443c9-ee14-49c8-973d-847a987bca096c05d880-846e-42e4-a878-6bc4a96900cb.jpg",
-        "recScore": null,
-        "rsvpTotal": 0,
-        "startsOn": "May 04 | 12:30 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.89699,
+        "@search.score": 99.92864,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -104,7 +23,7 @@
         "endsOn": "07:00 PM",
         "id": "12406967",
         "imagePath": "d2adb4e0-f45b-4dcf-bfe4-b5e00d538121bce23b8a-ae7a-4a44-b790-6bf03fcf61ae.png",
-        "index": 2,
+        "index": 0,
         "institutionId": 4753,
         "latitude": "40.524940",
         "location": "Livingston Plaza Lawn",
@@ -116,14 +35,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "9844b71c-d03f-4deb-9224-a6be84dd159787821dd4-648c-4517-84df-388828836808.jpg",
         "recScore": null,
-        "rsvpTotal": 49,
+        "rsvpTotal": 58,
         "startsOn": "May 04 | 02:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.79946,
+        "@search.score": 99.83119,
         "benefitNames": [
             "Free Food"
         ],
@@ -135,7 +54,7 @@
         "endsOn": "01:00 PM",
         "id": "12103752",
         "imagePath": null,
-        "index": 3,
+        "index": 1,
         "institutionId": 4753,
         "latitude": null,
         "location": "Research Tower V14",
@@ -154,7 +73,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.79502,
+        "@search.score": 99.82676,
         "benefitNames": [
             "Credit",
             "Free Food",
@@ -174,7 +93,7 @@
         "endsOn": "02:30 PM",
         "id": "11951223",
         "imagePath": "540c4b21-73f9-4f5f-ba81-5a6fa570d293f4c76866-7676-41fd-ba9b-4d2a23289578.png",
-        "index": 4,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.484150",
         "location": "Ludwig Center, Albers-Schonberg Rm",
@@ -192,14 +111,14 @@
         ],
         "organizationProfilePicture": "5ed5910e-a369-4630-978c-8b9b350e348f9ba332eb-d00f-45f8-9203-7f07d1b096ab.png",
         "recScore": null,
-        "rsvpTotal": 9,
+        "rsvpTotal": 10,
         "startsOn": "May 05 | 01:00 PM",
         "status": "Approved",
         "theme": "Arts",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.79946,
+        "@search.score": 99.83119,
         "benefitNames": [
             "Free Food"
         ],
@@ -217,7 +136,7 @@
         "endsOn": "03:00 PM",
         "id": "12442205",
         "imagePath": "891fbbd8-55b0-45b9-b84d-af8594ad97bc367e28a1-b358-4192-a642-ef7aaf5fe4fa.png",
-        "index": 5,
+        "index": 3,
         "institutionId": 4753,
         "latitude": null,
         "location": "School of Engineering Building, C-Wing Lawn",
@@ -236,7 +155,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.79502,
+        "@search.score": 99.82676,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -261,7 +180,7 @@
         "endsOn": "03:00 PM",
         "id": "12443213",
         "imagePath": "20577c3f-9301-4a54-b355-4e2df8c77f6914d4a3b2-0ec6-43e0-a8f0-72cfd5be7a3c.png",
-        "index": 6,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.480760",
         "location": "Bunting Cobb Lounge",
@@ -286,7 +205,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.79059,
+        "@search.score": 99.82232,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -305,7 +224,7 @@
         "endsOn": "04:00 PM",
         "id": "12445194",
         "imagePath": "68ecf7f4-2388-46bd-9be7-b3c7d719e0fb4b2faf03-35aa-491f-b8f0-97ea2a822a38.png",
-        "index": 7,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.525370",
         "location": "Morrow Suites ",
@@ -327,14 +246,14 @@
         ],
         "organizationProfilePicture": "e24e1778-34dc-435e-ac15-7889723f4f7e4f1a1f1c-35cc-4195-a478-454a0c88e866.jpg",
         "recScore": null,
-        "rsvpTotal": 27,
+        "rsvpTotal": 29,
         "startsOn": "May 05 | 02:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.79946,
+        "@search.score": 99.83119,
         "benefitNames": [
             "Free Food"
         ],
@@ -346,7 +265,7 @@
         "endsOn": "06:00 PM",
         "id": "12446199",
         "imagePath": "e43c9c38-4f46-4d82-8649-5a92d2828eb1f5ac3524-cbf1-4d10-aab0-dbc536ac8959.pdf",
-        "index": 8,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.521910",
         "location": "LSH (A-Wing) - 3rd Floor Computer/Tutoring Rooms",
@@ -365,7 +284,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.808334,
+        "@search.score": 99.840065,
         "benefitNames": [
             "Free Food"
         ],
@@ -383,7 +302,7 @@
         "endsOn": "08:00 PM",
         "id": "12438271",
         "imagePath": null,
-        "index": 9,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.501880",
         "location": "Center for Social Justice Education & LGBT Communities",
@@ -402,7 +321,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.8039,
+        "@search.score": 99.835625,
         "benefitNames": [
             "Free Food"
         ],
@@ -420,7 +339,7 @@
         "endsOn": "08:00 PM",
         "id": "12353898",
         "imagePath": "a0da7fe4-76a4-4607-904c-125b130a611ebaa721aa-0308-4257-ab6a-687eda09f3bf.png",
-        "index": 10,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.500040",
         "location": "Zimmerli Art Museum",
@@ -432,14 +351,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "3ad4961a-36dc-4c3d-ba82-886de2493d469e5a9e4c-75fb-4b67-a113-1d235cdadfb2.jpeg",
         "recScore": null,
-        "rsvpTotal": 4,
+        "rsvpTotal": 5,
         "startsOn": "May 05 | 11:00 AM",
         "status": "Approved",
         "theme": "ThoughtfulLearning",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.70616,
+        "@search.score": 99.73796,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -456,7 +375,7 @@
         "endsOn": "11:00 AM",
         "id": "12442663",
         "imagePath": "7037d34e-e856-49fe-96b3-9f62aaf3ca5e8c254880-221b-4874-af0a-2e203baaebb7.png",
-        "index": 11,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.502640",
         "location": "Graduate Student Lounge",
@@ -468,14 +387,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "3c4e2e1a-5a20-4bbe-a0b7-ed05eb2f14083c6b2a18-a7ac-437d-8d37-9d456bd2afea.png",
         "recScore": null,
-        "rsvpTotal": 16,
+        "rsvpTotal": 17,
         "startsOn": "May 06 | 09:00 AM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.69282,
+        "@search.score": 99.724625,
         "benefitNames": [
             "Free Food"
         ],
@@ -491,7 +410,7 @@
         "endsOn": "01:00 PM",
         "id": "12442156",
         "imagePath": "160abeba-e0fd-4eb2-af83-f23c7a71c76272fad63b-c5b1-407b-82b8-04b838cd88f1.png",
-        "index": 12,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.479450",
         "location": "Department of Marine and Coastal Sciences",
@@ -510,7 +429,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.68837,
+        "@search.score": 99.720184,
         "benefitNames": [
             "Free Food"
         ],
@@ -522,7 +441,7 @@
         "endsOn": "03:00 PM",
         "id": "12417718",
         "imagePath": "2732f9b9-b846-4acc-aa85-3687dd98ff7fa097dbc5-68df-463f-aaa8-a8c90116684d.png",
-        "index": 13,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.523320",
         "location": "Busch Student Center MPR",
@@ -541,7 +460,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.70616,
+        "@search.score": 99.73796,
         "benefitNames": [
             "Free Food"
         ],
@@ -569,7 +488,7 @@
         "endsOn": "05:00 PM",
         "id": "12390089",
         "imagePath": "d584bc33-1eb6-444d-8001-c7f0682608c9aa7d3d1a-851a-4743-8dd7-20e0f530c05d.png",
-        "index": 14,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.486500",
         "location": "Art History Building Room 200 (ARH-200)",
@@ -598,7 +517,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.58145,
+        "@search.score": 99.61334,
         "benefitNames": [
             "Free Food"
         ],
@@ -616,7 +535,7 @@
         "endsOn": "04:00 PM",
         "id": "12444124",
         "imagePath": "deb4d073-8f3a-42a8-9462-024e1244480242f358dc-514f-4fb7-8533-6f313539784e.png",
-        "index": 15,
+        "index": 13,
         "institutionId": 4753,
         "latitude": "40.520650",
         "location": "Buell Apartments Lawn, Busch Campus",
@@ -628,14 +547,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "3c4e2e1a-5a20-4bbe-a0b7-ed05eb2f14083c6b2a18-a7ac-437d-8d37-9d456bd2afea.png",
         "recScore": null,
-        "rsvpTotal": 136,
+        "rsvpTotal": 137,
         "startsOn": "May 07 | 01:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.565834,
+        "@search.score": 99.59774,
         "benefitNames": [
             "Free Food"
         ],
@@ -653,7 +572,7 @@
         "endsOn": "07:00 PM",
         "id": "12445123",
         "imagePath": null,
-        "index": 16,
+        "index": 14,
         "institutionId": 4753,
         "latitude": "40.502690",
         "location": "AB 6051, Academic Building, West Wing",
@@ -680,7 +599,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.56361,
+        "@search.score": 99.59551,
         "benefitNames": [
             "Free Food"
         ],
@@ -704,7 +623,7 @@
         "endsOn": "08:00 PM",
         "id": "12158483",
         "imagePath": "6fed9a48-c8ca-4b73-a3fa-f6bf01cbcfb2bcf76ce8-905b-423f-910a-cfa609035e9e.png",
-        "index": 17,
+        "index": 15,
         "institutionId": 4753,
         "latitude": null,
         "location": "Zimmerli Art Museum",
@@ -723,7 +642,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.460846,
+        "@search.score": 99.49283,
         "benefitNames": [
             "Free Food"
         ],
@@ -739,7 +658,7 @@
         "endsOn": "05:00 PM",
         "id": "12206627",
         "imagePath": "88340fe7-1127-4fcb-88b2-468c9e250a31a7c6b66a-2d41-4a5c-964d-02a0686dad7d.png",
-        "index": 18,
+        "index": 16,
         "institutionId": 4753,
         "latitude": null,
         "location": "ENR 123",
@@ -758,7 +677,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.384735,
+        "@search.score": 99.41678,
         "benefitNames": [
             "Free Food"
         ],
@@ -776,7 +695,7 @@
         "endsOn": "04:00 PM",
         "id": "12387994",
         "imagePath": "b8b618c0-dd4a-4c6b-8ad1-4bff152298446722d1e6-641a-48a9-90f4-e8a9fef824e0.png",
-        "index": 19,
+        "index": 17,
         "institutionId": 4753,
         "latitude": "40.498930",
         "location": "Kirkpatrick Chapel",
@@ -795,7 +714,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.23212,
+        "@search.score": 99.26427,
         "benefitNames": [
             "Free Food"
         ],
@@ -811,7 +730,7 @@
         "endsOn": "08:00 PM",
         "id": "12108976",
         "imagePath": "b27194e1-f35d-489a-b963-b2593acba718199b6de5-d814-43cf-b44f-f43ccd38a38b.png",
-        "index": 20,
+        "index": 18,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Catholic Center at Rutgers",
@@ -830,7 +749,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.029274,
+        "@search.score": 99.06158,
         "benefitNames": [
             "Free Food"
         ],
@@ -842,7 +761,7 @@
         "endsOn": "07:00 PM",
         "id": "12452505",
         "imagePath": "01b98862-a352-4da4-ba1c-589a9f636c1a57f8b71a-6ac4-42b2-83b3-37ecac3be348.png",
-        "index": 21,
+        "index": 19,
         "institutionId": 4753,
         "latitude": "40.498640",
         "location": "Rutgers Geology Museum",
@@ -861,7 +780,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.80277,
+        "@search.score": 98.83524,
         "benefitNames": [
             "Free Food"
         ],
@@ -875,7 +794,7 @@
         "endsOn": "09:00 PM",
         "id": "12454541",
         "imagePath": "d8e91179-4d36-4578-8074-315c0334e82426612a46-243e-4d11-a92e-d116cd313ca5.png",
-        "index": 22,
+        "index": 20,
         "institutionId": 4753,
         "latitude": null,
         "location": "Deans Conference Room",
@@ -899,19 +818,21 @@
         ],
         "organizationProfilePicture": null,
         "recScore": null,
-        "rsvpTotal": 11,
+        "rsvpTotal": 13,
         "startsOn": "May 14 | 06:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 98.61158,
+        "@search.score": 98.6442,
         "benefitNames": [
             "Free Food"
         ],
         "branchId": 112385,
-        "branchIds": [],
+        "branchIds": [
+            "112385"
+        ],
         "categoryIds": [
             "5348",
             "20311"
@@ -923,27 +844,35 @@
         "description": "Join us for a hands-on outdoor experience at Rutgers Gardens designed for student parents/guardians and their children. This family-friendly session invites children to explore nature through observation and sketching the world around them. Guided by a trained facilitator and led by a Scarlet Arts Rx camp counselor, children will participate in nature-based art journaling activities that encourages curiosity and creativity. They will discover plants and insects while engaging in play and learning within an open, natural environment. This is a wonderful opportunity to spend quality time outdoors and connect with other Rutgers families. What to expect:  Guided nature exploration and journaling activities Art supplies provided Open, child-led creativity Food & Snacks available  Important: This is not a drop-off event. Parents/guardians must remain present. Come explore and connect!",
         "endsOn": "01:30 PM",
         "id": "12456684",
-        "imagePath": null,
-        "index": 23,
+        "imagePath": "cfd45744-8455-4fff-993e-4894a762894ffdcad1e6-a17f-4a58-be21-3296c8775983.png",
+        "index": 21,
         "institutionId": 4753,
         "latitude": "40.473390",
         "location": "Rutgers Gardens",
         "longitude": "-74.422690",
         "name": "Nature Explorers: Outdoor Nature Art Journaling for Children - FREE Event at Rutgers Gardens",
         "organizationId": 352883,
-        "organizationIds": [],
+        "organizationIds": [
+            "312665",
+            "352883",
+            "392207"
+        ],
         "organizationName": "Supporting Parents and Caregivers at Rutgers (Graduate Organization)",
-        "organizationNames": [],
+        "organizationNames": [
+            "Graduate Student Association (GSA)",
+            "Supporting Parents and Caregivers at Rutgers (Graduate Organization)",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
+        ],
         "organizationProfilePicture": "67324cf2-eb53-45f3-8635-c25617096de061b5f661-e57a-4587-b441-1f83eec06234.png",
         "recScore": null,
-        "rsvpTotal": 3,
+        "rsvpTotal": 4,
         "startsOn": "May 16 | 12:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 98.46992,
+        "@search.score": 98.50265,
         "benefitNames": [
             "Free Food"
         ],
@@ -959,7 +888,7 @@
         "endsOn": "08:00 PM",
         "id": "12108977",
         "imagePath": "b27194e1-f35d-489a-b963-b2593acba718199b6de5-d814-43cf-b44f-f43ccd38a38b.png",
-        "index": 24,
+        "index": 22,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Catholic Center at Rutgers",
@@ -978,7 +907,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.5839,
+        "@search.score": 84.6291,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -991,7 +920,7 @@
         "endsOn": "08:30 PM",
         "id": "12202066",
         "imagePath": "4a81ca79-a4e9-4692-a97e-c216bea6ff23eba43a39-c192-4179-8c5a-b56450c35111.png",
-        "index": 25,
+        "index": 23,
         "institutionId": 4753,
         "latitude": "40.504980",
         "location": "The Hatchery, Alexander Library",
