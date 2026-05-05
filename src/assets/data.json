@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.97864,
+        "@search.score": 1.0,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -41,14 +41,14 @@
         ],
         "organizationProfilePicture": "e24e1778-34dc-435e-ac15-7889723f4f7e4f1a1f1c-35cc-4195-a478-454a0c88e866.jpg",
         "recScore": null,
-        "rsvpTotal": 42,
+        "rsvpTotal": 56,
         "startsOn": "May 05 | 02:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.98747,
+        "@search.score": 1.0,
         "benefitNames": [
             "Free Food"
         ],
@@ -72,14 +72,51 @@
         "organizationNames": [],
         "organizationProfilePicture": "b7fe21f7-4f80-4dc3-9688-a04ae960266b5b8faf4d-3f60-4d94-aba5-389c1d291e47.jpg",
         "recScore": null,
-        "rsvpTotal": 14,
+        "rsvpTotal": 15,
         "startsOn": "May 05 | 12:00 PM",
         "status": "Approved",
         "theme": "ThoughtfulLearning",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.996315,
+        "@search.score": 1.0,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5354",
+            "5358"
+        ],
+        "categoryNames": [
+            "Special Interest",
+            "Wellness Event"
+        ],
+        "description": "For Reading Day, before the week of final exams, the Zimmerli opens exclusively for Rutgers students to offer a one-of-a-kind space to study, discover, and create in the museum. Free refreshments throughout the day. Open to all current Rutgers\u2019 undergraduate and graduate students. Study in the galleries and enjoy free provided food and refreshments in our lobby as well as a variety of brain break activities! Rutgers student ID required. Visit event page for all details & updates.",
+        "endsOn": "08:00 PM",
+        "id": "12353898",
+        "imagePath": "a0da7fe4-76a4-4607-904c-125b130a611ebaa721aa-0308-4257-ab6a-687eda09f3bf.png",
+        "index": 2,
+        "institutionId": 4753,
+        "latitude": "40.500040",
+        "location": "Zimmerli Art Museum",
+        "longitude": "-74.445780",
+        "name": "Study Break for Rutgers Students",
+        "organizationId": 267503,
+        "organizationIds": [],
+        "organizationName": "J Voorhees Zimmerli Art Museum",
+        "organizationNames": [],
+        "organizationProfilePicture": "3ad4961a-36dc-4c3d-ba82-886de2493d469e5a9e4c-75fb-4b67-a113-1d235cdadfb2.jpeg",
+        "recScore": null,
+        "rsvpTotal": 11,
+        "startsOn": "May 05 | 11:00 AM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
         "benefitNames": [
             "Free Food"
         ],
@@ -97,7 +134,7 @@
         "endsOn": "08:00 PM",
         "id": "12438271",
         "imagePath": null,
-        "index": 2,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.501880",
         "location": "Center for Social Justice Education & LGBT Communities",
@@ -116,44 +153,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.99189,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5354",
-            "5358"
-        ],
-        "categoryNames": [
-            "Special Interest",
-            "Wellness Event"
-        ],
-        "description": "For Reading Day, before the week of final exams, the Zimmerli opens exclusively for Rutgers students to offer a one-of-a-kind space to study, discover, and create in the museum. Free refreshments throughout the day. Open to all current Rutgers\u2019 undergraduate and graduate students. Study in the galleries and enjoy free provided food and refreshments in our lobby as well as a variety of brain break activities! Rutgers student ID required. Visit event page for all details & updates.",
-        "endsOn": "08:00 PM",
-        "id": "12353898",
-        "imagePath": "a0da7fe4-76a4-4607-904c-125b130a611ebaa721aa-0308-4257-ab6a-687eda09f3bf.png",
-        "index": 3,
-        "institutionId": 4753,
-        "latitude": "40.500040",
-        "location": "Zimmerli Art Museum",
-        "longitude": "-74.445780",
-        "name": "Study Break for Rutgers Students",
-        "organizationId": 267503,
-        "organizationIds": [],
-        "organizationName": "J Voorhees Zimmerli Art Museum",
-        "organizationNames": [],
-        "organizationProfilePicture": "3ad4961a-36dc-4c3d-ba82-886de2493d469e5a9e4c-75fb-4b67-a113-1d235cdadfb2.jpeg",
-        "recScore": null,
-        "rsvpTotal": 8,
-        "startsOn": "May 05 | 11:00 AM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.894585,
+        "@search.score": 99.92071,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -182,14 +182,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "3c4e2e1a-5a20-4bbe-a0b7-ed05eb2f14083c6b2a18-a7ac-437d-8d37-9d456bd2afea.png",
         "recScore": null,
-        "rsvpTotal": 29,
+        "rsvpTotal": 30,
         "startsOn": "May 06 | 09:00 AM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.881294,
+        "@search.score": 99.90743,
         "benefitNames": [
             "Free Food"
         ],
@@ -224,7 +224,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.87687,
+        "@search.score": 99.90301,
         "benefitNames": [
             "Free Food"
         ],
@@ -248,14 +248,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "0559d5e5-a562-474d-96d3-8b4cdb96b27f39076c0c-78f1-4760-89b5-ccd60ec2a0a1.png",
         "recScore": null,
-        "rsvpTotal": 4,
+        "rsvpTotal": 5,
         "startsOn": "May 06 | 01:00 PM",
         "status": "Approved",
         "theme": "Cultural",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.894585,
+        "@search.score": 99.92071,
         "benefitNames": [
             "Free Food"
         ],
@@ -312,7 +312,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.77042,
+        "@search.score": 99.796616,
         "benefitNames": [
             "Free Food"
         ],
@@ -342,14 +342,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "3c4e2e1a-5a20-4bbe-a0b7-ed05eb2f14083c6b2a18-a7ac-437d-8d37-9d456bd2afea.png",
         "recScore": null,
-        "rsvpTotal": 161,
+        "rsvpTotal": 168,
         "startsOn": "May 07 | 01:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.75487,
+        "@search.score": 99.78108,
         "benefitNames": [
             "Free Food"
         ],
@@ -387,14 +387,14 @@
         ],
         "organizationProfilePicture": "99b0e367-9751-4ab1-8d72-3a4b30a6967f449fa805-f3ca-421f-b08a-fe9084177747.png",
         "recScore": null,
-        "rsvpTotal": 8,
+        "rsvpTotal": 14,
         "startsOn": "May 07 | 04:30 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.75265,
+        "@search.score": 99.77886,
         "benefitNames": [
             "Free Food"
         ],
@@ -430,14 +430,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "3ad4961a-36dc-4c3d-ba82-886de2493d469e5a9e4c-75fb-4b67-a113-1d235cdadfb2.jpeg",
         "recScore": null,
-        "rsvpTotal": 2,
+        "rsvpTotal": 3,
         "startsOn": "May 07 | 05:00 PM",
         "status": "Approved",
         "theme": "Arts",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.650345,
+        "@search.score": 99.67662,
         "benefitNames": [
             "Free Food"
         ],
@@ -472,7 +472,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.57457,
+        "@search.score": 99.60089,
         "benefitNames": [
             "Free Food"
         ],
@@ -509,7 +509,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.42262,
+        "@search.score": 99.449036,
         "benefitNames": [
             "Free Food"
         ],
@@ -544,7 +544,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.22068,
+        "@search.score": 99.247215,
         "benefitNames": [
             "Free Food"
         ],
@@ -575,7 +575,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.995186,
+        "@search.score": 99.02186,
         "benefitNames": [
             "Free Food"
         ],
@@ -613,14 +613,14 @@
         ],
         "organizationProfilePicture": null,
         "recScore": null,
-        "rsvpTotal": 17,
+        "rsvpTotal": 18,
         "startsOn": "May 14 | 06:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 98.80485,
+        "@search.score": 98.83164,
         "benefitNames": [
             "Free Food"
         ],
@@ -667,7 +667,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.66382,
+        "@search.score": 98.690704,
         "benefitNames": [
             "Free Food"
         ],
@@ -702,7 +702,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 84.8515,
+        "@search.score": 84.888565,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
