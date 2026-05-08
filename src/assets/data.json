@@ -1,6 +1,41 @@
 [
     {
-        "@search.score": 99.97395,
+        "@search.score": 99.99577,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "7111"
+        ],
+        "categoryNames": [
+            "Social Event"
+        ],
+        "description": "General Meeting for EcoGSa",
+        "endsOn": "05:00 PM",
+        "id": "12206627",
+        "imagePath": "88340fe7-1127-4fcb-88b2-468c9e250a31a7c6b66a-2d41-4a5c-964d-02a0686dad7d.png",
+        "index": 0,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "ENR 123",
+        "longitude": null,
+        "name": "EcoGSA",
+        "organizationId": 331846,
+        "organizationIds": [],
+        "organizationName": "Ecology and Evolution Graduate Student Association (Graduate Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "78932a00-1339-4bad-98cb-94c63d2b4b10c6a8e19b-f376-47ff-a42f-ab6652d899c7.jpg",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "May 08 | 04:00 PM",
+        "status": "Approved",
+        "theme": "GroupBusiness",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -23,7 +58,7 @@
         "endsOn": "05:00 PM",
         "id": "12462823",
         "imagePath": "4d2a137e-2cec-4d6f-8b97-eaf9b003d5f5eb1bd8c5-8930-40cb-ba9c-54fe0e6cac4f.png",
-        "index": 0,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.492940",
         "location": "Civic Square Building (College Ave Campus - EE bus - SoCam Apts stop)",
@@ -41,49 +76,14 @@
         ],
         "organizationProfilePicture": "bcd338bc-854f-473b-b4da-0b84df2549706b29878b-47e7-4208-85d2-a1266437689e.png",
         "recScore": null,
-        "rsvpTotal": 1,
+        "rsvpTotal": 3,
         "startsOn": "May 08 | 03:00 PM",
         "status": "Approved",
         "theme": "Arts",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.969536,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "7111"
-        ],
-        "categoryNames": [
-            "Social Event"
-        ],
-        "description": "General Meeting for EcoGSa",
-        "endsOn": "05:00 PM",
-        "id": "12206627",
-        "imagePath": "88340fe7-1127-4fcb-88b2-468c9e250a31a7c6b66a-2d41-4a5c-964d-02a0686dad7d.png",
-        "index": 1,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "ENR 123",
-        "longitude": null,
-        "name": "EcoGSA",
-        "organizationId": 331846,
-        "organizationIds": [],
-        "organizationName": "Ecology and Evolution Graduate Student Association (Graduate Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "78932a00-1339-4bad-98cb-94c63d2b4b10c6a8e19b-f376-47ff-a42f-ab6652d899c7.jpg",
-        "recScore": null,
-        "rsvpTotal": 0,
-        "startsOn": "May 08 | 04:00 PM",
-        "status": "Approved",
-        "theme": "GroupBusiness",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.96511,
+        "@search.score": 99.991356,
         "benefitNames": [
             "Free Food"
         ],
@@ -113,14 +113,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "3c4e2e1a-5a20-4bbe-a0b7-ed05eb2f14083c6b2a18-a7ac-437d-8d37-9d456bd2afea.png",
         "recScore": null,
-        "rsvpTotal": 275,
+        "rsvpTotal": 300,
         "startsOn": "May 08 | 05:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.89432,
+        "@search.score": 99.92061,
         "benefitNames": [
             "Free Food"
         ],
@@ -157,7 +157,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.7435,
+        "@search.score": 99.769875,
         "benefitNames": [
             "Free Food"
         ],
@@ -192,7 +192,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.54306,
+        "@search.score": 99.569565,
         "benefitNames": [
             "Free Food"
         ],
@@ -223,7 +223,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.31926,
+        "@search.score": 99.345894,
         "benefitNames": [
             "Free Food"
         ],
@@ -268,7 +268,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.130356,
+        "@search.score": 99.15711,
         "benefitNames": [
             "Free Food"
         ],
@@ -315,7 +315,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.990395,
+        "@search.score": 99.017235,
         "benefitNames": [
             "Free Food"
         ],
@@ -350,7 +350,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.30115,
+        "@search.score": 85.33805,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
