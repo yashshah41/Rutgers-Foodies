@@ -1,43 +1,6 @@
 [
     {
-        "@search.score": 1.0,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "5349",
-            "7111"
-        ],
-        "categoryNames": [
-            "Performance",
-            "Social Event"
-        ],
-        "description": "Come celebrate the joy of singing with this day-long event of reconnecting with old friends and meeting new friends! If you have ever sung in a Rutgers choir at any point in your journey at Rutgers, join us on this day of singing. There will be light refreshments in the morning, and then lunch is on your own. We end the day with a relaxed performance of the pieces we have worked on throughout the day.",
-        "endsOn": "04:00 PM",
-        "id": "12387994",
-        "imagePath": "b8b618c0-dd4a-4c6b-8ad1-4bff152298446722d1e6-641a-48a9-90f4-e8a9fef824e0.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": "40.498930",
-        "location": "Kirkpatrick Chapel",
-        "longitude": "-74.445850",
-        "name": "ACDA Choral Alumni Festival",
-        "organizationId": 121324,
-        "organizationIds": [],
-        "organizationName": "American Choral Directors Association",
-        "organizationNames": [],
-        "organizationProfilePicture": "b2b06dbe-be6d-4fcd-ad3d-0b2ad87aa80c134fd770-4073-421a-ae6d-1d6ca9bcd1e2.jpg",
-        "recScore": null,
-        "rsvpTotal": 7,
-        "startsOn": "May 09 | 09:00 AM",
-        "status": "Approved",
-        "theme": "Arts",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.87491,
+        "@search.score": 99.906715,
         "benefitNames": [
             "Free Food"
         ],
@@ -53,7 +16,7 @@
         "endsOn": "08:00 PM",
         "id": "12108976",
         "imagePath": "b27194e1-f35d-489a-b963-b2593acba718199b6de5-d814-43cf-b44f-f43ccd38a38b.png",
-        "index": 1,
+        "index": 0,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Catholic Center at Rutgers",
@@ -72,7 +35,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.67509,
+        "@search.score": 99.70704,
         "benefitNames": [
             "Free Food"
         ],
@@ -84,7 +47,7 @@
         "endsOn": "07:00 PM",
         "id": "12452505",
         "imagePath": "01b98862-a352-4da4-ba1c-589a9f636c1a57f8b71a-6ac4-42b2-83b3-37ecac3be348.png",
-        "index": 2,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.498640",
         "location": "Rutgers Geology Museum",
@@ -103,7 +66,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.45197,
+        "@search.score": 99.48409,
         "benefitNames": [
             "Free Food"
         ],
@@ -117,7 +80,7 @@
         "endsOn": "09:00 PM",
         "id": "12454541",
         "imagePath": "d8e91179-4d36-4578-8074-315c0334e82426612a46-243e-4d11-a92e-d116cd313ca5.png",
-        "index": 3,
+        "index": 2,
         "institutionId": 4753,
         "latitude": null,
         "location": "Deans Conference Room",
@@ -148,7 +111,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.26365,
+        "@search.score": 99.29591,
         "benefitNames": [
             "Free Food"
         ],
@@ -168,7 +131,7 @@
         "endsOn": "01:30 PM",
         "id": "12456684",
         "imagePath": "cfd45744-8455-4fff-993e-4894a762894ffdcad1e6-a17f-4a58-be21-3296c8775983.png",
-        "index": 4,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.473390",
         "location": "Rutgers Gardens",
@@ -195,7 +158,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.12412,
+        "@search.score": 99.15649,
         "benefitNames": [
             "Free Food"
         ],
@@ -211,7 +174,7 @@
         "endsOn": "08:00 PM",
         "id": "12108977",
         "imagePath": "b27194e1-f35d-489a-b963-b2593acba718199b6de5-d814-43cf-b44f-f43ccd38a38b.png",
-        "index": 5,
+        "index": 4,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Catholic Center at Rutgers",
@@ -230,7 +193,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.48491,
+        "@search.score": 85.52935,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -243,7 +206,7 @@
         "endsOn": "08:30 PM",
         "id": "12202066",
         "imagePath": "4a81ca79-a4e9-4692-a97e-c216bea6ff23eba43a39-c192-4179-8c5a-b56450c35111.png",
-        "index": 6,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.504980",
         "location": "The Hatchery, Alexander Library",
