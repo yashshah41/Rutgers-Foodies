@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.85876,
+        "@search.score": 99.882774,
         "benefitNames": [
             "Free Food"
         ],
@@ -38,14 +38,14 @@
         ],
         "organizationProfilePicture": null,
         "recScore": null,
-        "rsvpTotal": 38,
+        "rsvpTotal": 40,
         "startsOn": "May 14 | 06:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.67222,
+        "@search.score": 99.69634,
         "benefitNames": [
             "Free Food"
         ],
@@ -85,14 +85,14 @@
         ],
         "organizationProfilePicture": "67324cf2-eb53-45f3-8635-c25617096de061b5f661-e57a-4587-b441-1f83eec06234.png",
         "recScore": null,
-        "rsvpTotal": 11,
+        "rsvpTotal": 13,
         "startsOn": "May 16 | 12:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.53401,
+        "@search.score": 99.55821,
         "benefitNames": [
             "Free Food"
         ],
@@ -127,7 +127,42 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 86.046814,
+        "@search.score": 98.14734,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5331"
+        ],
+        "categoryNames": [
+            "Art Exhibition"
+        ],
+        "description": "Opening reception of Rutgers in NY MFA Visual Arts group exhibition located at the historic Westbeth Gallery. ",
+        "endsOn": "08:00 PM",
+        "id": "12468256",
+        "imagePath": "dacf5b3a-41c7-42c8-a9dd-6d6ef5b0d168ab7c858e-571c-4a8c-96f3-1afc3ca36e0b.png",
+        "index": 3,
+        "institutionId": 4753,
+        "latitude": "40.736570",
+        "location": "Westbeth Gallery ",
+        "longitude": "-74.008830",
+        "name": "Rutgers in NY MFA Exhibition ",
+        "organizationId": 422382,
+        "organizationIds": [],
+        "organizationName": "Mason Gross Art and Design (Mason Gross Graduate Student Association)",
+        "organizationNames": [],
+        "organizationProfilePicture": "ffd71870-1867-4c57-bffe-fed5aaa32cd6c8c2e942-f8ac-4628-9a4b-8f1d25e9c06f.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "May 30 | 06:00 PM",
+        "status": "Approved",
+        "theme": "Arts",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 86.07993,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -140,7 +175,7 @@
         "endsOn": "08:30 PM",
         "id": "12202066",
         "imagePath": "4a81ca79-a4e9-4692-a97e-c216bea6ff23eba43a39-c192-4179-8c5a-b56450c35111.png",
-        "index": 3,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.504980",
         "location": "The Hatchery, Alexander Library",
