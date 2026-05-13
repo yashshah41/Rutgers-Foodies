@@ -1,75 +1,6 @@
 [
     {
-        "@search.score": 99.99756,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Geology and MSE research overlap more than you'd think! Come to the research mixer to present your research, explore collaborations, and share ideas in a casual setting!",
-        "endsOn": "07:00 PM",
-        "id": "12452505",
-        "imagePath": "01b98862-a352-4da4-ba1c-589a9f636c1a57f8b71a-6ac4-42b2-83b3-37ecac3be348.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": "40.498640",
-        "location": "Rutgers Geology Museum",
-        "longitude": "-74.446680",
-        "name": "EPS/MSE Research Mixer",
-        "organizationId": 333616,
-        "organizationIds": [],
-        "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
-        "recScore": null,
-        "rsvpTotal": 2,
-        "startsOn": "May 12 | 04:00 PM",
-        "status": "Approved",
-        "theme": "ThoughtfulLearning",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.988716,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Check back for more information on a Student vs Faculty trivia event. Test your knowledge and see who knows more, you or your professors! Tickets: FREE - Seniors Only - No Tickets Required ",
-        "endsOn": "08:00 PM",
-        "id": "12466109",
-        "imagePath": "c57ea1d2-8eed-4746-adb5-e44981441d051e5323e8-83d0-42e2-8db6-848e50a05e13.png",
-        "index": 1,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "Busch Student Center - MPR",
-        "longitude": null,
-        "name": "Senior Days: Staff vs. Student",
-        "organizationId": 355805,
-        "organizationIds": [
-            "341079"
-        ],
-        "organizationName": "Incoming Students 2022-2023: Student Orientation and Transition Programs",
-        "organizationNames": [
-            "Student Centers and Activities (Department of)"
-        ],
-        "organizationProfilePicture": "964a27d8-eb1b-42b4-ac68-83c91f33242bbeaf724c-7265-42f1-a96b-6a77c3d51c5c.jpg",
-        "recScore": null,
-        "rsvpTotal": 1,
-        "startsOn": "May 12 | 06:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.77611,
+        "@search.score": 99.80565,
         "benefitNames": [
             "Free Food"
         ],
@@ -83,7 +14,7 @@
         "endsOn": "09:00 PM",
         "id": "12454541",
         "imagePath": "d8e91179-4d36-4578-8074-315c0334e82426612a46-243e-4d11-a92e-d116cd313ca5.png",
-        "index": 2,
+        "index": 0,
         "institutionId": 4753,
         "latitude": null,
         "location": "Deans Conference Room",
@@ -114,7 +45,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.58921,
+        "@search.score": 99.61887,
         "benefitNames": [
             "Free Food"
         ],
@@ -134,7 +65,7 @@
         "endsOn": "01:30 PM",
         "id": "12456684",
         "imagePath": "cfd45744-8455-4fff-993e-4894a762894ffdcad1e6-a17f-4a58-be21-3296c8775983.png",
-        "index": 3,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.473390",
         "location": "Rutgers Gardens",
@@ -154,14 +85,14 @@
         ],
         "organizationProfilePicture": "67324cf2-eb53-45f3-8635-c25617096de061b5f661-e57a-4587-b441-1f83eec06234.png",
         "recScore": null,
-        "rsvpTotal": 9,
+        "rsvpTotal": 10,
         "startsOn": "May 16 | 12:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.45073,
+        "@search.score": 99.4805,
         "benefitNames": [
             "Free Food"
         ],
@@ -177,7 +108,7 @@
         "endsOn": "08:00 PM",
         "id": "12108977",
         "imagePath": "b27194e1-f35d-489a-b963-b2593acba718199b6de5-d814-43cf-b44f-f43ccd38a38b.png",
-        "index": 4,
+        "index": 2,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Catholic Center at Rutgers",
@@ -196,7 +127,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.932816,
+        "@search.score": 85.97357,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -209,7 +140,7 @@
         "endsOn": "08:30 PM",
         "id": "12202066",
         "imagePath": "4a81ca79-a4e9-4692-a97e-c216bea6ff23eba43a39-c192-4179-8c5a-b56450c35111.png",
-        "index": 5,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.504980",
         "location": "The Hatchery, Alexander Library",
