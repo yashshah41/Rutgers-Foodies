@@ -1,53 +1,6 @@
 [
     {
-        "@search.score": 99.90829,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [
-            "112385"
-        ],
-        "categoryIds": [
-            "5348",
-            "20311"
-        ],
-        "categoryNames": [
-            "Outdoor Event",
-            "Graduate Student Organization Event"
-        ],
-        "description": "Join us for a hands-on outdoor experience at Rutgers Gardens designed for student parents/guardians and their children. This family-friendly session invites children to explore nature through observation and sketching the world around them. Guided by a trained facilitator and led by a Scarlet Arts Rx camp counselor, children will participate in nature-based art journaling activities that encourages curiosity and creativity. They will discover plants and insects while engaging in play and learning within an open, natural environment. This is a wonderful opportunity to spend quality time outdoors and connect with other Rutgers families. What to expect:  Guided nature exploration and journaling activities Art supplies provided Open, child-led creativity Food & Snacks available  Important: This is not a drop-off event. Parents/guardians must remain present. Come explore and connect!",
-        "endsOn": "01:30 PM",
-        "id": "12456684",
-        "imagePath": "cfd45744-8455-4fff-993e-4894a762894ffdcad1e6-a17f-4a58-be21-3296c8775983.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": "40.473390",
-        "location": "Rutgers Gardens",
-        "longitude": "-74.422690",
-        "name": "Nature Explorers: Outdoor Nature Art Journaling for Children - FREE Event at Rutgers Gardens",
-        "organizationId": 352883,
-        "organizationIds": [
-            "312665",
-            "352883",
-            "392207"
-        ],
-        "organizationName": "Supporting Parents and Caregivers at Rutgers (Graduate Organization)",
-        "organizationNames": [
-            "Graduate Student Association (GSA)",
-            "Supporting Parents and Caregivers at Rutgers (Graduate Organization)",
-            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
-        ],
-        "organizationProfilePicture": "67324cf2-eb53-45f3-8635-c25617096de061b5f661-e57a-4587-b441-1f83eec06234.png",
-        "recScore": null,
-        "rsvpTotal": 15,
-        "startsOn": "May 16 | 12:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.770836,
+        "@search.score": 99.800674,
         "benefitNames": [
             "Free Food"
         ],
@@ -63,7 +16,7 @@
         "endsOn": "08:00 PM",
         "id": "12108977",
         "imagePath": "b27194e1-f35d-489a-b963-b2593acba718199b6de5-d814-43cf-b44f-f43ccd38a38b.png",
-        "index": 1,
+        "index": 0,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Catholic Center at Rutgers",
@@ -82,7 +35,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.36704,
+        "@search.score": 98.39787,
         "benefitNames": [
             "Free Food"
         ],
@@ -98,7 +51,7 @@
         "endsOn": "08:00 PM",
         "id": "12468256",
         "imagePath": "dacf5b3a-41c7-42c8-a9dd-6d6ef5b0d168ab7c858e-571c-4a8c-96f3-1afc3ca36e0b.png",
-        "index": 2,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.736570",
         "location": "Westbeth Gallery ",
@@ -117,7 +70,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 86.370575,
+        "@search.score": 86.41132,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -130,7 +83,7 @@
         "endsOn": "08:30 PM",
         "id": "12202066",
         "imagePath": "4a81ca79-a4e9-4692-a97e-c216bea6ff23eba43a39-c192-4179-8c5a-b56450c35111.png",
-        "index": 3,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.504980",
         "location": "The Hatchery, Alexander Library",
@@ -146,6 +99,37 @@
         "startsOn": "September 02 | 07:30 PM",
         "status": "Approved",
         "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 85.52982,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik\u2019s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.",
+        "endsOn": "08:30 PM",
+        "id": "12470180",
+        "imagePath": "d8a7edf1-40f0-4fae-b007-14ecacf8a214bea0f2ab-ef1b-4663-98f8-14c6d8797b7c.png",
+        "index": 3,
+        "institutionId": 4753,
+        "latitude": null,
+        "location": "BSC Room 117",
+        "longitude": null,
+        "name": "First Rubik's Cube Club Meeting",
+        "organizationId": 392784,
+        "organizationIds": [],
+        "organizationName": "Rubik's Cube Club",
+        "organizationNames": [],
+        "organizationProfilePicture": "d1cefd0a-2c90-4087-93ba-e213d6b4636209d08020-0acb-434d-be88-f6391bb36bce.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "September 08 | 07:30 PM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
         "visibility": "Public"
     }
 ]
