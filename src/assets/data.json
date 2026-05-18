@@ -1,41 +1,6 @@
 [
     {
-        "@search.score": 99.98181,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "7111"
-        ],
-        "categoryNames": [
-            "Social Event"
-        ],
-        "description": "Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!",
-        "endsOn": "08:00 PM",
-        "id": "12108977",
-        "imagePath": "b27194e1-f35d-489a-b963-b2593acba718199b6de5-d814-43cf-b44f-f43ccd38a38b.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": null,
-        "location": "The Catholic Center at Rutgers",
-        "longitude": null,
-        "name": "Student Dinner",
-        "organizationId": 121454,
-        "organizationIds": [],
-        "organizationName": "Catholic Students (Rutgers) ",
-        "organizationNames": [],
-        "organizationProfilePicture": "9768e32f-b910-4b4b-9325-fcdc492496e0736a85a4-795c-404f-af4f-9887bb6da308.png",
-        "recScore": null,
-        "rsvpTotal": 1,
-        "startsOn": "May 17 | 07:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 98.585,
+        "@search.score": 98.61847,
         "benefitNames": [
             "Free Food"
         ],
@@ -51,7 +16,7 @@
         "endsOn": "08:00 PM",
         "id": "12468256",
         "imagePath": "dacf5b3a-41c7-42c8-a9dd-6d6ef5b0d168ab7c858e-571c-4a8c-96f3-1afc3ca36e0b.png",
-        "index": 1,
+        "index": 0,
         "institutionId": 4753,
         "latitude": "40.736570",
         "location": "Westbeth Gallery ",
@@ -70,7 +35,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 86.65845,
+        "@search.score": 86.702614,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -83,7 +48,7 @@
         "endsOn": "08:30 PM",
         "id": "12202066",
         "imagePath": "4a81ca79-a4e9-4692-a97e-c216bea6ff23eba43a39-c192-4179-8c5a-b56450c35111.png",
-        "index": 2,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.504980",
         "location": "The Hatchery, Alexander Library",
@@ -102,7 +67,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 85.78205,
+        "@search.score": 85.827126,
         "benefitNames": [
             "Free Food"
         ],
@@ -114,7 +79,7 @@
         "endsOn": "08:30 PM",
         "id": "12470180",
         "imagePath": "d8a7edf1-40f0-4fae-b007-14ecacf8a214bea0f2ab-ef1b-4663-98f8-14c6d8797b7c.png",
-        "index": 3,
+        "index": 2,
         "institutionId": 4753,
         "latitude": null,
         "location": "BSC Room 117",
