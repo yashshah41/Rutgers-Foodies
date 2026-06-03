@@ -1,6 +1,41 @@
 [
     {
-        "@search.score": 89.03374,
+        "@search.score": 99.04309,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "20311"
+        ],
+        "categoryNames": [
+            "Graduate Student Organization Event"
+        ],
+        "description": "Dear graduate students,   We wish the best of luck to our MBS first years with their upcoming qualifying exams!!   To celebrate this milestone, MBGSO is hosting a post qualifying exam pizza party to celebrate our first years on June 12th, 2026!   Come enjoy some pizza with your peers while looking ahead to an eventful summer!    Find event details below, and in the attached flyer! Date: Friday, June 12, 2026 Time: 3:00 PM - 5:00 PM  Location: RWJMS Research Tower, Old Student Lounge near Woody's, Piscataway.",
+        "endsOn": "05:00 PM",
+        "id": "12482105",
+        "imagePath": "6f532793-dfe0-4468-b28f-7509958e1a14b44b6e01-456b-42ed-9a2e-241e1cc49ef2.png",
+        "index": 0,
+        "institutionId": 4753,
+        "latitude": "40.524640",
+        "location": "RWJMS Old Student Lounge by Woody's",
+        "longitude": "-74.469430",
+        "name": "Post Quals Celebration Pizza Party",
+        "organizationId": 330441,
+        "organizationIds": [],
+        "organizationName": "Molecular Biosciences (Graduate Student Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "644031d0-5a20-4aca-b236-d7d7855aff32d4d58a44-2db2-41ca-a6c3-71e66e2143bb.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "June 12 | 03:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 89.05948,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -13,7 +48,7 @@
         "endsOn": "08:30 PM",
         "id": "12202066",
         "imagePath": "4a81ca79-a4e9-4692-a97e-c216bea6ff23eba43a39-c192-4179-8c5a-b56450c35111.png",
-        "index": 0,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.504980",
         "location": "The Hatchery, Alexander Library",
@@ -32,7 +67,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 88.204895,
+        "@search.score": 88.23114,
         "benefitNames": [
             "Free Food"
         ],
@@ -44,7 +79,7 @@
         "endsOn": "08:30 PM",
         "id": "12470180",
         "imagePath": "d8a7edf1-40f0-4fae-b007-14ecacf8a214bea0f2ab-ef1b-4663-98f8-14c6d8797b7c.png",
-        "index": 1,
+        "index": 2,
         "institutionId": 4753,
         "latitude": null,
         "location": "BSC Room 117",
