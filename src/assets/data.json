@@ -1,6 +1,41 @@
 [
     {
-        "@search.score": 92.78932,
+        "@search.score": 98.56939,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "7111"
+        ],
+        "categoryNames": [
+            "Social Event"
+        ],
+        "description": "Join us for our annual Rutgers Global Summer Social! Enjoy some summer treats as you connect with others who are on campus this summer. This event is open to all international students, scholars, interns, and trainees.",
+        "endsOn": "06:00 PM",
+        "id": "12499519",
+        "imagePath": "01973710-b07b-4901-978f-a46ecebca1f369eabce6-fe51-40b1-8654-4bae47b06e7b.png",
+        "index": 0,
+        "institutionId": 4753,
+        "latitude": "40.498780",
+        "location": "Rutgers Global",
+        "longitude": "-74.447850",
+        "name": "Rutgers Global Summer Social",
+        "organizationId": 257221,
+        "organizationIds": [],
+        "organizationName": "Rutgers Global (Department at Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "e7fb94e5-30a7-461c-8c95-d0695c3269f587d7e612-a687-4d59-a4d3-9ebc02d6f0d2.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "July 15 | 04:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 92.814354,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -13,7 +48,7 @@
         "endsOn": "08:30 PM",
         "id": "12202066",
         "imagePath": "4a81ca79-a4e9-4692-a97e-c216bea6ff23eba43a39-c192-4179-8c5a-b56450c35111.png",
-        "index": 0,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.504980",
         "location": "The Hatchery, Alexander Library",
@@ -32,7 +67,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.55623,
+        "@search.score": 92.5814,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -49,7 +84,7 @@
         "endsOn": "07:00 PM",
         "id": "12494051",
         "imagePath": "d3e8047a-152a-4f6d-a3a4-94764845a24c008055fb-39ce-4052-a0bf-fef16d77fd80.png",
-        "index": 1,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.523470",
         "location": "Asian American Cultural Center",
@@ -68,7 +103,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.030426,
+        "@search.score": 92.05591,
         "benefitNames": [
             "Free Food"
         ],
@@ -80,7 +115,7 @@
         "endsOn": "08:30 PM",
         "id": "12470180",
         "imagePath": "d8a7edf1-40f0-4fae-b007-14ecacf8a214bea0f2ab-ef1b-4663-98f8-14c6d8797b7c.png",
-        "index": 2,
+        "index": 3,
         "institutionId": 4753,
         "latitude": null,
         "location": "BSC Room 117",
