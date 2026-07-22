@@ -1,6 +1,43 @@
 [
     {
-        "@search.score": 95.15904,
+        "@search.score": 96.12671,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5343",
+            "18433"
+        ],
+        "categoryNames": [
+            "Entertainment",
+            "Welcome Week"
+        ],
+        "description": "In collaboration with Welcome Week, join the Rutgers Democracy Lab for a free Movie Night Under the Stars. Bring your own towel or sit on a Rutgers picnic blanket to enjoy some fresh popcorn while watching Knives Out on the big screen.",
+        "endsOn": "11:00 PM",
+        "id": "12518765",
+        "imagePath": null,
+        "index": 0,
+        "institutionId": 4753,
+        "latitude": "40.481880",
+        "location": "Woodlawn  Lawn Cook Douglass ",
+        "longitude": "-74.433730",
+        "name": "Welcome Week \"Knives Out\" Movie Under the Stars ",
+        "organizationId": 426455,
+        "organizationIds": [],
+        "organizationName": "The Rutgers Democracy Lab at the Eagleton Institute of Politics",
+        "organizationNames": [],
+        "organizationProfilePicture": "95bc2d2c-5975-489e-9894-0ad89607e87df1ddd829-d00d-45c1-b949-85504a9954dd.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "August 25 | 08:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 95.19094,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -13,7 +50,7 @@
         "endsOn": "08:30 PM",
         "id": "12202066",
         "imagePath": "4a81ca79-a4e9-4692-a97e-c216bea6ff23eba43a39-c192-4179-8c5a-b56450c35111.png",
-        "index": 0,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.504980",
         "location": "The Hatchery, Alexander Library",
@@ -32,7 +69,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.938484,
+        "@search.score": 94.97054,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -49,7 +86,7 @@
         "endsOn": "07:00 PM",
         "id": "12494051",
         "imagePath": "d3e8047a-152a-4f6d-a3a4-94764845a24c008055fb-39ce-4052-a0bf-fef16d77fd80.png",
-        "index": 1,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.523470",
         "location": "Asian American Cultural Center",
@@ -68,7 +105,51 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.441185,
+        "@search.score": 94.496216,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5338",
+            "5343",
+            "5348",
+            "7111",
+            "18433"
+        ],
+        "categoryNames": [
+            "DJ Event",
+            "Entertainment",
+            "Outdoor Event",
+            "Social Event",
+            "Welcome Week"
+        ],
+        "description": "Join The Rutgers Democracy Lab for their first-ever Welcome Bash. Get a bite to eat at a food truck, check if you are registered to vote with our RU Voting Team, play some games and win a prize, learn about what the programs at RDL are up to this semester, or take a ride on the bumper cars. Students can also add to the chain of pledges to vote, get an ice cream sundae, write on our democracy wall, take pictures at our photo booth, or try their hand at human shuffleboard. Come with friends or be ready to make new ones to see what other surprises RDL has in store. All students are welcome to this free event.",
+        "endsOn": "06:00 PM",
+        "id": "12518775",
+        "imagePath": null,
+        "index": 3,
+        "institutionId": 4753,
+        "latitude": "40.481880",
+        "location": "Woodlawn  Lawn Cook Douglass",
+        "longitude": "-74.433730",
+        "name": "Welcome Week RDL Welcome Bash ",
+        "organizationId": 426455,
+        "organizationIds": [],
+        "organizationName": "The Rutgers Democracy Lab at the Eagleton Institute of Politics",
+        "organizationNames": [],
+        "organizationProfilePicture": "95bc2d2c-5975-489e-9894-0ad89607e87df1ddd829-d00d-45c1-b949-85504a9954dd.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "September 08 | 03:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 94.47362,
         "benefitNames": [
             "Free Food"
         ],
@@ -80,7 +161,7 @@
         "endsOn": "08:30 PM",
         "id": "12470180",
         "imagePath": "d8a7edf1-40f0-4fae-b007-14ecacf8a214bea0f2ab-ef1b-4663-98f8-14c6d8797b7c.png",
-        "index": 2,
+        "index": 4,
         "institutionId": 4753,
         "latitude": null,
         "location": "BSC Room 117",
