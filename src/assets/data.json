@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 97.66623,
+        "@search.score": 97.691986,
         "benefitNames": [
             "Free Food"
         ],
@@ -37,7 +37,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.763725,
+        "@search.score": 96.79002,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -69,7 +69,53 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.55126,
+        "@search.score": 96.70903,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "5354"
+        ],
+        "categoryNames": [
+            "Special Interest"
+        ],
+        "description": "The Office of Disability Services invites graduate and undergraduate students with disabilities and disability allies to attend our open house. Explore an ocean of resources, craft with Scarlet Arts Rx, hear from the Learning Centers, meet peers, and learn about academic accommodations. Light refreshments will be served.   Please register in advance. Let us know if you are coming.   If you have a question or seek accommodations for this particular event, email the ODS office at echo.rutgers.edu, call 848-202-3111, or visit ODS in LSH A145.",
+        "endsOn": "01:30 PM",
+        "id": "12544178",
+        "imagePath": "3235c0b0-a35e-4770-8f56-54663ae43cfea4390b91-4347-4f79-a383-a605fc36f9aa.png",
+        "index": 2,
+        "institutionId": 4753,
+        "latitude": "40.521910",
+        "location": "Lucy Stone Hall, 1st Floor Lobby, Suite A145, Livingston Campus",
+        "longitude": "-74.434880",
+        "name": "Dive Into Success",
+        "organizationId": 327071,
+        "organizationIds": [
+            "326212",
+            "327071",
+            "392207"
+        ],
+        "organizationName": "Office of Disability Services (University Department)",
+        "organizationNames": [
+            "Learning Centers",
+            "Office of Disability Services (University Department)",
+            "Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)"
+        ],
+        "organizationProfilePicture": "6a3443c9-ee14-49c8-973d-847a987bca096c05d880-846e-42e4-a878-6bc4a96900cb.jpg",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "September 03 | 12:30 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 96.57769,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -86,7 +132,7 @@
         "endsOn": "07:00 PM",
         "id": "12494051",
         "imagePath": "d3e8047a-152a-4f6d-a3a4-94764845a24c008055fb-39ce-4052-a0bf-fef16d77fd80.png",
-        "index": 2,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.523470",
         "location": "Asian American Cultural Center",
@@ -105,7 +151,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.09415,
+        "@search.score": 96.120865,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -130,7 +176,7 @@
         "endsOn": "06:00 PM",
         "id": "12518775",
         "imagePath": null,
-        "index": 3,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.481880",
         "location": "Woodlawn  Lawn Cook Douglass",
@@ -149,7 +195,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.07237,
+        "@search.score": 96.0991,
         "benefitNames": [
             "Free Food"
         ],
@@ -161,7 +207,7 @@
         "endsOn": "08:30 PM",
         "id": "12470180",
         "imagePath": "d8a7edf1-40f0-4fae-b007-14ecacf8a214bea0f2ab-ef1b-4663-98f8-14c6d8797b7c.png",
-        "index": 4,
+        "index": 5,
         "institutionId": 4753,
         "latitude": null,
         "location": "BSC Room 117",
