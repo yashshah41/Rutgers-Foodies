@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 98.54765,
+        "@search.score": 98.57533,
         "benefitNames": [
             "Free Food"
         ],
@@ -37,7 +37,69 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.66365,
+        "@search.score": 98.36936,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Get ready for MBGSO's annual board game night \ud83c\udfb2It'll be on Thursday, August 27th from 5-7 PM in the Deans Conference Room located in the RWJMS Research Tower on Busch campus!Come play, snack, and hangout with your other graduate students \ud83c\udccf\ud83c\udf6a",
+        "endsOn": "07:00 PM",
+        "id": "12566485",
+        "imagePath": "0d002f1f-2b6e-4c02-b431-e46d050f85ab0c15879a-9fc4-4442-81cc-3554fc9a3a01.png",
+        "index": 1,
+        "institutionId": 4753,
+        "latitude": "40.526610",
+        "location": "Dean's Conference Room (room #123)",
+        "longitude": "-74.469460",
+        "name": "Game Night",
+        "organizationId": 330441,
+        "organizationIds": [],
+        "organizationName": "Molecular Biosciences (Graduate Student Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "644031d0-5a20-4aca-b236-d7d7855aff32d4d58a44-2db2-41ca-a6c3-71e66e2143bb.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "August 27 | 05:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 98.2821,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Come chat with other graduate students and faculty at our annual BBQ party! Stop by for some free food and drinks!! Friday, August 28th, from 12-2 PM in the Waksman Institute's Courtyard",
+        "endsOn": "02:00 PM",
+        "id": "12566517",
+        "imagePath": "a473a2ec-3268-4f79-9963-33068cd33b591ae2d85c-1326-48f8-b015-addcf15b1837.png",
+        "index": 2,
+        "institutionId": 4753,
+        "latitude": "40.522590",
+        "location": "Waksman Institute's Courtyard",
+        "longitude": "-74.471720",
+        "name": "Welcome Back BBQ Party",
+        "organizationId": 330441,
+        "organizationIds": [],
+        "organizationName": "Molecular Biosciences (Graduate Student Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "644031d0-5a20-4aca-b236-d7d7855aff32d4d58a44-2db2-41ca-a6c3-71e66e2143bb.png",
+        "recScore": null,
+        "rsvpTotal": 1,
+        "startsOn": "August 28 | 12:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 97.6919,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -50,7 +112,7 @@
         "endsOn": "08:30 PM",
         "id": "12202066",
         "imagePath": "4a81ca79-a4e9-4692-a97e-c216bea6ff23eba43a39-c192-4179-8c5a-b56450c35111.png",
-        "index": 1,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.504980",
         "location": "The Hatchery, Alexander Library",
@@ -69,7 +131,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.58429,
+        "@search.score": 97.612595,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -88,7 +150,7 @@
         "endsOn": "01:30 PM",
         "id": "12544178",
         "imagePath": "3235c0b0-a35e-4770-8f56-54663ae43cfea4390b91-4347-4f79-a383-a605fc36f9aa.png",
-        "index": 2,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.521910",
         "location": "Lucy Stone Hall, 1st Floor Lobby, Suite A145, Livingston Campus",
@@ -115,7 +177,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.4556,
+        "@search.score": 97.483986,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -132,7 +194,7 @@
         "endsOn": "07:00 PM",
         "id": "12494051",
         "imagePath": "d3e8047a-152a-4f6d-a3a4-94764845a24c008055fb-39ce-4052-a0bf-fef16d77fd80.png",
-        "index": 3,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.523470",
         "location": "Asian American Cultural Center",
@@ -151,7 +213,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.00805,
+        "@search.score": 97.036736,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -176,7 +238,7 @@
         "endsOn": "06:00 PM",
         "id": "12518775",
         "imagePath": null,
-        "index": 4,
+        "index": 6,
         "institutionId": 4753,
         "latitude": "40.481880",
         "location": "Woodlawn  Lawn Cook Douglass",
@@ -195,7 +257,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.98673,
+        "@search.score": 97.015434,
         "benefitNames": [
             "Free Food"
         ],
@@ -207,7 +269,7 @@
         "endsOn": "08:30 PM",
         "id": "12470180",
         "imagePath": "d8a7edf1-40f0-4fae-b007-14ecacf8a214bea0f2ab-ef1b-4663-98f8-14c6d8797b7c.png",
-        "index": 5,
+        "index": 7,
         "institutionId": 4753,
         "latitude": null,
         "location": "BSC Room 117",
@@ -226,7 +288,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.880516,
+        "@search.score": 95.909966,
         "benefitNames": [
             "Free Food"
         ],
@@ -242,7 +304,7 @@
         "endsOn": "11:00 AM",
         "id": "12551974",
         "imagePath": "19e956d9-48a1-4481-a069-0f3888906ffd781fc371-2590-4f6c-a3f6-2e4d3467f051.png",
-        "index": 6,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.521910",
         "location": "Lucy Stone Hall, 1st Floor Lobby, Suite A145, Livingston Campus",
