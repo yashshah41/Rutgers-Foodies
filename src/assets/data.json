@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.25418,
+        "@search.score": 99.28019,
         "benefitNames": [
             "Free Food"
         ],
@@ -37,7 +37,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.051445,
+        "@search.score": 99.077576,
         "benefitNames": [
             "Free Food"
         ],
@@ -61,14 +61,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "644031d0-5a20-4aca-b236-d7d7855aff32d4d58a44-2db2-41ca-a6c3-71e66e2143bb.png",
         "recScore": null,
-        "rsvpTotal": 1,
+        "rsvpTotal": 0,
         "startsOn": "August 27 | 05:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 98.96556,
+        "@search.score": 98.991745,
         "benefitNames": [
             "Free Food"
         ],
@@ -92,14 +92,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "644031d0-5a20-4aca-b236-d7d7855aff32d4d58a44-2db2-41ca-a6c3-71e66e2143bb.png",
         "recScore": null,
-        "rsvpTotal": 2,
+        "rsvpTotal": 1,
         "startsOn": "August 28 | 12:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 98.503815,
+        "@search.score": 98.53028,
         "benefitNames": [
             "Free Food"
         ],
@@ -130,7 +130,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.384735,
+        "@search.score": 98.41127,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -162,7 +162,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.306694,
+        "@search.score": 98.333275,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -208,7 +208,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.19858,
+        "@search.score": 98.225235,
         "benefitNames": [
             "Free Food"
         ],
@@ -239,7 +239,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.18015,
+        "@search.score": 98.20682,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -275,7 +275,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.74012,
+        "@search.score": 97.76706,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -319,7 +319,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.71916,
+        "@search.score": 97.74612,
         "benefitNames": [
             "Free Food"
         ],
@@ -350,7 +350,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.628235,
+        "@search.score": 97.65524,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -390,7 +390,56 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.63187,
+        "@search.score": 97.64591,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [
+            "112385"
+        ],
+        "categoryIds": [
+            "7111",
+            "18433",
+            "20311"
+        ],
+        "categoryNames": [
+            "Social Event",
+            "Welcome Week",
+            "Graduate Student Organization Event"
+        ],
+        "description": "Welcome Home! Join us at SJE for our annual LGBTQIA+ Grad Student Welcome! Mingle and connect with your master\u2019s and doctoral peers while enjoying good food and music.    This event is in partnership with BIPOC LGBTQIA2S+ Graduate Affinity Group, GRADient, and Graduate Student Life.",
+        "endsOn": "07:00 PM",
+        "id": "11544592",
+        "imagePath": "95a2c79c-7504-48c8-b35f-01c075e4d99225e47f17-ee5b-409b-a94b-a15965ed557f.png",
+        "index": 11,
+        "institutionId": 4753,
+        "latitude": "40.501880",
+        "location": "Center for Social Justice Education & LGBT Communities",
+        "longitude": "-74.452080",
+        "name": "LGBTQIA+ Grad Student Welcome",
+        "organizationId": 181141,
+        "organizationIds": [
+            "181141",
+            "305241",
+            "346835"
+        ],
+        "organizationName": "Center for Social Justice Education and LGBT Communities (Rutgers University)",
+        "organizationNames": [
+            "Center for Social Justice Education and LGBT Communities (Rutgers University)",
+            "Graduate Student Life (Department at Rutgers University)",
+            "Rutgers GRADient"
+        ],
+        "organizationProfilePicture": "b66fe830-5729-4ce8-9f6c-85ce651713a3852cde03-f568-406c-9a63-256a07442a75.png",
+        "recScore": null,
+        "rsvpTotal": 4,
+        "startsOn": "September 09 | 05:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 96.65951,
         "benefitNames": [
             "Free Food"
         ],
@@ -406,7 +455,7 @@
         "endsOn": "11:00 AM",
         "id": "12551974",
         "imagePath": "19e956d9-48a1-4481-a069-0f3888906ffd781fc371-2590-4f6c-a3f6-2e4d3467f051.png",
-        "index": 11,
+        "index": 12,
         "institutionId": 4753,
         "latitude": "40.521910",
         "location": "Lucy Stone Hall, 1st Floor Lobby, Suite A145, Livingston Campus",
