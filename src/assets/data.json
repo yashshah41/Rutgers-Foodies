@@ -1,68 +1,6 @@
 [
     {
-        "@search.score": 99.982574,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Get ready for MBGSO's annual board game night \ud83c\udfb2It'll be on Thursday, August 27th from 5-7 PM in the Deans Conference Room located in the RWJMS Research Tower on Busch campus!Come play, snack, and hangout with your other graduate students \ud83c\udccf\ud83c\udf6a",
-        "endsOn": "07:00 PM",
-        "id": "12566485",
-        "imagePath": "0d002f1f-2b6e-4c02-b431-e46d050f85ab0c15879a-9fc4-4442-81cc-3554fc9a3a01.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": "40.526610",
-        "location": "Dean's Conference Room (room #123)",
-        "longitude": "-74.469460",
-        "name": "Game Night",
-        "organizationId": 330441,
-        "organizationIds": [],
-        "organizationName": "Molecular Biosciences (Graduate Student Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "644031d0-5a20-4aca-b236-d7d7855aff32d4d58a44-2db2-41ca-a6c3-71e66e2143bb.png",
-        "recScore": null,
-        "rsvpTotal": 5,
-        "startsOn": "August 27 | 05:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.89853,
-        "benefitNames": [
-            "Free Food"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [],
-        "categoryNames": [],
-        "description": "Come chat with other graduate students and faculty at our annual BBQ party! Stop by for some free food and drinks!! Friday, August 28th, from 12-2 PM in the Waksman Institute's Courtyard",
-        "endsOn": "02:00 PM",
-        "id": "12566517",
-        "imagePath": "a473a2ec-3268-4f79-9963-33068cd33b591ae2d85c-1326-48f8-b015-addcf15b1837.png",
-        "index": 1,
-        "institutionId": 4753,
-        "latitude": "40.522590",
-        "location": "Waksman Institute's Courtyard",
-        "longitude": "-74.471720",
-        "name": "Welcome Back BBQ Party",
-        "organizationId": 330441,
-        "organizationIds": [],
-        "organizationName": "Molecular Biosciences (Graduate Student Organization)",
-        "organizationNames": [],
-        "organizationProfilePicture": "644031d0-5a20-4aca-b236-d7d7855aff32d4d58a44-2db2-41ca-a6c3-71e66e2143bb.png",
-        "recScore": null,
-        "rsvpTotal": 6,
-        "startsOn": "August 28 | 12:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.44675,
+        "@search.score": 99.48625,
         "benefitNames": [
             "Free Food"
         ],
@@ -74,7 +12,7 @@
         "endsOn": "07:00 PM",
         "id": "12591416",
         "imagePath": "98fc06b1-f9bb-482b-a878-62f4051a2cfb3916595e-519a-4155-8660-2f9df64a7907.png",
-        "index": 2,
+        "index": 0,
         "institutionId": 4753,
         "latitude": "40.522690",
         "location": "Room 330W",
@@ -86,14 +24,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "6efe8259-af77-468c-b9e6-84232e4151bf55656a5a-dc3d-4dac-9a96-372af9a7c906.jpg",
         "recScore": null,
-        "rsvpTotal": 11,
+        "rsvpTotal": 13,
         "startsOn": "September 01 | 05:30 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.33025,
+        "@search.score": 99.369865,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -106,7 +44,7 @@
         "endsOn": "08:30 PM",
         "id": "12202066",
         "imagePath": "4a81ca79-a4e9-4692-a97e-c216bea6ff23eba43a39-c192-4179-8c5a-b56450c35111.png",
-        "index": 3,
+        "index": 1,
         "institutionId": 4753,
         "latitude": "40.504980",
         "location": "The Hatchery, Alexander Library",
@@ -125,7 +63,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.253914,
+        "@search.score": 99.293594,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -148,7 +86,7 @@
         "endsOn": "01:30 PM",
         "id": "12544178",
         "imagePath": "3235c0b0-a35e-4770-8f56-54663ae43cfea4390b91-4347-4f79-a383-a605fc36f9aa.png",
-        "index": 4,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.521910",
         "location": "Lucy Stone Hall, 1st Floor Lobby, Suite A145, Livingston Campus",
@@ -175,7 +113,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.14816,
+        "@search.score": 99.187935,
         "benefitNames": [
             "Free Food"
         ],
@@ -187,7 +125,7 @@
         "endsOn": "02:00 PM",
         "id": "12587337",
         "imagePath": "be1b5385-211e-44ec-a7e4-532ae4d83876a5057c34-13f6-488b-9c2f-9334ca624378.png",
-        "index": 5,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.475000",
         "location": "Round House ",
@@ -206,7 +144,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.130135,
+        "@search.score": 99.16993,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -223,7 +161,7 @@
         "endsOn": "07:00 PM",
         "id": "12494051",
         "imagePath": "d3e8047a-152a-4f6d-a3a4-94764845a24c008055fb-39ce-4052-a0bf-fef16d77fd80.png",
-        "index": 6,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.523470",
         "location": "Asian American Cultural Center",
@@ -235,14 +173,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "0559d5e5-a562-474d-96d3-8b4cdb96b27f39076c0c-78f1-4760-89b5-ccd60ec2a0a1.png",
         "recScore": null,
-        "rsvpTotal": 56,
+        "rsvpTotal": 58,
         "startsOn": "September 04 | 04:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 98.69977,
+        "@search.score": 98.73996,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -267,7 +205,7 @@
         "endsOn": "06:00 PM",
         "id": "12518775",
         "imagePath": null,
-        "index": 7,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.481880",
         "location": "Woodlawn  Lawn Cook Douglass",
@@ -286,7 +224,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.679276,
+        "@search.score": 98.71949,
         "benefitNames": [
             "Free Food"
         ],
@@ -298,7 +236,7 @@
         "endsOn": "08:30 PM",
         "id": "12470180",
         "imagePath": "d8a7edf1-40f0-4fae-b007-14ecacf8a214bea0f2ab-ef1b-4663-98f8-14c6d8797b7c.png",
-        "index": 8,
+        "index": 6,
         "institutionId": 4753,
         "latitude": null,
         "location": "BSC Room 117",
@@ -317,7 +255,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.590355,
+        "@search.score": 98.63065,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -338,7 +276,7 @@
         "endsOn": "06:00 PM",
         "id": "12570797",
         "imagePath": "b0efedb4-fd25-428f-b67a-c52c8b41b1bfecf3df72-12fc-438c-97a3-f732ac5755a6.png",
-        "index": 9,
+        "index": 7,
         "institutionId": 4753,
         "latitude": "40.504540",
         "location": "Rutgers Global",
@@ -357,7 +295,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.58122,
+        "@search.score": 98.62153,
         "benefitNames": [
             "Free Food"
         ],
@@ -379,7 +317,7 @@
         "endsOn": "07:00 PM",
         "id": "11544592",
         "imagePath": "95a2c79c-7504-48c8-b35f-01c075e4d99225e47f17-ee5b-409b-a94b-a15965ed557f.png",
-        "index": 10,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.501880",
         "location": "Center for Social Justice Education & LGBT Communities",
@@ -406,7 +344,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.84679,
+        "@search.score": 97.88779,
         "benefitNames": [
             "Free Food"
         ],
@@ -424,7 +362,7 @@
         "endsOn": "09:45 AM",
         "id": "12607420",
         "imagePath": "a213b61a-8c35-46ff-aeb4-2dfee5f048955a27212b-4f23-450f-8cf6-0f5de096cc41.png",
-        "index": 11,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.481880",
         "location": "Eagleton Institute of Politics",
@@ -449,7 +387,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.61629,
+        "@search.score": 97.65751,
         "benefitNames": [
             "Free Food"
         ],
@@ -465,7 +403,7 @@
         "endsOn": "11:00 AM",
         "id": "12551974",
         "imagePath": "19e956d9-48a1-4481-a069-0f3888906ffd781fc371-2590-4f6c-a3f6-2e4d3467f051.png",
-        "index": 12,
+        "index": 10,
         "institutionId": 4753,
         "latitude": "40.521910",
         "location": "Lucy Stone Hall, 1st Floor Lobby, Suite A145, Livingston Campus",
@@ -484,7 +422,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 94.46892,
+        "@search.score": 94.51327,
         "benefitNames": [
             "Free Food"
         ],
@@ -500,7 +438,7 @@
         "endsOn": "02:00 PM",
         "id": "12624975",
         "imagePath": "a75cc9ab-6014-4056-a860-cadb92347d91e2a73243-0bb6-4e92-ada0-703e0cf65e3c.png",
-        "index": 13,
+        "index": 11,
         "institutionId": 4753,
         "latitude": "40.522860",
         "location": "Rutgers Club",
