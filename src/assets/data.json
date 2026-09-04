@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.979675,
+        "@search.score": 1.0,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -29,14 +29,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "0559d5e5-a562-474d-96d3-8b4cdb96b27f39076c0c-78f1-4760-89b5-ccd60ec2a0a1.png",
         "recScore": null,
-        "rsvpTotal": 82,
+        "rsvpTotal": 89,
         "startsOn": "September 04 | 04:00 PM",
         "status": "Approved",
         "theme": "Social",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.55777,
+        "@search.score": 99.578354,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -80,7 +80,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.53768,
+        "@search.score": 99.55827,
         "benefitNames": [
             "Free Food"
         ],
@@ -111,7 +111,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.45052,
+        "@search.score": 99.47116,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -151,7 +151,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.441574,
+        "@search.score": 99.46221,
         "benefitNames": [
             "Free Food"
         ],
@@ -200,7 +200,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.72181,
+        "@search.score": 98.7428,
         "benefitNames": [
             "Free Food"
         ],
@@ -243,7 +243,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.495964,
+        "@search.score": 98.51707,
         "benefitNames": [
             "Free Food"
         ],
@@ -278,7 +278,38 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.02554,
+        "@search.score": 98.17392,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [],
+        "categoryNames": [],
+        "description": "Join us in celebrating our first-year students as they complete their 1st exam! Come grab free pizza on Monday, September 21st, from 12:45 - 2 pm in the RWJMS Research Tower, Dean\u2019s Conference Room, Room 123, 675 Hoes Lane West, Piscataway",
+        "endsOn": "02:00 PM",
+        "id": "12706681",
+        "imagePath": "f68557bb-eaf0-4255-8983-f162c5aa1d760ef84eee-ce54-45e7-ae3f-a95c08c3d81e.png",
+        "index": 7,
+        "institutionId": 4753,
+        "latitude": "40.526610",
+        "location": "Dean's Conference Room (room #123)",
+        "longitude": "-74.469460",
+        "name": "First Exam Pizza Party",
+        "organizationId": 330441,
+        "organizationIds": [],
+        "organizationName": "Molecular Biosciences (Graduate Student Organization)",
+        "organizationNames": [],
+        "organizationProfilePicture": "644031d0-5a20-4aca-b236-d7d7855aff32d4d58a44-2db2-41ca-a6c3-71e66e2143bb.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "September 21 | 12:45 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 97.04737,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -305,7 +336,7 @@
         "endsOn": "04:00 PM",
         "id": "12656602",
         "imagePath": "6e353c73-9658-4c16-a5b4-75dfe5bd9dae0df102ca-f7d4-488f-b854-5fec111efd72.png",
-        "index": 7,
+        "index": 8,
         "institutionId": 4753,
         "latitude": "40.504990",
         "location": "The Hatchery in Alexander Library",
@@ -330,7 +361,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.41467,
+        "@search.score": 95.43734,
         "benefitNames": [
             "Free Food"
         ],
@@ -346,7 +377,7 @@
         "endsOn": "02:00 PM",
         "id": "12624975",
         "imagePath": "a75cc9ab-6014-4056-a860-cadb92347d91e2a73243-0bb6-4e92-ada0-703e0cf65e3c.png",
-        "index": 8,
+        "index": 9,
         "institutionId": 4753,
         "latitude": "40.522860",
         "location": "Rutgers Club",
@@ -365,7 +396,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.40485,
+        "@search.score": 95.42751,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -392,7 +423,7 @@
         "endsOn": "04:00 PM",
         "id": "12656603",
         "imagePath": "078d25b0-65fe-4789-8e15-76bb042fd3c4b79d9e07-af2f-4936-ad1f-367510bd8c0c.png",
-        "index": 9,
+        "index": 10,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery in Alexander Library",
@@ -417,7 +448,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.84794,
+        "@search.score": 92.872,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -444,7 +475,7 @@
         "endsOn": "04:00 PM",
         "id": "12656604",
         "imagePath": "0db22da5-e1f6-47fa-b95c-db280ee4e7edbb9170bd-f8a4-44ca-8d03-bc99a62f11b1.png",
-        "index": 10,
+        "index": 11,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery in Alexander Library",
@@ -469,7 +500,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.05837,
+        "@search.score": 91.08346,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -496,7 +527,7 @@
         "endsOn": "04:00 PM",
         "id": "12656605",
         "imagePath": "9421e1b4-e736-4010-82b8-9f8f9b93809637c4273a-a50b-4f57-ab3d-9ca279d1f98f.png",
-        "index": 11,
+        "index": 12,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery in Alexander Library",
@@ -521,7 +552,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 89.19108,
+        "@search.score": 89.21728,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -548,7 +579,7 @@
         "endsOn": "04:00 PM",
         "id": "12656606",
         "imagePath": "fc81f400-4128-445c-8ec1-c939317857022cf91976-a6c3-4027-be68-e26ea844c715.png",
-        "index": 12,
+        "index": 13,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery in Alexander Library",
