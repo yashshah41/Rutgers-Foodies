@@ -1,42 +1,6 @@
 [
     {
-        "@search.score": 1.0,
-        "benefitNames": [
-            "Free Food",
-            "Free Stuff"
-        ],
-        "branchId": 112385,
-        "branchIds": [],
-        "categoryIds": [
-            "7111"
-        ],
-        "categoryNames": [
-            "Social Event"
-        ],
-        "description": "The Asian American Cultural Center will be hosting its annual Welcome Back Social on September 4th, 2026 from 4PM - 7 PM.  Please join us at our center where we will be having many activities for new and current students to engage in such as a pie eating contest, taking pictures at the photo booth, inflatable games, and lots of fun food, drinks, and ice cream.  This is also a great way to make new friends for the upcoming semester, and get to know some interest orgs that will be attending the event as well.  We cannot wait to see you there!  Did we mention there is free food and prizes?...",
-        "endsOn": "07:00 PM",
-        "id": "12494051",
-        "imagePath": "d3e8047a-152a-4f6d-a3a4-94764845a24c008055fb-39ce-4052-a0bf-fef16d77fd80.png",
-        "index": 0,
-        "institutionId": 4753,
-        "latitude": "40.523470",
-        "location": "Asian American Cultural Center",
-        "longitude": "-74.433660",
-        "name": "Welcome Back Social",
-        "organizationId": 181139,
-        "organizationIds": [],
-        "organizationName": "Asian American Cultural Center",
-        "organizationNames": [],
-        "organizationProfilePicture": "0559d5e5-a562-474d-96d3-8b4cdb96b27f39076c0c-78f1-4760-89b5-ccd60ec2a0a1.png",
-        "recScore": null,
-        "rsvpTotal": 89,
-        "startsOn": "September 04 | 04:00 PM",
-        "status": "Approved",
-        "theme": "Social",
-        "visibility": "Public"
-    },
-    {
-        "@search.score": 99.578354,
+        "@search.score": 99.60476,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -61,7 +25,7 @@
         "endsOn": "06:00 PM",
         "id": "12518775",
         "imagePath": null,
-        "index": 1,
+        "index": 0,
         "institutionId": 4753,
         "latitude": "40.481880",
         "location": "Woodlawn  Lawn Cook Douglass",
@@ -80,7 +44,42 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.55827,
+        "@search.score": 99.58692,
+        "benefitNames": [
+            "Free Food"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "7111"
+        ],
+        "categoryNames": [
+            "Social Event"
+        ],
+        "description": "HOSA is hosting our first general information session of the year, followed by speed friending. Free refreshments and snacks will be provided. Excited to meet you all!\ud83e\ude7a\ud83d\ude01",
+        "endsOn": "08:00 PM",
+        "id": "12707710",
+        "imagePath": "41e3c1ac-399c-41a5-a1ec-366df96bb6efe3a13be0-506f-4fe4-aa70-635c65d3f6ac.png",
+        "index": 1,
+        "institutionId": 4753,
+        "latitude": "40.523340",
+        "location": "Busch Student Center room 174",
+        "longitude": "-74.459540",
+        "name": "Speed Friending and Sweets",
+        "organizationId": 123443,
+        "organizationIds": [],
+        "organizationName": "Health Occupations Students of America",
+        "organizationNames": [],
+        "organizationProfilePicture": "a6001bb4-724b-44a7-bec2-c8d14e7371ea13a13a88-1bd0-4663-aa4a-85bade9463fb.jpg",
+        "recScore": null,
+        "rsvpTotal": 2,
+        "startsOn": "September 08 | 07:00 PM",
+        "status": "Approved",
+        "theme": "Social",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.584694,
         "benefitNames": [
             "Free Food"
         ],
@@ -104,14 +103,14 @@
         "organizationNames": [],
         "organizationProfilePicture": "d1cefd0a-2c90-4087-93ba-e213d6b4636209d08020-0acb-434d-be88-f6391bb36bce.png",
         "recScore": null,
-        "rsvpTotal": 4,
+        "rsvpTotal": 5,
         "startsOn": "September 08 | 07:30 PM",
         "status": "Approved",
         "theme": "ThoughtfulLearning",
         "visibility": "Public"
     },
     {
-        "@search.score": 99.47116,
+        "@search.score": 99.49763,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -151,7 +150,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.46221,
+        "@search.score": 99.48869,
         "benefitNames": [
             "Free Food"
         ],
@@ -200,7 +199,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.7428,
+        "@search.score": 98.76972,
         "benefitNames": [
             "Free Food"
         ],
@@ -243,7 +242,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.51707,
+        "@search.score": 98.54413,
         "benefitNames": [
             "Free Food"
         ],
@@ -278,7 +277,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.17392,
+        "@search.score": 98.2012,
         "benefitNames": [
             "Free Food"
         ],
@@ -309,7 +308,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.04737,
+        "@search.score": 97.07538,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -361,7 +360,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.43734,
+        "@search.score": 95.466415,
         "benefitNames": [
             "Free Food"
         ],
@@ -396,7 +395,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 95.42751,
+        "@search.score": 95.4566,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -448,7 +447,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 92.872,
+        "@search.score": 92.90286,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -500,7 +499,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.08346,
+        "@search.score": 91.11563,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -552,7 +551,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 89.21728,
+        "@search.score": 89.25087,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
