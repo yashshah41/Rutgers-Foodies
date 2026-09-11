@@ -1,6 +1,6 @@
 [
     {
-        "@search.score": 99.41959,
+        "@search.score": 99.456276,
         "benefitNames": [
             "Free Food"
         ],
@@ -43,7 +43,49 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 99.197395,
+        "@search.score": 99.44509,
+        "benefitNames": [
+            "Free Food",
+            "Free Stuff"
+        ],
+        "branchId": 112385,
+        "branchIds": [],
+        "categoryIds": [
+            "5337",
+            "5340",
+            "5354",
+            "18433"
+        ],
+        "categoryNames": [
+            "Cultural Performance",
+            "Educational Conference/Seminar/Workshop/Panel",
+            "Special Interest",
+            "Welcome Week"
+        ],
+        "description": "Attending our Study Abroad Fair is one of the best ways to learn about global education and funding opportunities. Held annually every fall semester, this is the opportunity to speak directly with study abroad advisors, faculty and program directors, partner universities, program providers, AND student alumni. Any attending student can enter a raffle for application fee waivers and study abroad scholarships! Also, enjoy free food, games, swag, and more! To see what last year's fair was like, check out this article and these photos.",
+        "endsOn": "02:00 PM",
+        "id": "12739910",
+        "imagePath": "c7983af9-6b99-489e-b65b-6b69c21e7502d709af2c-ace3-49a9-b6ed-25a6d79cef04.png",
+        "index": 1,
+        "institutionId": 4753,
+        "latitude": "40.523640",
+        "location": "MPR Livingston Student Center",
+        "longitude": "-74.437020",
+        "name": "STUDY ABROAD FAIR",
+        "organizationId": 257221,
+        "organizationIds": [],
+        "organizationName": "Rutgers Global (Department at Rutgers University)",
+        "organizationNames": [],
+        "organizationProfilePicture": "e7fb94e5-30a7-461c-8c95-d0695c3269f587d7e612-a687-4d59-a4d3-9ebc02d6f0d2.png",
+        "recScore": null,
+        "rsvpTotal": 0,
+        "startsOn": "September 16 | 11:00 AM",
+        "status": "Approved",
+        "theme": "ThoughtfulLearning",
+        "visibility": "Public"
+    },
+    {
+        "@search.score": 99.23426,
         "benefitNames": [
             "Free Food"
         ],
@@ -59,7 +101,7 @@
         "endsOn": "11:00 AM",
         "id": "12551974",
         "imagePath": "19e956d9-48a1-4481-a069-0f3888906ffd781fc371-2590-4f6c-a3f6-2e4d3467f051.png",
-        "index": 1,
+        "index": 2,
         "institutionId": 4753,
         "latitude": "40.521910",
         "location": "Lucy Stone Hall, 1st Floor Lobby, Suite A145, Livingston Campus",
@@ -78,7 +120,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 98.85966,
+        "@search.score": 98.89681,
         "benefitNames": [
             "Free Food"
         ],
@@ -90,7 +132,7 @@
         "endsOn": "02:00 PM",
         "id": "12706681",
         "imagePath": "f68557bb-eaf0-4255-8983-f162c5aa1d760ef84eee-ce54-45e7-ae3f-a95c08c3d81e.png",
-        "index": 2,
+        "index": 3,
         "institutionId": 4753,
         "latitude": "40.526610",
         "location": "Dean's Conference Room (room #123)",
@@ -109,7 +151,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 97.75117,
+        "@search.score": 97.7893,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -136,7 +178,7 @@
         "endsOn": "04:00 PM",
         "id": "12656602",
         "imagePath": "6e353c73-9658-4c16-a5b4-75dfe5bd9dae0df102ca-f7d4-488f-b854-5fec111efd72.png",
-        "index": 3,
+        "index": 4,
         "institutionId": 4753,
         "latitude": "40.504990",
         "location": "The Hatchery in Alexander Library",
@@ -161,7 +203,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.16776,
+        "@search.score": 96.20732,
         "benefitNames": [
             "Free Food"
         ],
@@ -177,7 +219,7 @@
         "endsOn": "02:00 PM",
         "id": "12624975",
         "imagePath": "a75cc9ab-6014-4056-a860-cadb92347d91e2a73243-0bb6-4e92-ada0-703e0cf65e3c.png",
-        "index": 4,
+        "index": 5,
         "institutionId": 4753,
         "latitude": "40.522860",
         "location": "Rutgers Club",
@@ -196,7 +238,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 96.158104,
+        "@search.score": 96.19767,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -223,7 +265,7 @@
         "endsOn": "04:00 PM",
         "id": "12656603",
         "imagePath": "078d25b0-65fe-4789-8e15-76bb042fd3c4b79d9e07-af2f-4936-ad1f-367510bd8c0c.png",
-        "index": 5,
+        "index": 6,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery in Alexander Library",
@@ -248,7 +290,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 93.64693,
+        "@search.score": 93.68887,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -275,7 +317,7 @@
         "endsOn": "04:00 PM",
         "id": "12656604",
         "imagePath": "0db22da5-e1f6-47fa-b95c-db280ee4e7edbb9170bd-f8a4-44ca-8d03-bc99a62f11b1.png",
-        "index": 6,
+        "index": 7,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery in Alexander Library",
@@ -300,7 +342,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 91.891,
+        "@search.score": 91.934685,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -327,7 +369,7 @@
         "endsOn": "04:00 PM",
         "id": "12656605",
         "imagePath": "9421e1b4-e736-4010-82b8-9f8f9b93809637c4273a-a50b-4f57-ab3d-9ca279d1f98f.png",
-        "index": 7,
+        "index": 8,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery in Alexander Library",
@@ -352,7 +394,7 @@
         "visibility": "Public"
     },
     {
-        "@search.score": 90.06029,
+        "@search.score": 90.10587,
         "benefitNames": [
             "Free Food",
             "Free Stuff"
@@ -379,7 +421,7 @@
         "endsOn": "04:00 PM",
         "id": "12656606",
         "imagePath": "fc81f400-4128-445c-8ec1-c939317857022cf91976-a6c3-4027-be68-e26ea844c715.png",
-        "index": 8,
+        "index": 9,
         "institutionId": 4753,
         "latitude": null,
         "location": "The Hatchery in Alexander Library",
